@@ -1,0 +1,13 @@
+name,type,min_age,max_age,goals,languages,regions,cost,human_support,self_study,low_bandwidth_friendly,description,next_step,url
+Khan Academy,Self-study,13,17,math|sat|general_learning,English,Global,Free,0,1,1,Free lessons and practice across core subjects.,Start one lesson in your current topic.,https://www.khanacademy.org/
+CK-12 Flexi,AI learning assistant,13,17,math|general_learning,English,Global,Free,0,1,0,AI-assisted explanations and personalized academic support.,Ask about one concept you are struggling with.,https://www.ck12.org/
+Schoolhouse.world,Peer tutoring,13,17,math|sat|general_learning|college_guidance,English,Global,Free,1,0,0,Free peer tutoring and SAT support.,Find one tutoring session that fits your goal.,https://schoolhouse.world/
+freeCodeCamp,Coding curriculum,13,17,coding,English,Global,Free,0,1,1,Project-based coding curriculum.,Complete the first beginner exercise.,https://www.freecodecamp.org/
+MIT OpenCourseWare,Open courses,15,17,math|coding|general_learning,English,Global,Free,0,1,1,Open course materials from MIT.,Download the first unit of one course.,https://ocw.mit.edu/
+OpenStax,Open textbooks,13,17,math|general_learning,English,Global,Free,0,1,1,Free open textbooks.,Open the chapter matching your school topic.,https://openstax.org/
+British Council LearnEnglish,Language learning,13,17,english,English|Multilingual,Global,Free,0,1,1,Free English learning activities.,Complete one short activity at your level.,https://learnenglish.britishcouncil.org/
+Duolingo,Language practice,13,17,english|general_learning,English|Russian|Multilingual,Global,Free,0,1,1,Gamified language practice with a free tier.,Set a 10-minute daily goal.,https://www.duolingo.com/
+UPchieve,Live tutoring,13,17,math|general_learning|college_guidance,English,United States,Free,1,0,0,Free tutoring and college counseling for eligible U.S. students.,Check eligibility and request help.,https://upchieve.org/
+Yandex AI Math Tutor,AI math tutor,13,17,math,Russian,Russia,Free,0,1,0,Russian-language AI tutor for school mathematics.,Ask for a step-by-step explanation.,https://yandex.ru/support/education/ru/common-concepts/ai-tutor
+Kooth,Wellbeing support,13,17,general_learning,English,United Kingdom,Free,1,0,0,Youth wellbeing support with human professionals where commissioned.,Check local eligibility and support options.,https://www.kooth.com/
+Soluna,Wellbeing support,13,17,general_learning,English,United States,Free,1,0,0,Youth wellbeing support for eligible California users.,Check eligibility and explore one tool.,https://solunaapp.com/
