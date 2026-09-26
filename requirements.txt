@@ -1,3 +1,4 @@
 pycountry>=24.6.1
 requests>=2.32
 beautifulsoup4>=4.12
+deep-translator>=1.11.4
