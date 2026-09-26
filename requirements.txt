@@ -1,4 +1,3 @@
-streamlit>=1.38
 pycountry>=24.6.1
 requests>=2.32
 beautifulsoup>=4.12
