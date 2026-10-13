@@ -1,0 +1,970 @@
+{
+  "schema_version": "1.0",
+  "country": {
+    "code": "HK",
+    "name": "Гонконг (Китай)",
+    "coverage": "partial_programme_level_validation_required",
+    "entry_ids": [
+      "hk_hku",
+      "hk_cuhk",
+      "hk_hkust",
+      "hk_polyu",
+      "hk_cityu",
+      "hk_exp_hong_kong_baptist_university",
+      "hk_exp_lingnan_university",
+      "hk_exp_the_education_university_of_hong_kong"
+    ]
+  },
+  "checked_at": "2026-10-13",
+  "admissions_overview": {
+    "degree_level": "Бакалавриат / первая степень после школы",
+    "admissions_cycle": "2027 (планирование; требования отдельных курсов подлежат проверке)",
+    "domestic_and_international_routes": "HKDSE/JUPAS для местного маршрута; IB/A Levels/национальные аттестаты и прямые заявки для иных категорий",
+    "typical_documents_not_universal": "Паспорт, оценки и школьный аттестат, языковой сертификат/альтернатива, рекомендации/эссе по программе",
+    "exam_and_language_guidance": "HKDSE либо международная квалификация; IELTS/TOEFL и возможное интервью по официальному требованию",
+    "scholarships_caution": "Entrance scholarships различаются по вузам и applicant category; наличие стипендии не означает бесплатное место",
+    "status": "Обобщённая справка, не нормативное руководство; требования могут зависеть от гражданства, предмета и даты."
+  },
+  "sources": {
+    "cityu_en": {
+      "url": "https://www.cityu.edu.hk/admo/admissions/international-admissions",
+      "title": "CityU: international admission requirements",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "cityu_im": {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-intelligent-manufacturing-engineering",
+      "title": "Intelligent Manufacturing Engineering BEng — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "cityu_media": {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-creative-media",
+      "title": "Creative Media BSc — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "cuhk_art": {
+      "url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "title": "Fine Arts — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "cuhk_cs": {
+      "url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "title": "Computer Science and Engineering — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "cuhk_se": {
+      "url": "https://admission.cuhk.edu.hk/programme/seemn/",
+      "title": "Systems Engineering and Engineering Management — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "exp_src_hk_hong_kong_baptist_university": {
+      "url": "https://admissions.hkbu.edu.hk/",
+      "title": "Hong Kong Baptist University: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_hk_lingnan_university": {
+      "url": "https://www.ln.edu.hk/admissions/ug/programme",
+      "title": "Lingnan University: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_hk_the_education_university_of_hong_kong": {
+      "url": "https://www.apply.eduhk.hk/ug/programmes",
+      "title": "The Education University of Hong Kong: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "hk_cityu_aid": {
+      "url": "https://www.cityu.edu.hk/admo/entrance-scholarship-international-students",
+      "title": "City University of Hong Kong — undergraduate scholarship",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "hk_cuhk_aid": {
+      "url": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/",
+      "title": "The Chinese University of Hong Kong — undergraduate scholarship",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "hk_hku_aid": {
+      "url": "https://www.admissions.hku.hk/fees-and-scholarships/scholarships/belt-and-road-scholarship",
+      "title": "The University of Hong Kong — undergraduate scholarship",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "hk_hkust_aid": {
+      "url": "https://join.hkust.edu.hk/university-admissions-scholarship-for-gceal-international-al",
+      "title": "Hong Kong University of Science and Technology — undergraduate scholarship",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "hk_polyu_aid": {
+      "url": "https://www.polyu.edu.hk/study/ug/fees-and-scholarships/scholarships/non-local-other-qualifications",
+      "title": "The Hong Kong Polytechnic University — undergraduate scholarship",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "hku_dse": {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-engineering-data-and-systems-engineering",
+      "title": "Data and Systems Engineering BEng — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "hku_me": {
+      "url": "https://www.admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-engineering-mechanical-engineering",
+      "title": "Mechanical Engineering BEng — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "hkust_ie": {
+      "url": "https://join.hkust.edu.hk/our-programs/school-of-engineering/industrial-engineering-and-engineering-management",
+      "title": "Industrial Engineering and Engineering Management BEng — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "polyu_en": {
+      "url": "https://www.polyu.edu.hk/study/ug/admissions/international-other-qualifications/international-other-qualifications-english",
+      "title": "PolyU: English language alternatives",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "polyu_supply": {
+      "url": "https://www.polyu.edu.hk/ise/study/undergraduate-programmes/",
+      "title": "Intelligent Supply Chain and Engineering Management BSc (Hons) Scheme — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    }
+  },
+  "profiles": {
+    "exp_profile_hk_hong_kong_baptist_university": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_hk_hong_kong_baptist_university"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_hk_hong_kong_baptist_university"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_hk_hong_kong_baptist_university"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_hk_hong_kong_baptist_university"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_hk_lingnan_university": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_hk_lingnan_university"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_hk_lingnan_university"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_hk_lingnan_university"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_hk_lingnan_university"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_hk_the_education_university_of_hong_kong": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_hk_the_education_university_of_hong_kong"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_hk_the_education_university_of_hong_kong"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_hk_the_education_university_of_hong_kong"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_hk_the_education_university_of_hong_kong"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "hk_cityu": {
+      "grades": {
+        "minimum": null,
+        "scale": null,
+        "status": "qualification_specific",
+        "text": "Нужен подходящий документ о среднем образовании. Требования зависят от системы аттестата и программы; численный общий школьный GPA здесь не подтверждён.",
+        "source_ids": [
+          "cityu_im"
+        ]
+      },
+      "exams": [
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 6.5,
+          "scale": "9",
+          "text": "Один из способов подтвердить английский; также существуют другие допустимые квалификации.",
+          "source_ids": [
+            "cityu_en"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Entrance Scholarship for International Students",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Возможна полная оплата обучения; высший пакет дополнительно включает выплату до HKD 60 000 в год на жильё и часть расходов.",
+          "source_ids": [
+            "hk_cityu_aid"
+          ]
+        },
+        "remaining_costs": "Даже высший пакет покрывает только часть расходов на жизнь. Продление зависит от условий стипендии.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Международные абитуриенты: соответствие правилам приёма и условиям конкурса проверяется отдельно.",
+          "source_ids": [
+            "hk_cityu_aid"
+          ]
+        }
+      ],
+      "renewal": [],
+      "missing_details": [
+        "Проверьте предметные требования и признание аттестата; общий языковой минимум может быть ниже требования программы. Сроки следующего набора не переносятся автоматически."
+      ]
+    },
+    "hk_cuhk": {
+      "grades": {
+        "minimum": null,
+        "scale": null,
+        "status": "qualification_specific",
+        "text": "Нужен подходящий документ о среднем образовании. Требования зависят от системы аттестата и программы; численный общий школьный GPA здесь не подтверждён.",
+        "source_ids": [
+          "cuhk_cs"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "Admission Scholarship",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Стипендии при поступлении имеют разные размеры, включая полное покрытие платы за обучение.",
+          "source_ids": [
+            "hk_cuhk_aid"
+          ]
+        },
+        "remaining_costs": "Частичная стипендия также возможна; жильё и жизнь не считаются оплаченными до получения условий предложения.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Международные абитуриенты: соответствие правилам приёма и условиям конкурса проверяется отдельно.",
+          "source_ids": [
+            "hk_cuhk_aid"
+          ]
+        }
+      ],
+      "renewal": [],
+      "missing_details": [
+        "Проверьте предметные требования и признание аттестата; общий языковой минимум может быть ниже требования программы. Сроки следующего набора не переносятся автоматически."
+      ]
+    },
+    "hk_hku": {
+      "grades": {
+        "minimum": null,
+        "scale": null,
+        "status": "qualification_specific",
+        "text": "Нужен подходящий документ о среднем образовании. Требования зависят от системы аттестата и программы; численный общий школьный GPA здесь не подтверждён.",
+        "source_ids": [
+          "hku_me"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "Belt and Road Scholarship",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Для подходящих международных кандидатов предусмотрено покрытие полной платы за обучение.",
+          "source_ids": [
+            "hk_hku_aid"
+          ]
+        },
+        "remaining_costs": "Жильё, питание и другие расходы этим описанием не покрываются.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Только кандидаты из допустимых стран/регионов Belt and Road. Источник описывает 2026 год; правила 2027 могут измениться.",
+          "source_ids": [
+            "hk_hku_aid"
+          ]
+        }
+      ],
+      "renewal": [],
+      "missing_details": [
+        "Проверьте предметные требования и признание аттестата; общий языковой минимум может быть ниже требования программы. Сроки следующего набора не переносятся автоматически."
+      ]
+    },
+    "hk_hkust": {
+      "grades": {
+        "minimum": null,
+        "scale": null,
+        "status": "qualification_specific",
+        "text": "Нужен подходящий документ о среднем образовании. Требования зависят от системы аттестата и программы; численный общий школьный GPA здесь не подтверждён.",
+        "source_ids": [
+          "hkust_ie"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "Admissions Scholarship — GCE/International A-Level",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Предусмотрен вариант полной оплаты обучения; размер зависит от квалификации и результатов.",
+          "source_ids": [
+            "hk_hkust_aid"
+          ]
+        },
+        "remaining_costs": "Дополнительные выплаты имеют отдельные условия. Полный пакет не гарантирован каждому поступившему.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Эта карточка финансирования относится к GCE/International A-Level. Для другого аттестата нужна другая схема HKUST, а не автоматическое применение этих условий.",
+          "source_ids": [
+            "hk_hkust_aid"
+          ]
+        }
+      ],
+      "renewal": [],
+      "missing_details": [
+        "Проверьте предметные требования и признание аттестата; общий языковой минимум может быть ниже требования программы. Сроки следующего набора не переносятся автоматически."
+      ]
+    },
+    "hk_polyu": {
+      "grades": {
+        "minimum": null,
+        "scale": null,
+        "status": "qualification_specific",
+        "text": "Нужен подходящий документ о среднем образовании. Требования зависят от системы аттестата и программы; численный общий школьный GPA здесь не подтверждён.",
+        "source_ids": [
+          "polyu_supply"
+        ]
+      },
+      "exams": [
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 6,
+          "scale": "9",
+          "text": "Общий минимум; есть другие допустимые квалификации. Индивидуальная программа может требовать больше.",
+          "source_ids": [
+            "polyu_en"
+          ]
+        },
+        {
+          "test": "TOEFL iBT",
+          "status": "alternative",
+          "score": 4.5,
+          "scale": "1–6",
+          "text": "Для тестов с 21 января 2026: минимум 4.5/6. Для более раннего теста: 80/120. Результат в пределах 2 лет; Home Edition не принимается.",
+          "source_ids": [
+            "polyu_en"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Entry Scholarship — Non-local Other Qualifications",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Возможна возобновляемая стипендия на полную плату за обучение; верхний пакет включает выплату на жизнь.",
+          "source_ids": [
+            "hk_polyu_aid"
+          ]
+        },
+        "remaining_costs": "Размер и продление зависят от присуждённого пакета. Все личные расходы не гарантируются.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Международные абитуриенты: соответствие правилам приёма и условиям конкурса проверяется отдельно.",
+          "source_ids": [
+            "hk_polyu_aid"
+          ]
+        }
+      ],
+      "renewal": [],
+      "missing_details": [
+        "Проверьте предметные требования и признание аттестата; общий языковой минимум может быть ниже требования программы. Сроки следующего набора не переносятся автоматически."
+      ]
+    }
+  },
+  "entries": [
+    {
+      "id": "hk_hku",
+      "country_code": "HK",
+      "name": "The University of Hong Kong",
+      "kind": "university",
+      "profile_id": "hk_hku",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Опубликованные страницы проверены 2026-10-06; нужный набор уточнить",
+      "source_ids": [
+        "hk_hku_aid",
+        "hku_dse",
+        "hku_me"
+      ],
+      "programs": [
+        {
+          "name": "Data and Systems Engineering BEng",
+          "field_ids": [
+            "data",
+            "manufacturing"
+          ],
+          "language": "Английский",
+          "search_tags": [],
+          "source_ids": [
+            "hku_dse"
+          ],
+          "requirements_note": ""
+        },
+        {
+          "name": "Mechanical Engineering BEng",
+          "field_ids": [
+            "mechanical"
+          ],
+          "language": "Английский",
+          "search_tags": [],
+          "source_ids": [
+            "hku_me"
+          ],
+          "requirements_note": ""
+        }
+      ],
+      "deadlines": [],
+      "note": "Грант конкурсный. В карточке разделены подтверждённые факты и ещё не внесённые условия.",
+      "checked_at": "2026-10-06",
+      "eligibility_summary": "Грант Belt and Road: только допустимые страны/регионы; условия 2027 уточняются."
+    },
+    {
+      "id": "hk_cuhk",
+      "country_code": "HK",
+      "name": "The Chinese University of Hong Kong",
+      "kind": "university",
+      "profile_id": "hk_cuhk",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Опубликованные страницы проверены 2026-10-06; нужный набор уточнить",
+      "source_ids": [
+        "hk_cuhk_aid",
+        "cuhk_art",
+        "cuhk_se",
+        "cuhk_cs"
+      ],
+      "programs": [
+        {
+          "name": "Fine Arts",
+          "field_ids": [
+            "art"
+          ],
+          "language": "Уточнить по программе",
+          "search_tags": [],
+          "source_ids": [
+            "cuhk_art"
+          ],
+          "requirements_note": "Для искусства нужно проверить дополнительные творческие требования."
+        },
+        {
+          "name": "Systems Engineering and Engineering Management",
+          "field_ids": [
+            "manufacturing"
+          ],
+          "language": "Английский",
+          "search_tags": [],
+          "source_ids": [
+            "cuhk_se"
+          ],
+          "requirements_note": ""
+        },
+        {
+          "name": "Computer Science and Engineering",
+          "field_ids": [
+            "computer"
+          ],
+          "language": "Английский",
+          "search_tags": [],
+          "source_ids": [
+            "cuhk_cs"
+          ],
+          "requirements_note": ""
+        }
+      ],
+      "deadlines": [],
+      "note": "Грант конкурсный. В карточке разделены подтверждённые факты и ещё не внесённые условия.",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "id": "hk_hkust",
+      "country_code": "HK",
+      "name": "Hong Kong University of Science and Technology",
+      "kind": "university",
+      "profile_id": "hk_hkust",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Опубликованные страницы проверены 2026-10-06; нужный набор уточнить",
+      "source_ids": [
+        "hk_hkust_aid",
+        "hkust_ie"
+      ],
+      "programs": [
+        {
+          "name": "Industrial Engineering and Engineering Management BEng",
+          "field_ids": [
+            "industrial"
+          ],
+          "language": "Английский",
+          "search_tags": [],
+          "source_ids": [
+            "hkust_ie"
+          ],
+          "requirements_note": ""
+        }
+      ],
+      "deadlines": [],
+      "note": "Грант конкурсный. В карточке разделены подтверждённые факты и ещё не внесённые условия.",
+      "checked_at": "2026-10-06",
+      "eligibility_summary": "Указанная схема гранта — для GCE/International A-Level."
+    },
+    {
+      "id": "hk_polyu",
+      "country_code": "HK",
+      "name": "The Hong Kong Polytechnic University",
+      "kind": "university",
+      "profile_id": "hk_polyu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Опубликованные страницы проверены 2026-10-06; нужный набор уточнить",
+      "source_ids": [
+        "hk_polyu_aid",
+        "polyu_supply"
+      ],
+      "programs": [
+        {
+          "name": "Intelligent Supply Chain and Engineering Management BSc (Hons) Scheme",
+          "field_ids": [
+            "manufacturing",
+            "business"
+          ],
+          "language": "Английский",
+          "search_tags": [],
+          "source_ids": [
+            "polyu_supply"
+          ],
+          "requirements_note": ""
+        }
+      ],
+      "deadlines": [],
+      "note": "Грант конкурсный. В карточке разделены подтверждённые факты и ещё не внесённые условия.",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "id": "hk_cityu",
+      "country_code": "HK",
+      "name": "City University of Hong Kong",
+      "kind": "university",
+      "profile_id": "hk_cityu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Опубликованные страницы проверены 2026-10-06; нужный набор уточнить",
+      "source_ids": [
+        "hk_cityu_aid",
+        "cityu_media",
+        "cityu_im"
+      ],
+      "programs": [
+        {
+          "name": "Creative Media BSc",
+          "field_ids": [
+            "media",
+            "design",
+            "computer"
+          ],
+          "language": "Английский",
+          "search_tags": [],
+          "source_ids": [
+            "cityu_media"
+          ],
+          "requirements_note": "Требования к портфолио проверять по выбранной схеме поступления."
+        },
+        {
+          "name": "Intelligent Manufacturing Engineering BEng",
+          "field_ids": [
+            "manufacturing"
+          ],
+          "language": "Английский",
+          "search_tags": [],
+          "source_ids": [
+            "cityu_im"
+          ],
+          "requirements_note": ""
+        }
+      ],
+      "deadlines": [],
+      "note": "Грант конкурсный. В карточке разделены подтверждённые факты и ещё не внесённые условия.",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "id": "hk_exp_hong_kong_baptist_university",
+      "country_code": "HK",
+      "name": "Hong Kong Baptist University",
+      "kind": "university",
+      "profile_id": "exp_profile_hk_hong_kong_baptist_university",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_hk_hong_kong_baptist_university"
+      ],
+      "programs": [
+        {
+          "name": "Communication",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "media"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_hk_hong_kong_baptist_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Business Administration",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_hk_hong_kong_baptist_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Computer Science",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_hk_hong_kong_baptist_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Visual Arts",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "art"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_hk_hong_kong_baptist_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Chinese Medicine (check award type)",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "medicine"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_hk_hong_kong_baptist_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "hk_exp_lingnan_university",
+      "country_code": "HK",
+      "name": "Lingnan University",
+      "kind": "university",
+      "profile_id": "exp_profile_hk_lingnan_university",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_hk_lingnan_university"
+      ],
+      "programs": [
+        {
+          "name": "Economics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_hk_lingnan_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Psychology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_hk_lingnan_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Creative Media Industries",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "media"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_hk_lingnan_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "History",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "history"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_hk_lingnan_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Translation",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_hk_lingnan_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "hk_exp_the_education_university_of_hong_kong",
+      "country_code": "HK",
+      "name": "The Education University of Hong Kong",
+      "kind": "university",
+      "profile_id": "exp_profile_hk_the_education_university_of_hong_kong",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_hk_the_education_university_of_hong_kong"
+      ],
+      "programs": [
+        {
+          "name": "Education",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_hk_the_education_university_of_hong_kong"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Psychology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_hk_the_education_university_of_hong_kong"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Creative and Digital Arts",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "art"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_hk_the_education_university_of_hong_kong"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Speech Pathology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_hk_the_education_university_of_hong_kong"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Music",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "music"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_hk_the_education_university_of_hong_kong"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    }
+  ]
+}
