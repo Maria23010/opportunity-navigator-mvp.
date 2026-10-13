@@ -1,1 +1,1414 @@
-
+{
+  "version": "2.4",
+  "language": "ru",
+  "lessons": [
+    {
+      "id": "en_present_simple",
+      "subject": "English",
+      "title": "Present Simple: привычки",
+      "search_tags": [
+        "present simple",
+        "настоящее простое",
+        "привычки"
+      ],
+      "minutes": 12,
+      "theory": "Present Simple описывает привычки и факты. I/you/we/they + глагол; he/she/it + глагол с -s. В вопросах do/does, в отрицаниях don’t/doesn’t; после does глагол без -s.",
+      "example": "She reads every day. Does she read every day? She doesn’t read at night.",
+      "questions": [
+        {
+          "q": "She ___ tennis every Sunday.",
+          "options": [
+            "plays",
+            "play",
+            "playing"
+          ],
+          "answer": "plays",
+          "explanation": "She требует формы с -s."
+        },
+        {
+          "q": "___ they live here?",
+          "options": [
+            "Do",
+            "Does",
+            "Is"
+          ],
+          "answer": "Do",
+          "explanation": "С they используем Do и начальную форму live."
+        },
+        {
+          "q": "He doesn’t ___ coffee.",
+          "options": [
+            "drink",
+            "drinks",
+            "drinking"
+          ],
+          "answer": "drink",
+          "explanation": "После doesn’t окончание -s не добавляют."
+        }
+      ]
+    },
+    {
+      "id": "en_present_continuous",
+      "subject": "English",
+      "title": "Present Continuous: что происходит сейчас",
+      "search_tags": [
+        "present continuous",
+        "настоящее длительное"
+      ],
+      "minutes": 12,
+      "theory": "Present Continuous: am/is/are + глагол с -ing. Он помогает описывать действие, происходящее сейчас, или временную ситуацию. Не путайте его с обычной привычкой.",
+      "example": "I am reading now. She is working this week.",
+      "questions": [
+        {
+          "q": "They ___ studying now.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "are",
+          "explanation": "С they используется are."
+        },
+        {
+          "q": "Look! It ___.",
+          "options": [
+            "is raining",
+            "rain",
+            "rains every day"
+          ],
+          "answer": "is raining",
+          "explanation": "Look привлекает внимание к происходящему сейчас."
+        },
+        {
+          "q": "Choose a sentence about a habit.",
+          "options": [
+            "I walk to school every day.",
+            "I am walking now.",
+            "I am reading now."
+          ],
+          "answer": "I walk to school every day.",
+          "explanation": "Every day обозначает повторяющееся действие; нужен Present Simple."
+        }
+      ]
+    },
+    {
+      "id": "en_past_simple",
+      "subject": "English",
+      "title": "Past Simple: завершённые события",
+      "search_tags": [
+        "past simple",
+        "прошедшее время"
+      ],
+      "minutes": 12,
+      "theory": "Для завершённого события в прошлом нужен Past Simple. У правильных глаголов добавляется -ed, у неправильных — особая форма. В вопросе и отрицании did/didn’t + начальная форма.",
+      "example": "Yesterday I went to school. Did you go? I didn’t go by bus.",
+      "questions": [
+        {
+          "q": "Yesterday she ___ a film.",
+          "options": [
+            "watched",
+            "watch",
+            "watching"
+          ],
+          "answer": "watched",
+          "explanation": "У правильного watch в прошлом окончание -ed."
+        },
+        {
+          "q": "Did he ___ the book?",
+          "options": [
+            "read",
+            "reads",
+            "reading"
+          ],
+          "answer": "read",
+          "explanation": "После did нужна начальная форма."
+        },
+        {
+          "q": "Past form of go:",
+          "options": [
+            "went",
+            "goed",
+            "goes"
+          ],
+          "answer": "went",
+          "explanation": "Go — неправильный глагол: go–went–gone."
+        }
+      ]
+    },
+    {
+      "id": "en_future",
+      "subject": "English",
+      "title": "Will и going to",
+      "search_tags": [
+        "future",
+        "будущее время",
+        "going to",
+        "will"
+      ],
+      "minutes": 12,
+      "theory": "Will часто используется для решения в момент речи и прогнозов. Be going to — для ранее принятого намерения и прогноза по видимым признакам. После обоих конструкций используется начальная форма глагола.",
+      "example": "The phone is ringing — I’ll answer it. I’m going to study medicine.",
+      "questions": [
+        {
+          "q": "I have a plan: I ___ learn Spanish.",
+          "options": [
+            "am going to",
+            "going",
+            "am go"
+          ],
+          "answer": "am going to",
+          "explanation": "Для намерения: be going to + learn."
+        },
+        {
+          "q": "I think it ___ be sunny tomorrow.",
+          "options": [
+            "will",
+            "is",
+            "does"
+          ],
+          "answer": "will",
+          "explanation": "Will + be используется для прогноза."
+        },
+        {
+          "q": "She is going to ___ abroad.",
+          "options": [
+            "study",
+            "studies",
+            "studying"
+          ],
+          "answer": "study",
+          "explanation": "После going to нужна начальная форма."
+        }
+      ]
+    },
+    {
+      "id": "en_present_perfect",
+      "subject": "English",
+      "title": "Present Perfect: опыт и результат",
+      "search_tags": [
+        "present perfect",
+        "перфект"
+      ],
+      "minutes": 12,
+      "theory": "Present Perfect: have/has + третья форма глагола. Он связывает прошлое с настоящим: опыт без точной даты или результат сейчас. С завершённым yesterday обычно используйте Past Simple.",
+      "example": "I have lost my key: I cannot open the door. I lost it yesterday.",
+      "questions": [
+        {
+          "q": "She ___ finished her homework.",
+          "options": [
+            "has",
+            "have",
+            "is"
+          ],
+          "answer": "has",
+          "explanation": "С she: has + finished."
+        },
+        {
+          "q": "I ___ Paris in 2022.",
+          "options": [
+            "visited",
+            "have visited",
+            "visiting"
+          ],
+          "answer": "visited",
+          "explanation": "Назван завершённый период — Past Simple."
+        },
+        {
+          "q": "Have you ever ___ sushi?",
+          "options": [
+            "eaten",
+            "ate",
+            "eat"
+          ],
+          "answer": "eaten",
+          "explanation": "После have нужна третья форма: eaten."
+        }
+      ]
+    },
+    {
+      "id": "en_comparatives",
+      "subject": "English",
+      "title": "Сравнительная степень",
+      "search_tags": [
+        "comparatives",
+        "сравнительная степень"
+      ],
+      "minutes": 12,
+      "theory": "К коротким прилагательным обычно добавляют -er, перед длинными ставят more. Для сравнения с другим предметом используйте than. Good → better — исключение.",
+      "example": "This book is cheaper than that one. This task is more difficult.",
+      "questions": [
+        {
+          "q": "My bag is ___ than yours.",
+          "options": [
+            "heavier",
+            "heavy",
+            "most heavy"
+          ],
+          "answer": "heavier",
+          "explanation": "Heavy → heavier: y меняется на i."
+        },
+        {
+          "q": "This exercise is ___ difficult.",
+          "options": [
+            "more",
+            "mucher",
+            "difficulter"
+          ],
+          "answer": "more",
+          "explanation": "Длинное прилагательное: more difficult."
+        },
+        {
+          "q": "Comparative of good:",
+          "options": [
+            "better",
+            "gooder",
+            "best"
+          ],
+          "answer": "better",
+          "explanation": "Better — сравнительная, best — превосходная степень."
+        }
+      ]
+    },
+    {
+      "id": "en_countable",
+      "subject": "English",
+      "title": "Исчисляемые и неисчисляемые",
+      "search_tags": [
+        "countable",
+        "uncountable",
+        "much many",
+        "исчисляемые"
+      ],
+      "minutes": 12,
+      "theory": "Many употребляется с исчисляемыми во множественном числе; much — с неисчисляемыми. A few — несколько исчисляемых; a little — немного неисчисляемого. Some подходит обоим типам.",
+      "example": "Many books, much water, a few apples, a little milk.",
+      "questions": [
+        {
+          "q": "How ___ books do you have?",
+          "options": [
+            "many",
+            "much",
+            "little"
+          ],
+          "answer": "many",
+          "explanation": "Books можно посчитать."
+        },
+        {
+          "q": "We have a ___ milk.",
+          "options": [
+            "little",
+            "few",
+            "many"
+          ],
+          "answer": "little",
+          "explanation": "Milk — неисчисляемое."
+        },
+        {
+          "q": "Which noun is usually uncountable?",
+          "options": [
+            "information",
+            "chair",
+            "apple"
+          ],
+          "answer": "information",
+          "explanation": "В английском information обычно неисчисляемое; не informations."
+        }
+      ]
+    },
+    {
+      "id": "en_modals",
+      "subject": "English",
+      "title": "Can, must и should",
+      "search_tags": [
+        "modals",
+        "модальные глаголы",
+        "can must should"
+      ],
+      "minutes": 12,
+      "theory": "Can выражает возможность или умение; must — необходимость; should — совет. После модального глагола идёт начальная форма без to и без -s. Mustn’t — запрет, don’t have to — отсутствие необходимости.",
+      "example": "You should rest. You mustn’t enter. You don’t have to come: it is optional.",
+      "questions": [
+        {
+          "q": "She can ___ very well.",
+          "options": [
+            "swim",
+            "swims",
+            "to swim"
+          ],
+          "answer": "swim",
+          "explanation": "После can начальная форма без to."
+        },
+        {
+          "q": "You ___ use a phone during the exam. It is forbidden.",
+          "options": [
+            "mustn’t",
+            "don’t have to",
+            "can"
+          ],
+          "answer": "mustn’t",
+          "explanation": "Mustn’t выражает запрет."
+        },
+        {
+          "q": "It is optional. You ___ do it.",
+          "options": [
+            "don’t have to",
+            "mustn’t",
+            "must"
+          ],
+          "answer": "don’t have to",
+          "explanation": "Отсутствие обязанности — don’t have to."
+        }
+      ]
+    },
+    {
+      "id": "en_conditionals",
+      "subject": "English",
+      "title": "First Conditional",
+      "search_tags": [
+        "conditionals",
+        "условные предложения"
+      ],
+      "minutes": 12,
+      "theory": "Для реального возможного будущего: if + Present Simple, will + начальная форма. В обычном First Conditional после if не ставят will.",
+      "example": "If it rains, we will stay home.",
+      "questions": [
+        {
+          "q": "If I ___ time, I will call.",
+          "options": [
+            "have",
+            "will have",
+            "had"
+          ],
+          "answer": "have",
+          "explanation": "В if-части Present Simple."
+        },
+        {
+          "q": "If she studies, she ___ pass.",
+          "options": [
+            "will",
+            "is",
+            "does"
+          ],
+          "answer": "will",
+          "explanation": "Результат в будущем: will pass."
+        },
+        {
+          "q": "Which sentence is correct?",
+          "options": [
+            "If it rains, we will stay home.",
+            "If it will rain, we stay home.",
+            "If rain, we will stayed."
+          ],
+          "answer": "If it rains, we will stay home.",
+          "explanation": "If + Present Simple; результат — will + глагол."
+        }
+      ]
+    },
+    {
+      "id": "en_passive",
+      "subject": "English",
+      "title": "Пассивный залог",
+      "search_tags": [
+        "passive",
+        "пассивный залог",
+        "страдательный залог"
+      ],
+      "minutes": 12,
+      "theory": "В пассивном залоге важно действие над предметом. Формула: be в нужном времени + третья форма глагола. Исполнителя при необходимости вводит by.",
+      "example": "They built the bridge in 2000 → The bridge was built in 2000.",
+      "questions": [
+        {
+          "q": "English ___ in many countries.",
+          "options": [
+            "is spoken",
+            "speaks",
+            "is speak"
+          ],
+          "answer": "is spoken",
+          "explanation": "Пассив: is + spoken."
+        },
+        {
+          "q": "The letter ___ yesterday.",
+          "options": [
+            "was sent",
+            "is send",
+            "sent by"
+          ],
+          "answer": "was sent",
+          "explanation": "Вчера: was + sent."
+        },
+        {
+          "q": "The cake was made ___ my sister.",
+          "options": [
+            "by",
+            "from",
+            "with"
+          ],
+          "answer": "by",
+          "explanation": "By указывает исполнителя действия."
+        }
+      ]
+    },
+    {
+      "id": "en_reading",
+      "subject": "English",
+      "title": "Чтение: главная мысль и доказательства",
+      "search_tags": [
+        "reading",
+        "чтение",
+        "главная мысль"
+      ],
+      "minutes": 12,
+      "theory": "Сначала определите, о чём весь текст, затем найдите предложение, которое поддерживает вывод. Не приписывайте автору то, чего он не писал. Незнакомое слово проверяйте по контексту.",
+      "example": "Lena takes the bus because her school is far away. Вывод: она едет на автобусе из-за расстояния, а не потому, что не любит ходить.",
+      "questions": [
+        {
+          "q": "Lena takes the bus because school is far away. Why does she take it?",
+          "options": [
+            "The school is far away.",
+            "She hates walking.",
+            "Her bike is broken."
+          ],
+          "answer": "The school is far away.",
+          "explanation": "В тексте прямо названа причина — расстояние."
+        },
+        {
+          "q": "Tom forgot his umbrella and got wet. What is supported?",
+          "options": [
+            "Tom got wet.",
+            "Tom dislikes rain.",
+            "Tom never checks the weather."
+          ],
+          "answer": "Tom got wet.",
+          "explanation": "Это факт текста; остальные варианты добавляют неизвестное."
+        },
+        {
+          "q": "What helps identify the main idea?",
+          "options": [
+            "Ask what the whole paragraph explains.",
+            "Choose the longest word.",
+            "Read only the last word."
+          ],
+          "answer": "Ask what the whole paragraph explains.",
+          "explanation": "Главная мысль объединяет содержание абзаца."
+        }
+      ]
+    },
+    {
+      "id": "en_writing",
+      "subject": "English",
+      "title": "Письмо: связный абзац",
+      "search_tags": [
+        "writing",
+        "письмо",
+        "абзац"
+      ],
+      "minutes": 12,
+      "theory": "Начните с основной мысли, затем дайте причину и конкретный пример. Завершите связью с основной мыслью. Because объясняет причину, however показывает противопоставление.",
+      "example": "Reading is useful. It develops vocabulary because you meet words in context. For example, a short story shows how people use phrases.",
+      "questions": [
+        {
+          "q": "Which word introduces a reason?",
+          "options": [
+            "because",
+            "however",
+            "although"
+          ],
+          "answer": "because",
+          "explanation": "Because вводит причину."
+        },
+        {
+          "q": "What best supports a claim?",
+          "options": [
+            "A relevant example.",
+            "An unrelated story.",
+            "Repeating the same words."
+          ],
+          "answer": "A relevant example.",
+          "explanation": "Пример показывает, на чём основана мысль."
+        },
+        {
+          "q": "Choose a contrast word.",
+          "options": [
+            "however",
+            "because",
+            "therefore"
+          ],
+          "answer": "however",
+          "explanation": "However выражает противопоставление; therefore — следствие."
+        }
+      ]
+    },
+    {
+      "id": "geo_minerals",
+      "subject": "Geography",
+      "title": "Полезные ископаемые и карта месторождений",
+      "search_tags": [
+        "полезные ископаемые",
+        "ископаемых",
+        "minerals",
+        "mineral resources",
+        "месторождения",
+        "руды",
+        "нефть"
+      ],
+      "minutes": 12,
+      "theory": "Полезные ископаемые — природные минеральные образования, которые человек использует в хозяйстве. Топливные: уголь, нефть, газ; рудные: железные и медные руды; нерудные: соль, песок, известняк. Месторождение — скопление, которое можно разрабатывать. Наличие завода в городе ещё не означает месторождение рядом. Чтобы узнать, где добывают ресурс: 1) откройте карту полезных ископаемых; 2) прочитайте легенду; 3) найдите условный знак; 4) соотнесите его с названием района; 5) проверьте масштаб и дату. Рельеф сам по себе не даёт точного ответа.",
+      "example": "На карте значок угля находится возле бассейна, а не возле каждого города. Запишите «ресурс — бассейн/месторождение — регион — страна — источник». Нельзя делать вывод «все горы содержат золото»: нужны данные геологической карты.",
+      "questions": [
+        {
+          "q": "Что поможет определить полезное ископаемое по карте?",
+          "options": [
+            "Легенда и условные знаки",
+            "Цвет флага страны",
+            "Только население города"
+          ],
+          "answer": "Легенда и условные знаки",
+          "explanation": "Легенда связывает знак с видом ресурса; по положению знака определяют район."
+        },
+        {
+          "q": "Какой ресурс относится к топливным?",
+          "options": [
+            "Уголь",
+            "Соль",
+            "Железная руда"
+          ],
+          "answer": "Уголь",
+          "explanation": "Уголь используют как топливо; соль — нерудное сырьё, железная руда — рудное."
+        },
+        {
+          "q": "Завод перерабатывает медь. Есть ли обязательно медное месторождение рядом?",
+          "options": [
+            "Нет, сырьё могут привозить",
+            "Да, всегда",
+            "Да, если город большой"
+          ],
+          "answer": "Нет, сырьё могут привозить",
+          "explanation": "Переработка и добыча могут находиться в разных регионах."
+        }
+      ]
+    },
+    {
+      "id": "geo_tectonics",
+      "subject": "Geography",
+      "title": "Литосферные плиты",
+      "search_tags": [
+        "тектоника",
+        "литосферные плиты",
+        "землетрясения",
+        "plate tectonics"
+      ],
+      "minutes": 12,
+      "theory": "Литосфера разделена на плиты, которые медленно движутся. На границах они расходятся, сближаются или скользят мимо друг друга. Эти движения связаны с землетрясениями, образованием гор и частью вулканизма. Не каждый вулкан находится на границе плиты.",
+      "example": "При расхождении плит образуется новая океаническая кора. При погружении одной плиты под другую возникает зона субдукции.",
+      "questions": [
+        {
+          "q": "Что происходит при расхождении океанических плит?",
+          "options": [
+            "Образуется новая кора",
+            "Останавливается движение",
+            "Исчезают все океаны"
+          ],
+          "answer": "Образуется новая кора",
+          "explanation": "Магма поднимается и застывает, образуя кору."
+        },
+        {
+          "q": "Как называется погружение одной плиты под другую?",
+          "options": [
+            "Субдукция",
+            "Эрозия",
+            "Конденсация"
+          ],
+          "answer": "Субдукция",
+          "explanation": "Субдукция происходит на части сходящихся границ."
+        },
+        {
+          "q": "Где часто происходят землетрясения?",
+          "options": [
+            "На границах плит",
+            "Только на экваторе",
+            "Только на равнинах"
+          ],
+          "answer": "На границах плит",
+          "explanation": "Движение и напряжение на границах могут вызывать землетрясения."
+        }
+      ]
+    },
+    {
+      "id": "geo_climate",
+      "subject": "Geography",
+      "title": "Погода и климат",
+      "search_tags": [
+        "climate",
+        "weather",
+        "климат",
+        "погода"
+      ],
+      "minutes": 12,
+      "theory": "Погода — состояние атмосферы сейчас, климат — многолетние закономерности погоды. На климат влияют широта, высота, близость океана, течения и циркуляция воздуха. Один жаркий день не определяет климат.",
+      "example": "В горах на большей высоте обычно холоднее, чем у подножия; у моря сезонные изменения температуры часто мягче.",
+      "questions": [
+        {
+          "q": "Что описывает погоду?",
+          "options": [
+            "Сегодня идёт дождь",
+            "В регионе сухое лето в среднем",
+            "Многолетняя норма осадков"
+          ],
+          "answer": "Сегодня идёт дождь",
+          "explanation": "Речь о конкретном дне."
+        },
+        {
+          "q": "Что нужно для описания климата?",
+          "options": [
+            "Многолетние наблюдения",
+            "Одна фотография",
+            "Один жаркий день"
+          ],
+          "answer": "Многолетние наблюдения",
+          "explanation": "Климат описывает устойчивые закономерности."
+        },
+        {
+          "q": "Что обычно происходит с температурой при подъёме в тропосфере?",
+          "options": [
+            "Она снижается",
+            "Всегда растёт",
+            "Не меняется"
+          ],
+          "answer": "Она снижается",
+          "explanation": "В среднем температура с высотой уменьшается, хотя бывают инверсии."
+        }
+      ]
+    },
+    {
+      "id": "math_fractions",
+      "subject": "Math",
+      "title": "Дроби: сложение и смысл",
+      "search_tags": [
+        "fractions",
+        "дроби",
+        "дробей"
+      ],
+      "minutes": 12,
+      "theory": "Знаменатель показывает, на сколько равных частей разделено целое; числитель — сколько частей взяли. Для сложения нужны части одинакового размера: приведите дроби к общему знаменателю, затем сложите числители.",
+      "example": "1/2 + 1/4 = 2/4 + 1/4 = 3/4. Знаменатели не складываем.",
+      "questions": [
+        {
+          "q": "1/3 + 1/3 =",
+          "options": [
+            "2/3",
+            "2/6",
+            "1/6"
+          ],
+          "answer": "2/3",
+          "explanation": "Размер частей одинаковый; складываем числители."
+        },
+        {
+          "q": "1/2 + 1/6 =",
+          "options": [
+            "2/3",
+            "2/8",
+            "1/3"
+          ],
+          "answer": "2/3",
+          "explanation": "1/2 = 3/6; 3/6+1/6=4/6=2/3."
+        },
+        {
+          "q": "Что больше: 1/4 или 1/8?",
+          "options": [
+            "1/4",
+            "1/8",
+            "Они равны"
+          ],
+          "answer": "1/4",
+          "explanation": "При одинаковом целом четверть больше одной восьмой."
+        }
+      ]
+    },
+    {
+      "id": "math_probability",
+      "subject": "Math",
+      "title": "Вероятность",
+      "search_tags": [
+        "probability",
+        "вероятность",
+        "вероятности"
+      ],
+      "minutes": 12,
+      "theory": "При равновозможных исходах вероятность события равна числу подходящих исходов, делённому на число всех исходов. Она лежит от 0 до 1. Сначала убедитесь, что исходы действительно равновозможны.",
+      "example": "У честного кубика 6 исходов. Чётные: 2, 4, 6. Вероятность 3/6=1/2.",
+      "questions": [
+        {
+          "q": "Вероятность орла у честной монеты:",
+          "options": [
+            "1/2",
+            "1",
+            "2"
+          ],
+          "answer": "1/2",
+          "explanation": "Два равновозможных исхода, один подходит."
+        },
+        {
+          "q": "Вероятность числа 7 на обычном шестигранном кубике:",
+          "options": [
+            "0",
+            "1/6",
+            "1"
+          ],
+          "answer": "0",
+          "explanation": "Такого исхода нет."
+        },
+        {
+          "q": "В мешке 2 красных и 3 синих одинаковых шара. Вероятность красного:",
+          "options": [
+            "2/5",
+            "3/5",
+            "1/2"
+          ],
+          "answer": "2/5",
+          "explanation": "Подходящих 2 из 5."
+        }
+      ]
+    },
+    {
+      "id": "physics_ohm",
+      "subject": "Physics",
+      "title": "Электрический ток: закон Ома",
+      "search_tags": [
+        "electricity",
+        "ohm",
+        "электричество",
+        "закон ома",
+        "ток"
+      ],
+      "minutes": 12,
+      "theory": "Сила тока I измеряется в амперах, напряжение U — в вольтах, сопротивление R — в омах. Для участка цепи с постоянным сопротивлением I=U/R. При большем напряжении ток больше, при большем сопротивлении — меньше.",
+      "example": "U=12 В, R=6 Ом → I=12/6=2 А.",
+      "questions": [
+        {
+          "q": "U=6 В, R=3 Ом. I=?",
+          "options": [
+            "2 А",
+            "18 А",
+            "0.5 А"
+          ],
+          "answer": "2 А",
+          "explanation": "6/3=2 А."
+        },
+        {
+          "q": "Единица сопротивления:",
+          "options": [
+            "Ом",
+            "Вольт",
+            "Ампер"
+          ],
+          "answer": "Ом",
+          "explanation": "Сопротивление измеряют в омах."
+        },
+        {
+          "q": "При постоянном U сопротивление удвоили. Ток:",
+          "options": [
+            "Уменьшился вдвое",
+            "Удвоился",
+            "Не изменился"
+          ],
+          "answer": "Уменьшился вдвое",
+          "explanation": "I обратно пропорционален R."
+        }
+      ]
+    },
+    {
+      "id": "physics_density",
+      "subject": "Physics",
+      "title": "Плотность вещества",
+      "search_tags": [
+        "density",
+        "плотность"
+      ],
+      "minutes": 12,
+      "theory": "Плотность — масса единицы объёма: ρ=m/V. Сравнивать нужно в одинаковых единицах. Большая масса не всегда означает большую плотность: предмет может просто иметь больший объём.",
+      "example": "Масса 200 г, объём 100 см³: плотность 2 г/см³.",
+      "questions": [
+        {
+          "q": "m=300 г, V=100 см³. Плотность:",
+          "options": [
+            "3 г/см³",
+            "30000 г/см³",
+            "0.33 г/см³"
+          ],
+          "answer": "3 г/см³",
+          "explanation": "300/100=3."
+        },
+        {
+          "q": "Что нужно знать для плотности?",
+          "options": [
+            "Массу и объём",
+            "Только цвет",
+            "Только массу"
+          ],
+          "answer": "Массу и объём",
+          "explanation": "Плотность — отношение массы к объёму."
+        },
+        {
+          "q": "У двух предметов одинаковый объём. У более тяжёлого плотность:",
+          "options": [
+            "Больше",
+            "Меньше",
+            "Такая же всегда"
+          ],
+          "answer": "Больше",
+          "explanation": "При одинаковом V большая m даёт большую ρ."
+        }
+      ]
+    },
+    {
+      "id": "bio_genetics",
+      "subject": "Biology",
+      "title": "Наследственность: ген и аллель",
+      "search_tags": [
+        "genetics",
+        "генетика",
+        "наследственность",
+        "гены"
+      ],
+      "minutes": 12,
+      "theory": "Ген — участок ДНК, участвующий в определении признака или функции. Аллели — варианты гена. В простой модели полного доминирования Aa проявляет доминантный признак, aa — рецессивный. Реальные признаки часто зависят от многих генов и среды.",
+      "example": "При Aa × Aa возможны AA, Aa, Aa, aa. Вероятность aa в этой модели — 1/4.",
+      "questions": [
+        {
+          "q": "Как называют варианты одного гена?",
+          "options": [
+            "Аллели",
+            "Органы",
+            "Виды"
+          ],
+          "answer": "Аллели",
+          "explanation": "Аллели — варианты одного гена."
+        },
+        {
+          "q": "При Aa × Aa вероятность aa:",
+          "options": [
+            "1/4",
+            "1/2",
+            "1"
+          ],
+          "answer": "1/4",
+          "explanation": "Из четырёх равновозможных сочетаний одно aa."
+        },
+        {
+          "q": "Можно ли все человеческие признаки объяснить одним геном?",
+          "options": [
+            "Нет",
+            "Да",
+            "Только цветом глаз"
+          ],
+          "answer": "Нет",
+          "explanation": "Многие признаки полигенны и зависят от среды."
+        }
+      ]
+    },
+    {
+      "id": "bio_ecology",
+      "subject": "Biology",
+      "title": "Экосистемы и пищевые цепи",
+      "search_tags": [
+        "ecology",
+        "экология",
+        "пищевая цепь"
+      ],
+      "minutes": 12,
+      "theory": "Экосистема включает организмы и неживую среду. Продуценты создают органические вещества, консументы используют готовые, редуценты разлагают остатки. Стрелка пищевой цепи показывает передачу вещества и энергии от пищи к потребителю.",
+      "example": "Трава → кузнечик → лягушка. С каждым переходом часть энергии рассеивается; вещества участвуют в круговоротах.",
+      "questions": [
+        {
+          "q": "Кто продуцент?",
+          "options": [
+            "Зелёное растение",
+            "Волк",
+            "Гриб-разлагатель"
+          ],
+          "answer": "Зелёное растение",
+          "explanation": "При фотосинтезе растение образует органические вещества."
+        },
+        {
+          "q": "В цепи трава → заяц стрелка означает:",
+          "options": [
+            "Передачу энергии к зайцу",
+            "Заяц создаёт траву",
+            "Направление бега"
+          ],
+          "answer": "Передачу энергии к зайцу",
+          "explanation": "Стрелка идёт от пищи к потребителю."
+        },
+        {
+          "q": "Роль редуцентов:",
+          "options": [
+            "Разлагать органические остатки",
+            "Создавать солнечный свет",
+            "Увеличивать энергию цепи"
+          ],
+          "answer": "Разлагать органические остатки",
+          "explanation": "Разложение возвращает вещества в круговорот."
+        }
+      ]
+    },
+    {
+      "id": "chem_atoms",
+      "subject": "Chemistry",
+      "title": "Атомы и химические элементы",
+      "search_tags": [
+        "atoms",
+        "elements",
+        "атомы",
+        "элементы",
+        "периодическая таблица"
+      ],
+      "minutes": 12,
+      "theory": "Порядковый номер элемента равен числу протонов. У нейтрального атома столько же электронов. Изотопы одного элемента различаются числом нейтронов, ионы — числом электронов.",
+      "example": "У углерода 6 протонов. Нейтральный атом имеет 6 электронов независимо от изотопа.",
+      "questions": [
+        {
+          "q": "Порядковый номер равен числу:",
+          "options": [
+            "Протонов",
+            "Нейтронов всегда",
+            "Протонов и нейтронов"
+          ],
+          "answer": "Протонов",
+          "explanation": "Элемент определяется зарядом ядра."
+        },
+        {
+          "q": "В нейтральном атоме 8 протонов. Электронов:",
+          "options": [
+            "8",
+            "16",
+            "4"
+          ],
+          "answer": "8",
+          "explanation": "Заряды компенсируются."
+        },
+        {
+          "q": "Изотопы отличаются числом:",
+          "options": [
+            "Нейтронов",
+            "Протонов",
+            "Всех частиц обязательно"
+          ],
+          "answer": "Нейтронов",
+          "explanation": "Число протонов у одного элемента неизменно."
+        }
+      ]
+    },
+    {
+      "id": "chem_reactions",
+      "subject": "Chemistry",
+      "title": "Уравнивание реакций",
+      "search_tags": [
+        "reactions",
+        "chemical equations",
+        "реакции",
+        "уравнивание"
+      ],
+      "minutes": 12,
+      "theory": "В химической реакции атомы сохраняются. Подбирайте коэффициенты перед формулами, чтобы число атомов каждого элемента совпадало слева и справа. Индексы внутри формул менять нельзя: это изменит вещества.",
+      "example": "2H₂ + O₂ → 2H₂O: с обеих сторон 4 атома H и 2 атома O.",
+      "questions": [
+        {
+          "q": "Что меняют при уравнивании?",
+          "options": [
+            "Коэффициенты",
+            "Индексы в формуле",
+            "Названия элементов"
+          ],
+          "answer": "Коэффициенты",
+          "explanation": "Коэффициенты меняют количество молекул, не их состав."
+        },
+        {
+          "q": "В 2H₂O атомов водорода:",
+          "options": [
+            "4",
+            "2",
+            "6"
+          ],
+          "answer": "4",
+          "explanation": "2 молекулы по 2 атома H."
+        },
+        {
+          "q": "Коэффициент перед O₂ в 2H₂ + O₂ → 2H₂O:",
+          "options": [
+            "1",
+            "2",
+            "4"
+          ],
+          "answer": "1",
+          "explanation": "Два атома O входят в одну молекулу O₂."
+        }
+      ]
+    },
+    {
+      "id": "history_sources",
+      "subject": "History",
+      "title": "Исторические источники",
+      "search_tags": [
+        "sources",
+        "источники",
+        "исторические источники"
+      ],
+      "minutes": 12,
+      "theory": "Источник — свидетельство о прошлом: документ, предмет, изображение, рассказ. Чтобы сделать вывод, узнайте автора, время, цель и аудиторию. Первичный источник не обязательно беспристрастен; сопоставляйте независимые свидетельства.",
+      "example": "Дневник участника может быть первичным источником, но отражать только его точку зрения.",
+      "questions": [
+        {
+          "q": "Что важно проверить у источника?",
+          "options": [
+            "Автора, время и цель",
+            "Только красивый шрифт",
+            "Только длину"
+          ],
+          "answer": "Автора, время и цель",
+          "explanation": "Контекст помогает оценить свидетельство."
+        },
+        {
+          "q": "Дневник участника обычно:",
+          "options": [
+            "Первичный источник",
+            "Всегда учебник",
+            "Не источник"
+          ],
+          "answer": "Первичный источник",
+          "explanation": "Это свидетельство участника, хотя возможна предвзятость."
+        },
+        {
+          "q": "Как проверить спорное утверждение?",
+          "options": [
+            "Сопоставить независимые источники",
+            "Повторить его много раз",
+            "Выбрать самый яркий заголовок"
+          ],
+          "answer": "Сопоставить независимые источники",
+          "explanation": "Независимые свидетельства помогают выявлять ошибки."
+        }
+      ]
+    },
+    {
+      "id": "coding_functions",
+      "subject": "Coding",
+      "title": "Python: функции",
+      "search_tags": [
+        "functions",
+        "функции python",
+        "def",
+        "return"
+      ],
+      "minutes": 12,
+      "theory": "Функция объединяет действия и может возвращать результат. Параметры получают значения при вызове. Return отдаёт значение вызывающему коду; print только выводит его. Не выполняйте неизвестный код без проверки.",
+      "example": "def double(x):\n    return x * 2\n\ndouble(3) возвращает 6.",
+      "questions": [
+        {
+          "q": "Что возвращает double(4), если return x*2?",
+          "options": [
+            "8",
+            "4",
+            "2"
+          ],
+          "answer": "8",
+          "explanation": "4*2=8."
+        },
+        {
+          "q": "Какое слово возвращает значение?",
+          "options": [
+            "return",
+            "print",
+            "input"
+          ],
+          "answer": "return",
+          "explanation": "Return завершает вызов и отдаёт значение."
+        },
+        {
+          "q": "Что такое параметр x?",
+          "options": [
+            "Имя входного значения",
+            "Обязательный ответ 0",
+            "Название файла"
+          ],
+          "answer": "Имя входного значения",
+          "explanation": "Параметр связывается с аргументом при вызове."
+        }
+      ]
+    },
+    {
+      "id": "coding_lists",
+      "subject": "Coding",
+      "title": "Python: списки и индексы",
+      "search_tags": [
+        "lists",
+        "списки",
+        "индексы",
+        "data structures"
+      ],
+      "minutes": 12,
+      "theory": "Список хранит последовательность значений. Индексы начинаются с нуля; -1 обозначает последний элемент. Len возвращает длину, append добавляет элемент в конец.",
+      "example": "a=[10,20,30]; a[0] равно 10, a[-1] равно 30, len(a) равно 3.",
+      "questions": [
+        {
+          "q": "a=[5,8,9]. a[1] равно:",
+          "options": [
+            "8",
+            "5",
+            "9"
+          ],
+          "answer": "8",
+          "explanation": "Индекс 1 — второй элемент."
+        },
+        {
+          "q": "len([1,2,3,4]) равно:",
+          "options": [
+            "4",
+            "3",
+            "5"
+          ],
+          "answer": "4",
+          "explanation": "В списке четыре элемента."
+        },
+        {
+          "q": "Что делает append?",
+          "options": [
+            "Добавляет в конец",
+            "Всегда удаляет первый",
+            "Сортирует"
+          ],
+          "answer": "Добавляет в конец",
+          "explanation": "Append добавляет один элемент."
+        }
+      ]
+    },
+    {
+      "id": "rus_parts",
+      "subject": "Russian language",
+      "title": "Части речи",
+      "search_tags": [
+        "части речи",
+        "parts of speech"
+      ],
+      "minutes": 12,
+      "theory": "Часть речи определяют по значению, вопросу и грамматическим признакам. Существительное называет предмет, прилагательное — признак, глагол — действие или состояние. Одно слово нужно рассматривать в предложении.",
+      "example": "В «Тихий ветер дует» тихий — прилагательное, ветер — существительное, дует — глагол.",
+      "questions": [
+        {
+          "q": "«Бежит» — это:",
+          "options": [
+            "Глагол",
+            "Прилагательное",
+            "Существительное"
+          ],
+          "answer": "Глагол",
+          "explanation": "Обозначает действие, отвечает на «что делает?»."
+        },
+        {
+          "q": "Какой вопрос подходит к прилагательному?",
+          "options": [
+            "Какой?",
+            "Кто?",
+            "Что делает?"
+          ],
+          "answer": "Какой?",
+          "explanation": "Прилагательное называет признак."
+        },
+        {
+          "q": "«Дом» — это:",
+          "options": [
+            "Существительное",
+            "Глагол",
+            "Наречие"
+          ],
+          "answer": "Существительное",
+          "explanation": "Называет предмет, отвечает на «что?» ."
+        }
+      ]
+    },
+    {
+      "id": "lit_metaphor",
+      "subject": "Literature",
+      "title": "Метафора и сравнение",
+      "search_tags": [
+        "metaphor",
+        "figurative language",
+        "метафора",
+        "сравнение"
+      ],
+      "minutes": 12,
+      "theory": "Сравнение прямо сопоставляет явления, часто со словами «как», «словно». Метафора переносит название или признак без явного сравнения. Объясняйте, какой признак переносится и что это добавляет образу.",
+      "example": "«Озеро — зеркало» — метафора: гладкая вода отражает. «Озеро гладкое, как зеркало» — сравнение.",
+      "questions": [
+        {
+          "q": "«Лес словно море» — это:",
+          "options": [
+            "Сравнение",
+            "Дата",
+            "Термин"
+          ],
+          "answer": "Сравнение",
+          "explanation": "Слово «словно» делает сопоставление явным."
+        },
+        {
+          "q": "«Золотые руки» обычно означает:",
+          "options": [
+            "Мастерство",
+            "Руки из металла",
+            "Высокий рост"
+          ],
+          "answer": "Мастерство",
+          "explanation": "Признак ценности перенесён на умение."
+        },
+        {
+          "q": "Что нужно объяснить при анализе метафоры?",
+          "options": [
+            "Переносимый признак",
+            "Только число букв",
+            "Только фамилию автора"
+          ],
+          "answer": "Переносимый признак",
+          "explanation": "Это раскрывает смысл образа."
+        }
+      ]
+    },
+    {
+      "id": "econ_profit",
+      "subject": "Economics & Business",
+      "title": "Выручка, затраты и прибыль",
+      "search_tags": [
+        "profit",
+        "revenue",
+        "прибыль",
+        "выручка"
+      ],
+      "minutes": 12,
+      "theory": "Выручка — цена, умноженная на количество проданного. Прибыль — выручка минус все учитываемые затраты. Большая выручка сама по себе не гарантирует прибыль.",
+      "example": "Продали 10 тетрадей по 50: выручка 500. Затраты 350: прибыль 150.",
+      "questions": [
+        {
+          "q": "5 изделий по 40: выручка?",
+          "options": [
+            "200",
+            "45",
+            "8"
+          ],
+          "answer": "200",
+          "explanation": "5*40=200."
+        },
+        {
+          "q": "Выручка 800, затраты 650. Прибыль?",
+          "options": [
+            "150",
+            "1450",
+            "650"
+          ],
+          "answer": "150",
+          "explanation": "800−650=150."
+        },
+        {
+          "q": "Выручка ниже затрат означает:",
+          "options": [
+            "Убыток",
+            "Обязательно прибыль",
+            "Нулевые затраты"
+          ],
+          "answer": "Убыток",
+          "explanation": "Прибыль отрицательная."
+        }
+      ]
+    },
+    {
+      "id": "social_media",
+      "subject": "Social studies",
+      "title": "Проверка информации",
+      "search_tags": [
+        "media literacy",
+        "медиаграмотность",
+        "фейки",
+        "информация"
+      ],
+      "minutes": 12,
+      "theory": "Различайте факт, оценку и рекламу. Найдите первоисточник, автора, дату и подтверждения. Большое число репостов не доказывает правдивость. Заголовок может не отражать содержание.",
+      "example": "«Мне нравится этот фильм» — мнение. «Фильм вышел в 2020 году» — проверяемое утверждение.",
+      "questions": [
+        {
+          "q": "Что является мнением?",
+          "options": [
+            "Этот фильм прекрасен.",
+            "Фильм длится 90 минут.",
+            "Премьера была 2 мая."
+          ],
+          "answer": "Этот фильм прекрасен.",
+          "explanation": "Прекрасен — оценка."
+        },
+        {
+          "q": "Тысяча репостов доказывает истинность?",
+          "options": [
+            "Нет",
+            "Да",
+            "Только ночью"
+          ],
+          "answer": "Нет",
+          "explanation": "Популярность не заменяет доказательства."
+        },
+        {
+          "q": "Первый шаг при сомнительной новости:",
+          "options": [
+            "Найти первоисточник и дату",
+            "Сразу переслать",
+            "Прочитать только заголовок"
+          ],
+          "answer": "Найти первоисточник и дату",
+          "explanation": "Это помогает проверить контекст и происхождение."
+        }
+      ]
+    },
+    {
+      "id": "study_recall",
+      "subject": "Study skills",
+      "title": "Как запоминать: активное воспроизведение",
+      "search_tags": [
+        "active recall",
+        "память",
+        "запоминание",
+        "повторение"
+      ],
+      "minutes": 12,
+      "theory": "После изучения закройте материал и попробуйте вспомнить основные идеи. Затем сверьтесь, исправьте пробелы и повторите позже. Простое перечитывание может создавать ощущение знакомости без уверенного знания.",
+      "example": "Прочитайте объяснение дробей, закройте его, решите пример и объясните правило своими словами.",
+      "questions": [
+        {
+          "q": "Что является активным воспроизведением?",
+          "options": [
+            "Ответить без подсказки и проверить",
+            "Смотреть на текст",
+            "Подчеркнуть всё подряд"
+          ],
+          "answer": "Ответить без подсказки и проверить",
+          "explanation": "Нужно извлечь знание из памяти."
+        },
+        {
+          "q": "Что делать после ошибки?",
+          "options": [
+            "Понять и исправить её",
+            "Всегда бросать тему",
+            "Считать себя неспособным"
+          ],
+          "answer": "Понять и исправить её",
+          "explanation": "Ошибка указывает конкретный пробел."
+        },
+        {
+          "q": "Что помогает долговременному повторению?",
+          "options": [
+            "Возвращаться к материалу через интервалы",
+            "Один раз читать всю ночь",
+            "Никогда не проверять себя"
+          ],
+          "answer": "Возвращаться к материалу через интервалы",
+          "explanation": "Повторение в разные дни укрепляет знание."
+        }
+      ]
+    }
+  ]
+}
