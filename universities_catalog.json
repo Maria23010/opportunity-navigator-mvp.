@@ -7,14 +7,14 @@
   "scope": {
     "world_coverage": "partial",
     "country_count": 19,
-    "university_count": 183,
+    "university_count": 184,
     "national_route_count": 4,
-    "description": "Добавлены ОАЭ, десять университетов Азербайджана и расширены российские и австралийские записи. У каждой цифры требуется тип маршрута; отсутствующие значения не приравниваются к нулю. Каталог не охватывает все университеты каждой страны. Дополнительно включён Казахстан по предоставленному справочнику 2026/27. Дополнительно проверены музыкальные, театроведческие и педагогические бакалавриаты России с отдельными экзаменами.",
+    "description": "Добавлены ОАЭ, десять университетов Азербайджана и расширены российские и австралийские записи. У каждой цифры требуется тип маршрута; отсутствующие значения не приравниваются к нулю. Каталог не охватывает все университеты каждой страны. Дополнительно включён Казахстан по предоставленному справочнику 2026/27. Дополнительно проверены музыкальные, театроведческие и педагогические бакалавриаты России с отдельными экзаменами. Добавлен MBZUAI с двумя треками бакалавриата AI и опубликованными условиями набора 2027. Добавлен MBZUAI с двумя треками бакалавриата AI и опубликованными условиями набора 2027.",
     "unlisted_countries_status": "not_reviewed",
     "missing_value_policy": "null means unknown or not stated, never zero or no requirement",
     "applicant_citizenship": "international; eligibility differs per scholarship",
     "automatic_eligibility_decision": false,
-    "programme_count": 1563,
+    "programme_count": 1565,
     "degree_provider_count": 1
   },
   "funding_categories": {
@@ -2156,6 +2156,27 @@
       "checked_at": "2026-10-13",
       "publisher_type": "official",
       "verification_method": "Официальная таблица колледжей, проверено 13.10.2026; требования конкретного набора 2027 уточнить отдельно."
+    },
+    "mbzuai_ug_admissions": {
+      "url": "https://mbzuai.ac.ae/admissions/undergraduate-admissions",
+      "title": "MBZUAI — undergraduate admissions and scholarships 2027",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Официальные условия набора осень 2027, опубликованы на сайте университета."
+    },
+    "mbzuai_bsc_engineering": {
+      "url": "https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-engineering",
+      "title": "MBZUAI — BSc Artificial Intelligence, Engineering stream",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Отдельная официальная страница бакалаврской программы."
+    },
+    "mbzuai_bsc_business": {
+      "url": "https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-business",
+      "title": "MBZUAI — BSc Artificial Intelligence, Business stream",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Отдельная официальная страница бакалаврской программы."
     }
   },
   "profiles": {
@@ -17390,6 +17411,151 @@
       "missing_details": [
         "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
         "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_mbzuai_ug_2027": {
+      "grades": {
+        "text": "Не менее 90% среднего результата школьного аттестата или признанный эквивалент в зависимости от программы школы и конкурсного цикла. Рекомендуются сильные оценки по математике и естественным наукам; математика должна изучаться в двух последних классах. Это минимум допуска, не гарантия поступления.",
+        "status": "verified_minimum",
+        "minimum": 90,
+        "scale": "%",
+        "source_ids": [
+          "mbzuai_ug_admissions"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Внутренний screening exam MBZUAI",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Обязательное вступительное испытание, если не выдано освобождение. Темы: математика, логика, основы программирования, данные и ИИ. Проходной численный порог не опубликован.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "SAT Math + SAT Total",
+          "status": "conditional_alternative",
+          "score": "760 Math И 1400 Total",
+          "scale": "SAT",
+          "text": "Только ОСВОБОЖДЕНИЕ от внутреннего screening exam при одновременном выполнении обоих условий. SAT не обязателен для обычной подачи и не заменяет изучение математики в школе.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "ACT Math + ACT Composite",
+          "status": "conditional_alternative",
+          "score": "34 Math И 31 Composite",
+          "scale": "ACT",
+          "text": "Другой вариант освобождения от screening exam, не обязательный экзамен для всех.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "Международная олимпиада (медаль)",
+          "status": "conditional_alternative",
+          "score": null,
+          "scale": null,
+          "text": "Золото/серебро/бронза IOI, IMO, IOAI, IPhO, IBO или IChO может дать освобождение от screening exam по правилам MBZUAI.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 6.5,
+          "scale": "0–9",
+          "text": "Один из вариантов подтверждения английского для кандидата, чей первый язык не английский; возможны строго определённые исключения.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "TOEFL iBT",
+          "status": "alternative",
+          "score": 4.5,
+          "scale": "1–6 (или 90 по старой шкале)",
+          "text": "Один из языковых вариантов, опубликованная университетом запись: 90/4.5. Требуется действительный официальный результат.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "PTE Academic",
+          "status": "alternative",
+          "score": 60,
+          "scale": "10–90",
+          "text": "Альтернатива IELTS/TOEFL для подтверждения английского.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "Cambridge C1 Advanced",
+          "status": "alternative",
+          "score": 180,
+          "scale": "Cambridge English Scale",
+          "text": "Альтернатива IELTS/TOEFL для подтверждения английского.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "Cambridge C2 Proficiency",
+          "status": "alternative",
+          "score": 200,
+          "scale": "Cambridge English Scale",
+          "text": "Альтернатива IELTS/TOEFL для подтверждения английского.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "Duolingo English Test",
+          "status": "conditional_alternative",
+          "score": 120,
+          "scale": "10–160",
+          "text": "Принимается только при ограниченном доступе к другим языковым тестам; вуз может запросить подтверждение.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "MBZUAI undergraduate merit/need-based scholarships — до 100%",
+        "category": "comprehensive",
+        "coverage": {
+          "text": "Для бакалавров предусмотрены конкурсные стипендии по достижениям и финансовой нуждаемости, потенциально до 100% стоимости обучения и расходов на посещение университета. Реальное покрытие зависит от присуждённого пакета; отдельным студентам возможна помощь на жизнь.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        "remaining_costs": "Заявленная стоимость обучения: USD 45 000 в год плюс дополнительные расходы; без подтверждённой стипендии считать их покрытыми нельзя. Вступительный сбор AED 200, возможны условия отмены/возврата.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Подавать можно с признанным аттестатом за 12 классов или последнего года школы. Иностранцы могут подаваться; часть документов зависит от резидентства и школьной системы.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "text": "Мотивационное письмо, CV, оценки и сертификаты языка (или применимое освобождение); рекомендации и портфолио рекомендованы, но не обязательны. Собеседование может быть этапом конкурса.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Экзамен SAT/ACT не обязателен для всех: высокие результаты служат освобождением от внутреннего вступительного теста.",
+        "Точная академическая оценка по каждой школьной системе и индивидуальный стипендиальный пакет определяются MBZUAI; 90% не гарантируют зачисления.",
+        "Уточнить требования к апостилю, признанию аттестата и сроку загрузки окончательных документов."
       ],
       "renewal": []
     }
@@ -36632,7 +36798,8 @@
       ],
       "deadlines": [],
       "note": "Перечень программ 2026/27 из пользовательского справочника; международный приём и гранты отличаются.",
-      "checked_at": "2026-10-13"
+      "checked_at": "2026-10-13",
+      "name_ar": "جامعة الفارابي الوطنية الكازاخية"
     },
     {
       "id": "kz_enu",
@@ -36816,7 +36983,8 @@
             "source_kz_enu_catalog"
           ],
           "requirements_note": "Код 6B02121. Верификация 2026/27 по приложенному справочнику; подтверждение набора 2027 необходимо.",
-          "listing_status": "programme_in_supplied_2026_27_catalogue"
+          "listing_status": "programme_in_supplied_2026_27_catalogue",
+          "name_ar": "التصميم المعماري"
         },
         {
           "name": "Философия",
@@ -37368,7 +37536,8 @@
             "source_kz_enu_catalog"
           ],
           "requirements_note": "Код 6B07320. Верификация 2026/27 по приложенному справочнику; подтверждение набора 2027 необходимо.",
-          "listing_status": "programme_in_supplied_2026_27_catalogue"
+          "listing_status": "programme_in_supplied_2026_27_catalogue",
+          "name_ar": "عمارة المباني السكنية والعامة"
         },
         {
           "name": "Промышленное и гражданское строительство",
@@ -37439,7 +37608,8 @@
       ],
       "deadlines": [],
       "note": "Перечень программ 2026/27 из пользовательского справочника; международный приём и гранты отличаются.",
-      "checked_at": "2026-10-13"
+      "checked_at": "2026-10-13",
+      "name_ar": "جامعة ل. ن. غوميليوف الأوراسية الوطنية"
     },
     {
       "id": "kz_satbayev",
@@ -37665,7 +37835,8 @@
       ],
       "deadlines": [],
       "note": "Перечень программ 2026/27 из пользовательского справочника; международный приём и гранты отличаются.",
-      "checked_at": "2026-10-13"
+      "checked_at": "2026-10-13",
+      "name_ar": "جامعة ساتباييف"
     },
     {
       "id": "kz_aitu",
@@ -37808,7 +37979,8 @@
       ],
       "deadlines": [],
       "note": "Перечень программ 2026/27 из пользовательского справочника; международный приём и гранты отличаются.",
-      "checked_at": "2026-10-13"
+      "checked_at": "2026-10-13",
+      "name_ar": "جامعة أستانا لتكنولوجيا المعلومات"
     },
     {
       "id": "kz_kbtu",
@@ -38029,7 +38201,8 @@
       ],
       "deadlines": [],
       "note": "Перечень программ 2026/27 из пользовательского справочника; международный приём и гранты отличаются.",
-      "checked_at": "2026-10-13"
+      "checked_at": "2026-10-13",
+      "name_ar": "الجامعة التقنية الكازاخية البريطانية"
     },
     {
       "id": "kz_abai",
@@ -38782,7 +38955,8 @@
       ],
       "deadlines": [],
       "note": "Перечень программ 2026/27 из пользовательского справочника; международный приём и гранты отличаются.",
-      "checked_at": "2026-10-13"
+      "checked_at": "2026-10-13",
+      "name_ar": "جامعة أباي الكازاخية الوطنية للتربية"
     },
     {
       "id": "kz_ablai",
@@ -38956,7 +39130,8 @@
       ],
       "deadlines": [],
       "note": "Перечень программ 2026/27 из пользовательского справочника; международный приём и гранты отличаются.",
-      "checked_at": "2026-10-13"
+      "checked_at": "2026-10-13",
+      "name_ar": "جامعة أبلاي خان للعلاقات الدولية واللغات العالمية"
     },
     {
       "id": "kz_ualikhanov",
@@ -39569,7 +39744,8 @@
       ],
       "deadlines": [],
       "note": "Перечень программ 2026/27 из пользовательского справочника; международный приём и гранты отличаются.",
-      "checked_at": "2026-10-13"
+      "checked_at": "2026-10-13",
+      "name_ar": "جامعة وليخانوف"
     },
     {
       "id": "kz_buketov",
@@ -40108,7 +40284,8 @@
       ],
       "deadlines": [],
       "note": "Перечень программ 2026/27 из пользовательского справочника; международный приём и гранты отличаются.",
-      "checked_at": "2026-10-13"
+      "checked_at": "2026-10-13",
+      "name_ar": "جامعة بوكيتوف في كاراغاندا"
     },
     {
       "id": "kz_auezov",
@@ -41598,7 +41775,8 @@
       ],
       "deadlines": [],
       "note": "Перечень программ 2026/27 из пользовательского справочника; международный приём и гранты отличаются.",
-      "checked_at": "2026-10-13"
+      "checked_at": "2026-10-13",
+      "name_ar": "جامعة أويزوف"
     },
     {
       "id": "ru_gnesin",
@@ -41718,6 +41896,87 @@
       "deadlines": [],
       "note": "Документы 2026; проверяйте новое объявление перед подачей.",
       "checked_at": "2026-10-13"
+    },
+    {
+      "id": "uae_mbzuai",
+      "country_code": "AE",
+      "name": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
+      "name_ar": "جامعة محمد بن زايد للذكاء الاصطناعي (MBZUAI)",
+      "kind": "university",
+      "profile_id": "p_uae_mbzuai_ug_2027",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Набор осень 2027; Early Action до 01.11.2026, Regular Decision до 01.02.2027",
+      "source_ids": [
+        "mbzuai_ug_admissions",
+        "mbzuai_bsc_engineering",
+        "mbzuai_bsc_business"
+      ],
+      "programs": [
+        {
+          "name": "Bachelor of Science in Artificial Intelligence — Engineering",
+          "name_ar": "بكالوريوس العلوم في الذكاء الاصطناعي — مسار الهندسة",
+          "language": "Английский",
+          "field_ids": [
+            "data",
+            "computer"
+          ],
+          "search_tags": [
+            "artificial intelligence engineering",
+            "AI engineering",
+            "computer science",
+            "machine learning"
+          ],
+          "source_ids": [
+            "mbzuai_bsc_engineering",
+            "mbzuai_ug_admissions"
+          ],
+          "listing_status": "official_programme_2027",
+          "requirements_note": "Инженерный трек бакалавриата AI: 120 кредитов, 4 года, очная форма, практика и индустриальные стажировки. Правила приёма 2027 смотрите по ссылке.",
+          "profile_id": "p_uae_mbzuai_ug_2027"
+        },
+        {
+          "name": "Bachelor of Science in Artificial Intelligence — Business",
+          "name_ar": "بكالوريوس العلوم في الذكاء الاصطناعي — مسار الأعمال",
+          "language": "Английский",
+          "field_ids": [
+            "data",
+            "business"
+          ],
+          "search_tags": [
+            "artificial intelligence business",
+            "AI business",
+            "entrepreneurship in AI"
+          ],
+          "source_ids": [
+            "mbzuai_bsc_business",
+            "mbzuai_ug_admissions"
+          ],
+          "listing_status": "official_programme_2027",
+          "requirements_note": "Бизнес-трек бакалавриата AI, а не самостоятельный Bachelor of Business Administration. Правила приёма 2027 смотрите по ссылке.",
+          "profile_id": "p_uae_mbzuai_ug_2027"
+        }
+      ],
+      "deadlines": [
+        {
+          "label": "Early Action — срок заявки",
+          "date": "2026-11-01",
+          "cycle": "Fall 2027",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "label": "Regular Decision — срок заявки",
+          "date": "2027-02-01",
+          "cycle": "Fall 2027",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        }
+      ],
+      "note": "В MBZUAI на уровне бакалавриата опубликованы два трека одной степени BSc in Artificial Intelligence — инженерия и бизнес. Врачебные и другие магистерские программы не включены.",
+      "checked_at": "2026-10-13",
+      "record_status": "official_programme_verified"
     }
   ]
 }
