@@ -1,1 +1,4566 @@
-
+{
+  "schema_version": "1.0",
+  "country": {
+    "code": "AE",
+    "name": "Объединённые Арабские Эмираты",
+    "coverage": "partial_verified_official_programme_catalogues",
+    "entry_ids": [
+      "uae_uaeu",
+      "uae_aus",
+      "uae_ku",
+      "uae_nyuad",
+      "uae_sharjah",
+      "uae_adu",
+      "uae_mbzuai"
+    ]
+  },
+  "checked_at": "2026-10-13",
+  "admissions_overview": {
+    "degree_level": "Первая степень после школы (бакалавриат; отдельные клинические степени прямого поступления помечены)",
+    "admissions_cycle": "Планирование 2027: сверять с официальным набором",
+    "domestic_and_international_routes": "Для зарубежных школьников: прямое поступление в вуз с аттестатом и подтверждением языка, условия и квоты отличаются по гражданству",
+    "typical_documents_not_universal": "Аттестат с оценками, паспорт, перевод/легализация и UAE equivalency при требовании, языковой тест, остальные документы по вузу",
+    "exam_and_language_guidance": "IELTS, TOEFL, школьная математика/науки, иногда SAT/IB/A Levels; комбинации и баллы строго по программе",
+    "scholarships_caution": "Стипендии проверяются отдельно: бесплатные места для граждан ОАЭ не распространяются автоматически на иностранцев.",
+    "status": "Обзор, а не гарантированный список порогов для всех абитуриентов."
+  },
+  "sources": {
+    "uae_ku_catalog": {
+      "url": "https://www.ku.ac.ae/academics/undergraduate-programs",
+      "title": "Khalifa University — официальный каталог программ бакалавриата",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Список программ по официальному сайту, проверка набора 2027 — отдельно."
+    },
+    "uae_uaeu_catalog": {
+      "url": "https://www.uaeu.ac.ae/en/catalog/undergraduate/programs/index.shtml",
+      "title": "United Arab Emirates University (UAEU) — официальный каталог программ бакалавриата",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Список программ по официальному сайту, проверка набора 2027 — отдельно."
+    },
+    "uae_nyuad_catalog": {
+      "url": "https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors.html",
+      "title": "New York University Abu Dhabi (NYUAD) — официальный каталог программ бакалавриата",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Список программ по официальному сайту, проверка набора 2027 — отдельно."
+    },
+    "uae_sharjah_admission": {
+      "url": "https://www.sharjah.ac.ae/Admissions/bachelors-degree",
+      "title": "University of Sharjah — правила приёма и экзамены",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Страница официального сайта; требования и открытие набора 2027 сверяются по циклу и гражданству."
+    },
+    "uae_ku_admission": {
+      "url": "https://www.ku.ac.ae/undergraduate-admissions",
+      "title": "Khalifa University — правила приёма и экзамены",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Страница официального сайта; требования и открытие набора 2027 сверяются по циклу и гражданству."
+    },
+    "uae_sharjah_catalog": {
+      "url": "https://www.sharjah.ac.ae/Admissions/Bachelors-Degree",
+      "title": "University of Sharjah — официальный каталог программ бакалавриата",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Список программ по официальному сайту, проверка набора 2027 — отдельно."
+    },
+    "uae_adu_catalog": {
+      "url": "https://www.adu.ac.ae/study/colleges/college-of-engineering/programs",
+      "title": "Abu Dhabi University — официальный каталог программ бакалавриата",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Список программ по официальному сайту, проверка набора 2027 — отдельно."
+    },
+    "uae_aus_catalog": {
+      "url": "https://www.aus.edu/academics/departments-and-programs",
+      "title": "American University of Sharjah (AUS) — официальный каталог программ бакалавриата",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Список программ по официальному сайту, проверка набора 2027 — отдельно."
+    },
+    "uae_adu_admission": {
+      "url": "https://www.adu.ac.ae/admissions/undergraduate-programs/english-proficiency",
+      "title": "Abu Dhabi University — правила приёма и экзамены",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Страница официального сайта; требования и открытие набора 2027 сверяются по циклу и гражданству."
+    },
+    "uae_uaeu_admission": {
+      "url": "https://www.uaeu.ac.ae/en/admission/international-students-and-children-of-uaeu-employees.shtml",
+      "title": "United Arab Emirates University (UAEU) — правила приёма и экзамены",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Страница официального сайта; требования и открытие набора 2027 сверяются по циклу и гражданству."
+    },
+    "uae_nyuad_admission": {
+      "url": "https://nyuad.nyu.edu/en/apply/undergraduate/apply/entry-requirements.html",
+      "title": "New York University Abu Dhabi (NYUAD) — правила приёма и экзамены",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Страница официального сайта; требования и открытие набора 2027 сверяются по циклу и гражданству."
+    },
+    "uae_aus_admission": {
+      "url": "https://www.aus.edu/admissions/bachelors-degrees/application-requirements",
+      "title": "American University of Sharjah (AUS) — правила приёма и экзамены",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Страница официального сайта; требования и открытие набора 2027 сверяются по циклу и гражданству."
+    },
+    "uae_sharjah_2026_by_program": {
+      "url": "https://www.sharjah.ac.ae/Admissions/TEST-of-Bachelors-Degree",
+      "title": "University of Sharjah — минимальные требования по колледжам и школьным квалификациям",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Официальная таблица колледжей, проверено 13.10.2026; требования конкретного набора 2027 уточнить отдельно."
+    },
+    "mbzuai_ug_admissions": {
+      "url": "https://mbzuai.ac.ae/admissions/undergraduate-admissions",
+      "title": "MBZUAI — undergraduate admissions and scholarships 2027",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Официальные условия набора осень 2027, опубликованы на сайте университета."
+    },
+    "mbzuai_bsc_engineering": {
+      "url": "https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-engineering",
+      "title": "MBZUAI — BSc Artificial Intelligence, Engineering stream",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Отдельная официальная страница бакалаврской программы."
+    },
+    "mbzuai_bsc_business": {
+      "url": "https://mbzuai.ac.ae/academics/undergraduate-program/bachelor-in-artificial-intelligence-business",
+      "title": "MBZUAI — BSc Artificial Intelligence, Business stream",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Отдельная официальная страница бакалаврской программы."
+    }
+  },
+  "profiles": {
+    "p_uae_uaeu": {
+      "grades": {
+        "text": "Для иностранных заявителей UAEU: оценки учитываются конкурсно. Численный единый минимальный общий балл аттестата для всех курсов не установлен в этой карточке; предметные пороги зависят от колледжа.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_uaeu_admission"
+        ]
+      },
+      "exams": [
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.5,
+          "scale": "9",
+          "text": "Международный путь (UAEU International Students); ИЛИ TOEFL. Не путать с другой страницей для иных категорий кандидатов.",
+          "source_ids": [
+            "uae_uaeu_admission"
+          ]
+        },
+        {
+          "test": "TOEFL iBT",
+          "status": "alternative",
+          "score": 70,
+          "scale": "0–120 (устаревшая публикация)",
+          "text": "Международный путь (шкала 0–120, опубликованное требование). Уточните применяемую вузом шкалу TOEFL с 2026 года.",
+          "source_ids": [
+            "uae_uaeu_admission"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_uaeu_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_uaeu_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для UAEU отдельная страница других категорий указывает IELTS 5.0 — не переносите этот порог на международный маршрут.",
+        "Иностранная квота, наличие мест и условия отдельного колледжа требуют проверки."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah": {
+      "grades": {
+        "text": "Университет Шарджи: баллы различаются по факультету и школьной системе (IB, A Levels, UAE, American). Медицинские направления имеют отдельные пороги. Число нельзя применять ко всем программам.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_admission"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный аттестат / IB",
+          "status": "conditional",
+          "score": 24,
+          "scale": "45",
+          "text": "Для маршрута полного IB Diploma общая базовая граница ≥24/45; это не предел для стоматологии/медицины/фармации.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_pharm": {
+      "grades": {
+        "text": "Фармация: опубликованный порог для подходящих школьных маршрутов ≥85% либо IB ≥29/45; нужны математика и две науки.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_admission"
+        ]
+      },
+      "exams": [
+        {
+          "test": "IB Diploma",
+          "status": "alternative",
+          "score": 29,
+          "scale": "45",
+          "text": "Обязательная комбинация дисциплин Maths + две науки, профильные HL/SL оценки по правилам программы; альтернатива другим признаваемым аттестатам.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        {
+          "test": "Аттестат — средний балл",
+          "status": "alternative",
+          "score": 85,
+          "scale": "%",
+          "text": "Для указанного типа школьной квалификации; не эквивалент IB. Нужно подтверждение наук.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Доступность зависит от школьной системы и подтверждённых предметных баллов.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "p_uae_ku": {
+      "grades": {
+        "text": "Аттестат Grade 12, конкурсный отбор. Для предметов математика/естественные науки: 80% по Advanced/Elite или 90% по General Track; либо IB 4, A Level C, SAT Math 625 по описанным альтернативам. Это пороги ПО ПРЕДМЕТУ, не средний GPA.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_ku_admission"
+        ]
+      },
+      "exams": [
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 6.0,
+          "scale": "9",
+          "text": "Обязательное подтверждение английского; ИЛИ TOEFL.",
+          "source_ids": [
+            "uae_ku_admission"
+          ]
+        },
+        {
+          "test": "TOEFL iBT",
+          "status": "alternative",
+          "score": 79,
+          "scale": "0–120",
+          "text": "Альтернатива IELTS; опубликован 79 по старой шкале 0–120, политику 1–6 проверить отдельно.",
+          "source_ids": [
+            "uae_ku_admission"
+          ]
+        },
+        {
+          "test": "Математика — школьный предмет",
+          "status": "required",
+          "score": 80,
+          "scale": "%",
+          "text": "Минимум 80% для Advanced/Elite или 90% для General Track; альтернативы SAT Math ≥625, A Level C, IB 4, AP 2.",
+          "source_ids": [
+            "uae_ku_admission"
+          ]
+        },
+        {
+          "test": "Физика / химия / биология",
+          "status": "conditional",
+          "score": 80,
+          "scale": "%",
+          "text": "Нужные науки зависят от программы; для Engineering обычно физика; Advanced/Elite 80% или General 90%.",
+          "source_ids": [
+            "uae_ku_admission"
+          ]
+        },
+        {
+          "test": "KUAT (внутренние испытания)",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Назначается shortlisted кандидатам; сильные кандидаты могут получить освобождение; проверяйте предметы программы.",
+          "source_ids": [
+            "uae_ku_admission"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_ku_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_ku_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "p_uae_aus": {
+      "grades": {
+        "text": "Для многих школьных квалификаций ориентир поступления — средний результат около 85%, иногда требуется выше. Для American High School Diploma SAT Math ≥450; требования к другим аттестатам отличаются.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_aus_admission"
+        ]
+      },
+      "exams": [
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 6.5,
+          "scale": "9",
+          "text": "Одно подтверждение английского: IELTS ИЛИ TOEFL (не оба).",
+          "source_ids": [
+            "uae_aus_admission"
+          ]
+        },
+        {
+          "test": "TOEFL iBT",
+          "status": "alternative",
+          "score": 4.5,
+          "scale": "1–6",
+          "text": "Новая шкала 1–6 (соответствует прежнему ориентиру 80 iBT), официальная таблица AUS.",
+          "source_ids": [
+            "uae_aus_admission"
+          ]
+        },
+        {
+          "test": "SAT Math",
+          "status": "conditional",
+          "score": 450,
+          "scale": "800",
+          "text": "Обязательно для American/SABIS high school diploma, не для всех аттестатов.",
+          "source_ids": [
+            "uae_aus_admission"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_aus_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_aus_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для STEM дополнительно требуются оценки по физике/математике; проверить по конкретному бакалавриату.",
+        "85% — опубликованный ориентир для ряда аттестатов; не гарантирует поступление."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_med": {
+      "grades": {
+        "text": "Медицинская программа: 95% Advanced Track либо IB ≥35/45. Медицина доступна только с аттестатом, полученным в ОАЭ.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_admission"
+        ]
+      },
+      "exams": [
+        {
+          "test": "IB Diploma",
+          "status": "alternative",
+          "score": 35,
+          "scale": "45",
+          "text": "Обязательная комбинация дисциплин Maths + две науки, профильные HL/SL оценки по правилам программы; альтернатива другим признаваемым аттестатам.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        {
+          "test": "Аттестат — средний балл",
+          "status": "alternative",
+          "score": 95,
+          "scale": "%",
+          "text": "Для указанного типа школьной квалификации; не эквивалент IB. Нужно подтверждение наук.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Только аттестат ОАЭ для Medicine; уточните статус и язык.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "p_uae_adu": {
+      "grades": {
+        "text": "Для ADU опубликованы требования по отдельным школьным маршрутам и колледжам. Единого обязательного среднего GPA для всех программ здесь не подтверждено.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_adu_admission"
+        ]
+      },
+      "exams": [
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.0,
+          "scale": "9",
+          "text": "Общее требование английского для большинства англоязычных программ; ИЛИ TOEFL или иное признаваемое подтверждение.",
+          "source_ids": [
+            "uae_adu_admission"
+          ]
+        },
+        {
+          "test": "TOEFL iBT",
+          "status": "alternative",
+          "score": 61,
+          "scale": "0–120",
+          "text": "Публикуется 61 по старой шкале 0–120; уточнить после обновления TOEFL iBT.",
+          "source_ids": [
+            "uae_adu_admission"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_adu_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_adu_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_dent": {
+      "grades": {
+        "text": "Стоматология: опубликованный порог для подходящих школьных маршрутов ≥85% либо IB ≥29/45; нужны математика и две науки.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_admission"
+        ]
+      },
+      "exams": [
+        {
+          "test": "IB Diploma",
+          "status": "alternative",
+          "score": 29,
+          "scale": "45",
+          "text": "Обязательная комбинация дисциплин Maths + две науки, профильные HL/SL оценки по правилам программы; альтернатива другим признаваемым аттестатам.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        {
+          "test": "Аттестат — средний балл",
+          "status": "alternative",
+          "score": 85,
+          "scale": "%",
+          "text": "Для указанного типа школьной квалификации; не эквивалент IB. Нужно подтверждение наук.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Доступность зависит от школьной системы и подтверждённых предметных баллов.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "p_uae_nyuad": {
+      "grades": {
+        "text": "NYU Abu Dhabi: конкурсный отбор по школьным результатам, установленного единого минимального GPA в процентах университет не публикует на указанной странице.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_nyuad_admission"
+        ]
+      },
+      "exams": [
+        {
+          "test": "SAT / ACT",
+          "status": "optional",
+          "score": null,
+          "scale": null,
+          "text": "Test-optional до цикла заявок 2027–2028: результаты не обязательны; при желании можно приложить.",
+          "source_ids": [
+            "uae_nyuad_admission"
+          ]
+        },
+        {
+          "test": "Английский язык",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Если родной язык не английский, обычно требуется подтверждение английского; конкретный тест и исключения зависят от профиля.",
+          "source_ids": [
+            "uae_nyuad_admission"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_nyuad_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_nyuad_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_00": {
+      "grades": {
+        "text": "Школьный маршрут: UAE Advanced / UAE General; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — UAE Advanced",
+          "status": "alternative",
+          "score": 75,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Industrial Engineering & Engineering Management». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Школьный средний балл — UAE General",
+          "status": "alternative",
+          "score": 85,
+          "scale": "%",
+          "text": "Альтернативный порог для общего школьного потока ОАЭ. Только при соблюдении требований к предметам.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Математика (школьная)",
+          "status": "conditional",
+          "score": 80,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Физика (школьная)",
+          "status": "conditional",
+          "score": 80,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Химия ИЛИ биология (школьная)",
+          "status": "conditional",
+          "score": 80,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.5,
+          "scale": "9",
+          "text": "Подтверждение языка. IELTS ИЛИ принятый вузом альтернативный тест (не оба одновременно).",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "TOEFL iBT — балл со страницы вуза",
+          "status": "alternative",
+          "score": 61,
+          "scale": "0–120 (старая шкала)",
+          "text": "В публикации вуза используется численный балл старой шкалы TOEFL. Правило для новой шкалы 1–6 нужно подтвердить отдельно.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_01": {
+      "grades": {
+        "text": "Школьный маршрут: Все школьные потоки UAE; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — школьные потоки UAE",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Information Technology – Multimedia». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Математика — для UAE General",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Одна естественная наука — для UAE General",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.5,
+          "scale": "9",
+          "text": "Подтверждение языка. IELTS ИЛИ принятый вузом альтернативный тест (не оба одновременно).",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "TOEFL iBT — балл со страницы вуза",
+          "status": "alternative",
+          "score": 61,
+          "scale": "0–120 (старая шкала)",
+          "text": "В публикации вуза используется численный балл старой шкалы TOEFL. Правило для новой шкалы 1–6 нужно подтвердить отдельно.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_02": {
+      "grades": {
+        "text": "Школьный маршрут: Все школьные потоки UAE; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — школьные потоки UAE",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «International Relations». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.5,
+          "scale": "9",
+          "text": "Подтверждение языка. IELTS ИЛИ принятый вузом альтернативный тест (не оба одновременно).",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "TOEFL iBT — балл со страницы вуза",
+          "status": "alternative",
+          "score": 61,
+          "scale": "0–120 (старая шкала)",
+          "text": "В публикации вуза используется численный балл старой шкалы TOEFL. Правило для новой шкалы 1–6 нужно подтвердить отдельно.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_03": {
+      "grades": {
+        "text": "Школьный маршрут: Все школьные потоки UAE; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — школьные потоки UAE",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Mass Communication – Digital Media Studies». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        {
+          "text": "Название подпрограммы в базе нужно сопоставить с актуальными направлениями Communication; языковые минимумы 4.0 и 5.5 относятся к разным программам.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_04": {
+      "grades": {
+        "text": "Школьный маршрут: Все школьные потоки UAE; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — школьные потоки UAE",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Mass Communication – Media Production». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        {
+          "text": "Название подпрограммы в базе нужно сопоставить с актуальными направлениями Communication; языковые минимумы 4.0 и 5.5 относятся к разным программам.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_05": {
+      "grades": {
+        "text": "Школьный маршрут: Все школьные потоки UAE; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — школьные потоки UAE",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Mathematics». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Математика — для UAE General",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Одна естественная наука — для UAE General",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.5,
+          "scale": "9",
+          "text": "Подтверждение языка. IELTS ИЛИ принятый вузом альтернативный тест (не оба одновременно).",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "TOEFL iBT — балл со страницы вуза",
+          "status": "alternative",
+          "score": 61,
+          "scale": "0–120 (старая шкала)",
+          "text": "В публикации вуза используется численный балл старой шкалы TOEFL. Правило для новой шкалы 1–6 нужно подтвердить отдельно.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_06": {
+      "grades": {
+        "text": "Школьный маршрут: UAE Advanced / UAE General; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — UAE Advanced",
+          "status": "alternative",
+          "score": 75,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Mechanical Engineering». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Школьный средний балл — UAE General",
+          "status": "alternative",
+          "score": 85,
+          "scale": "%",
+          "text": "Альтернативный порог для общего школьного потока ОАЭ. Только при соблюдении требований к предметам.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Математика (школьная)",
+          "status": "conditional",
+          "score": 80,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Физика (школьная)",
+          "status": "conditional",
+          "score": 80,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Химия ИЛИ биология (школьная)",
+          "status": "conditional",
+          "score": 80,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.5,
+          "scale": "9",
+          "text": "Подтверждение языка. IELTS ИЛИ принятый вузом альтернативный тест (не оба одновременно).",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "TOEFL iBT — балл со страницы вуза",
+          "status": "alternative",
+          "score": 61,
+          "scale": "0–120 (старая шкала)",
+          "text": "В публикации вуза используется численный балл старой шкалы TOEFL. Правило для новой шкалы 1–6 нужно подтвердить отдельно.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_07": {
+      "grades": {
+        "text": "Школьный маршрут: UAE Advanced / UAE General; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — UAE Advanced",
+          "status": "alternative",
+          "score": 75,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Medical Laboratory Sciences». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Школьный средний балл — UAE General",
+          "status": "alternative",
+          "score": 85,
+          "scale": "%",
+          "text": "Альтернативный порог для общего школьного потока ОАЭ. Только при соблюдении требований к предметам.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Математика (школьная)",
+          "status": "conditional",
+          "score": 75,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Химия ИЛИ биология (школьная)",
+          "status": "conditional",
+          "score": 75,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.5,
+          "scale": "9",
+          "text": "Подтверждение языка. IELTS ИЛИ принятый вузом альтернативный тест (не оба одновременно).",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "TOEFL iBT — балл со страницы вуза",
+          "status": "alternative",
+          "score": 61,
+          "scale": "0–120 (старая шкала)",
+          "text": "В публикации вуза используется численный балл старой шкалы TOEFL. Правило для новой шкалы 1–6 нужно подтвердить отдельно.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_08": {
+      "grades": {
+        "text": "Школьный маршрут: UAE Advanced / UAE General; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — UAE Advanced",
+          "status": "alternative",
+          "score": 75,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Nuclear Engineering». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Школьный средний балл — UAE General",
+          "status": "alternative",
+          "score": 85,
+          "scale": "%",
+          "text": "Альтернативный порог для общего школьного потока ОАЭ. Только при соблюдении требований к предметам.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Математика (школьная)",
+          "status": "conditional",
+          "score": 80,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Физика (школьная)",
+          "status": "conditional",
+          "score": 80,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Химия ИЛИ биология (школьная)",
+          "status": "conditional",
+          "score": 80,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.5,
+          "scale": "9",
+          "text": "Подтверждение языка. IELTS ИЛИ принятый вузом альтернативный тест (не оба одновременно).",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "TOEFL iBT — балл со страницы вуза",
+          "status": "alternative",
+          "score": 61,
+          "scale": "0–120 (старая шкала)",
+          "text": "В публикации вуза используется численный балл старой шкалы TOEFL. Правило для новой шкалы 1–6 нужно подтвердить отдельно.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_09": {
+      "grades": {
+        "text": "Школьный маршрут: UAE Advanced / UAE General; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — UAE Advanced",
+          "status": "alternative",
+          "score": 75,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Nursing». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Школьный средний балл — UAE General",
+          "status": "alternative",
+          "score": 85,
+          "scale": "%",
+          "text": "Альтернативный порог для общего школьного потока ОАЭ. Только при соблюдении требований к предметам.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Математика (школьная)",
+          "status": "conditional",
+          "score": 75,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Химия ИЛИ биология (школьная)",
+          "status": "conditional",
+          "score": 75,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.5,
+          "scale": "9",
+          "text": "Подтверждение языка. IELTS ИЛИ принятый вузом альтернативный тест (не оба одновременно).",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "TOEFL iBT — балл со страницы вуза",
+          "status": "alternative",
+          "score": 61,
+          "scale": "0–120 (старая шкала)",
+          "text": "В публикации вуза используется численный балл старой шкалы TOEFL. Правило для новой шкалы 1–6 нужно подтвердить отдельно.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_10": {
+      "grades": {
+        "text": "Школьный маршрут: UAE Advanced; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — UAE Advanced",
+          "status": "conditional",
+          "score": 85,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Pharmacy». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Математика (школьная)",
+          "status": "conditional",
+          "score": 80,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Два естественно-научных предмета (школьные)",
+          "status": "conditional",
+          "score": 80,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IB Diploma (для этого факультета)",
+          "status": "alternative",
+          "score": 29,
+          "scale": "45",
+          "text": "Отдельный маршрут IB; также установлены профильные требования по математике и естественным наукам.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.5,
+          "scale": "9",
+          "text": "Подтверждение языка. IELTS ИЛИ принятый вузом альтернативный тест (не оба одновременно).",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "TOEFL iBT — балл со страницы вуза",
+          "status": "alternative",
+          "score": 61,
+          "scale": "0–120 (старая шкала)",
+          "text": "В публикации вуза используется численный балл старой шкалы TOEFL. Правило для новой шкалы 1–6 нужно подтвердить отдельно.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_11": {
+      "grades": {
+        "text": "Школьный маршрут: UAE Advanced / UAE General; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — UAE Advanced",
+          "status": "alternative",
+          "score": 75,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Physiotherapy». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Школьный средний балл — UAE General",
+          "status": "alternative",
+          "score": 85,
+          "scale": "%",
+          "text": "Альтернативный порог для общего школьного потока ОАЭ. Только при соблюдении требований к предметам.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Математика (школьная)",
+          "status": "conditional",
+          "score": 75,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Химия ИЛИ биология (школьная)",
+          "status": "conditional",
+          "score": 75,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.5,
+          "scale": "9",
+          "text": "Подтверждение языка. IELTS ИЛИ принятый вузом альтернативный тест (не оба одновременно).",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "TOEFL iBT — балл со страницы вуза",
+          "status": "alternative",
+          "score": 61,
+          "scale": "0–120 (старая шкала)",
+          "text": "В публикации вуза используется численный балл старой шкалы TOEFL. Правило для новой шкалы 1–6 нужно подтвердить отдельно.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_12": {
+      "grades": {
+        "text": "Школьный маршрут: UAE Advanced; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — UAE Advanced",
+          "status": "conditional",
+          "score": 85,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Bachelor of Dental Surgery (BDS)». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Математика (школьная)",
+          "status": "conditional",
+          "score": 90,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Два естественно-научных предмета (школьные)",
+          "status": "conditional",
+          "score": 90,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IB Diploma (для этого факультета)",
+          "status": "alternative",
+          "score": 29,
+          "scale": "45",
+          "text": "Отдельный маршрут IB; также установлены профильные требования по математике и естественным наукам.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.5,
+          "scale": "9",
+          "text": "Подтверждение языка. IELTS ИЛИ принятый вузом альтернативный тест (не оба одновременно).",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "TOEFL iBT — балл со страницы вуза",
+          "status": "alternative",
+          "score": 61,
+          "scale": "0–120 (старая шкала)",
+          "text": "В публикации вуза используется численный балл старой шкалы TOEFL. Правило для новой шкалы 1–6 нужно подтвердить отдельно.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_13": {
+      "grades": {
+        "text": "Школьный маршрут: UAE Advanced; медицинская программа не является обычным бакалавриатом; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — UAE Advanced",
+          "status": "conditional",
+          "score": 95,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Doctor of Medicine (MD) — первичная профессиональная программа после школы». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Математика (школьная)",
+          "status": "conditional",
+          "score": 90,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Два естественно-научных предмета (школьные)",
+          "status": "conditional",
+          "score": 90,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IB Diploma (для этого факультета)",
+          "status": "alternative",
+          "score": 35,
+          "scale": "45",
+          "text": "Отдельный маршрут IB; также установлены профильные требования по математике и естественным наукам.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.5,
+          "scale": "9",
+          "text": "Подтверждение языка. IELTS ИЛИ принятый вузом альтернативный тест (не оба одновременно).",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "TOEFL iBT — балл со страницы вуза",
+          "status": "alternative",
+          "score": 61,
+          "scale": "0–120 (старая шкала)",
+          "text": "В публикации вуза используется численный балл старой шкалы TOEFL. Правило для новой шкалы 1–6 нужно подтвердить отдельно.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        {
+          "text": "Поступление на медицину возможно только при наличии школьного аттестата, полученного в ОАЭ. Минимум не означает прохождение конкурсного отбора.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_14": {
+      "grades": {
+        "text": "Школьный маршрут: Все школьные потоки UAE; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — школьные потоки UAE",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «History and Islamic Civilization». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_15": {
+      "grades": {
+        "text": "Школьный маршрут: Все школьные потоки UAE; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — школьные потоки UAE",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Sociology». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_16": {
+      "grades": {
+        "text": "Школьный маршрут: Все школьные потоки UAE; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — школьные потоки UAE",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Early Childhood». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 4.0,
+          "scale": "9",
+          "text": "Подтверждение языка. IELTS ИЛИ принятый вузом альтернативный тест (не оба одновременно).",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "TOEFL iBT — балл со страницы вуза",
+          "status": "alternative",
+          "score": 31,
+          "scale": "0–120 (старая шкала)",
+          "text": "В публикации вуза используется численный балл старой шкалы TOEFL. Правило для новой шкалы 1–6 нужно подтвердить отдельно.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_17": {
+      "grades": {
+        "text": "Школьный маршрут: Все школьные потоки UAE; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — школьные потоки UAE",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Special Education». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_18": {
+      "grades": {
+        "text": "Школьный маршрут: Все школьные потоки UAE; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — школьные потоки UAE",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «English Language and Literature». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.5,
+          "scale": "9",
+          "text": "Подтверждение языка. IELTS ИЛИ принятый вузом альтернативный тест (не оба одновременно).",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "TOEFL iBT — балл со страницы вуза",
+          "status": "alternative",
+          "score": 61,
+          "scale": "0–120 (старая шкала)",
+          "text": "В публикации вуза используется численный балл старой шкалы TOEFL. Правило для новой шкалы 1–6 нужно подтвердить отдельно.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_19": {
+      "grades": {
+        "text": "Школьный маршрут: Все школьные потоки UAE; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — школьные потоки UAE",
+          "status": "conditional",
+          "score": 75,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Law (Arabic)». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Математика (школьная)",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_sharjah_course_20": {
+      "grades": {
+        "text": "Школьный маршрут: Все школьные потоки UAE; требуется признанный аттестат. Для IB, A Levels и иных систем действуют собственные таблицы. Минимумы не гарантируют зачисление.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "uae_sharjah_2026_by_program"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Школьный средний балл — школьные потоки UAE",
+          "status": "conditional",
+          "score": 75,
+          "scale": "%",
+          "text": "Только для соответствующего школьного потока ОАЭ, программа «Law in English». Минимальный допуск, не проходной конкурсный балл.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "Математика (школьная)",
+          "status": "conditional",
+          "score": 70,
+          "scale": "%",
+          "text": "Требование к оценке по предмету в применимом школьном маршруте ОАЭ. Для другой системы (IB/A levels) используйте официальную таблицу.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 5.5,
+          "scale": "9",
+          "text": "Подтверждение языка. IELTS ИЛИ принятый вузом альтернативный тест (не оба одновременно).",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        },
+        {
+          "test": "TOEFL iBT — балл со страницы вуза",
+          "status": "alternative",
+          "score": 61,
+          "scale": "0–120 (старая шкала)",
+          "text": "В публикации вуза используется численный балл старой шкалы TOEFL. Правило для новой шкалы 1–6 нужно подтвердить отдельно.",
+          "source_ids": [
+            "uae_sharjah_2026_by_program"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "uae_sharjah_admission"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Проверить выбранный факультет в опубликованной таблице по стране аттестата.",
+        "Подтвердить критерии для вашего гражданства и системы школьного аттестата, а также условия набора 2027/28."
+      ],
+      "renewal": []
+    },
+    "p_uae_mbzuai_ug_2027": {
+      "grades": {
+        "text": "Не менее 90% среднего результата школьного аттестата или признанный эквивалент в зависимости от программы школы и конкурсного цикла. Рекомендуются сильные оценки по математике и естественным наукам; математика должна изучаться в двух последних классах. Это минимум допуска, не гарантия поступления.",
+        "status": "verified_minimum",
+        "minimum": 90,
+        "scale": "%",
+        "source_ids": [
+          "mbzuai_ug_admissions"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Внутренний screening exam MBZUAI",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Обязательное вступительное испытание, если не выдано освобождение. Темы: математика, логика, основы программирования, данные и ИИ. Проходной численный порог не опубликован.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "SAT Math + SAT Total",
+          "status": "conditional_alternative",
+          "score": "760 Math И 1400 Total",
+          "scale": "SAT",
+          "text": "Только ОСВОБОЖДЕНИЕ от внутреннего screening exam при одновременном выполнении обоих условий. SAT не обязателен для обычной подачи и не заменяет изучение математики в школе.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "ACT Math + ACT Composite",
+          "status": "conditional_alternative",
+          "score": "34 Math И 31 Composite",
+          "scale": "ACT",
+          "text": "Другой вариант освобождения от screening exam, не обязательный экзамен для всех.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "Международная олимпиада (медаль)",
+          "status": "conditional_alternative",
+          "score": null,
+          "scale": null,
+          "text": "Золото/серебро/бронза IOI, IMO, IOAI, IPhO, IBO или IChO может дать освобождение от screening exam по правилам MBZUAI.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 6.5,
+          "scale": "0–9",
+          "text": "Один из вариантов подтверждения английского для кандидата, чей первый язык не английский; возможны строго определённые исключения.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "TOEFL iBT",
+          "status": "alternative",
+          "score": 4.5,
+          "scale": "1–6 (или 90 по старой шкале)",
+          "text": "Один из языковых вариантов, опубликованная университетом запись: 90/4.5. Требуется действительный официальный результат.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "PTE Academic",
+          "status": "alternative",
+          "score": 60,
+          "scale": "10–90",
+          "text": "Альтернатива IELTS/TOEFL для подтверждения английского.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "Cambridge C1 Advanced",
+          "status": "alternative",
+          "score": 180,
+          "scale": "Cambridge English Scale",
+          "text": "Альтернатива IELTS/TOEFL для подтверждения английского.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "Cambridge C2 Proficiency",
+          "status": "alternative",
+          "score": 200,
+          "scale": "Cambridge English Scale",
+          "text": "Альтернатива IELTS/TOEFL для подтверждения английского.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "test": "Duolingo English Test",
+          "status": "conditional_alternative",
+          "score": 120,
+          "scale": "10–160",
+          "text": "Принимается только при ограниченном доступе к другим языковым тестам; вуз может запросить подтверждение.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "MBZUAI undergraduate merit/need-based scholarships — до 100%",
+        "category": "comprehensive",
+        "coverage": {
+          "text": "Для бакалавров предусмотрены конкурсные стипендии по достижениям и финансовой нуждаемости, потенциально до 100% стоимости обучения и расходов на посещение университета. Реальное покрытие зависит от присуждённого пакета; отдельным студентам возможна помощь на жизнь.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        "remaining_costs": "Заявленная стоимость обучения: USD 45 000 в год плюс дополнительные расходы; без подтверждённой стипендии считать их покрытыми нельзя. Вступительный сбор AED 200, возможны условия отмены/возврата.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Подавать можно с признанным аттестатом за 12 классов или последнего года школы. Иностранцы могут подаваться; часть документов зависит от резидентства и школьной системы.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "text": "Мотивационное письмо, CV, оценки и сертификаты языка (или применимое освобождение); рекомендации и портфолио рекомендованы, но не обязательны. Собеседование может быть этапом конкурса.",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Экзамен SAT/ACT не обязателен для всех: высокие результаты служат освобождением от внутреннего вступительного теста.",
+        "Точная академическая оценка по каждой школьной системе и индивидуальный стипендиальный пакет определяются MBZUAI; 90% не гарантируют зачисления.",
+        "Уточнить требования к апостилю, признанию аттестата и сроку загрузки окончательных документов."
+      ],
+      "renewal": []
+    }
+  },
+  "entries": [
+    {
+      "id": "uae_uaeu",
+      "country_code": "AE",
+      "name": "United Arab Emirates University (UAEU)",
+      "kind": "university",
+      "profile_id": "p_uae_uaeu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Официальные программы; сроки набора 2027 уточняются",
+      "source_ids": [
+        "uae_uaeu_catalog"
+      ],
+      "programs": [
+        {
+          "name": "Bachelor of Economics",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Finance and Banking",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "finance"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Statistics and Data Analytics",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "statistics",
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Accounting",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Business Administration in Human Resources Management and Development",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Business Administration in Supply Chain Management and Logistics",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "business",
+            "logistics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Business Administration in Marketing",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Business Administration in Entrepreneurship",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Education in Early Childhood",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Education in Health and Physical Education",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Education in Special Education",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Architectural Engineering",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "architecture",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Chemical Engineering",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Petroleum Engineering",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Civil Engineering",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "civil",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Electrical Engineering",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "electrical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Communication Engineering",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Mechanical Engineering",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "mechanical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Aerospace Engineering",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "aerospace",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Agricultural Resource Management",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "agriculture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Horticulture",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "agriculture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Marine Fisheries and Animal Science",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "agriculture",
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Veterinary Medicine",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "veterinary",
+            "medicine"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Arts in Arabic Language and Literature",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Arts in Translation Studies",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Arts in English Literature",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Arts in Tourism Studies",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "tourism"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Arts in History and Archaeology",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "history"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Social Work",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "social_work"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Arts in Psychology",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Arts in Linguistics",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Arts in Mass Communication",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "journalism"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Arts in Visual Studies and Creative Industries",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "design",
+            "art"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Arts in Geography",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Arts in Political Science",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Applied Sociology and Social Data Analytics",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "sociology",
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Information Security",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Information Technology",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Computer and Artificial Intelligence Engineering",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "computer",
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Computer Science",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Data Science and Artificial Intelligence",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Law",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Nutritional Science",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Dietetics",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Speech-Language Pathology",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "biology",
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Biology",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Chemistry",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Biochemistry",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "biology",
+            "chemistry"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Geosciences",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in the Mathematics of Data Science",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "math",
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Mathematics",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Space Sciences",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "aerospace",
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Physics",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Food Science",
+          "language": "Уточнить",
+          "field_ids": [
+            "agriculture",
+            "chemistry"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_uaeu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Указано в официальном каталоге UAEU; проверить цикл 2027."
+        }
+      ],
+      "deadlines": [],
+      "note": "Источник — официальный каталог. Для международных школьников необходимо проверить право поступления и точные пороги конкретной программы.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "uae_aus",
+      "country_code": "AE",
+      "name": "American University of Sharjah (AUS)",
+      "kind": "university",
+      "profile_id": "p_uae_aus",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Официальные программы; сроки набора 2027 уточняются",
+      "source_ids": [
+        "uae_aus_catalog"
+      ],
+      "programs": [
+        {
+          "name": "Bachelor of Architecture",
+          "language": "English",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_aus_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Arts in Economics",
+          "language": "English",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_aus_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Arts in English Language and Literature",
+          "language": "English",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_aus_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Industrial Engineering",
+          "language": "English",
+          "field_ids": [
+            "industrial"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_aus_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Electrical Engineering",
+          "language": "English",
+          "field_ids": [
+            "electrical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_aus_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Mechanical Engineering",
+          "language": "English",
+          "field_ids": [
+            "mechanical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_aus_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Intelligent Systems and Mechatronics Engineering",
+          "language": "English",
+          "field_ids": [
+            "manufacturing",
+            "electrical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_aus_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Mathematics",
+          "language": "English",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_aus_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Physics",
+          "language": "English",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_aus_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Environmental Sciences and Sustainability",
+          "language": "English",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_aus_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Film and New Media Design",
+          "language": "English",
+          "field_ids": [
+            "media",
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_aus_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Graphic Design",
+          "language": "English",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_aus_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Источник — официальный каталог. Для международных школьников необходимо проверить право поступления и точные пороги конкретной программы.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "uae_ku",
+      "country_code": "AE",
+      "name": "Khalifa University",
+      "kind": "university",
+      "profile_id": "p_uae_ku",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Официальные программы; сроки набора 2027 уточняются",
+      "source_ids": [
+        "uae_ku_catalog"
+      ],
+      "programs": [
+        {
+          "name": "Bachelor of Science in Aerospace Engineering",
+          "language": "English",
+          "field_ids": [
+            "aerospace",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Biomedical Engineering",
+          "language": "English",
+          "field_ids": [
+            "biomedical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Chemical Engineering",
+          "language": "English",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Civil Engineering",
+          "language": "English",
+          "field_ids": [
+            "civil",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Computer Engineering",
+          "language": "English",
+          "field_ids": [
+            "computer",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Electrical Engineering",
+          "language": "English",
+          "field_ids": [
+            "electrical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Engineering Systems And Management",
+          "language": "English",
+          "field_ids": [
+            "industrial"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Mechanical Engineering",
+          "language": "English",
+          "field_ids": [
+            "mechanical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Energy Engineering",
+          "language": "English",
+          "field_ids": [
+            "engineering",
+            "electrical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Petroleum Engineering",
+          "language": "English",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Chemistry",
+          "language": "English",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Physics",
+          "language": "English",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Earth and Planetary Sciences",
+          "language": "English",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Computer Science",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "B.Sc. in Robotics and Artificial Intelligence (AI)",
+          "language": "English",
+          "field_ids": [
+            "data",
+            "manufacturing"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Applied Mathematics, Statistics, and Data Science",
+          "language": "English",
+          "field_ids": [
+            "math",
+            "statistics",
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Cell and Molecular Biology",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_ku_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Источник — официальный каталог. Для международных школьников необходимо проверить право поступления и точные пороги конкретной программы.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "uae_nyuad",
+      "country_code": "AE",
+      "name": "New York University Abu Dhabi (NYUAD)",
+      "kind": "university",
+      "profile_id": "p_uae_nyuad",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Официальные программы; сроки набора 2027 уточняются",
+      "source_ids": [
+        "uae_nyuad_catalog"
+      ],
+      "programs": [
+        {
+          "name": "Arab Crossroads Studies",
+          "language": "English",
+          "field_ids": [
+            "history",
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Art and Art History",
+          "language": "English",
+          "field_ids": [
+            "art",
+            "history"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bioengineering",
+          "language": "English",
+          "field_ids": [
+            "biomedical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Biology",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Business, Organizations and Society",
+          "language": "English",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Chemistry",
+          "language": "English",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Civil Engineering",
+          "language": "English",
+          "field_ids": [
+            "civil",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Computer Engineering",
+          "language": "English",
+          "field_ids": [
+            "computer",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Computer Science",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Economics",
+          "language": "English",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Electrical Engineering",
+          "language": "English",
+          "field_ids": [
+            "electrical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Film and New Media",
+          "language": "English",
+          "field_ids": [
+            "media"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "General Engineering",
+          "language": "English",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "History",
+          "language": "English",
+          "field_ids": [
+            "history"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Interactive Media",
+          "language": "English",
+          "field_ids": [
+            "media"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Literature and Creative Writing",
+          "language": "English",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Mathematics",
+          "language": "English",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "English",
+          "field_ids": [
+            "mechanical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Music",
+          "language": "English",
+          "field_ids": [
+            "music"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Philosophy",
+          "language": "English",
+          "field_ids": [
+            "philosophy"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Physics",
+          "language": "English",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Political Science",
+          "language": "English",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Psychology",
+          "language": "English",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Social Research and Public Policy",
+          "language": "English",
+          "field_ids": [
+            "sociology",
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Theater",
+          "language": "English",
+          "field_ids": [
+            "theatre"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Legal Studies",
+          "language": "English",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [
+            "Legal Studies",
+            "law"
+          ],
+          "source_ids": [
+            "uae_nyuad_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Legal Studies отмечен как отдельный Major на официальной странице NYU Abu Dhabi. Вступительные требования и доступность конкретного набора уточняются."
+        }
+      ],
+      "deadlines": [],
+      "note": "Источник — официальный каталог. Для международных школьников необходимо проверить право поступления и точные пороги конкретной программы.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "uae_sharjah",
+      "country_code": "AE",
+      "name": "University of Sharjah",
+      "kind": "university",
+      "profile_id": "p_uae_sharjah",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Опубликованные требования 2026/27, набор 2027/28 уточнить",
+      "source_ids": [
+        "uae_sharjah_catalog",
+        "uae_sharjah_2026_by_program"
+      ],
+      "programs": [
+        {
+          "name": "Industrial Engineering & Engineering Management",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "industrial"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_00"
+        },
+        {
+          "name": "Information Technology – Multimedia",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "computer",
+            "media"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_01"
+        },
+        {
+          "name": "International Relations",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_02"
+        },
+        {
+          "name": "Mass Communication – Digital Media Studies",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "media",
+            "journalism"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно. Название подпрограммы в базе нужно сопоставить с актуальными направлениями Communication; языковые минимумы 4.0 и 5.5 относятся к разным программам.",
+          "profile_id": "p_uae_sharjah_course_03"
+        },
+        {
+          "name": "Mass Communication – Media Production",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "media",
+            "journalism"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно. Название подпрограммы в базе нужно сопоставить с актуальными направлениями Communication; языковые минимумы 4.0 и 5.5 относятся к разным программам.",
+          "profile_id": "p_uae_sharjah_course_04"
+        },
+        {
+          "name": "Mathematics",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_05"
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "mechanical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_06"
+        },
+        {
+          "name": "Medical Laboratory Sciences",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_07"
+        },
+        {
+          "name": "Nuclear Engineering",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "engineering",
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_08"
+        },
+        {
+          "name": "Nursing",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "nursing"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_09"
+        },
+        {
+          "name": "Pharmacy",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "pharmacy"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_10"
+        },
+        {
+          "name": "Physiotherapy",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_11"
+        },
+        {
+          "name": "Bachelor of Dental Surgery (BDS)",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "dentistry"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_12"
+        },
+        {
+          "name": "Doctor of Medicine (MD) — первичная профессиональная программа после школы",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "medicine"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно. Поступление на медицину возможно только при наличии школьного аттестата, полученного в ОАЭ. Минимум не означает прохождение конкурсного отбора.",
+          "profile_id": "p_uae_sharjah_course_13"
+        },
+        {
+          "name": "History and Islamic Civilization",
+          "language": "Arabic",
+          "field_ids": [
+            "history"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_14"
+        },
+        {
+          "name": "Sociology",
+          "language": "Arabic",
+          "field_ids": [
+            "sociology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_15"
+        },
+        {
+          "name": "Early Childhood",
+          "language": "Arabic",
+          "field_ids": [
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_16"
+        },
+        {
+          "name": "Special Education",
+          "language": "Arabic",
+          "field_ids": [
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_17"
+        },
+        {
+          "name": "English Language and Literature",
+          "language": "Зависит от программы",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_18"
+        },
+        {
+          "name": "Law (Arabic)",
+          "language": "Arabic",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_19"
+        },
+        {
+          "name": "Law in English",
+          "language": "English",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_sharjah_catalog",
+            "uae_sharjah_2026_by_program"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Минимумы колледжа зависят от школьной квалификации. Показаны только официально опубликованные численные требования; 2027/28 проверить отдельно.",
+          "profile_id": "p_uae_sharjah_course_20"
+        }
+      ],
+      "deadlines": [],
+      "note": "Официальная таблица минимальных требований по колледжам 2026/27. Для разных школьных квалификаций и гражданств действуют разные правила; открытый набор 2027/28 ещё не подтверждён.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "uae_adu",
+      "country_code": "AE",
+      "name": "Abu Dhabi University",
+      "kind": "university",
+      "profile_id": "p_uae_adu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Официальные программы; сроки набора 2027 уточняются",
+      "source_ids": [
+        "uae_adu_catalog"
+      ],
+      "programs": [
+        {
+          "name": "Bachelor of Architecture",
+          "language": "English",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_adu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Artificial Intelligence Engineering",
+          "language": "English",
+          "field_ids": [
+            "data",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_adu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Aviation",
+          "language": "English",
+          "field_ids": [
+            "aerospace"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_adu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Biomedical Engineering",
+          "language": "English",
+          "field_ids": [
+            "biomedical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_adu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Chemical Engineering",
+          "language": "English",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_adu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Civil Engineering",
+          "language": "English",
+          "field_ids": [
+            "civil",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "uae_adu_catalog"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Источник — официальный каталог. Для международных школьников необходимо проверить право поступления и точные пороги конкретной программы.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "uae_mbzuai",
+      "country_code": "AE",
+      "name": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
+      "name_ar": "جامعة محمد بن زايد للذكاء الاصطناعي (MBZUAI)",
+      "kind": "university",
+      "profile_id": "p_uae_mbzuai_ug_2027",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Набор осень 2027; Early Action до 01.11.2026, Regular Decision до 01.02.2027",
+      "source_ids": [
+        "mbzuai_ug_admissions",
+        "mbzuai_bsc_engineering",
+        "mbzuai_bsc_business"
+      ],
+      "programs": [
+        {
+          "name": "Bachelor of Science in Artificial Intelligence — Engineering",
+          "name_ar": "بكالوريوس العلوم في الذكاء الاصطناعي — مسار الهندسة",
+          "language": "Английский",
+          "field_ids": [
+            "data",
+            "computer"
+          ],
+          "search_tags": [
+            "artificial intelligence engineering",
+            "AI engineering",
+            "computer science",
+            "machine learning"
+          ],
+          "source_ids": [
+            "mbzuai_bsc_engineering",
+            "mbzuai_ug_admissions"
+          ],
+          "listing_status": "official_programme_2027",
+          "requirements_note": "Инженерный трек бакалавриата AI: 120 кредитов, 4 года, очная форма, практика и индустриальные стажировки. Правила приёма 2027 смотрите по ссылке.",
+          "profile_id": "p_uae_mbzuai_ug_2027"
+        },
+        {
+          "name": "Bachelor of Science in Artificial Intelligence — Business",
+          "name_ar": "بكالوريوس العلوم في الذكاء الاصطناعي — مسار الأعمال",
+          "language": "Английский",
+          "field_ids": [
+            "data",
+            "business"
+          ],
+          "search_tags": [
+            "artificial intelligence business",
+            "AI business",
+            "entrepreneurship in AI"
+          ],
+          "source_ids": [
+            "mbzuai_bsc_business",
+            "mbzuai_ug_admissions"
+          ],
+          "listing_status": "official_programme_2027",
+          "requirements_note": "Бизнес-трек бакалавриата AI, а не самостоятельный Bachelor of Business Administration. Правила приёма 2027 смотрите по ссылке.",
+          "profile_id": "p_uae_mbzuai_ug_2027"
+        }
+      ],
+      "deadlines": [
+        {
+          "label": "Early Action — срок заявки",
+          "date": "2026-11-01",
+          "cycle": "Fall 2027",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        },
+        {
+          "label": "Regular Decision — срок заявки",
+          "date": "2027-02-01",
+          "cycle": "Fall 2027",
+          "source_ids": [
+            "mbzuai_ug_admissions"
+          ]
+        }
+      ],
+      "note": "В MBZUAI на уровне бакалавриата опубликованы два трека одной степени BSc in Artificial Intelligence — инженерия и бизнес. Врачебные и другие магистерские программы не включены.",
+      "checked_at": "2026-10-13",
+      "record_status": "official_programme_verified"
+    }
+  ]
+}
