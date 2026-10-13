@@ -1,0 +1,875 @@
+﻿Страна,Код,Направление,ID направления,Университетов с точным совпадением,Университеты (выборка),"Есть численный показатель (общий, языковой или программный)",Предупреждение
+Австралия,AU,Авиация и космос,aerospace,1,UNSW Sydney,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Автомобилестроение,automotive,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Архитектура,architecture,2,The University of Sydney; University of Technology Sydney,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Бизнес и менеджмент,business,6,Monash University; Australian National University; University of Queensland; Adelaide University; University of Technology Sydney; RMIT University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Биология,biology,7,UNSW Sydney; Monash University; The University of Sydney; University of Queensland; University of Western Australia; Adelaide University; University of Technology Sydney,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Биомедицинская инженерия,biomedical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Ветеринария,veterinary,2,University of Queensland; Adelaide University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Данные и искусственный интеллект,data,1,Monash University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Дизайн,design,8,UNSW Sydney; Monash University; The University of Sydney; The University of Melbourne; University of Western Australia; Adelaide University; University of Technology Sydney; RMIT University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Журналистика,journalism,1,University of Queensland,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Изобразительное искусство,art,4,UNSW Sydney; Monash University; The University of Melbourne; Australian National University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Инженерия — все направления,engineering,10,UNSW Sydney; Monash University; The University of Sydney; Deakin University; Australian National University; University of Queensland; University of Western Australia; Adelaide University; University of Technology Sydney; RMIT University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Информатика и программирование,computer,8,UNSW Sydney; Monash University; The University of Sydney; Australian National University; University of Queensland; Adelaide University; University of Technology Sydney; RMIT University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,История,history,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Кино и медиа,media,2,UNSW Sydney; RMIT University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Логистика,logistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Математика,math,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Материаловедение,materials,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Машиностроение,mechanical,2,UNSW Sydney; Deakin University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Медицина,medicine,2,The University of Melbourne; University of Western Australia,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Музыка,music,3,Monash University; The University of Sydney; The University of Melbourne,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Педагогика,education,4,Monash University; The University of Sydney; University of Queensland; University of Technology Sydney,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Политология и международные отношения,politics,5,Australian National University; University of Queensland; University of Western Australia; University of Technology Sydney; RMIT University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Право,law,4,Monash University; The University of Sydney; University of Queensland; Adelaide University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Производство и автоматизация,manufacturing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Промышленная инженерия,industrial,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Психология,psychology,4,UNSW Sydney; The University of Sydney; University of Western Australia; RMIT University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Сельское хозяйство,agriculture,3,The University of Melbourne; University of Queensland; University of Western Australia,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Сестринское дело,nursing,6,Monash University; The University of Sydney; University of Queensland; Adelaide University; University of Technology Sydney; RMIT University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Социальная работа,social_work,4,UNSW Sydney; The University of Sydney; Adelaide University; RMIT University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Социология,sociology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Строительство,civil,3,Adelaide University; University of Technology Sydney; RMIT University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Театр,theatre,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Туризм и гостеприимство,tourism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Фармация,pharmacy,1,Monash University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Физика,physics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Философия,philosophy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Финансы,finance,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Химическая инженерия,chemical_eng,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Химия,chemistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Экология и науки о Земле,environment,5,The University of Sydney; Australian National University; University of Queensland; University of Western Australia; Adelaide University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Экономика,economics,7,UNSW Sydney; Monash University; The University of Sydney; Australian National University; University of Queensland; Adelaide University; University of Technology Sydney,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Электротехника и электроника,electrical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Австралия,AU,Языки и литература,languages,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Авиация и космос,aerospace,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Автомобилестроение,automotive,2,Baku Engineering University; Azerbaijan University of Architecture and Construction,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Архитектура,architecture,4,ADA University; Baku Engineering University; Khazar University; Nakhchivan State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Бизнес и менеджмент,business,8,ADA University; Baku Engineering University; Azerbaijan State University of Economics (UNEC); Azerbaijan State Oil and Industry University; Baku Higher Oil School; Khazar University; Nakhchivan State University; Azerbaijan University of Architecture and Construction,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Биология,biology,4,Baku Engineering University; Khazar University; Nakhchivan State University; Baku State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Биомедицинская инженерия,biomedical,1,Azerbaijan Technical University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Ветеринария,veterinary,2,Khazar University; Nakhchivan State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Данные и искусственный интеллект,data,3,Baku Engineering University; Azerbaijan State Oil and Industry University; Baku Higher Oil School,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Дизайн,design,6,ADA University; Baku Engineering University; Azerbaijan State University of Economics (UNEC); Khazar University; Nakhchivan State University; Azerbaijan University of Architecture and Construction,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Журналистика,journalism,2,Nakhchivan State University; Baku State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Изобразительное искусство,art,1,Nakhchivan State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Инженерия — все направления,engineering,9,ADA University; Azerbaijan State University of Economics (UNEC); Azerbaijan State Oil and Industry University; Baku Higher Oil School; Khazar University; Nakhchivan State University; Azerbaijan Technical University; Azerbaijan University of Architecture and Construction; Baku State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Информатика и программирование,computer,10,ADA University; Baku Engineering University; Azerbaijan State University of Economics (UNEC); Azerbaijan State Oil and Industry University; Baku Higher Oil School; Khazar University; Nakhchivan State University; Azerbaijan Technical University; Azerbaijan University of Architecture and Construction; Baku State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,История,history,2,Nakhchivan State University; Baku State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Кино и медиа,media,1,ADA University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Логистика,logistics,6,Baku Engineering University; Azerbaijan State University of Economics (UNEC); Azerbaijan State Oil and Industry University; Nakhchivan State University; Azerbaijan Technical University; Azerbaijan University of Architecture and Construction,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Математика,math,4,ADA University; Baku Engineering University; Nakhchivan State University; Baku State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Материаловедение,materials,4,Azerbaijan State University of Economics (UNEC); Azerbaijan State Oil and Industry University; Azerbaijan Technical University; Azerbaijan University of Architecture and Construction,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Машиностроение,mechanical,7,Baku Engineering University; Azerbaijan State University of Economics (UNEC); Azerbaijan State Oil and Industry University; Khazar University; Azerbaijan Technical University; Azerbaijan University of Architecture and Construction; Baku State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Медицина,medicine,2,Khazar University; Nakhchivan State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Музыка,music,1,Nakhchivan State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Педагогика,education,2,Khazar University; Nakhchivan State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Политология и международные отношения,politics,6,ADA University; Baku Engineering University; Azerbaijan State University of Economics (UNEC); Khazar University; Nakhchivan State University; Baku State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Право,law,2,ADA University; Nakhchivan State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Производство и автоматизация,manufacturing,6,Baku Engineering University; Azerbaijan State Oil and Industry University; Baku Higher Oil School; Nakhchivan State University; Azerbaijan Technical University; Azerbaijan University of Architecture and Construction,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Промышленная инженерия,industrial,5,Baku Engineering University; Azerbaijan State University of Economics (UNEC); Azerbaijan State Oil and Industry University; Azerbaijan Technical University; Azerbaijan University of Architecture and Construction,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Психология,psychology,3,Khazar University; Nakhchivan State University; Baku State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Сельское хозяйство,agriculture,1,ADA University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Сестринское дело,nursing,1,Nakhchivan State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Социальная работа,social_work,2,Azerbaijan State University of Economics (UNEC); Nakhchivan State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Социология,sociology,1,Baku State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Статистика,statistics,1,Azerbaijan State University of Economics (UNEC),Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Строительство,civil,4,Baku Engineering University; Azerbaijan State Oil and Industry University; Khazar University; Azerbaijan University of Architecture and Construction,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Театр,theatre,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Туризм и гостеприимство,tourism,4,Baku Engineering University; Azerbaijan State University of Economics (UNEC); Khazar University; Nakhchivan State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Фармация,pharmacy,1,Nakhchivan State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Физика,physics,5,Baku Engineering University; Azerbaijan State Oil and Industry University; Nakhchivan State University; Azerbaijan Technical University; Baku State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Философия,philosophy,1,Nakhchivan State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Финансы,finance,6,ADA University; Baku Engineering University; Azerbaijan State University of Economics (UNEC); Baku Higher Oil School; Khazar University; Nakhchivan State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Химическая инженерия,chemical_eng,6,Baku Engineering University; Azerbaijan State University of Economics (UNEC); Azerbaijan State Oil and Industry University; Baku Higher Oil School; Khazar University; Azerbaijan Technical University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Химия,chemistry,3,Baku Engineering University; Nakhchivan State University; Baku State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Экология и науки о Земле,environment,6,Baku Engineering University; Azerbaijan State University of Economics (UNEC); Azerbaijan State Oil and Industry University; Nakhchivan State University; Azerbaijan University of Architecture and Construction; Baku State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Экономика,economics,7,ADA University; Baku Engineering University; Azerbaijan State Oil and Industry University; Khazar University; Nakhchivan State University; Azerbaijan University of Architecture and Construction; Baku State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Электротехника и электроника,electrical,8,ADA University; Baku Engineering University; Azerbaijan State University of Economics (UNEC); Azerbaijan State Oil and Industry University; Khazar University; Nakhchivan State University; Azerbaijan Technical University; Azerbaijan University of Architecture and Construction,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Азербайджан,AZ,Языки и литература,languages,3,Khazar University; Nakhchivan State University; Baku State University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Авиация и космос,aerospace,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Автомобилестроение,automotive,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Архитектура,architecture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Бизнес и менеджмент,business,1,Universiti Brunei Darussalam,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Биология,biology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Биомедицинская инженерия,biomedical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Ветеринария,veterinary,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Данные и искусственный интеллект,data,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Дизайн,design,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Журналистика,journalism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Изобразительное искусство,art,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Инженерия — все направления,engineering,1,Universiti Brunei Darussalam,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Информатика и программирование,computer,1,Universiti Brunei Darussalam,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,История,history,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Кино и медиа,media,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Логистика,logistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Математика,math,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Материаловедение,materials,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Машиностроение,mechanical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Медицина,medicine,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Музыка,music,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Педагогика,education,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Политология и международные отношения,politics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Право,law,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Производство и автоматизация,manufacturing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Промышленная инженерия,industrial,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Психология,psychology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Сельское хозяйство,agriculture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Сестринское дело,nursing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Социальная работа,social_work,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Социология,sociology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Строительство,civil,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Театр,theatre,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Туризм и гостеприимство,tourism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Фармация,pharmacy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Физика,physics,1,Universiti Brunei Darussalam,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Философия,philosophy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Финансы,finance,1,Universiti Brunei Darussalam,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Химическая инженерия,chemical_eng,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Химия,chemistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Экология и науки о Земле,environment,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Экономика,economics,1,Universiti Brunei Darussalam,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Электротехника и электроника,electrical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Бруней,BN,Языки и литература,languages,1,Universiti Brunei Darussalam,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Авиация и космос,aerospace,1,University of Bristol,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Автомобилестроение,automotive,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Архитектура,architecture,1,The University of Manchester,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Бизнес и менеджмент,business,2,University of Leeds; University of Birmingham,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Биология,biology,6,The University of Manchester; University of Edinburgh; Imperial College London; King's College London; University of Leeds; University of Birmingham,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Биомедицинская инженерия,biomedical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Ветеринария,veterinary,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Данные и искусственный интеллект,data,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Дизайн,design,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Журналистика,journalism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Изобразительное искусство,art,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Инженерия — все направления,engineering,10,University of Oxford; University College London; The University of Manchester; University of Edinburgh; Imperial College London; King's College London; University of Warwick; University of Bristol; University of Leeds; University of Birmingham,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Информатика и программирование,computer,8,University College London; The University of Manchester; University of Edinburgh; Imperial College London; King's College London; University of Warwick; University of Bristol; University of Birmingham,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,История,history,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Кино и медиа,media,1,University of Leeds,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Логистика,logistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Математика,math,2,University of Warwick; London School of Economics and Political Science,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Материаловедение,materials,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Машиностроение,mechanical,3,The University of Manchester; Imperial College London; University of Leeds,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Медицина,medicine,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Музыка,music,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Педагогика,education,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Политология и международные отношения,politics,3,University of Edinburgh; King's College London; University of Warwick,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Право,law,3,King's College London; University of Bristol; University of Birmingham,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Производство и автоматизация,manufacturing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Промышленная инженерия,industrial,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Психология,psychology,4,The University of Manchester; King's College London; University of Bristol; University of Birmingham,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Сельское хозяйство,agriculture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Сестринское дело,nursing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Социальная работа,social_work,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Социология,sociology,1,London School of Economics and Political Science,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Строительство,civil,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Театр,theatre,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Туризм и гостеприимство,tourism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Фармация,pharmacy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Физика,physics,1,Imperial College London,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Философия,philosophy,1,University of Edinburgh,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Финансы,finance,1,London School of Economics and Political Science,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Химическая инженерия,chemical_eng,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Химия,chemistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Экология и науки о Земле,environment,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Экономика,economics,4,The University of Manchester; University of Edinburgh; University of Warwick; University of Bristol,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Электротехника и электроника,electrical,1,Imperial College London,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Великобритания,GB,Языки и литература,languages,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Авиация и космос,aerospace,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Автомобилестроение,automotive,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Архитектура,architecture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Бизнес и менеджмент,business,4,Corvinus University of Budapest; Óbuda University; University of Miskolc; University of Pannonia,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Биология,biology,1,Semmelweis University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Биомедицинская инженерия,biomedical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Ветеринария,veterinary,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Данные и искусственный интеллект,data,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Дизайн,design,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Журналистика,journalism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Изобразительное искусство,art,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Инженерия — все направления,engineering,8,University of Debrecen; University of Szeged; Budapest University of Technology and Economics; Eötvös Loránd University; University of Pécs; Óbuda University; University of Miskolc; University of Pannonia,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Информатика и программирование,computer,7,University of Debrecen; University of Szeged; Eötvös Loránd University; University of Pécs; Óbuda University; University of Miskolc; University of Pannonia,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,История,history,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Кино и медиа,media,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Логистика,logistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Математика,math,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Материаловедение,materials,1,University of Miskolc,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Машиностроение,mechanical,3,Budapest University of Technology and Economics; Óbuda University; University of Miskolc,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Медицина,medicine,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Музыка,music,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Педагогика,education,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Политология и международные отношения,politics,1,Corvinus University of Budapest,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Право,law,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Производство и автоматизация,manufacturing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Промышленная инженерия,industrial,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Психология,psychology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Сельское хозяйство,agriculture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Сестринское дело,nursing,1,Semmelweis University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Социальная работа,social_work,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Социология,sociology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Строительство,civil,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Театр,theatre,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Туризм и гостеприимство,tourism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Фармация,pharmacy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Физика,physics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Философия,philosophy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Финансы,finance,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Химическая инженерия,chemical_eng,1,University of Pannonia,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Химия,chemistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Экология и науки о Земле,environment,1,University of Pannonia,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Экономика,economics,1,Corvinus University of Budapest,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Электротехника и электроника,electrical,1,Óbuda University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Венгрия,HU,Языки и литература,languages,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Авиация и космос,aerospace,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Автомобилестроение,automotive,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Архитектура,architecture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Бизнес и менеджмент,business,2,The Hong Kong Polytechnic University; Hong Kong Baptist University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Биология,biology,1,The Education University of Hong Kong,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Биомедицинская инженерия,biomedical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Ветеринария,veterinary,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Данные и искусственный интеллект,data,1,The University of Hong Kong,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Дизайн,design,1,City University of Hong Kong,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Журналистика,journalism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Изобразительное искусство,art,3,The Chinese University of Hong Kong; Hong Kong Baptist University; The Education University of Hong Kong,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Инженерия — все направления,engineering,6,The University of Hong Kong; The Chinese University of Hong Kong; Hong Kong University of Science and Technology; The Hong Kong Polytechnic University; City University of Hong Kong; Hong Kong Baptist University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Информатика и программирование,computer,3,The Chinese University of Hong Kong; City University of Hong Kong; Hong Kong Baptist University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,История,history,1,Lingnan University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Кино и медиа,media,3,City University of Hong Kong; Hong Kong Baptist University; Lingnan University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Логистика,logistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Математика,math,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Материаловедение,materials,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Машиностроение,mechanical,1,The University of Hong Kong,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Медицина,medicine,1,Hong Kong Baptist University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Музыка,music,1,The Education University of Hong Kong,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Педагогика,education,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Политология и международные отношения,politics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Право,law,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Производство и автоматизация,manufacturing,4,The University of Hong Kong; The Chinese University of Hong Kong; The Hong Kong Polytechnic University; City University of Hong Kong,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Промышленная инженерия,industrial,1,Hong Kong University of Science and Technology,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Психология,psychology,2,Lingnan University; The Education University of Hong Kong,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Сельское хозяйство,agriculture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Сестринское дело,nursing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Социальная работа,social_work,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Социология,sociology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Строительство,civil,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Театр,theatre,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Туризм и гостеприимство,tourism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Фармация,pharmacy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Физика,physics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Философия,philosophy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Финансы,finance,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Химическая инженерия,chemical_eng,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Химия,chemistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Экология и науки о Земле,environment,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Экономика,economics,1,Lingnan University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Электротехника и электроника,electrical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Гонконг (Китай),HK,Языки и литература,languages,1,Lingnan University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Авиация и космос,aerospace,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Автомобилестроение,automotive,1,Politecnico di Torino,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Архитектура,architecture,2,Politecnico di Milano; Politecnico di Torino,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Бизнес и менеджмент,business,3,University of Pisa; University of Bologna; Ca' Foscari University of Venice,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Биология,biology,1,Sapienza University of Rome,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Биомедицинская инженерия,biomedical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Ветеринария,veterinary,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Данные и искусственный интеллект,data,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Дизайн,design,2,University of Ferrara; Politecnico di Milano,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Журналистика,journalism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Изобразительное искусство,art,1,University of Pisa,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Инженерия — все направления,engineering,7,University of Bologna; University of Modena and Reggio Emilia; University of Padova; Politecnico di Milano; Sapienza University of Rome; Politecnico di Torino; University of Trento,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Информатика и программирование,computer,5,University of Modena and Reggio Emilia; University of Padova; Sapienza University of Rome; Politecnico di Torino; University of Trento,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,История,history,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Кино и медиа,media,1,University of Pisa,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Логистика,logistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Математика,math,1,University of Trento,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Материаловедение,materials,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Машиностроение,mechanical,2,Politecnico di Milano; Politecnico di Torino,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Медицина,medicine,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Музыка,music,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Педагогика,education,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Политология и международные отношения,politics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Право,law,1,Bocconi University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Производство и автоматизация,manufacturing,2,University of Bologna; University of Padova,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Промышленная инженерия,industrial,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Психология,psychology,1,Sapienza University of Rome,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Сельское хозяйство,agriculture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Сестринское дело,nursing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Социальная работа,social_work,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Социология,sociology,1,University of Trento,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Строительство,civil,1,Politecnico di Milano,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Театр,theatre,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Туризм и гостеприимство,tourism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Фармация,pharmacy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Физика,physics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Философия,philosophy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Финансы,finance,1,Bocconi University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Химическая инженерия,chemical_eng,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Химия,chemistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Экология и науки о Земле,environment,1,Ca' Foscari University of Venice,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Экономика,economics,5,University of Pisa; Bocconi University; Sapienza University of Rome; University of Trento; Ca' Foscari University of Venice,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Электротехника и электроника,electrical,1,University of Padova,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Италия,IT,Языки и литература,languages,1,Ca' Foscari University of Venice,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Авиация и космос,aerospace,2,КазНУ имени аль-Фараби; Евразийский национальный университет им. Л. Н. Гумилёва,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Автомобилестроение,automotive,1,Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Архитектура,architecture,3,Евразийский национальный университет им. Л. Н. Гумилёва; Satbayev University; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Бизнес и менеджмент,business,9,Евразийский национальный университет им. Л. Н. Гумилёва; Satbayev University; Astana IT University; Казахстанско-Британский технический университет (КБТУ); Abai University (КазНПУ имени Абая); КазУМОиМЯ имени Абылай хана; Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Биология,biology,6,КазНУ имени аль-Фараби; Евразийский национальный университет им. Л. Н. Гумилёва; Abai University (КазНПУ имени Абая); Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Биомедицинская инженерия,biomedical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Ветеринария,veterinary,1,Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Данные и искусственный интеллект,data,3,Astana IT University; Казахстанско-Британский технический университет (КБТУ); Ualikhanov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Дизайн,design,6,Евразийский национальный университет им. Л. Н. Гумилёва; Satbayev University; Abai University (КазНПУ имени Абая); Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Журналистика,journalism,6,Евразийский национальный университет им. Л. Н. Гумилёва; Astana IT University; КазУМОиМЯ имени Абылай хана; Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Изобразительное искусство,art,3,Astana IT University; Abai University (КазНПУ имени Абая); Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Инженерия — все направления,engineering,9,КазНУ имени аль-Фараби; Евразийский национальный университет им. Л. Н. Гумилёва; Satbayev University; Astana IT University; Казахстанско-Британский технический университет (КБТУ); Abai University (КазНПУ имени Абая); Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Информатика и программирование,computer,9,КазНУ имени аль-Фараби; Евразийский национальный университет им. Л. Н. Гумилёва; Satbayev University; Astana IT University; Казахстанско-Британский технический университет (КБТУ); Abai University (КазНПУ имени Абая); Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,История,history,5,Евразийский национальный университет им. Л. Н. Гумилёва; Abai University (КазНПУ имени Абая); Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Кино и медиа,media,1,Евразийский национальный университет им. Л. Н. Гумилёва,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Логистика,logistics,3,Евразийский национальный университет им. Л. Н. Гумилёва; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Математика,math,7,КазНУ имени аль-Фараби; Евразийский национальный университет им. Л. Н. Гумилёва; Казахстанско-Британский технический университет (КБТУ); Abai University (КазНПУ имени Абая); Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Материаловедение,materials,4,КазНУ имени аль-Фараби; Satbayev University; Казахстанско-Британский технический университет (КБТУ); Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Машиностроение,mechanical,5,КазНУ имени аль-Фараби; Евразийский национальный университет им. Л. Н. Гумилёва; Satbayev University; Ualikhanov University; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Медицина,medicine,2,КазНУ имени аль-Фараби; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Музыка,music,2,Abai University (КазНПУ имени Абая); Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Педагогика,education,5,Евразийский национальный университет им. Л. Н. Гумилёва; Abai University (КазНПУ имени Абая); Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Политология и международные отношения,politics,6,КазНУ имени аль-Фараби; Евразийский национальный университет им. Л. Н. Гумилёва; Abai University (КазНПУ имени Абая); КазУМОиМЯ имени Абылай хана; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Право,law,8,КазНУ имени аль-Фараби; Евразийский национальный университет им. Л. Н. Гумилёва; Казахстанско-Британский технический университет (КБТУ); Abai University (КазНПУ имени Абая); КазУМОиМЯ имени Абылай хана; Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Производство и автоматизация,manufacturing,6,Евразийский национальный университет им. Л. Н. Гумилёва; Satbayev University; Казахстанско-Британский технический университет (КБТУ); Abai University (КазНПУ имени Абая); Ualikhanov University; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Промышленная инженерия,industrial,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Психология,psychology,5,Евразийский национальный университет им. Л. Н. Гумилёва; Abai University (КазНПУ имени Абая); Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Сельское хозяйство,agriculture,1,Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Сестринское дело,nursing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Социальная работа,social_work,3,Евразийский национальный университет им. Л. Н. Гумилёва; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Социология,sociology,3,Евразийский национальный университет им. Л. Н. Гумилёва; Abai University (КазНПУ имени Абая); Карагандинский университет имени Е. А. Букетова,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Статистика,statistics,2,КазНУ имени аль-Фараби; Евразийский национальный университет им. Л. Н. Гумилёва,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Строительство,civil,4,Евразийский национальный университет им. Л. Н. Гумилёва; Satbayev University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Театр,theatre,1,Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Туризм и гостеприимство,tourism,5,КазНУ имени аль-Фараби; Евразийский национальный университет им. Л. Н. Гумилёва; КазУМОиМЯ имени Абылай хана; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Фармация,pharmacy,1,Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Физика,physics,8,КазНУ имени аль-Фараби; Евразийский национальный университет им. Л. Н. Гумилёва; Satbayev University; Казахстанско-Британский технический университет (КБТУ); Abai University (КазНПУ имени Абая); Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Философия,philosophy,4,Евразийский национальный университет им. Л. Н. Гумилёва; Abai University (КазНПУ имени Абая); Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Финансы,finance,6,Евразийский национальный университет им. Л. Н. Гумилёва; Казахстанско-Британский технический университет (КБТУ); Abai University (КазНПУ имени Абая); Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Химическая инженерия,chemical_eng,3,Satbayev University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Химия,chemistry,6,КазНУ имени аль-Фараби; Евразийский национальный университет им. Л. Н. Гумилёва; Abai University (КазНПУ имени Абая); Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Экология и науки о Земле,environment,7,Евразийский национальный университет им. Л. Н. Гумилёва; Satbayev University; Казахстанско-Британский технический университет (КБТУ); Abai University (КазНПУ имени Абая); Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Экономика,economics,6,Евразийский национальный университет им. Л. Н. Гумилёва; Казахстанско-Британский технический университет (КБТУ); Abai University (КазНПУ имени Абая); Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Электротехника и электроника,electrical,5,КазНУ имени аль-Фараби; Евразийский национальный университет им. Л. Н. Гумилёва; Satbayev University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Казахстан,KZ,Языки и литература,languages,6,Евразийский национальный университет им. Л. Н. Гумилёва; Abai University (КазНПУ имени Абая); КазУМОиМЯ имени Абылай хана; Ualikhanov University; Карагандинский университет имени Е. А. Букетова; Auezov University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Авиация и космос,aerospace,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Автомобилестроение,automotive,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Архитектура,architecture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Бизнес и менеджмент,business,3,Simon Fraser University; Queen's University; University of Ottawa,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Биология,biology,6,McGill University; University of Alberta; McMaster University; Queen's University; Western University; University of Ottawa,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Биомедицинская инженерия,biomedical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Ветеринария,veterinary,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Данные и искусственный интеллект,data,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Дизайн,design,1,Simon Fraser University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Журналистика,journalism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Изобразительное искусство,art,1,University of Toronto,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Инженерия — все направления,engineering,10,University of British Columbia; University of Toronto; McGill University; University of Waterloo; University of Alberta; McMaster University; Simon Fraser University; Queen's University; Western University; University of Ottawa,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Информатика и программирование,computer,9,University of British Columbia; McGill University; University of Waterloo; University of Alberta; McMaster University; Simon Fraser University; Queen's University; Western University; University of Ottawa,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,История,history,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Кино и медиа,media,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Логистика,logistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Математика,math,1,University of Waterloo,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Материаловедение,materials,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Машиностроение,mechanical,3,McGill University; University of Waterloo; University of Alberta,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Медицина,medicine,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Музыка,music,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Педагогика,education,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Политология и международные отношения,politics,1,University of Ottawa,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Право,law,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Производство и автоматизация,manufacturing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Промышленная инженерия,industrial,1,University of Toronto,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Психология,psychology,6,McGill University; University of Waterloo; McMaster University; Simon Fraser University; Queen's University; Western University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Сельское хозяйство,agriculture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Сестринское дело,nursing,2,University of Alberta; University of Ottawa,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Социальная работа,social_work,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Социология,sociology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Строительство,civil,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Театр,theatre,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Туризм и гостеприимство,tourism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Фармация,pharmacy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Физика,physics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Философия,philosophy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Финансы,finance,1,University of Waterloo,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Химическая инженерия,chemical_eng,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Химия,chemistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Экология и науки о Земле,environment,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Экономика,economics,5,McGill University; University of Alberta; McMaster University; Simon Fraser University; Western University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Электротехника и электроника,electrical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Канада,CA,Языки и литература,languages,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Авиация и космос,aerospace,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Автомобилестроение,automotive,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Архитектура,architecture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Бизнес и менеджмент,business,3,Carnegie Mellon University in Qatar; University of Doha for Science and Technology; Lusail University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Биология,biology,1,Carnegie Mellon University in Qatar,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Биомедицинская инженерия,biomedical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Ветеринария,veterinary,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Данные и искусственный интеллект,data,1,Carnegie Mellon University in Qatar,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Дизайн,design,1,Virginia Commonwealth University School of the Arts in Qatar,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Журналистика,journalism,1,Northwestern University in Qatar,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Изобразительное искусство,art,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Инженерия — все направления,engineering,3,Qatar University; Carnegie Mellon University in Qatar; University of Doha for Science and Technology,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Информатика и программирование,computer,2,Carnegie Mellon University in Qatar; University of Doha for Science and Technology,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,История,history,1,Georgetown University in Qatar,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Кино и медиа,media,1,Northwestern University in Qatar,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Логистика,logistics,1,Lusail University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Математика,math,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Материаловедение,materials,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Машиностроение,mechanical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Медицина,medicine,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Музыка,music,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Педагогика,education,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Политология и международные отношения,politics,2,Georgetown University in Qatar; Lusail University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Право,law,1,Lusail University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Производство и автоматизация,manufacturing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Промышленная инженерия,industrial,1,Qatar University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Психология,psychology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Сельское хозяйство,agriculture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Сестринское дело,nursing,1,University of Doha for Science and Technology,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Социальная работа,social_work,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Социология,sociology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Строительство,civil,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Театр,theatre,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Туризм и гостеприимство,tourism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Фармация,pharmacy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Физика,physics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Философия,philosophy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Финансы,finance,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Химическая инженерия,chemical_eng,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Химия,chemistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Экология и науки о Земле,environment,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Экономика,economics,1,Georgetown University in Qatar,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Электротехника и электроника,electrical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Катар,QA,Языки и литература,languages,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Авиация и космос,aerospace,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Автомобилестроение,automotive,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Архитектура,architecture,2,Huazhong University of Science and Technology; Tsinghua University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Бизнес и менеджмент,business,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Биология,biology,3,Peking University; Fudan University; Nanjing University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Биомедицинская инженерия,biomedical,1,Zhejiang University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Ветеринария,veterinary,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Данные и искусственный интеллект,data,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Дизайн,design,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Журналистика,journalism,1,Fudan University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Изобразительное искусство,art,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Инженерия — все направления,engineering,10,Huazhong University of Science and Technology; Tsinghua University; Peking University; Fudan University; Shanghai Jiao Tong University; Zhejiang University; University of Science and Technology of China; Nanjing University; Wuhan University; Xi'an Jiaotong University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Информатика и программирование,computer,10,Huazhong University of Science and Technology; Tsinghua University; Peking University; Fudan University; Shanghai Jiao Tong University; Zhejiang University; University of Science and Technology of China; Nanjing University; Wuhan University; Xi'an Jiaotong University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,История,history,2,Peking University; Nanjing University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Кино и медиа,media,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Логистика,logistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Математика,math,2,Peking University; University of Science and Technology of China,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Материаловедение,materials,1,Shanghai Jiao Tong University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Машиностроение,mechanical,2,Shanghai Jiao Tong University; Xi'an Jiaotong University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Медицина,medicine,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Музыка,music,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Педагогика,education,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Политология и международные отношения,politics,1,Fudan University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Право,law,1,Wuhan University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Производство и автоматизация,manufacturing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Промышленная инженерия,industrial,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Психология,psychology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Сельское хозяйство,agriculture,1,Zhejiang University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Сестринское дело,nursing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Социальная работа,social_work,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Социология,sociology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Строительство,civil,1,Tsinghua University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Театр,theatre,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Туризм и гостеприимство,tourism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Фармация,pharmacy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Физика,physics,3,Tsinghua University; University of Science and Technology of China; Nanjing University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Философия,philosophy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Финансы,finance,1,Xi'an Jiaotong University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Химическая инженерия,chemical_eng,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Химия,chemistry,1,University of Science and Technology of China,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Экология и науки о Земле,environment,1,Wuhan University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Экономика,economics,6,Tsinghua University; Peking University; Fudan University; Zhejiang University; Nanjing University; Wuhan University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Электротехника и электроника,electrical,3,Tsinghua University; Shanghai Jiao Tong University; Xi'an Jiaotong University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Китай,CN,Языки и литература,languages,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Авиация и космос,aerospace,3,United Arab Emirates University (UAEU); Khalifa University; Abu Dhabi University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Автомобилестроение,automotive,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Архитектура,architecture,3,United Arab Emirates University (UAEU); American University of Sharjah (AUS); Abu Dhabi University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Бизнес и менеджмент,business,2,United Arab Emirates University (UAEU); New York University Abu Dhabi (NYUAD),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Биология,biology,4,United Arab Emirates University (UAEU); Khalifa University; New York University Abu Dhabi (NYUAD); University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Биомедицинская инженерия,biomedical,3,Khalifa University; New York University Abu Dhabi (NYUAD); Abu Dhabi University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Ветеринария,veterinary,1,United Arab Emirates University (UAEU),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Данные и искусственный интеллект,data,3,United Arab Emirates University (UAEU); Khalifa University; Abu Dhabi University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Дизайн,design,2,United Arab Emirates University (UAEU); American University of Sharjah (AUS),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Журналистика,journalism,2,United Arab Emirates University (UAEU); University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Изобразительное искусство,art,2,United Arab Emirates University (UAEU); New York University Abu Dhabi (NYUAD),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Инженерия — все направления,engineering,6,United Arab Emirates University (UAEU); American University of Sharjah (AUS); Khalifa University; New York University Abu Dhabi (NYUAD); University of Sharjah; Abu Dhabi University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Информатика и программирование,computer,4,United Arab Emirates University (UAEU); Khalifa University; New York University Abu Dhabi (NYUAD); University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,История,history,3,United Arab Emirates University (UAEU); New York University Abu Dhabi (NYUAD); University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Кино и медиа,media,3,American University of Sharjah (AUS); New York University Abu Dhabi (NYUAD); University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Логистика,logistics,1,United Arab Emirates University (UAEU),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Математика,math,5,United Arab Emirates University (UAEU); American University of Sharjah (AUS); Khalifa University; New York University Abu Dhabi (NYUAD); University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Материаловедение,materials,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Машиностроение,mechanical,5,United Arab Emirates University (UAEU); American University of Sharjah (AUS); Khalifa University; New York University Abu Dhabi (NYUAD); University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Медицина,medicine,2,United Arab Emirates University (UAEU); University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Музыка,music,1,New York University Abu Dhabi (NYUAD),Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Педагогика,education,2,United Arab Emirates University (UAEU); University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Политология и международные отношения,politics,3,United Arab Emirates University (UAEU); New York University Abu Dhabi (NYUAD); University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Право,law,3,United Arab Emirates University (UAEU); New York University Abu Dhabi (NYUAD); University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Производство и автоматизация,manufacturing,2,American University of Sharjah (AUS); Khalifa University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Промышленная инженерия,industrial,3,American University of Sharjah (AUS); Khalifa University; University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Психология,psychology,2,United Arab Emirates University (UAEU); New York University Abu Dhabi (NYUAD),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Сельское хозяйство,agriculture,1,United Arab Emirates University (UAEU),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Сестринское дело,nursing,1,University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Социальная работа,social_work,1,United Arab Emirates University (UAEU),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Социология,sociology,3,United Arab Emirates University (UAEU); New York University Abu Dhabi (NYUAD); University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Статистика,statistics,2,United Arab Emirates University (UAEU); Khalifa University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Стоматология,dentistry,1,University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Строительство,civil,4,United Arab Emirates University (UAEU); Khalifa University; New York University Abu Dhabi (NYUAD); Abu Dhabi University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Театр,theatre,1,New York University Abu Dhabi (NYUAD),Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Туризм и гостеприимство,tourism,1,United Arab Emirates University (UAEU),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Фармация,pharmacy,1,University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Физика,physics,5,United Arab Emirates University (UAEU); American University of Sharjah (AUS); Khalifa University; New York University Abu Dhabi (NYUAD); University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Философия,philosophy,1,New York University Abu Dhabi (NYUAD),Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Финансы,finance,1,United Arab Emirates University (UAEU),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Химическая инженерия,chemical_eng,3,United Arab Emirates University (UAEU); Khalifa University; Abu Dhabi University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Химия,chemistry,3,United Arab Emirates University (UAEU); Khalifa University; New York University Abu Dhabi (NYUAD),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Экология и науки о Земле,environment,3,United Arab Emirates University (UAEU); American University of Sharjah (AUS); Khalifa University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Экономика,economics,3,United Arab Emirates University (UAEU); American University of Sharjah (AUS); New York University Abu Dhabi (NYUAD),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Электротехника и электроника,electrical,4,United Arab Emirates University (UAEU); American University of Sharjah (AUS); Khalifa University; New York University Abu Dhabi (NYUAD),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Объединённые Арабские Эмираты,AE,Языки и литература,languages,4,United Arab Emirates University (UAEU); American University of Sharjah (AUS); New York University Abu Dhabi (NYUAD); University of Sharjah,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Авиация и космос,aerospace,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Автомобилестроение,automotive,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Архитектура,architecture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Бизнес и менеджмент,business,1,МГУ имени М. В. Ломоносова,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Биология,biology,3,ННГУ имени Н. И. Лобачевского; Казанский федеральный университет; Российский университет дружбы народов имени Патриса Лумумбы (РУДН),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Биомедицинская инженерия,biomedical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Ветеринария,veterinary,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Данные и искусственный интеллект,data,2,НИУ Высшая школа экономики; Санкт-Петербургский государственный университет,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Дизайн,design,1,НИУ Высшая школа экономики,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Журналистика,journalism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Изобразительное искусство,art,1,НИУ Высшая школа экономики,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Инженерия — все направления,engineering,11,НИУ Высшая школа экономики; ННГУ имени Н. И. Лобачевского; Казанский федеральный университет; Санкт-Петербургский государственный университет; МГУ имени М. В. Ломоносова; Университет ИТМО; МГТУ им. Н. Э. Баумана; НИЯУ МИФИ; Российский университет дружбы народов имени Патриса Лумумбы (РУДН); Уральский федеральный университет (УрФУ); Санкт-Петербургский политехнический университет Петра Великого,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Информатика и программирование,computer,11,НИУ Высшая школа экономики; ННГУ имени Н. И. Лобачевского; Казанский федеральный университет; Санкт-Петербургский государственный университет; МГУ имени М. В. Ломоносова; Университет ИТМО; МГТУ им. Н. Э. Баумана; НИЯУ МИФИ; Российский университет дружбы народов имени Патриса Лумумбы (РУДН); Уральский федеральный университет (УрФУ); Санкт-Петербургский политехнический университет Петра Великого,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,История,history,1,Российский институт театрального искусства — ГИТИС,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Кино и медиа,media,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Логистика,logistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Математика,math,10,НИУ Высшая школа экономики; ННГУ имени Н. И. Лобачевского; Казанский федеральный университет; Санкт-Петербургский государственный университет; МГУ имени М. В. Ломоносова; Университет ИТМО; МГТУ им. Н. Э. Баумана; НИЯУ МИФИ; Российский университет дружбы народов имени Патриса Лумумбы (РУДН); Санкт-Петербургский политехнический университет Петра Великого,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Материаловедение,materials,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Машиностроение,mechanical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Медицина,medicine,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Музыка,music,2,Российская академия музыки имени Гнесиных; Московский городской педагогический университет (МГПУ),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Педагогика,education,1,Московский городской педагогический университет (МГПУ),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Политология и международные отношения,politics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Право,law,1,МГУ имени М. В. Ломоносова,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Производство и автоматизация,manufacturing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Промышленная инженерия,industrial,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Психология,psychology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Сельское хозяйство,agriculture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Сестринское дело,nursing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Социальная работа,social_work,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Социология,sociology,1,МГУ имени М. В. Ломоносова,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Строительство,civil,2,Российский университет дружбы народов имени Патриса Лумумбы (РУДН); Санкт-Петербургский политехнический университет Петра Великого,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Театр,theatre,1,Российский институт театрального искусства — ГИТИС,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Туризм и гостеприимство,tourism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Фармация,pharmacy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Физика,physics,7,НИУ Высшая школа экономики; Казанский федеральный университет; Санкт-Петербургский государственный университет; Университет ИТМО; НИЯУ МИФИ; Российский университет дружбы народов имени Патриса Лумумбы (РУДН); Санкт-Петербургский политехнический университет Петра Великого,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Философия,philosophy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Финансы,finance,1,Финансовый университет при Правительстве РФ,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Химическая инженерия,chemical_eng,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Химия,chemistry,3,НИУ Высшая школа экономики; Санкт-Петербургский государственный университет; Университет ИТМО,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Экология и науки о Земле,environment,3,Казанский федеральный университет; Санкт-Петербургский государственный университет; Университет ИТМО,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Экономика,economics,2,Финансовый университет при Правительстве РФ; МГУ имени М. В. Ломоносова,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Электротехника и электроника,electrical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Россия,RU,Языки и литература,languages,1,Российский институт театрального искусства — ГИТИС,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Авиация и космос,aerospace,1,National University of Science and Technology POLITEHNICA Bucharest,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Автомобилестроение,automotive,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Архитектура,architecture,1,Politehnica University Timișoara,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Бизнес и менеджмент,business,2,Bucharest University of Economic Studies; Transilvania University of Brașov,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Биология,biology,1,Babeș-Bolyai University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Биомедицинская инженерия,biomedical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Ветеринария,veterinary,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Данные и искусственный интеллект,data,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Дизайн,design,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Журналистика,journalism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Изобразительное искусство,art,1,West University of Timișoara,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Инженерия — все направления,engineering,9,University of Bucharest; Babeș-Bolyai University; National University of Science and Technology POLITEHNICA Bucharest; Bucharest University of Economic Studies; West University of Timișoara; Politehnica University Timișoara; Alexandru Ioan Cuza University of Iași; Transilvania University of Brașov; University of Craiova,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Информатика и программирование,computer,9,University of Bucharest; Babeș-Bolyai University; National University of Science and Technology POLITEHNICA Bucharest; Bucharest University of Economic Studies; West University of Timișoara; Politehnica University Timișoara; Alexandru Ioan Cuza University of Iași; Transilvania University of Brașov; University of Craiova,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,История,history,1,University of Bucharest,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Кино и медиа,media,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Логистика,logistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Математика,math,1,University of Bucharest,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Материаловедение,materials,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Машиностроение,mechanical,3,National University of Science and Technology POLITEHNICA Bucharest; Politehnica University Timișoara; Transilvania University of Brașov,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Медицина,medicine,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Музыка,music,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Педагогика,education,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Политология и международные отношения,politics,1,Babeș-Bolyai University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Право,law,2,University of Bucharest; West University of Timișoara,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Производство и автоматизация,manufacturing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Промышленная инженерия,industrial,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Психология,psychology,4,University of Bucharest; Babeș-Bolyai University; West University of Timișoara; Alexandru Ioan Cuza University of Iași,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Сельское хозяйство,agriculture,1,University of Craiova,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Сестринское дело,nursing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Социальная работа,social_work,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Социология,sociology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Строительство,civil,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Театр,theatre,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Туризм и гостеприимство,tourism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Фармация,pharmacy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Физика,physics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Философия,philosophy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Финансы,finance,1,Bucharest University of Economic Studies,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Химическая инженерия,chemical_eng,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Химия,chemistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Экология и науки о Земле,environment,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Экономика,economics,5,Babeș-Bolyai University; Bucharest University of Economic Studies; West University of Timișoara; Alexandru Ioan Cuza University of Iași; University of Craiova,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Электротехника и электроника,electrical,2,National University of Science and Technology POLITEHNICA Bucharest; Politehnica University Timișoara,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Румыния,RO,Языки и литература,languages,1,Alexandru Ioan Cuza University of Iași,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Авиация и космос,aerospace,1,Georgia Institute of Technology,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Автомобилестроение,automotive,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Архитектура,architecture,5,"Massachusetts Institute of Technology (MIT); Yale University; Princeton University; University of California, Berkeley; Cornell University",Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Бизнес и менеджмент,business,2,Massachusetts Institute of Technology (MIT); New York University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Биология,biology,6,Massachusetts Institute of Technology (MIT); Dartmouth College; Stanford University; University of Michigan; Duke University; Cornell University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Биомедицинская инженерия,biomedical,2,Georgia Institute of Technology; Duke University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Ветеринария,veterinary,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Данные и искусственный интеллект,data,2,Massachusetts Institute of Technology (MIT); Stanford University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Дизайн,design,1,Massachusetts Institute of Technology (MIT),Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Журналистика,journalism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Изобразительное искусство,art,3,Massachusetts Institute of Technology (MIT); Yale University; Princeton University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Инженерия — все направления,engineering,11,"Massachusetts Institute of Technology (MIT); Yale University; Princeton University; Dartmouth College; Stanford University; University of California, Berkeley; University of Michigan; Georgia Institute of Technology; Duke University; Cornell University; New York University",Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Информатика и программирование,computer,11,"Massachusetts Institute of Technology (MIT); Yale University; Princeton University; Dartmouth College; Stanford University; University of California, Berkeley; University of Michigan; Georgia Institute of Technology; Duke University; Cornell University; New York University",Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,История,history,2,Yale University; Princeton University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Кино и медиа,media,3,Yale University; Dartmouth College; New York University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Логистика,logistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Математика,math,2,Yale University; Dartmouth College,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Материаловедение,materials,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Машиностроение,mechanical,3,Stanford University; University of Michigan; Cornell University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Медицина,medicine,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Музыка,music,1,Dartmouth College,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Педагогика,education,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Политология и международные отношения,politics,1,Duke University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Право,law,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Производство и автоматизация,manufacturing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Промышленная инженерия,industrial,1,Georgia Institute of Technology,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Психология,psychology,3,"University of California, Berkeley; University of Michigan; New York University",Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Сельское хозяйство,agriculture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Сестринское дело,nursing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Социальная работа,social_work,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Социология,sociology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Строительство,civil,2,Massachusetts Institute of Technology (MIT); Princeton University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Театр,theatre,1,Dartmouth College,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Туризм и гостеприимство,tourism,1,Cornell University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Фармация,pharmacy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Физика,physics,2,"Yale University; University of California, Berkeley",Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Философия,philosophy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Финансы,finance,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Химическая инженерия,chemical_eng,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Химия,chemistry,4,Massachusetts Institute of Technology (MIT); Yale University; Princeton University; Dartmouth College,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Экология и науки о Земле,environment,4,Massachusetts Institute of Technology (MIT); Yale University; Princeton University; Dartmouth College,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Экономика,economics,8,"Massachusetts Institute of Technology (MIT); Yale University; Dartmouth College; Stanford University; University of California, Berkeley; University of Michigan; Duke University; New York University",Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Электротехника и электроника,electrical,2,Massachusetts Institute of Technology (MIT); Yale University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+США,US,Языки и литература,languages,2,Yale University; Princeton University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Авиация и космос,aerospace,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Автомобилестроение,automotive,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Архитектура,architecture,2,National University of Singapore; Singapore University of Technology and Design,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Бизнес и менеджмент,business,3,National University of Singapore; Singapore Management University; Singapore University of Social Sciences,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Биология,biology,1,Singapore Institute of Technology,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Биомедицинская инженерия,biomedical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Ветеринария,veterinary,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Данные и искусственный интеллект,data,3,National University of Singapore; Singapore University of Technology and Design; Singapore University of Social Sciences,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Дизайн,design,1,Nanyang Technological University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Журналистика,journalism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Изобразительное искусство,art,1,Nanyang Technological University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Инженерия — все направления,engineering,5,Nanyang Technological University; National University of Singapore; Singapore Management University; Singapore University of Technology and Design; Singapore Institute of Technology,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Информатика и программирование,computer,4,National University of Singapore; Singapore Management University; Singapore University of Technology and Design; Singapore Institute of Technology,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,История,history,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Кино и медиа,media,1,Nanyang Technological University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Логистика,logistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Математика,math,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Материаловедение,materials,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Машиностроение,mechanical,1,Nanyang Technological University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Медицина,medicine,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Музыка,music,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Педагогика,education,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Политология и международные отношения,politics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Право,law,2,National University of Singapore; Singapore Management University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Производство и автоматизация,manufacturing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Промышленная инженерия,industrial,1,Singapore University of Technology and Design,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Психология,psychology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Сельское хозяйство,agriculture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Сестринское дело,nursing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Социальная работа,social_work,1,Singapore University of Social Sciences,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Социология,sociology,1,Singapore Management University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Стоматология,dentistry,1,National University of Singapore,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Строительство,civil,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Театр,theatre,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Туризм и гостеприимство,tourism,1,Singapore Institute of Technology,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Фармация,pharmacy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Физика,physics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Философия,philosophy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Финансы,finance,2,Singapore Management University; Singapore University of Social Sciences,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Химическая инженерия,chemical_eng,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Химия,chemistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Экология и науки о Земле,environment,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Экономика,economics,1,Singapore Management University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Электротехника и электроника,electrical,1,National University of Singapore,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Сингапур,SG,Языки и литература,languages,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Авиация и космос,aerospace,1,Istanbul Technical University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Автомобилестроение,automotive,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Архитектура,architecture,3,Abdullah Gül University; Middle East Technical University; Istanbul Technical University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Бизнес и менеджмент,business,1,Koç University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Биология,biology,3,Middle East Technical University; Hacettepe University; Istanbul University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Биомедицинская инженерия,biomedical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Ветеринария,veterinary,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Данные и искусственный интеллект,data,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Дизайн,design,1,Sabancı University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Журналистика,journalism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Изобразительное искусство,art,2,Bilkent University; Koç University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Инженерия — все направления,engineering,12,Bilkent University; Boğaziçi University; Abdullah Gül University; Sakarya University; Kütahya Dumlupınar University; Istanbul Medeniyet University; Koç University; Middle East Technical University; Sabancı University; Istanbul Technical University; Hacettepe University; Istanbul University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Информатика и программирование,computer,8,Boğaziçi University; Kütahya Dumlupınar University; Koç University; Middle East Technical University; Sabancı University; Istanbul Technical University; Hacettepe University; Istanbul University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,История,history,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Кино и медиа,media,1,Koç University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Логистика,logistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Математика,math,1,Koç University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Материаловедение,materials,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Машиностроение,mechanical,3,Koç University; Middle East Technical University; Istanbul Technical University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Медицина,medicine,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Музыка,music,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Педагогика,education,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Политология и международные отношения,politics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Право,law,1,Istanbul University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Производство и автоматизация,manufacturing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Промышленная инженерия,industrial,9,Bilkent University; Boğaziçi University; Abdullah Gül University; Sakarya University; Kütahya Dumlupınar University; Istanbul Medeniyet University; Koç University; Sabancı University; Istanbul Technical University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Психология,psychology,5,Koç University; Middle East Technical University; Sabancı University; Hacettepe University; Istanbul University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Сельское хозяйство,agriculture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Сестринское дело,nursing,1,Hacettepe University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Социальная работа,social_work,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Социология,sociology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Строительство,civil,4,Abdullah Gül University; Sakarya University; Kütahya Dumlupınar University; Istanbul Medeniyet University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Театр,theatre,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Туризм и гостеприимство,tourism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Фармация,pharmacy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Физика,physics,2,Koç University; Middle East Technical University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Философия,philosophy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Финансы,finance,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Химическая инженерия,chemical_eng,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Химия,chemistry,1,Koç University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Экология и науки о Земле,environment,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Экономика,economics,4,Kütahya Dumlupınar University; Koç University; Sabancı University; Istanbul University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Электротехника и электроника,electrical,2,Boğaziçi University; Sakarya University,Да,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Турция,TR,Языки и литература,languages,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Авиация и космос,aerospace,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Автомобилестроение,automotive,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Архитектура,architecture,1,Hanyang University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Бизнес и менеджмент,business,6,Yonsei University; Korea University; Sungkyunkwan University; Hanyang University; Kyung Hee University; Ewha Womans University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Биология,biology,2,Seoul National University; Yonsei University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Биомедицинская инженерия,biomedical,1,Ulsan National Institute of Science and Technology (UNIST),Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Ветеринария,veterinary,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Данные и искусственный интеллект,data,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Дизайн,design,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Журналистика,journalism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Изобразительное искусство,art,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Инженерия — все направления,engineering,9,Seoul National University; Yonsei University; Korea University; Pohang University of Science and Technology (POSTECH); Ulsan National Institute of Science and Technology (UNIST); Sungkyunkwan University; Hanyang University; Kyung Hee University; Ewha Womans University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Информатика и программирование,computer,9,Seoul National University; Yonsei University; Korea University; Pohang University of Science and Technology (POSTECH); Ulsan National Institute of Science and Technology (UNIST); Sungkyunkwan University; Hanyang University; Kyung Hee University; Ewha Womans University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,История,history,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Кино и медиа,media,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Логистика,logistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Математика,math,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Материаловедение,materials,1,Pohang University of Science and Technology (POSTECH),Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Машиностроение,mechanical,4,Seoul National University; Pohang University of Science and Technology (POSTECH); Ulsan National Institute of Science and Technology (UNIST); Hanyang University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Медицина,medicine,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Музыка,music,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Педагогика,education,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Политология и международные отношения,politics,4,Yonsei University; Korea University; Kyung Hee University; Ewha Womans University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Право,law,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Производство и автоматизация,manufacturing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Промышленная инженерия,industrial,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Психология,psychology,2,Korea University; Ewha Womans University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Сельское хозяйство,agriculture,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Сестринское дело,nursing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Социальная работа,social_work,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Социология,sociology,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Строительство,civil,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Театр,theatre,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Туризм и гостеприимство,tourism,1,Kyung Hee University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Фармация,pharmacy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Физика,physics,2,Pohang University of Science and Technology (POSTECH); Ulsan National Institute of Science and Technology (UNIST),Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Философия,philosophy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Финансы,finance,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Химическая инженерия,chemical_eng,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Химия,chemistry,1,Pohang University of Science and Technology (POSTECH),Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Экология и науки о Земле,environment,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Экономика,economics,4,Seoul National University; Yonsei University; Korea University; Sungkyunkwan University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Электротехника и электроника,electrical,3,Seoul National University; Ulsan National Institute of Science and Technology (UNIST); Sungkyunkwan University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Южная Корея,KR,Языки и литература,languages,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Авиация и космос,aerospace,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Автомобилестроение,automotive,1,Nagoya University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Архитектура,architecture,1,Kyushu University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Бизнес и менеджмент,business,1,Keio University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Биология,biology,6,Kyoto University; Nagoya University; Tohoku University; Hokkaido University; Kyushu University; International Christian University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Биомедицинская инженерия,biomedical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Ветеринария,veterinary,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Данные и искусственный интеллект,data,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Дизайн,design,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Журналистика,journalism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Изобразительное искусство,art,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Инженерия — все направления,engineering,10,The University of Tokyo; Kyoto University; Osaka University; Nagoya University; Tohoku University; Hokkaido University; Kyushu University; Waseda University; Keio University; Sophia University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Информатика и программирование,computer,2,Waseda University; Keio University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,История,history,1,Nagoya University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Кино и медиа,media,1,Waseda University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Логистика,logistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Математика,math,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Материаловедение,materials,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Машиностроение,mechanical,2,Tohoku University; Waseda University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Медицина,medicine,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Музыка,music,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Педагогика,education,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Политология и международные отношения,politics,3,Waseda University; Keio University; Sophia University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Право,law,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Производство и автоматизация,manufacturing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Промышленная инженерия,industrial,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Психология,psychology,2,Osaka University; International Christian University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Сельское хозяйство,agriculture,1,Hokkaido University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Сестринское дело,nursing,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Социальная работа,social_work,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Социология,sociology,1,Waseda University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Статистика,statistics,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Стоматология,dentistry,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Строительство,civil,1,Waseda University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Театр,theatre,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Туризм и гостеприимство,tourism,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Фармация,pharmacy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Физика,physics,5,The University of Tokyo; Kyoto University; Nagoya University; Tohoku University; Kyushu University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Философия,philosophy,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Финансы,finance,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Химическая инженерия,chemical_eng,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Химия,chemistry,3,Osaka University; Nagoya University; Tohoku University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Экология и науки о Земле,environment,1,Hokkaido University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Экономика,economics,7,The University of Tokyo; Kyoto University; Osaka University; Nagoya University; Keio University; Sophia University; International Christian University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Электротехника и электроника,electrical,0,,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.
+Япония,JP,Языки и литература,languages,4,The University of Tokyo; Waseda University; Sophia University; International Christian University,Нет,Не подтверждает открытый набор 2027 или доступность для гражданства абитуриента.

@@ -1,0 +1,162 @@
+{
+  "checked_at": "2026-10-13",
+  "degree_field_count": 46,
+  "total_universities": 183,
+  "total_countries": 19,
+  "total_program_records": 1563,
+  "important_caveat": "Counts show a match in the catalogue, not validated entry for the 2027 intake. Minimum exam scores are not guaranteed admissions scores and can be qualification-specific.",
+  "countries": [
+    {
+      "country_code": "AU",
+      "country_name": "Австралия",
+      "university_count": 11,
+      "fields_with_exact_match": 26,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 0
+    },
+    {
+      "country_code": "AZ",
+      "country_name": "Азербайджан",
+      "university_count": 10,
+      "fields_with_exact_match": 43,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 0
+    },
+    {
+      "country_code": "BN",
+      "country_name": "Бруней",
+      "university_count": 4,
+      "fields_with_exact_match": 7,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 7
+    },
+    {
+      "country_code": "GB",
+      "country_name": "Великобритания",
+      "university_count": 11,
+      "fields_with_exact_match": 18,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 2
+    },
+    {
+      "country_code": "HU",
+      "country_name": "Венгрия",
+      "university_count": 10,
+      "fields_with_exact_match": 12,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 2
+    },
+    {
+      "country_code": "HK",
+      "country_name": "Гонконг (Китай)",
+      "university_count": 8,
+      "fields_with_exact_match": 17,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 6
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Италия",
+      "university_count": 11,
+      "fields_with_exact_match": 21,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 0
+    },
+    {
+      "country_code": "KZ",
+      "country_name": "Казахстан",
+      "university_count": 10,
+      "fields_with_exact_match": 42,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 42
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Канада",
+      "university_count": 10,
+      "fields_with_exact_match": 14,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 4
+    },
+    {
+      "country_code": "QA",
+      "country_name": "Катар",
+      "university_count": 7,
+      "fields_with_exact_match": 15,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 4
+    },
+    {
+      "country_code": "CN",
+      "country_name": "Китай",
+      "university_count": 10,
+      "fields_with_exact_match": 20,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 3
+    },
+    {
+      "country_code": "AE",
+      "country_name": "Объединённые Арабские Эмираты",
+      "university_count": 6,
+      "fields_with_exact_match": 44,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 41
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Россия",
+      "university_count": 15,
+      "fields_with_exact_match": 21,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 11
+    },
+    {
+      "country_code": "RO",
+      "country_name": "Румыния",
+      "university_count": 9,
+      "fields_with_exact_match": 18,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 0
+    },
+    {
+      "country_code": "US",
+      "country_name": "США",
+      "university_count": 12,
+      "fields_with_exact_match": 27,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 18
+    },
+    {
+      "country_code": "SG",
+      "country_name": "Сингапур",
+      "university_count": 6,
+      "fields_with_exact_match": 19,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 5
+    },
+    {
+      "country_code": "TR",
+      "country_name": "Турция",
+      "university_count": 12,
+      "fields_with_exact_match": 20,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 7
+    },
+    {
+      "country_code": "KR",
+      "country_name": "Южная Корея",
+      "university_count": 10,
+      "fields_with_exact_match": 15,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 0
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Япония",
+      "university_count": 11,
+      "fields_with_exact_match": 19,
+      "total_fields": 46,
+      "fields_with_any_numeric_requirement_global_or_course": 0
+    }
+  ]
+}
