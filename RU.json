@@ -1,0 +1,4203 @@
+{
+  "schema_version": "1.0",
+  "country": {
+    "code": "RU",
+    "name": "Россия",
+    "coverage": "partial",
+    "entry_ids": [
+      "ru_hse",
+      "ru_unn",
+      "ru_kfu",
+      "ru_fin",
+      "ru_spbu",
+      "ru_msu",
+      "ru_itmo",
+      "ru_bmstu",
+      "ru_mephi",
+      "ru_rudn",
+      "ru_urfu",
+      "ru_spbpu",
+      "ru_gnesin",
+      "ru_gitis",
+      "ru_mgpu"
+    ]
+  },
+  "checked_at": "2026-10-13",
+  "admissions_overview": {
+    "degree_level": "Первая степень после школы (бакалавриат; отдельные клинические степени прямого поступления помечены)",
+    "admissions_cycle": "Планирование 2027: сверять с официальным набором",
+    "domestic_and_international_routes": "Граждане РФ: ЕГЭ; иностранцы: ЕГЭ/внутренние экзамены/государственная квота по индивидуальным условиям",
+    "typical_documents_not_universal": "Аттестат, перевод, паспорт, результаты экзаменов, дополнительные документы по статусу",
+    "exam_and_language_guidance": "ЕГЭ по профилю, ДВИ, портфолио или внутренние экзамены — нельзя считать альтернативами без официальных правил",
+    "scholarships_caution": "Бюджет, квота иностранцев и стипендия — разные понятия.",
+    "status": "Обзор, а не гарантированный список порогов для всех абитуриентов."
+  },
+  "sources": {
+    "new_ru_msu_official": {
+      "url": "https://www.cpk.msu.ru/",
+      "title": "МГУ имени М. В. Ломоносова — официальный каталог и испытания. Данные примеров из загруженного справочника 2026/27",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Данные из предоставленного пользователем справочника 2026/27; повторно сверить официальный перечень для 2027."
+    },
+    "new_ru_mephi_official": {
+      "url": "https://admission.mephi.ru/admission/baccalaureate-and-specialty/exams/list",
+      "title": "НИЯУ МИФИ — официальный каталог и испытания. Данные примеров из загруженного справочника 2026/27",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Данные из предоставленного пользователем справочника 2026/27; повторно сверить официальный перечень для 2027."
+    },
+    "new_ru_spbpu_official": {
+      "url": "https://www.spbstu.ru/abit/bachelor/entrance-test/the-list-of-entrance-examinations/",
+      "title": "Санкт-Петербургский политехнический университет Петра Великого — официальный каталог и испытания. Данные примеров из загруженного справочника 2026/27",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Данные из предоставленного пользователем справочника 2026/27; повторно сверить официальный перечень для 2027."
+    },
+    "ru_fin_quota": {
+      "url": "https://studyinrussia.ru/en/university-show/555/admission-rules",
+      "title": "Финансовый университет при Правительстве РФ: правила и квота",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "official_ru_gnesin_2026": {
+      "url": "https://gnesin-academy.ru/upload/iblock/e07/18dsj0fw1oi2ke1mleb5f514azk3afjt/Minimalnoe-kolichestvo-ballov_-podtverzhdayushchee-uspeshnoe-prokhozhdenie-vstupitelnykh-ispytaniy-BAK_-SPETS_-MAG-2026.pdf",
+      "title": "Российская академия музыки имени Гнесиных — правила вступительных испытаний 2026",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Официальная публикация действующего/архивного набора 2026; данные не переносить автоматически на 2027."
+    },
+    "new_ru_hse_official": {
+      "url": "https://ba.hse.ru/minkrit",
+      "title": "Национальный исследовательский университет «Высшая школа экономики» — официальный каталог и испытания. Данные примеров из загруженного справочника 2026/27",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Данные из предоставленного пользователем справочника 2026/27; повторно сверить официальный перечень для 2027."
+    },
+    "ru_fin_programs": {
+      "url": "https://studyinrussia.ru/en/university-show/555/programm-trainings/5474",
+      "title": "Финансовый университет при Правительстве РФ: программа первой степени",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "new_ru_spbu_official": {
+      "url": "https://guide.spbu.ru/studies",
+      "title": "Санкт-Петербургский государственный университет — официальный каталог и испытания. Данные примеров из загруженного справочника 2026/27",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Данные из предоставленного пользователем справочника 2026/27; повторно сверить официальный перечень для 2027."
+    },
+    "ru_hse_quota": {
+      "url": "https://studyinrussia.ru/en/university-show/115/admission-rules",
+      "title": "НИУ Высшая школа экономики: правила и квота",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "new_ru_rudn_official": {
+      "url": "https://international.rudn.ru/undergraduate/",
+      "title": "Российский университет дружбы народов имени Патриса Лумумбы (РУДН) — официальный каталог и испытания. Данные примеров из загруженного справочника 2026/27",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Данные из предоставленного пользователем справочника 2026/27; повторно сверить официальный перечень для 2027."
+    },
+    "unn_bio_2026": {
+      "url": "https://ibbm.unn.ru/courses/biologiya-bakalavriat/",
+      "title": "ННГУ: Биология, бюджетные места и минимумы ЕГЭ 2026",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "ru_unn_quota": {
+      "url": "https://studyinrussia.ru/en/university-show/120/admission-rules",
+      "title": "ННГУ имени Н. И. Лобачевского: правила и квота",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "ru_unn_programs": {
+      "url": "https://studyinrussia.ru/en/university-show/120/programm-trainings/78",
+      "title": "ННГУ имени Н. И. Лобачевского: программа первой степени",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "ru_routes": {
+      "url": "https://studyinrussia.ru/en",
+      "title": "Study in Russia: государственные места и способы поступления",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "new_ru_kfu_official": {
+      "url": "https://admissions.kpfu.ru/bakalavriat-specialitet/informaciya-o-priyome/",
+      "title": "Казанский федеральный университет (КФУ) — официальный каталог и испытания. Данные примеров из загруженного справочника 2026/27",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Данные из предоставленного пользователем справочника 2026/27; повторно сверить официальный перечень для 2027."
+    },
+    "new_ru_urfu_official": {
+      "url": "https://priem-rtf.urfu.ru/level/bakalavriat/",
+      "title": "Уральский федеральный университет (УрФУ) — официальный каталог и испытания. Данные примеров из загруженного справочника 2026/27",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Данные из предоставленного пользователем справочника 2026/27; повторно сверить официальный перечень для 2027."
+    },
+    "official_ru_mgpu_2026": {
+      "url": "https://priem.mgpu.ru/program/uchitel-muzyki-2/",
+      "title": "Московский городской педагогический университет (МГПУ) — правила вступительных испытаний 2026",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Официальная публикация действующего/архивного набора 2026; данные не переносить автоматически на 2027."
+    },
+    "new_ru_itmo_official": {
+      "url": "https://abit.itmo.ru/bachelor",
+      "title": "Университет ИТМО — официальный каталог и испытания. Данные примеров из загруженного справочника 2026/27",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Данные из предоставленного пользователем справочника 2026/27; повторно сверить официальный перечень для 2027."
+    },
+    "ru_kfu_programs": {
+      "url": "https://studyinrussia.ru/index.php/en/university-show/241/programm-trainings/6622",
+      "title": "Казанский федеральный университет: программа первой степени",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "ru_kfu_quota": {
+      "url": "https://studyinrussia.ru/en/university-show/241/admission-rules",
+      "title": "Казанский федеральный университет: правила и квота",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "official_ru_gitis_2026": {
+      "url": "https://gitis.net/postupayushim/bachelor/exams/",
+      "title": "Российский институт театрального искусства — ГИТИС — правила вступительных испытаний 2026",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Официальная публикация действующего/архивного набора 2026; данные не переносить автоматически на 2027."
+    },
+    "ru_spbu_quota": {
+      "url": "https://studyinrussia.ru/en/university-show/198/admission-rules",
+      "title": "Санкт-Петербургский государственный университет: правила и квота",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "ru_spbu_programs": {
+      "url": "https://abiturient.spbu.ru/medialibrary/ru/2024/bac/cost_bac_spec_2024.pdf",
+      "title": "Санкт-Петербургский государственный университет: программа первой степени",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "ru_hse_programs": {
+      "url": "https://studyinrussia.ru/en/university-show/115/programm-trainings/208?lang=en",
+      "title": "НИУ Высшая школа экономики: программа первой степени",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "new_ru_bmstu_official": {
+      "url": "https://kf.bmstu.ru/bakalavriat-i-specialitet/vstupitelnye-ispytaniya",
+      "title": "МГТУ им. Н. Э. Баумана — официальный каталог и испытания. Данные примеров из загруженного справочника 2026/27",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Данные из предоставленного пользователем справочника 2026/27; повторно сверить официальный перечень для 2027."
+    },
+    "spbu_mkn_2026_rules": {
+      "url": "https://joinmkn.ru/rules",
+      "title": "МКН СПбГУ — бакалавриат 2026, предметы и минимальные ЕГЭ",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Страница приёмной кампании факультета математики и компьютерных наук СПбГУ на 2026 год; для иных факультетов не переносить."
+    }
+  },
+  "profiles": {
+    "new_profile_ru_bmstu": {
+      "grades": {
+        "text": "Аттестат и предметные ЕГЭ либо разрешённые внутренние экзамены. Порог зависит от программы и маршрута (гражданин России, иностранец, квота).",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_bmstu_official"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_bmstu_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_bmstu_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "spec_ru_itmo_05_03_06_Экология_и_природопользование": {
+      "grades": {
+        "text": "Конкурс по сумме вступительных; проходной конкурсный балл не известен. Перечисленные баллы — минимумы ЕГЭ по предметам, не гарантия бюджетного места.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_itmo_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ — набор предметов",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "математика ≥60; биология ≥60; русский ≥60; ИЛИ — только обозначенные альтернативы. Баллы 2026/27, не конкурсный проходной балл.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Биология",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Порог 2026/27 из загруженного справочника; обязательно сверить правила новой кампании и право на внутренние экзамены."
+      ],
+      "renewal": []
+    },
+    "ru_kfu": {
+      "grades": {
+        "text": "Нужен аттестат с приложением оценок. Единого школьного GPA для всех вузов России нет; конкурс и минимумы зависят от программы и способа поступления.",
+        "source_ids": [
+          "ru_routes"
+        ],
+        "status": "not_stated_in_source",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [
+        {
+          "test": "Вступительные испытания",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "В англоязычной карточке: английский и информатика/математика; формат и минимумы уточнить.",
+          "source_ids": [
+            "ru_kfu_programs"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Бюджетное место / квота Правительства РФ",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Возможны обучение за счёт бюджета по общему конкурсу и отдельная квота для иностранцев. Это разные основания поступления.",
+          "source_ids": [
+            "ru_routes"
+          ]
+        },
+        "remaining_costs": "Жильё, питание, проезд, страховка и документы не считаются автоматически оплаченными. Квота не гарантирует место в выбранном вузе.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Маршрут зависит от гражданства и статуса. Квота для иностранных граждан не заменяет общий конкурс для граждан России.",
+          "source_ids": [
+            "ru_routes"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Сроки нового набора, доступность гранта для вашего гражданства и дополнительные требования проверяются по официальным ссылкам."
+      ],
+      "renewal": []
+    },
+    "spec_existing_ru_hse_Прикладной_анализ_данных_англоязычная_": {
+      "grades": {
+        "text": "Минимальные предметные баллы для этой конкретной программы 2026/27. Это не фактический балл зачисления на бюджет.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_hse_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ по предметам",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Точный набор предметов и альтернативы: математика ≥70; русский ≥60; информатика ИЛИ физика ≥60",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "conditional",
+          "score": 70,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "conditional",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Физика",
+          "status": "conditional",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "spec_ru_mephi_01_03_02_Прикладная_математика_и_информатика": {
+      "grades": {
+        "text": "Конкурс по сумме вступительных; проходной конкурсный балл не известен. Перечисленные баллы — минимумы ЕГЭ по предметам, не гарантия бюджетного места.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_mephi_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ — набор предметов",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "математика ≥75 (бюджет); русский ≥70 (бюджет); физика ИЛИ информатика ≥75 (бюджет); ИЛИ — только обозначенные альтернативы. Баллы 2026/27, не конкурсный проходной балл.",
+          "source_ids": [
+            "new_ru_mephi_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "required",
+          "score": 75,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_mephi_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "required",
+          "score": 70,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_mephi_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Информатика",
+          "status": "required",
+          "score": 75,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_mephi_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_mephi_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_mephi_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Порог 2026/27 из загруженного справочника; обязательно сверить правила новой кампании и право на внутренние экзамены."
+      ],
+      "renewal": []
+    },
+    "new_profile_ru_urfu": {
+      "grades": {
+        "text": "Аттестат и предметные ЕГЭ либо разрешённые внутренние экзамены. Порог зависит от программы и маршрута (гражданин России, иностранец, квота).",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_urfu_official"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_urfu_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_urfu_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "spec_ru_itmo_04_03_01_Химия": {
+      "grades": {
+        "text": "Конкурс по сумме вступительных; проходной конкурсный балл не известен. Перечисленные баллы — минимумы ЕГЭ по предметам, не гарантия бюджетного места.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_itmo_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ — набор предметов",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "математика ≥60; химия ≥60; русский ≥60; ИЛИ — только обозначенные альтернативы. Баллы 2026/27, не конкурсный проходной балл.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Химия",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Порог 2026/27 из загруженного справочника; обязательно сверить правила новой кампании и право на внутренние экзамены."
+      ],
+      "renewal": []
+    },
+    "p_ru_gnesin_2026": {
+      "grades": {
+        "text": "Нужен аттестат. Итоговые баллы конкурса и экзамены по каждому маршруту уточняются.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "official_ru_gnesin_2026"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Творческое испытание",
+          "status": "required",
+          "score": 50,
+          "scale": "100",
+          "text": "Исполнение сольной программы, минимум 2026",
+          "source_ids": [
+            "official_ru_gnesin_2026"
+          ]
+        },
+        {
+          "test": "Профессиональное испытание",
+          "status": "required",
+          "score": 40,
+          "scale": "100",
+          "text": "Музыкально-теоретическая подготовка, минимум 2026",
+          "source_ids": [
+            "official_ru_gnesin_2026"
+          ]
+        },
+        {
+          "test": "Собеседование",
+          "status": "required",
+          "score": 50,
+          "scale": "100",
+          "text": "Собеседование, минимум 2026",
+          "source_ids": [
+            "official_ru_gnesin_2026"
+          ]
+        },
+        {
+          "test": "ЕГЭ: русский язык",
+          "status": "required",
+          "score": 56,
+          "scale": "100",
+          "text": "Минимум 2026",
+          "source_ids": [
+            "official_ru_gnesin_2026"
+          ]
+        },
+        {
+          "test": "ЕГЭ: литература",
+          "status": "required",
+          "score": 45,
+          "scale": "100",
+          "text": "Минимум 2026",
+          "source_ids": [
+            "official_ru_gnesin_2026"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Бюджет / платное — по отдельным конкурсам",
+        "category": "unverified",
+        "coverage": {
+          "text": "Проверяйте доступность бюджетных мест и условия для иностранцев.",
+          "source_ids": [
+            "official_ru_gnesin_2026"
+          ]
+        },
+        "remaining_costs": "Бюджет для иностранцев не гарантирован.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "По правилам конкретной программы и гражданства. Иностранный абитуриент не обязательно поступает по общему ЕГЭ-конкурсу.",
+          "source_ids": [
+            "official_ru_gnesin_2026"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Правила нового набора 2027 сверить на сайте."
+      ],
+      "renewal": []
+    },
+    "spec_existing_ru_hse_Физика": {
+      "grades": {
+        "text": "Минимальные предметные баллы для этой конкретной программы 2026/27. Это не фактический балл зачисления на бюджет.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_hse_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ по предметам",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Точный набор предметов и альтернативы: физика ≥70; математика ≥70; русский ≥60",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Физика",
+          "status": "conditional",
+          "score": 70,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "conditional",
+          "score": 70,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "conditional",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "spec_ru_spbpu_02_03_01_Математика_и_компьютерные_науки": {
+      "grades": {
+        "text": "Конкурс по сумме вступительных; проходной конкурсный балл не известен. Перечисленные баллы — минимумы ЕГЭ по предметам, не гарантия бюджетного места.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_spbpu_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ — набор предметов",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "математика ≥47; русский ≥47; физика ИЛИ информатика ≥47; ИЛИ — только обозначенные альтернативы. Баллы 2026/27, не конкурсный проходной балл.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Информатика",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Порог 2026/27 из загруженного справочника; обязательно сверить правила новой кампании и право на внутренние экзамены."
+      ],
+      "renewal": []
+    },
+    "new_profile_ru_msu": {
+      "grades": {
+        "text": "Аттестат и предметные ЕГЭ либо разрешённые внутренние экзамены. Порог зависит от программы и маршрута (гражданин России, иностранец, квота).",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_msu_official"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_msu_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_msu_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "ru_unn_biology": {
+      "grades": {
+        "text": "Для общего конкурса учитываются результаты вступительных испытаний. В 2026 опубликовано 125 бюджетных мест; итоговый проходной балл определяется конкурсом. Школьный GPA не заменяет сумму ЕГЭ.",
+        "source_ids": [
+          "unn_bio_2026"
+        ],
+        "status": "not_stated_in_source",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ: биология",
+          "status": "required",
+          "score": 40,
+          "scale": "100",
+          "text": "Опубликованный минимум допуска, не проходной балл на бюджет.",
+          "source_ids": [
+            "unn_bio_2026"
+          ]
+        },
+        {
+          "test": "ЕГЭ: химия / физика / профильная математика",
+          "status": "required_choice",
+          "score": null,
+          "scale": null,
+          "text": "Один из предметов: химия ≥40/100, физика ≥41/100 или профильная математика ≥40/100.",
+          "source_ids": [
+            "unn_bio_2026"
+          ]
+        },
+        {
+          "test": "ЕГЭ: русский язык",
+          "status": "required",
+          "score": 40,
+          "scale": "100",
+          "text": "Требования общего конкурса по ЕГЭ; для иной категории поступления нужны отдельные правила.",
+          "source_ids": [
+            "unn_bio_2026"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Бюджетное место / квота Правительства РФ",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Возможны обучение за счёт бюджета по общему конкурсу и отдельная квота для иностранцев. Это разные основания поступления.",
+          "source_ids": [
+            "ru_routes"
+          ]
+        },
+        "remaining_costs": "Жильё, питание, проезд, страховка и документы не считаются автоматически оплаченными. Квота не гарантирует место в выбранном вузе.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Маршрут зависит от гражданства и статуса. Квота для иностранных граждан не заменяет общий конкурс для граждан России.",
+          "source_ids": [
+            "ru_routes"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Эти минимумы относятся к опубликованному набору 2026 и маршруту ЕГЭ. Для иностранной квоты и внутренних испытаний проверить отдельные правила."
+      ],
+      "renewal": []
+    },
+    "new_profile_ru_spbpu": {
+      "grades": {
+        "text": "Аттестат и предметные ЕГЭ либо разрешённые внутренние экзамены. Порог зависит от программы и маршрута (гражданин России, иностранец, квота).",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_spbpu_official"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "spec_ru_itmo_01_03_02_Прикладная_математика_и_информатика": {
+      "grades": {
+        "text": "Конкурс по сумме вступительных; проходной конкурсный балл не известен. Перечисленные баллы — минимумы ЕГЭ по предметам, не гарантия бюджетного места.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_itmo_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ — набор предметов",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "математика ≥60; информатика ≥60; русский ≥60; ИЛИ — только обозначенные альтернативы. Баллы 2026/27, не конкурсный проходной балл.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Информатика",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Порог 2026/27 из загруженного справочника; обязательно сверить правила новой кампании и право на внутренние экзамены."
+      ],
+      "renewal": []
+    },
+    "p_ru_gitis_2026": {
+      "grades": {
+        "text": "Нужен аттестат. Итоговые баллы конкурса и экзамены по каждому маршруту уточняются.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "official_ru_gitis_2026"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Собеседование",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Устное испытание (для названных программ)",
+          "source_ids": [
+            "official_ru_gitis_2026"
+          ]
+        },
+        {
+          "test": "Профессиональное испытание",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Театроведение — рецензия; драматургия — защита пьесы/сценария и заявка.",
+          "source_ids": [
+            "official_ru_gitis_2026"
+          ]
+        },
+        {
+          "test": "ЕГЭ: русский язык",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Необходим для указанных маршрутов. Минимум не подтверждён в использованной таблице.",
+          "source_ids": [
+            "official_ru_gitis_2026"
+          ]
+        },
+        {
+          "test": "ЕГЭ: литература",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Необходим для указанных маршрутов. Минимум не подтверждён в использованной таблице.",
+          "source_ids": [
+            "official_ru_gitis_2026"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Бюджет / платное — по отдельным конкурсам",
+        "category": "unverified",
+        "coverage": {
+          "text": "Проверяйте доступность бюджетных мест и условия для иностранцев.",
+          "source_ids": [
+            "official_ru_gitis_2026"
+          ]
+        },
+        "remaining_costs": "Бюджет для иностранцев не гарантирован.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "По правилам конкретной программы и гражданства. Иностранный абитуриент не обязательно поступает по общему ЕГЭ-конкурсу.",
+          "source_ids": [
+            "official_ru_gitis_2026"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Правила нового набора 2027 сверить на сайте."
+      ],
+      "renewal": []
+    },
+    "spec_ru_itmo_02_03_03_Математическое_обеспечение_и_администрирование_информационных": {
+      "grades": {
+        "text": "Конкурс по сумме вступительных; проходной конкурсный балл не известен. Перечисленные баллы — минимумы ЕГЭ по предметам, не гарантия бюджетного места.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_itmo_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ — набор предметов",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "математика ≥60; информатика ≥60; русский ≥60; ИЛИ — только обозначенные альтернативы. Баллы 2026/27, не конкурсный проходной балл.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Информатика",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Порог 2026/27 из загруженного справочника; обязательно сверить правила новой кампании и право на внутренние экзамены."
+      ],
+      "renewal": []
+    },
+    "spec_ru_spbpu_09_03_01_Информатика_и_вычислительная_техника": {
+      "grades": {
+        "text": "Конкурс по сумме вступительных; проходной конкурсный балл не известен. Перечисленные баллы — минимумы ЕГЭ по предметам, не гарантия бюджетного места.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_spbpu_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ — набор предметов",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "математика ≥47; русский ≥47; физика ИЛИ информатика ≥47; ИЛИ — только обозначенные альтернативы. Баллы 2026/27, не конкурсный проходной балл.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Информатика",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Порог 2026/27 из загруженного справочника; обязательно сверить правила новой кампании и право на внутренние экзамены."
+      ],
+      "renewal": []
+    },
+    "spec_existing_ru_hse_Компьютерные_науки_и_анализ_данных_онлайн_": {
+      "grades": {
+        "text": "Минимальные предметные баллы для этой конкретной программы 2026/27. Это не фактический балл зачисления на бюджет.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_hse_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ по предметам",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Точный набор предметов и альтернативы: математика ≥70; русский ≥60; информатика ИЛИ физика ≥65",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "conditional",
+          "score": 70,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "conditional",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Физика",
+          "status": "conditional",
+          "score": 65,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "spec_ru_spbpu_01_03_02_Прикладная_математика_и_информатика": {
+      "grades": {
+        "text": "Конкурс по сумме вступительных; проходной конкурсный балл не известен. Перечисленные баллы — минимумы ЕГЭ по предметам, не гарантия бюджетного места.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_spbpu_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ — набор предметов",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "математика ≥47; русский ≥47; физика ИЛИ информатика ≥47; ИЛИ — только обозначенные альтернативы. Баллы 2026/27, не конкурсный проходной балл.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Информатика",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Порог 2026/27 из загруженного справочника; обязательно сверить правила новой кампании и право на внутренние экзамены."
+      ],
+      "renewal": []
+    },
+    "spec_existing_ru_hse_Математика": {
+      "grades": {
+        "text": "Минимальные предметные баллы для этой конкретной программы 2026/27. Это не фактический балл зачисления на бюджет.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_hse_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ по предметам",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Точный набор предметов и альтернативы: математика ≥75; русский ≥65; физика ИЛИ информатика ≥70",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "conditional",
+          "score": 75,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "conditional",
+          "score": 65,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Информатика",
+          "status": "conditional",
+          "score": 70,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "spec_ru_itmo_09_03_03_Прикладная_информатика": {
+      "grades": {
+        "text": "Конкурс по сумме вступительных; проходной конкурсный балл не известен. Перечисленные баллы — минимумы ЕГЭ по предметам, не гарантия бюджетного места.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_itmo_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ — набор предметов",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "математика ≥60; информатика ≥60; русский ≥60; ИЛИ — только обозначенные альтернативы. Баллы 2026/27, не конкурсный проходной балл.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Информатика",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Порог 2026/27 из загруженного справочника; обязательно сверить правила новой кампании и право на внутренние экзамены."
+      ],
+      "renewal": []
+    },
+    "spec_ru_spbpu_01_03_03_Механика_и_математическое_моделирование": {
+      "grades": {
+        "text": "Конкурс по сумме вступительных; проходной конкурсный балл не известен. Перечисленные баллы — минимумы ЕГЭ по предметам, не гарантия бюджетного места.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_spbpu_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ — набор предметов",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "математика ≥47; русский ≥47; физика ИЛИ информатика ≥47; ИЛИ — только обозначенные альтернативы. Баллы 2026/27, не конкурсный проходной балл.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Информатика",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Порог 2026/27 из загруженного справочника; обязательно сверить правила новой кампании и право на внутренние экзамены."
+      ],
+      "renewal": []
+    },
+    "spec_ru_spbpu_08_03_01_Строительство": {
+      "grades": {
+        "text": "Конкурс по сумме вступительных; проходной конкурсный балл не известен. Перечисленные баллы — минимумы ЕГЭ по предметам, не гарантия бюджетного места.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_spbpu_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ — набор предметов",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "математика ≥47; русский ≥47; физика ИЛИ информатика ≥47; ИЛИ — только обозначенные альтернативы. Баллы 2026/27, не конкурсный проходной балл.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Информатика",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Порог 2026/27 из загруженного справочника; обязательно сверить правила новой кампании и право на внутренние экзамены."
+      ],
+      "renewal": []
+    },
+    "new_profile_ru_mephi": {
+      "grades": {
+        "text": "Аттестат и предметные ЕГЭ либо разрешённые внутренние экзамены. Порог зависит от программы и маршрута (гражданин России, иностранец, квота).",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_mephi_official"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_mephi_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_mephi_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "spec_existing_ru_hse_Прикладная_математика_и_информатика": {
+      "grades": {
+        "text": "Минимальные предметные баллы для этой конкретной программы 2026/27. Это не фактический балл зачисления на бюджет.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_hse_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ по предметам",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Точный набор предметов и альтернативы: математика ≥75; информатика ≥75; русский ≥60",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "conditional",
+          "score": 75,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Информатика",
+          "status": "conditional",
+          "score": 75,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "conditional",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "spec_ru_spbpu_02_03_03_Математическое_обеспечение_и_администрирование_информационных": {
+      "grades": {
+        "text": "Конкурс по сумме вступительных; проходной конкурсный балл не известен. Перечисленные баллы — минимумы ЕГЭ по предметам, не гарантия бюджетного места.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_spbpu_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ — набор предметов",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "математика ≥47; русский ≥47; физика ИЛИ информатика ≥47; ИЛИ — только обозначенные альтернативы. Баллы 2026/27, не конкурсный проходной балл.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Информатика",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Порог 2026/27 из загруженного справочника; обязательно сверить правила новой кампании и право на внутренние экзамены."
+      ],
+      "renewal": []
+    },
+    "ru_fin": {
+      "grades": {
+        "text": "Нужен аттестат с приложением оценок. Единого школьного GPA для всех вузов России нет; конкурс и минимумы зависят от программы и способа поступления.",
+        "source_ids": [
+          "ru_routes"
+        ],
+        "status": "not_stated_in_source",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [
+        {
+          "test": "Вступительные испытания",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "На портале перечислены математика, русский и предметы по выбору; точную комбинацию нужно взять из правил приёма. Не нужно сдавать все перечисленные предметы.",
+          "source_ids": [
+            "ru_fin_programs"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Бюджетное место / квота Правительства РФ",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Возможны обучение за счёт бюджета по общему конкурсу и отдельная квота для иностранцев. Это разные основания поступления.",
+          "source_ids": [
+            "ru_routes"
+          ]
+        },
+        "remaining_costs": "Жильё, питание, проезд, страховка и документы не считаются автоматически оплаченными. Квота не гарантирует место в выбранном вузе.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Маршрут зависит от гражданства и статуса. Квота для иностранных граждан не заменяет общий конкурс для граждан России.",
+          "source_ids": [
+            "ru_routes"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Сроки нового набора, доступность гранта для вашего гражданства и дополнительные требования проверяются по официальным ссылкам."
+      ],
+      "renewal": []
+    },
+    "spec_existing_ru_hse_Прикладная_математика": {
+      "grades": {
+        "text": "Минимальные предметные баллы для этой конкретной программы 2026/27. Это не фактический балл зачисления на бюджет.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_hse_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ по предметам",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Точный набор предметов и альтернативы: математика ≥65; русский ≥60; физика ИЛИ информатика ≥65",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "conditional",
+          "score": 65,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "conditional",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Информатика",
+          "status": "conditional",
+          "score": 65,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "new_profile_ru_itmo": {
+      "grades": {
+        "text": "Аттестат и предметные ЕГЭ либо разрешённые внутренние экзамены. Порог зависит от программы и маршрута (гражданин России, иностранец, квота).",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_itmo_official"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "new_profile_ru_rudn": {
+      "grades": {
+        "text": "Аттестат и предметные ЕГЭ либо разрешённые внутренние экзамены. Порог зависит от программы и маршрута (гражданин России, иностранец, квота).",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_rudn_official"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_rudn_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_rudn_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "p_ru_mgpu_2026": {
+      "grades": {
+        "text": "Нужен аттестат. Итоговые баллы конкурса и экзамены по каждому маршруту уточняются.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "official_ru_mgpu_2026"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Творческое испытание: музыка",
+          "status": "required",
+          "score": 70,
+          "scale": "100",
+          "text": "Для поступающих после 11 класса, бюджет 2026",
+          "source_ids": [
+            "official_ru_mgpu_2026"
+          ]
+        },
+        {
+          "test": "ЕГЭ: русский язык",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "После 11 класса, бюджет 2026",
+          "source_ids": [
+            "official_ru_mgpu_2026"
+          ]
+        },
+        {
+          "test": "ЕГЭ: обществознание",
+          "status": "required",
+          "score": 55,
+          "scale": "100",
+          "text": "После 11 класса, бюджет 2026",
+          "source_ids": [
+            "official_ru_mgpu_2026"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Бюджет / платное — по отдельным конкурсам",
+        "category": "unverified",
+        "coverage": {
+          "text": "Проверяйте доступность бюджетных мест и условия для иностранцев.",
+          "source_ids": [
+            "official_ru_mgpu_2026"
+          ]
+        },
+        "remaining_costs": "Бюджет для иностранцев не гарантирован.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "По правилам конкретной программы и гражданства. Иностранный абитуриент не обязательно поступает по общему ЕГЭ-конкурсу.",
+          "source_ids": [
+            "official_ru_mgpu_2026"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Правила нового набора 2027 сверить на сайте."
+      ],
+      "renewal": []
+    },
+    "spec_ru_spbpu_03_03_01_Прикладные_математика_и_физика": {
+      "grades": {
+        "text": "Конкурс по сумме вступительных; проходной конкурсный балл не известен. Перечисленные баллы — минимумы ЕГЭ по предметам, не гарантия бюджетного места.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_spbpu_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ — набор предметов",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "математика ≥47; русский ≥47; физика ИЛИ информатика ≥47; ИЛИ — только обозначенные альтернативы. Баллы 2026/27, не конкурсный проходной балл.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Информатика",
+          "status": "required",
+          "score": 47,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Порог 2026/27 из загруженного справочника; обязательно сверить правила новой кампании и право на внутренние экзамены."
+      ],
+      "renewal": []
+    },
+    "spec_existing_ru_hse_Химия": {
+      "grades": {
+        "text": "Минимальные предметные баллы для этой конкретной программы 2026/27. Это не фактический балл зачисления на бюджет.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_hse_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ по предметам",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Точный набор предметов и альтернативы: химия ≥70; русский ≥60; математика ИЛИ физика ≥70",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Химия",
+          "status": "conditional",
+          "score": 70,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "conditional",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Физика",
+          "status": "conditional",
+          "score": 70,
+          "scale": "100",
+          "text": "Минимум по предмету 2026/27; при «ИЛИ» сдаётся допустимый вариант, не обязательно оба.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_hse_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "spec_ru_itmo_03_03_02_Физика": {
+      "grades": {
+        "text": "Конкурс по сумме вступительных; проходной конкурсный балл не известен. Перечисленные баллы — минимумы ЕГЭ по предметам, не гарантия бюджетного места.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_itmo_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ — набор предметов",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "математика ≥60; физика ≥60; русский ≥60; ИЛИ — только обозначенные альтернативы. Баллы 2026/27, не конкурсный проходной балл.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Физика",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Порог 2026/27 из загруженного справочника; обязательно сверить правила новой кампании и право на внутренние экзамены."
+      ],
+      "renewal": []
+    },
+    "ru_unn": {
+      "grades": {
+        "text": "Нужен аттестат с приложением оценок. Единого школьного GPA для всех вузов России нет; конкурс и минимумы зависят от программы и способа поступления.",
+        "source_ids": [
+          "ru_routes"
+        ],
+        "status": "not_stated_in_source",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [
+        {
+          "test": "Вступительные испытания",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "В карточке международного приёма: русский язык и математика. Не переносить этот список на общий конкурс ЕГЭ.",
+          "source_ids": [
+            "ru_unn_programs"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Бюджетное место / квота Правительства РФ",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Возможны обучение за счёт бюджета по общему конкурсу и отдельная квота для иностранцев. Это разные основания поступления.",
+          "source_ids": [
+            "ru_routes"
+          ]
+        },
+        "remaining_costs": "Жильё, питание, проезд, страховка и документы не считаются автоматически оплаченными. Квота не гарантирует место в выбранном вузе.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Маршрут зависит от гражданства и статуса. Квота для иностранных граждан не заменяет общий конкурс для граждан России.",
+          "source_ids": [
+            "ru_routes"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Сроки нового набора, доступность гранта для вашего гражданства и дополнительные требования проверяются по официальным ссылкам."
+      ],
+      "renewal": []
+    },
+    "ru_hse": {
+      "grades": {
+        "text": "Нужен аттестат с приложением оценок. Единого школьного GPA для всех вузов России нет; конкурс и минимумы зависят от программы и способа поступления.",
+        "source_ids": [
+          "ru_routes"
+        ],
+        "status": "not_stated_in_source",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [
+        {
+          "test": "Вступительные испытания",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Русский язык и творческое испытание по опубликованной карточке. Проверить правила для своего гражданства.",
+          "source_ids": [
+            "ru_hse_programs"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Бюджетное место / квота Правительства РФ",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Возможны обучение за счёт бюджета по общему конкурсу и отдельная квота для иностранцев. Это разные основания поступления.",
+          "source_ids": [
+            "ru_routes"
+          ]
+        },
+        "remaining_costs": "Жильё, питание, проезд, страховка и документы не считаются автоматически оплаченными. Квота не гарантирует место в выбранном вузе.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Маршрут зависит от гражданства и статуса. Квота для иностранных граждан не заменяет общий конкурс для граждан России.",
+          "source_ids": [
+            "ru_routes"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Сроки нового набора, доступность гранта для вашего гражданства и дополнительные требования проверяются по официальным ссылкам."
+      ],
+      "renewal": []
+    },
+    "spec_ru_itmo_09_03_01_Информатика_и_вычислительная_техника": {
+      "grades": {
+        "text": "Конкурс по сумме вступительных; проходной конкурсный балл не известен. Перечисленные баллы — минимумы ЕГЭ по предметам, не гарантия бюджетного места.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "new_ru_itmo_official"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ — набор предметов",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "математика ≥60; информатика ≥60; русский ≥60; ИЛИ — только обозначенные альтернативы. Баллы 2026/27, не конкурсный проходной балл.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Математика",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Информатика",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        {
+          "test": "ЕГЭ: Русский",
+          "status": "required",
+          "score": 60,
+          "scale": "100",
+          "text": "Минимум для указанного направления и категории отбора; сочетание обязательных предметов и ИЛИ см. ниже.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "new_ru_itmo_official"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Порог 2026/27 из загруженного справочника; обязательно сверить правила новой кампании и право на внутренние экзамены."
+      ],
+      "renewal": []
+    },
+    "ru_spbu": {
+      "grades": {
+        "text": "Нужен аттестат с приложением оценок. Единого школьного GPA для всех вузов России нет; конкурс и минимумы зависят от программы и способа поступления.",
+        "source_ids": [
+          "ru_routes"
+        ],
+        "status": "not_stated_in_source",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [
+        {
+          "test": "Вступительные испытания",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Перечень программ подтверждён документом 2024 года. Экзамены и набор нового года уточнить в приёмной комиссии.",
+          "source_ids": [
+            "ru_spbu_programs"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Бюджетное место / квота Правительства РФ",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Возможны обучение за счёт бюджета по общему конкурсу и отдельная квота для иностранцев. Это разные основания поступления.",
+          "source_ids": [
+            "ru_routes"
+          ]
+        },
+        "remaining_costs": "Жильё, питание, проезд, страховка и документы не считаются автоматически оплаченными. Квота не гарантирует место в выбранном вузе.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Маршрут зависит от гражданства и статуса. Квота для иностранных граждан не заменяет общий конкурс для граждан России.",
+          "source_ids": [
+            "ru_routes"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Сроки нового набора, доступность гранта для вашего гражданства и дополнительные требования проверяются по официальным ссылкам."
+      ],
+      "renewal": []
+    },
+    "profile_mkn_224": {
+      "grades": {
+        "text": "Минимумы ЕГЭ 2026 приведены ПО КАЖДОМУ ПРЕДМЕТУ для стандартного ЕГЭ-конкурса. Бюджетный конкурсный проходной балл может быть выше.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "spbu_mkn_2026_rules"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ: математика",
+          "score": 85,
+          "status": "required",
+          "scale": "100",
+          "text": "Обязательный предмет; минимальный балл 2026.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        },
+        {
+          "test": "ЕГЭ: информатика / физика",
+          "score": 75,
+          "status": "required_choice",
+          "scale": "100",
+          "text": "Для математики ИЛИ: информатика либо физика; минимальный балл 2026.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        },
+        {
+          "test": "ЕГЭ: русский язык",
+          "score": 55,
+          "status": "required",
+          "scale": "100",
+          "text": "Обязательный предмет; минимальный балл 2026.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Бюджет / платное — отдельные конкурсы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Бюджетный конкурс для граждан РФ; иностранные квоты и статус отдельны.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        },
+        "remaining_costs": "Не гарантировано бюджетное место, уточните право и стоимость.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Баллы приведены для ЕГЭ-маршрута, а не квоты иностранных граждан.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для 2027 года минимумы и список программ проверить заново.",
+        "Для «Математики» третий предмет информатика ИЛИ физика (один на выбор)."
+      ],
+      "renewal": []
+    },
+    "profile_mkn_225": {
+      "grades": {
+        "text": "Минимумы ЕГЭ 2026 приведены ПО КАЖДОМУ ПРЕДМЕТУ для стандартного ЕГЭ-конкурса. Бюджетный конкурсный проходной балл может быть выше.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "spbu_mkn_2026_rules"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ: математика",
+          "score": 80,
+          "status": "required",
+          "scale": "100",
+          "text": "Обязательный предмет; минимальный балл 2026.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        },
+        {
+          "test": "ЕГЭ: информатика / физика",
+          "score": 80,
+          "status": "required",
+          "scale": "100",
+          "text": "Для программы обязательна информатика; минимальный балл 2026.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        },
+        {
+          "test": "ЕГЭ: русский язык",
+          "score": 60,
+          "status": "required",
+          "scale": "100",
+          "text": "Обязательный предмет; минимальный балл 2026.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Бюджет / платное — отдельные конкурсы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Бюджетный конкурс для граждан РФ; иностранные квоты и статус отдельны.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        },
+        "remaining_costs": "Не гарантировано бюджетное место, уточните право и стоимость.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Баллы приведены для ЕГЭ-маршрута, а не квоты иностранных граждан.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для 2027 года минимумы и список программ проверить заново.",
+        "Все три предмета указаны как обязательные для стандартного пути ЕГЭ."
+      ],
+      "renewal": []
+    },
+    "profile_mkn_226": {
+      "grades": {
+        "text": "Минимумы ЕГЭ 2026 приведены ПО КАЖДОМУ ПРЕДМЕТУ для стандартного ЕГЭ-конкурса. Бюджетный конкурсный проходной балл может быть выше.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "spbu_mkn_2026_rules"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ: математика",
+          "score": 80,
+          "status": "required",
+          "scale": "100",
+          "text": "Обязательный предмет; минимальный балл 2026.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        },
+        {
+          "test": "ЕГЭ: информатика / физика",
+          "score": 80,
+          "status": "required",
+          "scale": "100",
+          "text": "Для программы обязательна информатика; минимальный балл 2026.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        },
+        {
+          "test": "ЕГЭ: русский язык",
+          "score": 70,
+          "status": "required",
+          "scale": "100",
+          "text": "Обязательный предмет; минимальный балл 2026.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Бюджет / платное — отдельные конкурсы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Бюджетный конкурс для граждан РФ; иностранные квоты и статус отдельны.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        },
+        "remaining_costs": "Не гарантировано бюджетное место, уточните право и стоимость.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Баллы приведены для ЕГЭ-маршрута, а не квоты иностранных граждан.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для 2027 года минимумы и список программ проверить заново.",
+        "Все три предмета указаны как обязательные для стандартного пути ЕГЭ."
+      ],
+      "renewal": []
+    },
+    "profile_mkn_227": {
+      "grades": {
+        "text": "Минимумы ЕГЭ 2026 приведены ПО КАЖДОМУ ПРЕДМЕТУ для стандартного ЕГЭ-конкурса. Бюджетный конкурсный проходной балл может быть выше.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "spbu_mkn_2026_rules"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ЕГЭ: математика",
+          "score": 80,
+          "status": "required",
+          "scale": "100",
+          "text": "Обязательный предмет; минимальный балл 2026.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        },
+        {
+          "test": "ЕГЭ: информатика / физика",
+          "score": 80,
+          "status": "required",
+          "scale": "100",
+          "text": "Для программы обязательна информатика; минимальный балл 2026.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        },
+        {
+          "test": "ЕГЭ: русский язык",
+          "score": 70,
+          "status": "required",
+          "scale": "100",
+          "text": "Обязательный предмет; минимальный балл 2026.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Бюджет / платное — отдельные конкурсы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Бюджетный конкурс для граждан РФ; иностранные квоты и статус отдельны.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        },
+        "remaining_costs": "Не гарантировано бюджетное место, уточните право и стоимость.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Баллы приведены для ЕГЭ-маршрута, а не квоты иностранных граждан.",
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для 2027 года минимумы и список программ проверить заново.",
+        "Все три предмета указаны как обязательные для стандартного пути ЕГЭ."
+      ],
+      "renewal": []
+    }
+  },
+  "entries": [
+    {
+      "id": "ru_hse",
+      "country_code": "RU",
+      "name": "НИУ Высшая школа экономики",
+      "kind": "university",
+      "profile_id": "ru_hse",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущая страница; сроки нового набора уточнить",
+      "source_ids": [
+        "ru_hse_programs",
+        "ru_hse_quota",
+        "ru_routes",
+        "new_ru_hse_official"
+      ],
+      "programs": [
+        {
+          "name": "Дизайн",
+          "language": "Уточнить для выбранной программы",
+          "field_ids": [
+            "design",
+            "art"
+          ],
+          "search_tags": [
+            "Дизайн",
+            "Изобразительное искусство"
+          ],
+          "source_ids": [
+            "ru_hse_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Математика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_hse_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 01.03.01. Условия из справочника 2026/27: математика ≥75; русский ≥65; физика ИЛИ информатика ≥70. Проверить новый набор.",
+          "profile_id": "spec_existing_ru_hse_Математика"
+        },
+        {
+          "name": "Прикладная математика и информатика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer",
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_hse_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 01.03.02. Условия из справочника 2026/27: математика ≥75; информатика ≥75; русский ≥60. Проверить новый набор.",
+          "profile_id": "spec_existing_ru_hse_Прикладная_математика_и_информатика"
+        },
+        {
+          "name": "Прикладной анализ данных (англоязычная)",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_hse_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 01.03.02. Условия из справочника 2026/27: математика ≥70; русский ≥60; информатика ИЛИ физика ≥60. Проверить новый набор.",
+          "profile_id": "spec_existing_ru_hse_Прикладной_анализ_данных_англоязычная_"
+        },
+        {
+          "name": "Компьютерные науки и анализ данных (онлайн)",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_hse_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 01.03.02. Условия из справочника 2026/27: математика ≥70; русский ≥60; информатика ИЛИ физика ≥65. Проверить новый набор.",
+          "profile_id": "spec_existing_ru_hse_Компьютерные_науки_и_анализ_данных_онлайн_"
+        },
+        {
+          "name": "Прикладная математика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_hse_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 01.03.04. Условия из справочника 2026/27: математика ≥65; русский ≥60; физика ИЛИ информатика ≥65. Проверить новый набор.",
+          "profile_id": "spec_existing_ru_hse_Прикладная_математика"
+        },
+        {
+          "name": "Физика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_hse_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 03.03.02. Условия из справочника 2026/27: физика ≥70; математика ≥70; русский ≥60. Проверить новый набор.",
+          "profile_id": "spec_existing_ru_hse_Физика"
+        },
+        {
+          "name": "Химия",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_hse_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 04.03.01. Условия из справочника 2026/27: химия ≥70; русский ≥60; математика ИЛИ физика ≥70. Проверить новый набор.",
+          "profile_id": "spec_existing_ru_hse_Химия"
+        }
+      ],
+      "deadlines": [],
+      "note": "Русский язык и творческое испытание по опубликованной карточке. Проверить правила для своего гражданства.",
+      "checked_at": "2026-10-05"
+    },
+    {
+      "id": "ru_unn",
+      "country_code": "RU",
+      "name": "ННГУ имени Н. И. Лобачевского",
+      "kind": "university",
+      "profile_id": "ru_unn",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущая страница; сроки нового набора уточнить",
+      "source_ids": [
+        "ru_unn_programs",
+        "ru_unn_quota",
+        "ru_routes"
+      ],
+      "programs": [
+        {
+          "name": "Прикладная математика и информатика",
+          "language": "Уточнить для выбранной программы",
+          "field_ids": [
+            "math",
+            "computer"
+          ],
+          "search_tags": [
+            "Математика",
+            "Информатика и программирование"
+          ],
+          "source_ids": [
+            "ru_unn_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Биология — бакалавриат",
+          "language": "Русский",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [
+            "биология",
+            "biology"
+          ],
+          "source_ids": [
+            "unn_bio_2026"
+          ],
+          "profile_id": "ru_unn_biology",
+          "requirements_note": "Есть отдельные минимумы ЕГЭ для этой программы; не применять испытания по информатике."
+        }
+      ],
+      "deadlines": [],
+      "note": "В карточке международного приёма: русский язык и математика. Не переносить этот список на общий конкурс ЕГЭ.",
+      "checked_at": "2026-10-05"
+    },
+    {
+      "id": "ru_kfu",
+      "country_code": "RU",
+      "name": "Казанский федеральный университет",
+      "kind": "university",
+      "profile_id": "ru_kfu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущая страница; сроки нового набора уточнить",
+      "source_ids": [
+        "ru_kfu_programs",
+        "ru_kfu_quota",
+        "ru_routes",
+        "new_ru_kfu_official"
+      ],
+      "programs": [
+        {
+          "name": "Программная инженерия — ITIS",
+          "language": "Уточнить для выбранной программы",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [
+            "Информатика и программирование"
+          ],
+          "source_ids": [
+            "ru_kfu_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Математика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_kfu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 01.03.01. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Прикладная математика и информатика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer",
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_kfu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 01.03.02. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Физика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_kfu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 03.03.02. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "География",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_kfu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 05.03.02. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Биология",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_kfu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 06.03.01. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Прикладная информатика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_kfu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 09.03.03. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        }
+      ],
+      "deadlines": [],
+      "note": "В англоязычной карточке: английский и информатика/математика; формат и минимумы уточнить.",
+      "checked_at": "2026-10-05"
+    },
+    {
+      "id": "ru_fin",
+      "country_code": "RU",
+      "name": "Финансовый университет при Правительстве РФ",
+      "kind": "university",
+      "profile_id": "ru_fin",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущая страница; сроки нового набора уточнить",
+      "source_ids": [
+        "ru_fin_programs",
+        "ru_fin_quota",
+        "ru_routes"
+      ],
+      "programs": [
+        {
+          "name": "Экономика — финансовые технологии",
+          "language": "Уточнить для выбранной программы",
+          "field_ids": [
+            "economics",
+            "finance"
+          ],
+          "search_tags": [
+            "Экономика",
+            "Финансы"
+          ],
+          "source_ids": [
+            "ru_fin_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        }
+      ],
+      "deadlines": [],
+      "note": "На портале перечислены математика, русский и предметы по выбору; точную комбинацию нужно взять из правил приёма. Не нужно сдавать все перечисленные предметы.",
+      "checked_at": "2026-10-05"
+    },
+    {
+      "id": "ru_spbu",
+      "country_code": "RU",
+      "name": "Санкт-Петербургский государственный университет",
+      "kind": "university",
+      "profile_id": "ru_spbu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущая страница; сроки нового набора уточнить",
+      "source_ids": [
+        "ru_spbu_programs",
+        "ru_spbu_quota",
+        "ru_routes",
+        "new_ru_spbu_official",
+        "spbu_mkn_2026_rules"
+      ],
+      "programs": [
+        {
+          "name": "Прикладная математика, программирование и искусственный интеллект",
+          "language": "Уточнить для выбранной программы",
+          "field_ids": [
+            "math",
+            "computer",
+            "data"
+          ],
+          "search_tags": [
+            "Математика",
+            "Информатика и программирование",
+            "Данные и искусственный интеллект"
+          ],
+          "source_ids": [
+            "ru_spbu_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Математика",
+          "language": "Уточнить для выбранной программы",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [
+            "Математика"
+          ],
+          "source_ids": [
+            "ru_spbu_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Физика",
+          "language": "Уточнить для выбранной программы",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [
+            "Физика"
+          ],
+          "source_ids": [
+            "ru_spbu_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Химия",
+          "language": "Уточнить для выбранной программы",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [
+            "Химия"
+          ],
+          "source_ids": [
+            "ru_spbu_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Геология",
+          "language": "Уточнить для выбранной программы",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [
+            "Экология и науки о Земле"
+          ],
+          "source_ids": [
+            "ru_spbu_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Прикладная математика и информатика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer",
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_spbu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 01.03.02. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Фундаментальная информатика и информационные технологии",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_spbu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 02.03.02. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Математика (МКН СПбГУ, 2026)",
+          "language": "Русский",
+          "field_ids": [
+            "math"
+          ],
+          "profile_id": "profile_mkn_224",
+          "search_tags": [],
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ],
+          "listing_status": "official_undergraduate",
+          "requirements_note": "Для «Математики» третий предмет информатика ИЛИ физика (один на выбор). Источник: факультет МКН СПбГУ, набор 2026."
+        },
+        {
+          "name": "Современное программирование (МКН СПбГУ, 2026)",
+          "language": "Русский",
+          "field_ids": [
+            "computer"
+          ],
+          "profile_id": "profile_mkn_225",
+          "search_tags": [],
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ],
+          "listing_status": "official_undergraduate",
+          "requirements_note": "Все три предмета указаны как обязательные для стандартного пути ЕГЭ. Источник: факультет МКН СПбГУ, набор 2026."
+        },
+        {
+          "name": "Науки о данных (МКН СПбГУ, 2026)",
+          "language": "Русский",
+          "field_ids": [
+            "data"
+          ],
+          "profile_id": "profile_mkn_226",
+          "search_tags": [],
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ],
+          "listing_status": "official_undergraduate",
+          "requirements_note": "Все три предмета указаны как обязательные для стандартного пути ЕГЭ. Источник: факультет МКН СПбГУ, набор 2026."
+        },
+        {
+          "name": "AI360: Математика машинного обучения (МКН СПбГУ, 2026)",
+          "language": "Русский",
+          "field_ids": [
+            "data",
+            "math"
+          ],
+          "profile_id": "profile_mkn_227",
+          "search_tags": [],
+          "source_ids": [
+            "spbu_mkn_2026_rules"
+          ],
+          "listing_status": "official_undergraduate",
+          "requirements_note": "Все три предмета указаны как обязательные для стандартного пути ЕГЭ. Источник: факультет МКН СПбГУ, набор 2026."
+        }
+      ],
+      "deadlines": [],
+      "note": "Перечень программ подтверждён документом 2024 года. Экзамены и набор нового года уточнить в приёмной комиссии.",
+      "checked_at": "2026-10-05"
+    },
+    {
+      "id": "ru_msu",
+      "country_code": "RU",
+      "name": "МГУ имени М. В. Ломоносова",
+      "kind": "university",
+      "profile_id": "new_profile_ru_msu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2026/27; сверить новый цикл",
+      "source_ids": [
+        "new_ru_msu_official"
+      ],
+      "programs": [
+        {
+          "name": "Прикладная математика и информатика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer",
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_msu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 01.03.02. Условия из справочника 2026/27: математика ЕГЭ; физика ЕГЭ; информатика ЕГЭ; русский ЕГЭ; дополнительно: ДВИ математика письменно (обязательно). Проверить новый набор."
+        },
+        {
+          "name": "Фундаментальная информатика и информационные технологии",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_msu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 02.03.02. Условия из справочника 2026/27: математика ЕГЭ; физика ЕГЭ; информатика ЕГЭ; русский ЕГЭ; дополнительно: ДВИ математика письменно (обязательно). Проверить новый набор."
+        },
+        {
+          "name": "Экономика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_msu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 38.03.01. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Менеджмент",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_msu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 38.03.02. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Социология",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "sociology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_msu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 39.03.01. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Юриспруденция",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_msu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 40.03.01. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        }
+      ],
+      "deadlines": [],
+      "note": "Программы и предметные минимумы (где указаны) — по предоставленному справочнику 2026/27. Правила для иностранцев и бюджета различаются.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "ru_itmo",
+      "country_code": "RU",
+      "name": "Университет ИТМО",
+      "kind": "university",
+      "profile_id": "new_profile_ru_itmo",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2026/27; сверить новый цикл",
+      "source_ids": [
+        "new_ru_itmo_official"
+      ],
+      "programs": [
+        {
+          "name": "Прикладная математика и информатика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer",
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_itmo_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 01.03.02. Условия из справочника 2026/27: математика ≥60; информатика ≥60; русский ≥60. Проверить новый набор.",
+          "profile_id": "spec_ru_itmo_01_03_02_Прикладная_математика_и_информатика"
+        },
+        {
+          "name": "Математическое обеспечение и администрирование информационных систем",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_itmo_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 02.03.03. Условия из справочника 2026/27: математика ≥60; информатика ≥60; русский ≥60. Проверить новый набор.",
+          "profile_id": "spec_ru_itmo_02_03_03_Математическое_обеспечение_и_администрирование_информационных"
+        },
+        {
+          "name": "Физика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_itmo_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 03.03.02. Условия из справочника 2026/27: математика ≥60; физика ≥60; русский ≥60. Проверить новый набор.",
+          "profile_id": "spec_ru_itmo_03_03_02_Физика"
+        },
+        {
+          "name": "Химия",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_itmo_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 04.03.01. Условия из справочника 2026/27: математика ≥60; химия ≥60; русский ≥60. Проверить новый набор.",
+          "profile_id": "spec_ru_itmo_04_03_01_Химия"
+        },
+        {
+          "name": "Экология и природопользование",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_itmo_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 05.03.06. Условия из справочника 2026/27: математика ≥60; биология ≥60; русский ≥60. Проверить новый набор.",
+          "profile_id": "spec_ru_itmo_05_03_06_Экология_и_природопользование"
+        },
+        {
+          "name": "Информатика и вычислительная техника",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_itmo_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 09.03.01. Условия из справочника 2026/27: математика ≥60; информатика ≥60; русский ≥60. Проверить новый набор.",
+          "profile_id": "spec_ru_itmo_09_03_01_Информатика_и_вычислительная_техника"
+        },
+        {
+          "name": "Прикладная информатика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_itmo_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 09.03.03. Условия из справочника 2026/27: математика ≥60; информатика ≥60; русский ≥60. Проверить новый набор.",
+          "profile_id": "spec_ru_itmo_09_03_03_Прикладная_информатика"
+        }
+      ],
+      "deadlines": [],
+      "note": "Программы и предметные минимумы (где указаны) — по предоставленному справочнику 2026/27. Правила для иностранцев и бюджета различаются.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "ru_bmstu",
+      "country_code": "RU",
+      "name": "МГТУ им. Н. Э. Баумана",
+      "kind": "university",
+      "profile_id": "new_profile_ru_bmstu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2026/27; сверить новый цикл",
+      "source_ids": [
+        "new_ru_bmstu_official"
+      ],
+      "programs": [
+        {
+          "name": "Прикладная математика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_bmstu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 01.03.04. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Информатика и вычислительная техника",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_bmstu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 09.03.01. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Прикладная информатика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_bmstu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 09.03.03. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Программная инженерия",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_bmstu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 09.03.04. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        }
+      ],
+      "deadlines": [],
+      "note": "Программы и предметные минимумы (где указаны) — по предоставленному справочнику 2026/27. Правила для иностранцев и бюджета различаются.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "ru_mephi",
+      "country_code": "RU",
+      "name": "НИЯУ МИФИ",
+      "kind": "university",
+      "profile_id": "new_profile_ru_mephi",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2026/27; сверить новый цикл",
+      "source_ids": [
+        "new_ru_mephi_official"
+      ],
+      "programs": [
+        {
+          "name": "Прикладная математика и информатика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer",
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_mephi_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 01.03.02. Условия из справочника 2026/27: математика ≥75 (бюджет); русский ≥70 (бюджет); физика ИЛИ информатика ≥75 (бюджет). Проверить новый набор.",
+          "profile_id": "spec_ru_mephi_01_03_02_Прикладная_математика_и_информатика"
+        },
+        {
+          "name": "Прикладные математика и физика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "math",
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_mephi_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 03.03.01. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Физика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_mephi_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 03.03.02. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Информатика и вычислительная техника",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_mephi_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 09.03.01. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Программная инженерия",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_mephi_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 09.03.04. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        }
+      ],
+      "deadlines": [],
+      "note": "Программы и предметные минимумы (где указаны) — по предоставленному справочнику 2026/27. Правила для иностранцев и бюджета различаются.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "ru_rudn",
+      "country_code": "RU",
+      "name": "Российский университет дружбы народов имени Патриса Лумумбы (РУДН)",
+      "kind": "university",
+      "profile_id": "new_profile_ru_rudn",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2026/27; сверить новый цикл",
+      "source_ids": [
+        "new_ru_rudn_official"
+      ],
+      "programs": [
+        {
+          "name": "Прикладная математика и информатика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer",
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_rudn_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 01.03.02. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Физика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_rudn_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 03.03.02. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Биология",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_rudn_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 06.03.01. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        },
+        {
+          "name": "Конструкторско-технологическое обеспечение машиностроительных производств",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "civil"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_rudn_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 15.03.05. Условия из справочника 2026/27: Уточнить в каталоге. Проверить новый набор."
+        }
+      ],
+      "deadlines": [],
+      "note": "Программы и предметные минимумы (где указаны) — по предоставленному справочнику 2026/27. Правила для иностранцев и бюджета различаются.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "ru_urfu",
+      "country_code": "RU",
+      "name": "Уральский федеральный университет (УрФУ)",
+      "kind": "university",
+      "profile_id": "new_profile_ru_urfu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2026/27; сверить новый цикл",
+      "source_ids": [
+        "new_ru_urfu_official"
+      ],
+      "programs": [
+        {
+          "name": "Информатика и вычислительная техника",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_urfu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 09.03.01. Условия из справочника 2026/27: математика ≥40; русский ≥40; информатика ≥46 ИЛИ физика ≥41. Проверить новый набор."
+        },
+        {
+          "name": "Прикладная информатика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_urfu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 09.03.03. Условия из справочника 2026/27: математика ≥40; русский ≥40; информатика ≥46 ИЛИ физика ≥41. Проверить новый набор."
+        },
+        {
+          "name": "Программная инженерия",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_urfu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 09.03.04. Условия из справочника 2026/27: математика ≥40; русский ≥40; информатика ≥46 ИЛИ физика ≥41. Проверить новый набор."
+        }
+      ],
+      "deadlines": [],
+      "note": "Программы и предметные минимумы (где указаны) — по предоставленному справочнику 2026/27. Правила для иностранцев и бюджета различаются.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "ru_spbpu",
+      "country_code": "RU",
+      "name": "Санкт-Петербургский политехнический университет Петра Великого",
+      "kind": "university",
+      "profile_id": "new_profile_ru_spbpu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2026/27; сверить новый цикл",
+      "source_ids": [
+        "new_ru_spbpu_official"
+      ],
+      "programs": [
+        {
+          "name": "Прикладная математика и информатика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer",
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 01.03.02. Условия из справочника 2026/27: математика ≥47; русский ≥47; физика ИЛИ информатика ≥47. Проверить новый набор.",
+          "profile_id": "spec_ru_spbpu_01_03_02_Прикладная_математика_и_информатика"
+        },
+        {
+          "name": "Механика и математическое моделирование",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 01.03.03. Условия из справочника 2026/27: математика ≥47; русский ≥47; физика ИЛИ информатика ≥47. Проверить новый набор.",
+          "profile_id": "spec_ru_spbpu_01_03_03_Механика_и_математическое_моделирование"
+        },
+        {
+          "name": "Математика и компьютерные науки",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 02.03.01. Условия из справочника 2026/27: математика ≥47; русский ≥47; физика ИЛИ информатика ≥47. Проверить новый набор.",
+          "profile_id": "spec_ru_spbpu_02_03_01_Математика_и_компьютерные_науки"
+        },
+        {
+          "name": "Математическое обеспечение и администрирование информационных систем",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 02.03.03. Условия из справочника 2026/27: математика ≥47; русский ≥47; физика ИЛИ информатика ≥47. Проверить новый набор.",
+          "profile_id": "spec_ru_spbpu_02_03_03_Математическое_обеспечение_и_администрирование_информационных"
+        },
+        {
+          "name": "Прикладные математика и физика",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "math",
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 03.03.01. Условия из справочника 2026/27: математика ≥47; русский ≥47; физика ИЛИ информатика ≥47. Проверить новый набор.",
+          "profile_id": "spec_ru_spbpu_03_03_01_Прикладные_математика_и_физика"
+        },
+        {
+          "name": "Строительство",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "civil"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 08.03.01. Условия из справочника 2026/27: математика ≥47; русский ≥47; физика ИЛИ информатика ≥47. Проверить новый набор.",
+          "profile_id": "spec_ru_spbpu_08_03_01_Строительство"
+        },
+        {
+          "name": "Информатика и вычислительная техника",
+          "language": "Обычно русский; проверить на странице программы",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "new_ru_spbpu_official"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Код 09.03.01. Условия из справочника 2026/27: математика ≥47; русский ≥47; физика ИЛИ информатика ≥47. Проверить новый набор.",
+          "profile_id": "spec_ru_spbpu_09_03_01_Информатика_и_вычислительная_техника"
+        }
+      ],
+      "deadlines": [],
+      "note": "Программы и предметные минимумы (где указаны) — по предоставленному справочнику 2026/27. Правила для иностранцев и бюджета различаются.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "ru_gnesin",
+      "country_code": "RU",
+      "name": "Российская академия музыки имени Гнесиных",
+      "kind": "university",
+      "profile_id": "p_ru_gnesin_2026",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Официальный набор 2026; 2027 уточнить",
+      "source_ids": [
+        "official_ru_gnesin_2026"
+      ],
+      "programs": [
+        {
+          "name": "53.03.01 Музыкальное искусство эстрады — эстрадно-джазовое пение",
+          "language": "Русский (сверить правила)",
+          "field_ids": [
+            "music"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "official_ru_gnesin_2026"
+          ],
+          "listing_status": "official_undergraduate",
+          "requirements_note": "Бакалавриат; точные экзамены по профилю и году в официальном источнике."
+        },
+        {
+          "name": "53.03.01 Музыкальное искусство эстрады — инструменты эстрадного оркестра",
+          "language": "Русский (сверить правила)",
+          "field_ids": [
+            "music"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "official_ru_gnesin_2026"
+          ],
+          "listing_status": "official_undergraduate",
+          "requirements_note": "Бакалавриат; точные экзамены по профилю и году в официальном источнике."
+        }
+      ],
+      "deadlines": [],
+      "note": "Документы 2026; проверяйте новое объявление перед подачей.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "ru_gitis",
+      "country_code": "RU",
+      "name": "Российский институт театрального искусства — ГИТИС",
+      "kind": "university",
+      "profile_id": "p_ru_gitis_2026",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Официальный набор 2026; 2027 уточнить",
+      "source_ids": [
+        "official_ru_gitis_2026"
+      ],
+      "programs": [
+        {
+          "name": "52.03.05 Театроведение",
+          "language": "Русский (сверить правила)",
+          "field_ids": [
+            "theatre",
+            "history"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "official_ru_gitis_2026"
+          ],
+          "listing_status": "official_undergraduate",
+          "requirements_note": "Бакалавриат; точные экзамены по профилю и году в официальном источнике."
+        },
+        {
+          "name": "52.03.06 Драматургия",
+          "language": "Русский (сверить правила)",
+          "field_ids": [
+            "theatre",
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "official_ru_gitis_2026"
+          ],
+          "listing_status": "official_undergraduate",
+          "requirements_note": "Бакалавриат; точные экзамены по профилю и году в официальном источнике."
+        }
+      ],
+      "deadlines": [],
+      "note": "Документы 2026; проверяйте новое объявление перед подачей.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "ru_mgpu",
+      "country_code": "RU",
+      "name": "Московский городской педагогический университет (МГПУ)",
+      "kind": "university",
+      "profile_id": "p_ru_mgpu_2026",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Официальный набор 2026; 2027 уточнить",
+      "source_ids": [
+        "official_ru_mgpu_2026"
+      ],
+      "programs": [
+        {
+          "name": "44.03.01 Педагогическое образование — учитель музыки",
+          "language": "Русский (сверить правила)",
+          "field_ids": [
+            "education",
+            "music"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "official_ru_mgpu_2026"
+          ],
+          "listing_status": "official_undergraduate",
+          "requirements_note": "Бакалавриат; точные экзамены по профилю и году в официальном источнике."
+        }
+      ],
+      "deadlines": [],
+      "note": "Документы 2026; проверяйте новое объявление перед подачей.",
+      "checked_at": "2026-10-13"
+    }
+  ]
+}

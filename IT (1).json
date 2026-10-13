@@ -1,0 +1,1257 @@
+{
+  "schema_version": "1.0",
+  "country": {
+    "code": "IT",
+    "name": "Италия",
+    "coverage": "partial_programme_level_validation_required",
+    "entry_ids": [
+      "it_pisa",
+      "it_bologna",
+      "it_ferrara",
+      "it_modena",
+      "it_padua",
+      "it_exp_bocconi_university",
+      "it_exp_politecnico_di_milano",
+      "it_exp_sapienza_university_of_rome",
+      "it_exp_politecnico_di_torino",
+      "it_exp_university_of_trento",
+      "it_exp_ca_foscari_university_of_venice"
+    ]
+  },
+  "checked_at": "2026-10-13",
+  "admissions_overview": {
+    "degree_level": "Бакалавриат / первая степень после школы",
+    "admissions_cycle": "2027 (планирование; требования отдельных курсов подлежат проверке)",
+    "domestic_and_international_routes": "Национальные и университетские процедуры; для иностранного аттестата — признание и визовые шаги по конкретному маршруту",
+    "typical_documents_not_universal": "Аттестат/выписка, паспорт, переводы, при необходимости Declaration of Value/CIMEA, языковой сертификат",
+    "exam_and_language_guidance": "TOLC/CEnT-S, иные вступительные тесты, портфолио или языковая проверка только где требуется",
+    "scholarships_caution": "Региональные DSU/ER.GO и университетские scholarships зависят от дохода, статуса и региональных правил; не гарантированы",
+    "status": "Обобщённая справка, не нормативное руководство; требования могут зависеть от гражданства, предмета и даты."
+  },
+  "sources": {
+    "bologna_manage": {
+      "url": "https://www.unibo.it/it/studiare/lauree-e-lauree-magistrali-a-ciclo-unico/corso/2026/6679",
+      "title": "Ingegneria gestionale — Engineering Management — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "ergo_fees": {
+      "url": "https://www.er-go.it/international-students/focus-on-tuition-fees",
+      "title": "ER.GO: eligibility for scholarship and full tuition exemption",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "exp_src_it_bocconi_university": {
+      "url": "https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/application-and-admissions/admissions",
+      "title": "Bocconi University: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_it_ca_foscari_university_of_venice": {
+      "url": "https://www.unive.it/",
+      "title": "Ca' Foscari University of Venice: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_it_politecnico_di_milano": {
+      "url": "https://www.polimi.it/en/",
+      "title": "Politecnico di Milano: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_it_politecnico_di_torino": {
+      "url": "https://www.polito.it/en",
+      "title": "Politecnico di Torino: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_it_sapienza_university_of_rome": {
+      "url": "https://www.uniroma1.it/en",
+      "title": "Sapienza University of Rome: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_it_university_of_trento": {
+      "url": "https://www.unitn.it/en",
+      "title": "University of Trento: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "ferrara_design": {
+      "url": "https://corsi.unife.it/it/design",
+      "title": "Design del prodotto industriale — Industrial Product Design — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "modena_ce": {
+      "url": "https://www.unimore.it/it/didattica/corsi-di-studio/ingegneria-informatica-mo",
+      "title": "Ingegneria Informatica — Computer Engineering — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "modena_cs": {
+      "url": "https://www.unimore.it/it/didattica/corsi-di-studio/informatica",
+      "title": "Informatica — Computer Science — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "padua_aid": {
+      "url": "https://www.unipd.it/en/padua-international-excellence-scholarship-programme",
+      "title": "Padua International Excellence Scholarship",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "padua_ie": {
+      "url": "https://www.unipd.it/en/corsi-di-laurea/information-engineering",
+      "title": "Information Engineering — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "pisa_arts": {
+      "url": "https://www.unipi.it/en/education/courses/bachelor-and-single-cycle-master-degree/studies-in-performing-arts-and-communication-dscr-l-en/",
+      "title": "Pisa: performing arts and communication, DSU tuition exemption",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "pisa_dsu": {
+      "url": "https://www.unipi.it/en/education/registration/enrolment-and-registration/enrolment-for-international-students/",
+      "title": "Pisa: international admission and DSU funding",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "pisa_mbe": {
+      "url": "https://mbe.ec.unipi.it/wp-content/uploads/2025/01/factsheet_MBE.pdf",
+      "title": "Pisa: Management for Business and Economics bachelor",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "confirm_it_it_exp_bocconi_university": {
+      "url": "https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/application-and-admissions/admissions",
+      "title": "Bocconi University — официальный каталог бакалавриата / специализаций",
+      "publisher_type": "official",
+      "checked_at": "2026-10-13"
+    }
+  },
+  "profiles": {
+    "exp_profile_it_bocconi_university": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_it_bocconi_university"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_it_bocconi_university"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_it_bocconi_university"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_it_bocconi_university"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_it_ca_foscari_university_of_venice": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_it_ca_foscari_university_of_venice"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_it_ca_foscari_university_of_venice"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_it_ca_foscari_university_of_venice"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_it_ca_foscari_university_of_venice"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_it_politecnico_di_milano": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_it_politecnico_di_milano"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_it_politecnico_di_milano"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_it_politecnico_di_milano"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_it_politecnico_di_milano"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_it_politecnico_di_torino": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_it_politecnico_di_torino"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_it_politecnico_di_torino"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_it_politecnico_di_torino"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_it_politecnico_di_torino"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_it_sapienza_university_of_rome": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_it_sapienza_university_of_rome"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_it_sapienza_university_of_rome"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_it_sapienza_university_of_rome"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_it_sapienza_university_of_rome"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_it_university_of_trento": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_it_university_of_trento"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_it_university_of_trento"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_it_university_of_trento"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_it_university_of_trento"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "it_bologna": {
+      "grades": {
+        "minimum": null,
+        "scale": null,
+        "status": "qualification_specific",
+        "text": "Нужен подходящий документ о среднем образовании. Требования зависят от системы аттестата и программы; численный общий школьный GPA здесь не подтверждён.",
+        "source_ids": [
+          "bologna_manage"
+        ]
+      },
+      "exams": [
+        {
+          "test": "TOLC-I",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Конкурсный приём по TOLC-I. Порог и этап конкурса проверять в объявлении выбранного набора.",
+          "source_ids": [
+            "bologna_manage"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "ER.GO — региональная помощь",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "При соответствии условиям стипендии возможно полное освобождение от университетской платы. Подача на помощь и зачисление — разные процедуры.",
+          "source_ids": [
+            "ergo_fees"
+          ]
+        },
+        "remaining_costs": "Размер выплат, жильё, питание, сборы и расходы до выплаты нужно проверить в конкурсе. Все расходы не считаются автоматически покрытыми.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Нужны документы о финансовом положении семьи и соответствие условиям регионального конкурса. Международные документы оформляются по правилам ER.GO; сам приём в вуз не даёт грант автоматически.",
+          "source_ids": [
+            "ergo_fees"
+          ]
+        }
+      ],
+      "renewal": [],
+      "missing_details": [
+        "Проверьте предметные требования и признание аттестата; общий языковой минимум может быть ниже требования программы. Сроки следующего набора не переносятся автоматически."
+      ]
+    },
+    "it_ferrara": {
+      "grades": {
+        "minimum": null,
+        "scale": null,
+        "status": "qualification_specific",
+        "text": "Нужен подходящий документ о среднем образовании. Требования зависят от системы аттестата и программы; численный общий школьный GPA здесь не подтверждён.",
+        "source_ids": [
+          "ferrara_design"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Конкурсный отбор",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Ограниченное число мест; формат вступительного отбора указан в ежегодном объявлении.",
+          "source_ids": [
+            "ferrara_design"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "ER.GO — региональная помощь",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "При соответствии условиям стипендии возможно полное освобождение от университетской платы. Подача на помощь и зачисление — разные процедуры.",
+          "source_ids": [
+            "ergo_fees"
+          ]
+        },
+        "remaining_costs": "Размер выплат, жильё, питание, сборы и расходы до выплаты нужно проверить в конкурсе. Все расходы не считаются автоматически покрытыми.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Нужны документы о финансовом положении семьи и соответствие условиям регионального конкурса. Международные документы оформляются по правилам ER.GO; сам приём в вуз не даёт грант автоматически.",
+          "source_ids": [
+            "ergo_fees"
+          ]
+        }
+      ],
+      "renewal": [],
+      "missing_details": [
+        "Проверьте предметные требования и признание аттестата; общий языковой минимум может быть ниже требования программы. Сроки следующего набора не переносятся автоматически."
+      ]
+    },
+    "it_modena": {
+      "grades": {
+        "minimum": null,
+        "scale": null,
+        "status": "qualification_specific",
+        "text": "Нужен подходящий документ о среднем образовании. Требования зависят от системы аттестата и программы; численный общий школьный GPA здесь не подтверждён.",
+        "source_ids": [
+          "modena_ce"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "ER.GO — региональная помощь",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "При соответствии условиям стипендии возможно полное освобождение от университетской платы. Подача на помощь и зачисление — разные процедуры.",
+          "source_ids": [
+            "ergo_fees"
+          ]
+        },
+        "remaining_costs": "Размер выплат, жильё, питание, сборы и расходы до выплаты нужно проверить в конкурсе. Все расходы не считаются автоматически покрытыми.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Нужны документы о финансовом положении семьи и соответствие условиям регионального конкурса. Международные документы оформляются по правилам ER.GO; сам приём в вуз не даёт грант автоматически.",
+          "source_ids": [
+            "ergo_fees"
+          ]
+        }
+      ],
+      "renewal": [],
+      "missing_details": [
+        "Проверьте предметные требования и признание аттестата; общий языковой минимум может быть ниже требования программы. Сроки следующего набора не переносятся автоматически."
+      ]
+    },
+    "it_padua": {
+      "grades": {
+        "minimum": null,
+        "scale": null,
+        "status": "qualification_specific",
+        "text": "Нужен подходящий документ о среднем образовании. Требования зависят от системы аттестата и программы; численный общий школьный GPA здесь не подтверждён.",
+        "source_ids": [
+          "padua_ie"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "Padua International Excellence",
+        "category": "tuition_stipend",
+        "coverage": {
+          "text": "Предусмотрены освобождение от платы за обучение и 8 000 евро в год до удержаний. Конкурс для англоязычных программ.",
+          "source_ids": [
+            "padua_aid"
+          ]
+        },
+        "remaining_costs": "Региональный налог и гербовый сбор остаются; сумма не гарантирует покрытия всех расходов на жизнь.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Условия международного конкурса включают проживание за пределами Италии при подаче; полный список условий и допустимый аттестат нужно проверить в объявлении.",
+          "source_ids": [
+            "padua_aid"
+          ]
+        }
+      ],
+      "renewal": [],
+      "missing_details": [
+        "Проверьте предметные требования и признание аттестата; общий языковой минимум может быть ниже требования программы. Сроки следующего набора не переносятся автоматически."
+      ]
+    },
+    "pisa": {
+      "grades": {
+        "text": "Для поступления нужен документ о среднем образовании после не менее 12 лет обучения; при иной длительности нужно проверить способы восполнения.",
+        "source_ids": [
+          "pisa_dsu"
+        ],
+        "status": "not_stated_in_source",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [],
+      "funding": {
+        "name": "DSU Toscana",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Получатели DSU освобождаются от платы за обучение; на указанной странице остаётся гербовый сбор. Поддержка назначается по отдельному конкурсу.",
+          "source_ids": [
+            "pisa_arts"
+          ]
+        },
+        "remaining_costs": "Состав выплат и услуг, доход семьи, сроки и расходы до получения выплаты уточнить в конкурсе DSU. Все расходы на жизнь здесь не подтверждены.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Проверить требования иностранного аттестата и условия региональной помощи.",
+          "source_ids": [
+            "pisa_dsu"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для MBE и творческой программы действуют разные условия приёма: актуальный тест и его минимум ещё не внесены."
+      ],
+      "renewal": []
+    }
+  },
+  "entries": [
+    {
+      "id": "it_pisa",
+      "country_code": "IT",
+      "name": "University of Pisa",
+      "kind": "university",
+      "profile_id": "pisa",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущая страница; сроки нового набора уточнить",
+      "source_ids": [
+        "pisa_mbe",
+        "pisa_dsu",
+        "pisa_arts"
+      ],
+      "programs": [
+        {
+          "name": "Management for Business and Economics BSc",
+          "language": "Английский",
+          "field_ids": [
+            "business",
+            "economics"
+          ],
+          "search_tags": [
+            "Бизнес и менеджмент",
+            "Экономика"
+          ],
+          "source_ids": [
+            "pisa_mbe"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Studies in Performing Arts and Communication",
+          "language": "Итальянский",
+          "field_ids": [
+            "media",
+            "art"
+          ],
+          "search_tags": [
+            "Кино и медиа",
+            "Изобразительное искусство"
+          ],
+          "source_ids": [
+            "pisa_arts"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        }
+      ],
+      "deadlines": [],
+      "note": "",
+      "checked_at": "2026-10-05"
+    },
+    {
+      "id": "it_bologna",
+      "country_code": "IT",
+      "name": "University of Bologna",
+      "kind": "university",
+      "profile_id": "it_bologna",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Опубликованные страницы проверены 2026-10-06; нужный набор уточнить",
+      "source_ids": [
+        "ergo_fees",
+        "bologna_manage"
+      ],
+      "programs": [
+        {
+          "name": "Ingegneria gestionale — Engineering Management",
+          "field_ids": [
+            "manufacturing",
+            "business"
+          ],
+          "language": "Итальянский",
+          "search_tags": [],
+          "source_ids": [
+            "bologna_manage"
+          ],
+          "requirements_note": "Смежная программа к промышленной инженерии: производство, логистика и управление."
+        }
+      ],
+      "deadlines": [],
+      "note": "Грант конкурсный. В карточке разделены подтверждённые факты и ещё не внесённые условия.",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "id": "it_ferrara",
+      "country_code": "IT",
+      "name": "University of Ferrara",
+      "kind": "university",
+      "profile_id": "it_ferrara",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Опубликованные страницы проверены 2026-10-06; нужный набор уточнить",
+      "source_ids": [
+        "ergo_fees",
+        "ferrara_design"
+      ],
+      "programs": [
+        {
+          "name": "Design del prodotto industriale — Industrial Product Design",
+          "field_ids": [
+            "design"
+          ],
+          "language": "Итальянский",
+          "search_tags": [],
+          "source_ids": [
+            "ferrara_design"
+          ],
+          "requirements_note": "Промышленный дизайн относится к дизайну, а не к Industrial Engineering."
+        }
+      ],
+      "deadlines": [],
+      "note": "Грант конкурсный. В карточке разделены подтверждённые факты и ещё не внесённые условия.",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "id": "it_modena",
+      "country_code": "IT",
+      "name": "University of Modena and Reggio Emilia",
+      "kind": "university",
+      "profile_id": "it_modena",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Опубликованные страницы проверены 2026-10-06; нужный набор уточнить",
+      "source_ids": [
+        "ergo_fees",
+        "modena_cs",
+        "modena_ce"
+      ],
+      "programs": [
+        {
+          "name": "Informatica — Computer Science",
+          "field_ids": [
+            "computer"
+          ],
+          "language": "Итальянский",
+          "search_tags": [],
+          "source_ids": [
+            "modena_cs"
+          ],
+          "requirements_note": ""
+        },
+        {
+          "name": "Ingegneria Informatica — Computer Engineering",
+          "field_ids": [
+            "computer"
+          ],
+          "language": "Итальянский",
+          "search_tags": [],
+          "source_ids": [
+            "modena_ce"
+          ],
+          "requirements_note": ""
+        }
+      ],
+      "deadlines": [],
+      "note": "Грант конкурсный. В карточке разделены подтверждённые факты и ещё не внесённые условия.",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "id": "it_padua",
+      "country_code": "IT",
+      "name": "University of Padova",
+      "kind": "university",
+      "profile_id": "it_padua",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Опубликованные страницы проверены 2026-10-06; нужный набор уточнить",
+      "source_ids": [
+        "padua_aid",
+        "padua_ie"
+      ],
+      "programs": [
+        {
+          "name": "Information Engineering",
+          "field_ids": [
+            "electrical",
+            "computer",
+            "manufacturing"
+          ],
+          "language": "Английский",
+          "search_tags": [],
+          "source_ids": [
+            "padua_ie"
+          ],
+          "requirements_note": ""
+        }
+      ],
+      "deadlines": [],
+      "note": "Грант конкурсный. В карточке разделены подтверждённые факты и ещё не внесённые условия.",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "id": "it_exp_bocconi_university",
+      "country_code": "IT",
+      "name": "Bocconi University",
+      "kind": "university",
+      "profile_id": "exp_profile_it_bocconi_university",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_it_bocconi_university",
+        "confirm_it_it_exp_bocconi_university"
+      ],
+      "programs": [
+        {
+          "name": "International Economics and Management",
+          "language": "Английский",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_bocconi_university",
+            "confirm_it_it_exp_bocconi_university"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "International Economics and Finance",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "finance"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_bocconi_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Economics and Social Sciences",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_bocconi_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Global Law",
+          "language": "Английский",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_bocconi_university",
+            "confirm_it_it_exp_bocconi_university"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении. На официальной странице опубликованы условия конкурсов 2027/28; их нельзя автоматически переносить на других заявителей и курсы.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "it_exp_politecnico_di_milano",
+      "country_code": "IT",
+      "name": "Politecnico di Milano",
+      "kind": "university",
+      "profile_id": "exp_profile_it_politecnico_di_milano",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_it_politecnico_di_milano"
+      ],
+      "programs": [
+        {
+          "name": "Architecture",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_politecnico_di_milano"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Civil Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "civil"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_politecnico_di_milano"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "mechanical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_politecnico_di_milano"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Engineering Design",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_politecnico_di_milano"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "it_exp_sapienza_university_of_rome",
+      "country_code": "IT",
+      "name": "Sapienza University of Rome",
+      "kind": "university",
+      "profile_id": "exp_profile_it_sapienza_university_of_rome",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_it_sapienza_university_of_rome"
+      ],
+      "programs": [
+        {
+          "name": "Computer Science",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_sapienza_university_of_rome"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Economics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_sapienza_university_of_rome"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Biological Sciences",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_sapienza_university_of_rome"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Psychology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_sapienza_university_of_rome"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "it_exp_politecnico_di_torino",
+      "country_code": "IT",
+      "name": "Politecnico di Torino",
+      "kind": "university",
+      "profile_id": "exp_profile_it_politecnico_di_torino",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_it_politecnico_di_torino"
+      ],
+      "programs": [
+        {
+          "name": "Computer Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_politecnico_di_torino"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Automotive Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "automotive"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_politecnico_di_torino"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Architecture",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_politecnico_di_torino"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "mechanical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_politecnico_di_torino"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "it_exp_university_of_trento",
+      "country_code": "IT",
+      "name": "University of Trento",
+      "kind": "university",
+      "profile_id": "exp_profile_it_university_of_trento",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_it_university_of_trento"
+      ],
+      "programs": [
+        {
+          "name": "Computer Science",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_university_of_trento"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Economics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_university_of_trento"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Sociology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "sociology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_university_of_trento"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Mathematics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_university_of_trento"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "it_exp_ca_foscari_university_of_venice",
+      "country_code": "IT",
+      "name": "Ca' Foscari University of Venice",
+      "kind": "university",
+      "profile_id": "exp_profile_it_ca_foscari_university_of_venice",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_it_ca_foscari_university_of_venice"
+      ],
+      "programs": [
+        {
+          "name": "Economics and Business",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_ca_foscari_university_of_venice"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "International Trade",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_ca_foscari_university_of_venice"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Languages",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_ca_foscari_university_of_venice"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Environmental Sciences",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_it_ca_foscari_university_of_venice"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    }
+  ]
+}

@@ -1,0 +1,4684 @@
+{
+  "schema_version": "1.0",
+  "country": {
+    "code": "AZ",
+    "name": "Азербайджан",
+    "coverage": "partial",
+    "entry_ids": [
+      "az_heydar",
+      "az_ada",
+      "az_beu",
+      "az_unec",
+      "az_asoiu",
+      "az_bhos",
+      "az_khazar",
+      "az_ndu",
+      "az_aztu",
+      "az_azmiu",
+      "az_bsu"
+    ]
+  },
+  "checked_at": "2026-10-13",
+  "admissions_overview": {
+    "degree_level": "Первая степень после школы (бакалавриат; отдельные клинические степени прямого поступления помечены)",
+    "admissions_cycle": "Планирование 2027: сверять с официальным набором",
+    "domestic_and_international_routes": "DİM для граждан, SIACAS/индивидуальные заявления для иностранцев, Heydar Aliyev Grant отдельный маршрут",
+    "typical_documents_not_universal": "Аттестат, паспорт, переводы/легализация, язык и другие документы по маршруту",
+    "exam_and_language_guidance": "DİM два этапа (I–IV), V по особым правилам; иностранцам не приписывайте автоматически национальные баллы",
+    "scholarships_caution": "Heydar Aliyev Grant номинация и конкурс; не все степени гарантированно финансируются.",
+    "status": "Обзор, а не гарантированный список порогов для всех абитуриентов."
+  },
+  "sources": {
+    "source_az_beu_undergrad": {
+      "url": "https://www.beu.edu.az/en/admission/undergraduate",
+      "title": "Baku Engineering University — каталог бакалавриата/официальный сайт",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Списки направлений из предоставленного пользователем справочника 2026/27; год и точная карточка программы подлежат сверке."
+    },
+    "source_az_unec_undergrad": {
+      "url": "https://unec.edu.az/education/tedris-proqramlari/",
+      "title": "Azerbaijan State University of Economics (UNEC) — каталог бакалавриата/официальный сайт",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Списки направлений из предоставленного пользователем справочника 2026/27; год и точная карточка программы подлежат сверке."
+    },
+    "source_az_bhos_undergrad": {
+      "url": "https://www.bhos.edu.az/en",
+      "title": "Baku Higher Oil School — каталог бакалавриата/официальный сайт",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Списки направлений из предоставленного пользователем справочника 2026/27; год и точная карточка программы подлежат сверке."
+    },
+    "source_az_aztu_undergrad": {
+      "url": "https://aztu.edu.az/en",
+      "title": "Azerbaijan Technical University — каталог бакалавриата/официальный сайт",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Списки направлений из предоставленного пользователем справочника 2026/27; год и точная карточка программы подлежат сверке."
+    },
+    "source_az_khazar_undergrad": {
+      "url": "https://international.khazar.org/en/page/bachelor",
+      "title": "Khazar University — каталог бакалавриата/официальный сайт",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Списки направлений из предоставленного пользователем справочника 2026/27; год и точная карточка программы подлежат сверке."
+    },
+    "source_az_ndu_undergrad": {
+      "url": "https://ndu.edu.az/en/bachelor",
+      "title": "Nakhchivan State University — каталог бакалавриата/официальный сайт",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Списки направлений из предоставленного пользователем справочника 2026/27; год и точная карточка программы подлежат сверке."
+    },
+    "source_az_asoiu_undergrad": {
+      "url": "https://asoiu.edu.az/specialties",
+      "title": "Azerbaijan State Oil and Industry University — каталог бакалавриата/официальный сайт",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Списки направлений из предоставленного пользователем справочника 2026/27; год и точная карточка программы подлежат сверке."
+    },
+    "source_az_azmiu_undergrad": {
+      "url": "https://azmiu.edu.az/en",
+      "title": "Azerbaijan University of Architecture and Construction — каталог бакалавриата/официальный сайт",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Списки направлений из предоставленного пользователем справочника 2026/27; год и точная карточка программы подлежат сверке."
+    },
+    "source_az_bsu_undergrad": {
+      "url": "https://bsu.edu.az/en",
+      "title": "Baku State University — каталог бакалавриата/официальный сайт",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Списки направлений из предоставленного пользователем справочника 2026/27; год и точная карточка программы подлежат сверке."
+    },
+    "az_aid": {
+      "url": "https://www.studyinazerbaijan.edu.az/financial-support",
+      "title": "Azerbaijan: Heydar Aliyev grant 2026/27",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "source_az_ada_undergrad": {
+      "url": "https://www.ada.edu.az/en/admission/undergraduate",
+      "title": "ADA University — каталог бакалавриата/официальный сайт",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Списки направлений из предоставленного пользователем справочника 2026/27; год и точная карточка программы подлежат сверке."
+    }
+  },
+  "profiles": {
+    "profile_az_ndu": {
+      "grades": {
+        "text": "Для внутреннего DİM используются результаты по выбранной группе I–V (до 700 в группах I–IV). Универсального минимального проходного числа для всех курсов нет. Иностранцы обычно поступают по другому маршруту.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_az_ndu_undergrad"
+        ]
+      },
+      "exams": [
+        {
+          "test": "DİM — профильные предметы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Для граждан Азербайджана группа и подгруппа выбирается согласно КОДУ программы; первый этап и три дисциплины второго этапа по правилам DİM. Иностранцам не приписывать автоматически.",
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для точной программы нужен протокол DİM соответствующего года и языка.",
+        "Heydar Aliyev Grant — отдельный конкурс, а не гарантированный грант каждой программы."
+      ],
+      "renewal": []
+    },
+    "profile_az_ada": {
+      "grades": {
+        "text": "Для внутреннего DİM используются результаты по выбранной группе I–V (до 700 в группах I–IV). Универсального минимального проходного числа для всех курсов нет. Иностранцы обычно поступают по другому маршруту.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_az_ada_undergrad"
+        ]
+      },
+      "exams": [
+        {
+          "test": "DİM — профильные предметы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Для граждан Азербайджана группа и подгруппа выбирается согласно КОДУ программы; первый этап и три дисциплины второго этапа по правилам DİM. Иностранцам не приписывать автоматически.",
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для точной программы нужен протокол DİM соответствующего года и языка.",
+        "Heydar Aliyev Grant — отдельный конкурс, а не гарантированный грант каждой программы."
+      ],
+      "renewal": []
+    },
+    "profile_az_beu": {
+      "grades": {
+        "text": "Для внутреннего DİM используются результаты по выбранной группе I–V (до 700 в группах I–IV). Универсального минимального проходного числа для всех курсов нет. Иностранцы обычно поступают по другому маршруту.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_az_beu_undergrad"
+        ]
+      },
+      "exams": [
+        {
+          "test": "DİM — профильные предметы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Для граждан Азербайджана группа и подгруппа выбирается согласно КОДУ программы; первый этап и три дисциплины второго этапа по правилам DİM. Иностранцам не приписывать автоматически.",
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для точной программы нужен протокол DİM соответствующего года и языка.",
+        "Heydar Aliyev Grant — отдельный конкурс, а не гарантированный грант каждой программы."
+      ],
+      "renewal": []
+    },
+    "profile_az_aztu": {
+      "grades": {
+        "text": "Для внутреннего DİM используются результаты по выбранной группе I–V (до 700 в группах I–IV). Универсального минимального проходного числа для всех курсов нет. Иностранцы обычно поступают по другому маршруту.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_az_aztu_undergrad"
+        ]
+      },
+      "exams": [
+        {
+          "test": "DİM — профильные предметы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Для граждан Азербайджана группа и подгруппа выбирается согласно КОДУ программы; первый этап и три дисциплины второго этапа по правилам DİM. Иностранцам не приписывать автоматически.",
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для точной программы нужен протокол DİM соответствующего года и языка.",
+        "Heydar Aliyev Grant — отдельный конкурс, а не гарантированный грант каждой программы."
+      ],
+      "renewal": []
+    },
+    "profile_az_asoiu": {
+      "grades": {
+        "text": "Для внутреннего DİM используются результаты по выбранной группе I–V (до 700 в группах I–IV). Универсального минимального проходного числа для всех курсов нет. Иностранцы обычно поступают по другому маршруту.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_az_asoiu_undergrad"
+        ]
+      },
+      "exams": [
+        {
+          "test": "DİM — профильные предметы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Для граждан Азербайджана группа и подгруппа выбирается согласно КОДУ программы; первый этап и три дисциплины второго этапа по правилам DİM. Иностранцам не приписывать автоматически.",
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для точной программы нужен протокол DİM соответствующего года и языка.",
+        "Heydar Aliyev Grant — отдельный конкурс, а не гарантированный грант каждой программы."
+      ],
+      "renewal": []
+    },
+    "profile_az_unec": {
+      "grades": {
+        "text": "Для внутреннего DİM используются результаты по выбранной группе I–V (до 700 в группах I–IV). Универсального минимального проходного числа для всех курсов нет. Иностранцы обычно поступают по другому маршруту.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_az_unec_undergrad"
+        ]
+      },
+      "exams": [
+        {
+          "test": "DİM — профильные предметы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Для граждан Азербайджана группа и подгруппа выбирается согласно КОДУ программы; первый этап и три дисциплины второго этапа по правилам DİM. Иностранцам не приписывать автоматически.",
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для точной программы нужен протокол DİM соответствующего года и языка.",
+        "Heydar Aliyev Grant — отдельный конкурс, а не гарантированный грант каждой программы."
+      ],
+      "renewal": []
+    },
+    "profile_az_azmiu": {
+      "grades": {
+        "text": "Для внутреннего DİM используются результаты по выбранной группе I–V (до 700 в группах I–IV). Универсального минимального проходного числа для всех курсов нет. Иностранцы обычно поступают по другому маршруту.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_az_azmiu_undergrad"
+        ]
+      },
+      "exams": [
+        {
+          "test": "DİM — профильные предметы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Для граждан Азербайджана группа и подгруппа выбирается согласно КОДУ программы; первый этап и три дисциплины второго этапа по правилам DİM. Иностранцам не приписывать автоматически.",
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для точной программы нужен протокол DİM соответствующего года и языка.",
+        "Heydar Aliyev Grant — отдельный конкурс, а не гарантированный грант каждой программы."
+      ],
+      "renewal": []
+    },
+    "profile_az_bhos": {
+      "grades": {
+        "text": "Для внутреннего DİM используются результаты по выбранной группе I–V (до 700 в группах I–IV). Универсального минимального проходного числа для всех курсов нет. Иностранцы обычно поступают по другому маршруту.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_az_bhos_undergrad"
+        ]
+      },
+      "exams": [
+        {
+          "test": "DİM — профильные предметы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Для граждан Азербайджана группа и подгруппа выбирается согласно КОДУ программы; первый этап и три дисциплины второго этапа по правилам DİM. Иностранцам не приписывать автоматически.",
+          "source_ids": [
+            "source_az_bhos_undergrad"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_az_bhos_undergrad"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_az_bhos_undergrad"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для точной программы нужен протокол DİM соответствующего года и языка.",
+        "Heydar Aliyev Grant — отдельный конкурс, а не гарантированный грант каждой программы."
+      ],
+      "renewal": []
+    },
+    "profile_az_bsu": {
+      "grades": {
+        "text": "Для внутреннего DİM используются результаты по выбранной группе I–V (до 700 в группах I–IV). Универсального минимального проходного числа для всех курсов нет. Иностранцы обычно поступают по другому маршруту.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_az_bsu_undergrad"
+        ]
+      },
+      "exams": [
+        {
+          "test": "DİM — профильные предметы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Для граждан Азербайджана группа и подгруппа выбирается согласно КОДУ программы; первый этап и три дисциплины второго этапа по правилам DİM. Иностранцам не приписывать автоматически.",
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для точной программы нужен протокол DİM соответствующего года и языка.",
+        "Heydar Aliyev Grant — отдельный конкурс, а не гарантированный грант каждой программы."
+      ],
+      "renewal": []
+    },
+    "azerbaijan": {
+      "grades": {
+        "text": "Числовой минимум для текущего набора не проверен.",
+        "status": "not_verified",
+        "minimum": null,
+        "scale": null,
+        "source_ids": []
+      },
+      "exams": [],
+      "funding": {
+        "name": "Heydar Aliyev International Education Grant",
+        "category": "tuition_stipend",
+        "coverage": {
+          "text": "Обучение, международные перелёты, ежемесячная выплата, медицинское страхование, виза и регистрация.",
+          "source_ids": [
+            "az_aid"
+          ]
+        },
+        "remaining_costs": "Размер выплаты и покрытие проживания в актуальном подробном конкурсе ещё не проверены.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Указаны страны ОИС, Движения неприсоединения, малые островные государства и страны с общими культурно-историческими связями; нужно проверить конкретное гражданство.",
+          "source_ids": [
+            "az_aid"
+          ]
+        }
+      ],
+      "renewal": [],
+      "missing_details": [
+        "Полное объявление с экзаменами, баллами, возрастом, номинацией, вузами и сроками не извлечено. Запись только для поиска маршрута, не готовый план поступления."
+      ]
+    },
+    "profile_az_khazar": {
+      "grades": {
+        "text": "Для внутреннего DİM используются результаты по выбранной группе I–V (до 700 в группах I–IV). Универсального минимального проходного числа для всех курсов нет. Иностранцы обычно поступают по другому маршруту.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_az_khazar_undergrad"
+        ]
+      },
+      "exams": [
+        {
+          "test": "DİM — профильные предметы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Для граждан Азербайджана группа и подгруппа выбирается согласно КОДУ программы; первый этап и три дисциплины второго этапа по правилам DİM. Иностранцам не приписывать автоматически.",
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Для точной программы нужен протокол DİM соответствующего года и языка.",
+        "Heydar Aliyev Grant — отдельный конкурс, а не гарантированный грант каждой программы."
+      ],
+      "renewal": []
+    }
+  },
+  "entries": [
+    {
+      "id": "az_heydar",
+      "country_code": "AZ",
+      "name": "Heydar Aliyev Grant — государственная программа",
+      "kind": "national_route",
+      "profile_id": "azerbaijan",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2026/27",
+      "source_ids": [
+        "az_aid"
+      ],
+      "programs": [],
+      "deadlines": [],
+      "note": "",
+      "checked_at": "2026-10-04"
+    },
+    {
+      "id": "az_ada",
+      "country_code": "AZ",
+      "name": "ADA University",
+      "kind": "university",
+      "profile_id": "profile_az_ada",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Программы по справочнику 2026/27, дата нового набора уточняется",
+      "source_ids": [
+        "source_az_ada_undergrad"
+      ],
+      "programs": [
+        {
+          "name": "International Studies",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Communication and Digital Media",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "media"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Public Affairs",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Business Administration",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Economics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Finance",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "finance"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Science",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Information Technology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mathematics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Electrical and Electronics Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "electrical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Laws (Legum Baccalaureus)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Agricultural Technologies",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "agriculture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Food Technologies",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "agriculture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Architecture",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Interior Design",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Urban Planning",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Communication Design",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ada_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "az_beu",
+      "country_code": "AZ",
+      "name": "Baku Engineering University",
+      "kind": "university",
+      "profile_id": "profile_az_beu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Программы по справочнику 2026/27, дата нового набора уточняется",
+      "source_ids": [
+        "source_az_beu_undergrad"
+      ],
+      "programs": [
+        {
+          "name": "International Relations",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Design (interior, graphic, industrial, fashion)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "International Trade and Logistics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "logistics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Business Administration (BEU–BUCT 2+2 option)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Economics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Finance",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "finance"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Marketing",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Accounting",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Biotechnology (BEU–BUCT 2+2 option)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Biotechnology (BEU–BUCT 3+1 track)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Physics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Chemistry (BEU–BUCT 2+2 option)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Chemistry (BEU–BUCT 3+1 track)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Science (INHA dual degree)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Science (Artificial Intelligence, BEU–BUCT)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "data",
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Science",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mathematics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Data Analytics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Data Analytics (INHA dual degree)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Environmental Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "environment",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Electrical and Electronic Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Electrical and Electronic Engineering (INHA dual degree)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Energy Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering",
+            "electrical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Information Technology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Information Technology (INHA dual degree)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Information Security",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Civil Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "civil",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Chemical Engineering (BEU–BUCT)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Communication Systems Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Engineering (BEU–BUCT)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Food Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Logistics and Transport Technology Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "logistics",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "mechanical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mechanical Engineering (BEU–BUCT 2+2 option)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "mechanical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mechanical Engineering (BEU–BUCT 3+1 track)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "mechanical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mechatronics and Robotics Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "manufacturing",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Architecture",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Transport Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "automotive",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Transport Construction Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "civil",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Software Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Process Automation Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "manufacturing",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Radio Engineering and Telecommunications Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "electrical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Industrial Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "industrial",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Urban Planning",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Transport Services (automotive)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "automotive"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Tourism Management",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business",
+            "tourism"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_beu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "az_unec",
+      "country_code": "AZ",
+      "name": "Azerbaijan State University of Economics (UNEC)",
+      "kind": "university",
+      "profile_id": "profile_az_unec",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Программы по справочнику 2026/27, дата нового набора уточняется",
+      "source_ids": [
+        "source_az_unec_undergrad"
+      ],
+      "programs": [
+        {
+          "name": "Design",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Food Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "International Relations",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "International Trade and Logistics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "logistics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Business Administration",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Economics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Finance",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "finance"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Marketing",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Management",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Accounting",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Statistics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "statistics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Ecology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Science",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Electrical and Electronics Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "electrical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Information Security",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Information Technology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Communication Systems Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "mechanical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Materials Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "materials",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Industrial Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "industrial",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Ecological Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Tourism Organization",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "tourism"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Social Work",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "social_work"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Food Engineering (Ege University joint variant)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_unec_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "az_asoiu",
+      "country_code": "AZ",
+      "name": "Azerbaijan State Oil and Industry University",
+      "kind": "university",
+      "profile_id": "profile_az_asoiu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Программы по справочнику 2026/27, дата нового набора уточняется",
+      "source_ids": [
+        "source_az_asoiu_undergrad"
+      ],
+      "programs": [
+        {
+          "name": "International Trade and Logistics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "logistics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Business Administration",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Economics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Marketing",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Management",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Geology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Science",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Instrumentation Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Data Analytics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Environmental Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "environment",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Electrical and Electronics Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "electrical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Energy Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering",
+            "electrical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Geological and Geophysical Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Life Safety Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Information Technology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Information Security",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Civil Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "civil",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Chemical Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Food Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Logistics and Transport Technology Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "logistics",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Machine Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "mechanical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Materials Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "materials",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "mechanical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mechatronics and Robotics Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "manufacturing",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mining Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Engineering Physics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "physics",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Oil and Gas Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Process Automation Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "manufacturing",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Radio Engineering and Telecommunications Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "electrical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Industrial Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "industrial",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_asoiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "az_bhos",
+      "country_code": "AZ",
+      "name": "Baku Higher Oil School",
+      "kind": "university",
+      "profile_id": "profile_az_bhos",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Программы по справочнику 2026/27, дата нового набора уточняется",
+      "source_ids": [
+        "source_az_bhos_undergrad"
+      ],
+      "programs": [
+        {
+          "name": "Chemical Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bhos_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Information Security",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bhos_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Business Administration",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bhos_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Process Automation Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "manufacturing",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bhos_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bhos_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Petroleum Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bhos_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Science",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bhos_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Finance",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "finance"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bhos_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Data Analytics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bhos_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "az_khazar",
+      "country_code": "AZ",
+      "name": "Khazar University",
+      "kind": "university",
+      "profile_id": "profile_az_khazar",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Программы по справочнику 2026/27, дата нового набора уточняется",
+      "source_ids": [
+        "source_az_khazar_undergrad"
+      ],
+      "programs": [
+        {
+          "name": "Computer Science",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Petroleum Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Chemical Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "mechanical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Civil Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "civil",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Radio and Telecommunications Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "electrical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Electrical and Electronics Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "electrical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Veterinary Medicine",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "veterinary",
+            "medicine"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Biotechnology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Business Administration (General)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Business Administration (Management)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Business Administration (Marketing)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Economics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Finance",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "finance"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Accounting",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Tourism Management",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business",
+            "tourism"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Psychology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Elementary Education",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "English Language Teaching",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "languages",
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Philology (English Language and Literature)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Translation",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Political Science",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "International Relations",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Architecture",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Design",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_khazar_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "az_ndu",
+      "country_code": "AZ",
+      "name": "Nakhchivan State University",
+      "kind": "university",
+      "profile_id": "profile_az_ndu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Программы по справочнику 2026/27, дата нового набора уточняется",
+      "source_ids": [
+        "source_az_ndu_undergrad"
+      ],
+      "programs": [
+        {
+          "name": "International Relations",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "International Relations (English)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Social Work",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "social_work"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Jurisprudence",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Philosophy",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "philosophy"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Foreign Language Teaching (English)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "languages",
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Translation (English-Azerbaijani)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Foreign Language Teaching (French)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "languages",
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Foreign Language Teaching (German)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "languages",
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Foreign Language Teaching (Russian)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "languages",
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Translation (Arabic-Azerbaijani)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Translation (Persian-Azerbaijani)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Journalism",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "journalism"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Librarianship and Information",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Librarianship and Information Activities",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "History",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "history"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "History Teaching",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "history",
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Philology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Azerbaijani Language and Literature Teaching",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "languages",
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Pharmacy",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "pharmacy"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Psychology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Nursing",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "nursing"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Economics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Accounting",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Economics (English)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Management",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Marketing",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Tourism Business Organization",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business",
+            "tourism"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Finance",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "finance"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "International Trade and Logistics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "logistics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Technology Teaching",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Physical Education and Sports",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Physical Education and Pre-conscription Teaching",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mathematics Teaching",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "math",
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mathematics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mathematics and Informatics Teaching",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer",
+            "math",
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Physics Teaching",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "education",
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Physics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Reclamation Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Information Technology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Ground Vehicle Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Environmental Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "environment",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Electric Power Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Architecture",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Energy Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering",
+            "electrical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Transportation Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Engineering (English)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Process Automation",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "manufacturing"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Information Security (English)",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Musicology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "music"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Interior Design",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Fine Arts Teaching",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "art",
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Music Teaching",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "music",
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Veterinary Medicine",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "veterinary",
+            "medicine"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Biology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Biology Teaching",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "education",
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Chemistry Teaching",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "education",
+            "chemistry"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Chemistry",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Geography",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Geography Teaching",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "education",
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Soil Science and Agrochemistry",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Land Management and Real Estate Cadastre",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Business Management",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_ndu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "az_aztu",
+      "country_code": "AZ",
+      "name": "Azerbaijan Technical University",
+      "kind": "university",
+      "profile_id": "profile_az_aztu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Программы по справочнику 2026/27, дата нового набора уточняется",
+      "source_ids": [
+        "source_az_aztu_undergrad"
+      ],
+      "programs": [
+        {
+          "name": "Transportation Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Logistics and Transport Technologies",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "logistics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Electrical and Electronics Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "electrical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Power Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Engineering Physics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "physics",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Process Automation Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "manufacturing",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Ecological Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Safety Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mining Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Chemical Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Metallurgical Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Materials Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "materials",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Equipment Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Machine Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "mechanical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "mechanical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mechatronic and Robotic Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Food Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemical_eng",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Industrial Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "industrial",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Sciences",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Computer Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Information Security",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Radio and Telecommunication Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Information Technologies",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Remanufacturing and Restoration Technology Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Metrology, Standardization and Certification Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Biomedical Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "biomedical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Emergency and Life Safety Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_aztu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "az_azmiu",
+      "country_code": "AZ",
+      "name": "Azerbaijan University of Architecture and Construction",
+      "kind": "university",
+      "profile_id": "profile_az_azmiu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Программы по справочнику 2026/27, дата нового набора уточняется",
+      "source_ids": [
+        "source_az_azmiu_undergrad"
+      ],
+      "programs": [
+        {
+          "name": "Environmental Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "environment",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Electrical and Electronics Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "electrical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Geomatics and Geodesy Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Life Safety Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Information Technology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Information Security",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Civil Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "civil",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Communication Systems Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Logistics and Transport Technologies Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "logistics",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Machine Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "mechanical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Materials Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "materials",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "mechanical",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Reclamation Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Architecture",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Oil and Gas Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Transport Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "automotive",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Transport Construction Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "civil",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Process Automation Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "manufacturing",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Industrial Engineering",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "industrial",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Urban Planning",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Land Management and Real Estate Cadastre",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Business Administration",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Economics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Marketing",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Management",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Design",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_azmiu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "az_bsu",
+      "country_code": "AZ",
+      "name": "Baku State University",
+      "kind": "university",
+      "profile_id": "profile_az_bsu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Программы по справочнику 2026/27, дата нового набора уточняется",
+      "source_ids": [
+        "source_az_bsu_undergrad"
+      ],
+      "programs": [
+        {
+          "name": "Mathematics / mathematical research",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Applied Mathematics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Physics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Chemistry",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Biology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Ecology and Soil Sciences",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Geography",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Geology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Philology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "History",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "history"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "International Relations",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Economics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Journalism",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "journalism"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Library and Information Science",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Social Sciences",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "sociology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Psychology",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Mechanics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "mechanical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        },
+        {
+          "name": "Cybernetics",
+          "language": "Зависит от факультета и языка набора",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_az_bsu_undergrad"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Позиция из предоставленного справочника бакалавриата 2026/27; проверить действующий набор, язык и экзамены на сайте."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    }
+  ]
+}

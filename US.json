@@ -1,0 +1,2026 @@
+{
+  "schema_version": "1.0",
+  "country": {
+    "code": "US",
+    "name": "США",
+    "coverage": "partial_programme_level_validation_required",
+    "entry_ids": [
+      "us_mit",
+      "us_yale",
+      "us_harvard",
+      "us_princeton",
+      "us_dartmouth",
+      "us_exp_stanford_university",
+      "us_exp_university_of_california_berkeley",
+      "us_exp_university_of_michigan",
+      "us_exp_georgia_institute_of_technology",
+      "us_exp_duke_university",
+      "us_exp_cornell_university",
+      "us_exp_new_york_university"
+    ]
+  },
+  "checked_at": "2026-10-13",
+  "admissions_overview": {
+    "degree_level": "Бакалавриат / первая степень после школы",
+    "admissions_cycle": "2027 (планирование; требования отдельных курсов подлежат проверке)",
+    "domestic_and_international_routes": "Комплексное рассмотрение Common App/Coalition/университетского заявления; учебная нагрузка, оценки и контекст важны",
+    "typical_documents_not_universal": "Транскрипт школы, рекомендации, эссе, паспорт, английский, финансовые документы и портфолио/проверки где нужны",
+    "exam_and_language_guidance": "SAT/ACT: test-required, test-optional либо test-free — политика конкретного университета и года; TOEFL/IELTS по правилам",
+    "scholarships_caution": "Need-based aid и merit scholarships различаются; full-need не означает автоматическую оплату всем кандидатам",
+    "status": "Обобщённая справка, не нормативное руководство; требования могут зависеть от гражданства, предмета и даты."
+  },
+  "sources": {
+    "dart_aid": {
+      "url": "https://admissions.dartmouth.edu/apply-dartmouth/universal-need-blind-policy",
+      "title": "Dartmouth: international need-blind/full-need policy",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "dart_majors": {
+      "url": "https://home.dartmouth.edu/academics/undergraduate-arts-sciences/majors-and-minors",
+      "title": "Dartmouth: undergraduate majors",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "exp_src_us_cornell_university": {
+      "url": "https://admissions.cornell.edu/",
+      "title": "Cornell University: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_us_duke_university": {
+      "url": "https://admissions.duke.edu/",
+      "title": "Duke University: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_us_georgia_institute_of_technology": {
+      "url": "https://admission.gatech.edu/",
+      "title": "Georgia Institute of Technology: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_us_new_york_university": {
+      "url": "https://www.nyu.edu/admissions/undergraduate-admissions.html",
+      "title": "New York University: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_us_stanford_university": {
+      "url": "https://admission.stanford.edu/",
+      "title": "Stanford University: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_us_university_of_california_berkeley": {
+      "url": "https://admissions.berkeley.edu/",
+      "title": "University of California, Berkeley: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_us_university_of_michigan": {
+      "url": "https://admissions.umich.edu/academics-majors/majors-degrees",
+      "title": "University of Michigan: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "harvard_int": {
+      "url": "https://college.harvard.edu/admissions/apply/international-applicants",
+      "title": "Harvard: international applicants and aid",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "harvard_tests": {
+      "url": "https://college.harvard.edu/resources/faq/which-standardized-tests-does-harvard-require",
+      "title": "Harvard: testing requirement",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "mit_aid": {
+      "url": "https://mitadmissions.org/afford/cost-aid-basics/access-affordability/",
+      "title": "MIT: cost and full-need aid",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "mit_int": {
+      "url": "https://mitadmissions.org/apply/firstyear/international/",
+      "title": "MIT: international applicants",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "mit_majors": {
+      "url": "https://mitadmissions.org/discover/the-mit-education/majors-minors/",
+      "title": "Massachusetts Institute of Technology (MIT): undergraduate majors",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "mit_tests": {
+      "url": "https://mitadmissions.org/apply/firstyear/tests-scores/",
+      "title": "MIT: first-year tests and scores",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "princeton_int": {
+      "url": "https://admission.princeton.edu/apply/international-students",
+      "title": "Princeton: international first-year applications",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "princeton_majors": {
+      "url": "https://admission.princeton.edu/academics/degrees-departments",
+      "title": "Princeton University: undergraduate majors",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "princeton_tests": {
+      "url": "https://admission.princeton.edu/apply/standardized-testing",
+      "title": "Princeton: testing by entry year",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "yale_int": {
+      "url": "https://admissions.yale.edu/international",
+      "title": "Yale: international undergraduate applicants",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "yale_majors": {
+      "url": "https://admissions.yale.edu/majors",
+      "title": "Yale University: undergraduate majors",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "yale_tests": {
+      "url": "https://admissions.yale.edu/standardized-testing",
+      "title": "Yale: testing policy",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    }
+  },
+  "profiles": {
+    "dartmouth": {
+      "grades": {
+        "text": "Численный минимальный школьный GPA в использованном источнике о помощи не указан.",
+        "source_ids": [
+          "dart_aid"
+        ],
+        "status": "not_stated_in_source",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [],
+      "funding": {
+        "name": "Dartmouth need-based aid",
+        "category": "full_need",
+        "coverage": {
+          "text": "Университет обязуется покрывать 100% рассчитанной финансовой потребности, в том числе иностранных студентов.",
+          "source_ids": [
+            "dart_aid"
+          ]
+        },
+        "remaining_costs": "Размер помощи рассчитывает университет по доходам и активам семьи; возможен собственный вклад. Полная потребность не означает нулевую оплату для всех.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранные кандидаты могут претендовать на помощь; документы о доходах семьи рассматриваются отдельно.",
+          "source_ids": [
+            "dart_aid"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Текущие требования вступительных и языковых экзаменов Dartmouth ещё нужно проверить: пустая таблица не означает отсутствие экзаменов."
+      ],
+      "renewal": []
+    },
+    "exp_profile_us_cornell_university": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_us_cornell_university"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_us_cornell_university"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_us_cornell_university"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_us_cornell_university"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_us_duke_university": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_us_duke_university"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_us_duke_university"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_us_duke_university"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_us_duke_university"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_us_georgia_institute_of_technology": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_us_georgia_institute_of_technology"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_us_georgia_institute_of_technology"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_us_georgia_institute_of_technology"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_us_georgia_institute_of_technology"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_us_new_york_university": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_us_new_york_university"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_us_new_york_university"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_us_new_york_university"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_us_new_york_university"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_us_stanford_university": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_us_stanford_university"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_us_stanford_university"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_us_stanford_university"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_us_stanford_university"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_us_university_of_california_berkeley": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_us_university_of_california_berkeley"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_us_university_of_california_berkeley"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_us_university_of_california_berkeley"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_us_university_of_california_berkeley"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_us_university_of_michigan": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_us_university_of_michigan"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_us_university_of_michigan"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_us_university_of_michigan"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_us_university_of_michigan"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "harvard": {
+      "grades": {
+        "text": "Единый числовой GPA в проверенных источниках не указан; это не означает отсутствие требований к оценкам.",
+        "source_ids": [
+          "harvard_int"
+        ],
+        "status": "not_stated_in_source",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [
+        {
+          "test": "SAT или ACT",
+          "status": "required_choice",
+          "score": null,
+          "scale": null,
+          "text": "Основное требование; при недоступности экзаменов допускаются описанные Harvard альтернативы.",
+          "source_ids": [
+            "harvard_tests"
+          ]
+        },
+        {
+          "test": "TOEFL / IELTS",
+          "status": "optional",
+          "score": null,
+          "scale": null,
+          "text": "Для first-year не обязательны; можно предоставить. Они не заменяют SAT/ACT.",
+          "source_ids": [
+            "harvard_int"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Harvard need-based aid",
+        "category": "full_need",
+        "coverage": {
+          "text": "Помощь по финансовой потребности; одинаковые принципы для всех гражданств.",
+          "source_ids": [
+            "harvard_int"
+          ]
+        },
+        "remaining_costs": "Размер помощи рассчитывает университет по доходам и активам семьи; возможен собственный вклад. Полная потребность не означает нулевую оплату для всех.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранные школьники подают first-year application; помощь не зависит от гражданства.",
+          "source_ids": [
+            "harvard_int"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Требования выбранной специальности и эквивалентность аттестата вашей страны необходимо проверить отдельно."
+      ],
+      "renewal": []
+    },
+    "mit": {
+      "grades": {
+        "text": "Единый числовой GPA в проверенных источниках не указан; это не означает отсутствие требований к оценкам.",
+        "source_ids": [
+          "mit_tests"
+        ],
+        "status": "not_stated_in_source",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [
+        {
+          "test": "SAT или ACT",
+          "status": "required_choice",
+          "score": null,
+          "scale": null,
+          "text": "Нужен один из двух; минимальный/рекомендуемый порог MIT не устанавливает.",
+          "source_ids": [
+            "mit_tests"
+          ]
+        },
+        {
+          "test": "TOEFL iBT",
+          "status": "recommended",
+          "score": 5,
+          "scale": "1–6",
+          "text": "Для тестов с 21.01.2026: минимум 5, рекомендовано 5.5; раньше — 90/120, рекомендовано 100. Английский тест настоятельно рекомендован при английском менее 5 лет или если его не используют дома/в школе.",
+          "source_ids": [
+            "mit_tests"
+          ]
+        },
+        {
+          "test": "IELTS",
+          "status": "alternative",
+          "score": 7,
+          "scale": "9",
+          "text": "Альтернатива TOEFL; рекомендовано 7.5. Есть также DET, PTE и Cambridge.",
+          "source_ids": [
+            "mit_tests"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "MIT need-based financial aid",
+        "category": "full_need",
+        "coverage": {
+          "text": "Покрывает рассчитанную университетом финансовую потребность; доступна иностранным студентам.",
+          "source_ids": [
+            "mit_aid",
+            "mit_int"
+          ]
+        },
+        "remaining_costs": "Размер помощи рассчитывает университет по доходам и активам семьи; возможен собственный вклад. Полная потребность не означает нулевую оплату для всех.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Международные абитуриенты участвуют в той же системе помощи.",
+          "source_ids": [
+            "mit_int"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Требования выбранной специальности и эквивалентность аттестата вашей страны необходимо проверить отдельно.",
+        "Документы, сроки приёма и помощи проверять для выбранного набора."
+      ],
+      "renewal": []
+    },
+    "princeton": {
+      "grades": {
+        "text": "Аттестат оценивают в контексте школьной системы; самостоятельный пересчёт в GPA не требуется. Единый числовой минимум здесь не указан.",
+        "source_ids": [
+          "princeton_int"
+        ],
+        "status": "contextual",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [
+        {
+          "test": "SAT / ACT",
+          "status": "optional",
+          "score": null,
+          "scale": null,
+          "text": "Для начала учёбы осенью 2027 необязательны; с осени 2028 снова требуется SAT или ACT.",
+          "source_ids": [
+            "princeton_tests"
+          ]
+        },
+        {
+          "test": "TOEFL / IELTS Academic / DET / PTE Academic",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Один языковой тест для неносителей без необходимого обучения на английском; освобождение при минимум 3 годах англоязычной средней школы. Числовой минимум в этой записи не подтверждён.",
+          "source_ids": [
+            "princeton_int"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Princeton need-based grant",
+        "category": "full_need",
+        "coverage": {
+          "text": "Подтверждённая потребность покрывается грантом, не займом; иностранцам доступны те же условия.",
+          "source_ids": [
+            "princeton_int"
+          ]
+        },
+        "remaining_costs": "Размер помощи рассчитывает университет по доходам и активам семьи; возможен собственный вклад. Полная потребность не означает нулевую оплату для всех.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Нужна оценённая письменная работа, изначально написанная на английском, и школьные документы.",
+          "source_ids": [
+            "princeton_int"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Требования выбранной специальности и эквивалентность аттестата вашей страны необходимо проверить отдельно."
+      ],
+      "renewal": []
+    },
+    "yale": {
+      "grades": {
+        "text": "Единый числовой GPA в проверенных источниках не указан; это не означает отсутствие требований к оценкам.",
+        "source_ids": [
+          "yale_int"
+        ],
+        "status": "not_stated_in_source",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [
+        {
+          "test": "SAT или ACT",
+          "status": "required_choice",
+          "score": null,
+          "scale": null,
+          "text": "Текущая политика требует один из двух экзаменов.",
+          "source_ids": [
+            "yale_int"
+          ]
+        },
+        {
+          "test": "TOEFL iBT",
+          "status": "competitive_reference",
+          "score": 5,
+          "scale": "1–6",
+          "text": "Ориентир сильных кандидатов, НЕ обязательный минимум: 5 по новой шкале или 100/120 по старой. Языковой тест требуется неносителям без 2 лет школы на английском.",
+          "source_ids": [
+            "yale_tests"
+          ]
+        },
+        {
+          "test": "IELTS",
+          "status": "competitive_reference",
+          "score": 7,
+          "scale": "9",
+          "text": "Ориентир конкурентных кандидатов, не официальный проходной минимум; есть другие языковые варианты.",
+          "source_ids": [
+            "yale_tests"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Yale need-based aid",
+        "category": "full_need",
+        "coverage": {
+          "text": "100% подтверждённой финансовой потребности; расчёт включает проживание, питание и поездки.",
+          "source_ids": [
+            "yale_int"
+          ]
+        },
+        "remaining_costs": "Размер помощи рассчитывает университет по доходам и активам семьи; возможен собственный вклад. Полная потребность не означает нулевую оплату для всех.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Приём без учёта платёжеспособности, включая иностранных абитуриентов.",
+          "source_ids": [
+            "yale_int"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Требования выбранной специальности и эквивалентность аттестата вашей страны необходимо проверить отдельно."
+      ],
+      "renewal": []
+    }
+  },
+  "entries": [
+    {
+      "id": "us_mit",
+      "country_code": "US",
+      "name": "Massachusetts Institute of Technology (MIT)",
+      "kind": "university",
+      "profile_id": "mit",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущая политика на 04.10.2026",
+      "source_ids": [
+        "mit_tests",
+        "mit_aid",
+        "mit_int",
+        "mit_majors"
+      ],
+      "programs": [
+        {
+          "name": "Computer Science and Engineering",
+          "language": "Английский",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [
+            "Информатика и программирование"
+          ],
+          "source_ids": [
+            "mit_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Artificial Intelligence and Decision Making",
+          "language": "Английский",
+          "field_ids": [
+            "data"
+          ],
+          "search_tags": [
+            "Данные и искусственный интеллект"
+          ],
+          "source_ids": [
+            "mit_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Art and Design",
+          "language": "Английский",
+          "field_ids": [
+            "art",
+            "design"
+          ],
+          "search_tags": [
+            "Изобразительное искусство",
+            "Дизайн"
+          ],
+          "source_ids": [
+            "mit_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Architecture",
+          "language": "Английский",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [
+            "Архитектура"
+          ],
+          "source_ids": [
+            "mit_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Biology",
+          "language": "Английский",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [
+            "Биология"
+          ],
+          "source_ids": [
+            "mit_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Chemistry",
+          "language": "Английский",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [
+            "Химия"
+          ],
+          "source_ids": [
+            "mit_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Economics",
+          "language": "Английский",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [
+            "Экономика"
+          ],
+          "source_ids": [
+            "mit_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Electrical Engineering and Computing",
+          "language": "Английский",
+          "field_ids": [
+            "electrical",
+            "computer"
+          ],
+          "search_tags": [
+            "Электротехника и электроника",
+            "Информатика и программирование"
+          ],
+          "source_ids": [
+            "mit_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Civil and Environmental Engineering",
+          "language": "Английский",
+          "field_ids": [
+            "civil",
+            "environment"
+          ],
+          "search_tags": [
+            "Строительство",
+            "Экология и науки о Земле"
+          ],
+          "source_ids": [
+            "mit_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Business Analytics",
+          "language": "Английский",
+          "field_ids": [
+            "business",
+            "data"
+          ],
+          "search_tags": [
+            "Бизнес и менеджмент",
+            "Данные и искусственный интеллект"
+          ],
+          "source_ids": [
+            "mit_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        }
+      ],
+      "deadlines": [],
+      "note": "Поступление в университет, затем выбор специализации по его правилам. Общие требования приёма и финансовой помощи приведены ниже.",
+      "checked_at": "2026-10-04"
+    },
+    {
+      "id": "us_yale",
+      "country_code": "US",
+      "name": "Yale University",
+      "kind": "university",
+      "profile_id": "yale",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущая политика на 04.10.2026",
+      "source_ids": [
+        "yale_int",
+        "yale_tests",
+        "yale_majors"
+      ],
+      "programs": [
+        {
+          "name": "Applied Mathematics",
+          "language": "Английский",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [
+            "Математика"
+          ],
+          "source_ids": [
+            "yale_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Applied Physics",
+          "language": "Английский",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [
+            "Физика"
+          ],
+          "source_ids": [
+            "yale_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Architecture",
+          "language": "Английский",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [
+            "Архитектура"
+          ],
+          "source_ids": [
+            "yale_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Art",
+          "language": "Английский",
+          "field_ids": [
+            "art"
+          ],
+          "search_tags": [
+            "Изобразительное искусство"
+          ],
+          "source_ids": [
+            "yale_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Chemistry",
+          "language": "Английский",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [
+            "Химия"
+          ],
+          "source_ids": [
+            "yale_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Computer Science",
+          "language": "Английский",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [
+            "Информатика и программирование"
+          ],
+          "source_ids": [
+            "yale_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Economics",
+          "language": "Английский",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [
+            "Экономика"
+          ],
+          "source_ids": [
+            "yale_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Electrical Engineering",
+          "language": "Английский",
+          "field_ids": [
+            "electrical"
+          ],
+          "search_tags": [
+            "Электротехника и электроника"
+          ],
+          "source_ids": [
+            "yale_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Environmental Studies",
+          "language": "Английский",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [
+            "Экология и науки о Земле"
+          ],
+          "source_ids": [
+            "yale_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Film and Media Studies",
+          "language": "Английский",
+          "field_ids": [
+            "media"
+          ],
+          "search_tags": [
+            "Кино и медиа"
+          ],
+          "source_ids": [
+            "yale_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "History",
+          "language": "Английский",
+          "field_ids": [
+            "history"
+          ],
+          "search_tags": [
+            "История"
+          ],
+          "source_ids": [
+            "yale_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Comparative Literature",
+          "language": "Английский",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [
+            "Языки и литература"
+          ],
+          "source_ids": [
+            "yale_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        }
+      ],
+      "deadlines": [],
+      "note": "Поступление в университет, затем выбор специализации по его правилам. Общие требования приёма и финансовой помощи приведены ниже.",
+      "checked_at": "2026-10-04"
+    },
+    {
+      "id": "us_harvard",
+      "country_code": "US",
+      "name": "Harvard College",
+      "kind": "university",
+      "profile_id": "harvard",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущая политика на 04.10.2026",
+      "source_ids": [
+        "harvard_int",
+        "harvard_tests"
+      ],
+      "programs": [],
+      "deadlines": [],
+      "note": "",
+      "checked_at": "2026-10-04"
+    },
+    {
+      "id": "us_princeton",
+      "country_code": "US",
+      "name": "Princeton University",
+      "kind": "university",
+      "profile_id": "princeton",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Начало учёбы: 2027; изменение тестов: 2028",
+      "source_ids": [
+        "princeton_int",
+        "princeton_tests",
+        "princeton_majors"
+      ],
+      "programs": [
+        {
+          "name": "Architecture",
+          "language": "Английский",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [
+            "Архитектура"
+          ],
+          "source_ids": [
+            "princeton_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Art and Archaeology",
+          "language": "Английский",
+          "field_ids": [
+            "art",
+            "history"
+          ],
+          "search_tags": [
+            "Изобразительное искусство",
+            "История"
+          ],
+          "source_ids": [
+            "princeton_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Chemistry",
+          "language": "Английский",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [
+            "Химия"
+          ],
+          "source_ids": [
+            "princeton_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Civil and Environmental Engineering",
+          "language": "Английский",
+          "field_ids": [
+            "civil",
+            "environment"
+          ],
+          "search_tags": [
+            "Строительство",
+            "Экология и науки о Земле"
+          ],
+          "source_ids": [
+            "princeton_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Computer Science",
+          "language": "Английский",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [
+            "Информатика и программирование"
+          ],
+          "source_ids": [
+            "princeton_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Comparative Literature",
+          "language": "Английский",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [
+            "Языки и литература"
+          ],
+          "source_ids": [
+            "princeton_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        }
+      ],
+      "deadlines": [],
+      "note": "Поступление в университет, затем выбор специализации по его правилам. Общие требования приёма и финансовой помощи приведены ниже.",
+      "checked_at": "2026-10-04"
+    },
+    {
+      "id": "us_dartmouth",
+      "country_code": "US",
+      "name": "Dartmouth College",
+      "kind": "university",
+      "profile_id": "dartmouth",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущая страница; сроки нового набора уточнить",
+      "source_ids": [
+        "dart_majors",
+        "dart_aid"
+      ],
+      "programs": [
+        {
+          "name": "Studio Art",
+          "language": "Английский",
+          "field_ids": [
+            "art"
+          ],
+          "search_tags": [
+            "Изобразительное искусство"
+          ],
+          "source_ids": [
+            "dart_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Music",
+          "language": "Английский",
+          "field_ids": [
+            "music"
+          ],
+          "search_tags": [
+            "Музыка"
+          ],
+          "source_ids": [
+            "dart_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Theater",
+          "language": "Английский",
+          "field_ids": [
+            "theatre"
+          ],
+          "search_tags": [
+            "Театр"
+          ],
+          "source_ids": [
+            "dart_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Film and Media Studies",
+          "language": "Английский",
+          "field_ids": [
+            "media"
+          ],
+          "search_tags": [
+            "Кино и медиа"
+          ],
+          "source_ids": [
+            "dart_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Engineering Sciences",
+          "language": "Английский",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [
+            "Инженерия — все направления"
+          ],
+          "source_ids": [
+            "dart_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Computer Science",
+          "language": "Английский",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [
+            "Информатика и программирование"
+          ],
+          "source_ids": [
+            "dart_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Mathematics",
+          "language": "Английский",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [
+            "Математика"
+          ],
+          "source_ids": [
+            "dart_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Chemistry",
+          "language": "Английский",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [
+            "Химия"
+          ],
+          "source_ids": [
+            "dart_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Economics",
+          "language": "Английский",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [
+            "Экономика"
+          ],
+          "source_ids": [
+            "dart_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Biological Sciences",
+          "language": "Английский",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [
+            "Биология"
+          ],
+          "source_ids": [
+            "dart_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Environmental Studies",
+          "language": "Английский",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [
+            "Экология и науки о Земле"
+          ],
+          "source_ids": [
+            "dart_majors"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        }
+      ],
+      "deadlines": [],
+      "note": "",
+      "checked_at": "2026-10-05"
+    },
+    {
+      "id": "us_exp_stanford_university",
+      "country_code": "US",
+      "name": "Stanford University",
+      "kind": "university",
+      "profile_id": "exp_profile_us_stanford_university",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_us_stanford_university"
+      ],
+      "programs": [
+        {
+          "name": "Computer Science",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_stanford_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Symbolic Systems",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_stanford_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Economics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_stanford_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "mechanical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_stanford_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Biology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_stanford_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "us_exp_university_of_california_berkeley",
+      "country_code": "US",
+      "name": "University of California, Berkeley",
+      "kind": "university",
+      "profile_id": "exp_profile_us_university_of_california_berkeley",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_us_university_of_california_berkeley"
+      ],
+      "programs": [
+        {
+          "name": "Electrical Engineering and Computer Sciences",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_university_of_california_berkeley"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Economics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_university_of_california_berkeley"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Architecture",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_university_of_california_berkeley"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Physics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_university_of_california_berkeley"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Psychology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_university_of_california_berkeley"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "us_exp_university_of_michigan",
+      "country_code": "US",
+      "name": "University of Michigan",
+      "kind": "university",
+      "profile_id": "exp_profile_us_university_of_michigan",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_us_university_of_michigan"
+      ],
+      "programs": [
+        {
+          "name": "Computer Science",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_university_of_michigan"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "mechanical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_university_of_michigan"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Psychology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_university_of_michigan"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Economics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_university_of_michigan"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Biology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_university_of_michigan"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "us_exp_georgia_institute_of_technology",
+      "country_code": "US",
+      "name": "Georgia Institute of Technology",
+      "kind": "university",
+      "profile_id": "exp_profile_us_georgia_institute_of_technology",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_us_georgia_institute_of_technology"
+      ],
+      "programs": [
+        {
+          "name": "Computer Science",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_georgia_institute_of_technology"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Aerospace Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "aerospace"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_georgia_institute_of_technology"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Biomedical Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "biomedical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_georgia_institute_of_technology"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Industrial Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "industrial"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_georgia_institute_of_technology"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "us_exp_duke_university",
+      "country_code": "US",
+      "name": "Duke University",
+      "kind": "university",
+      "profile_id": "exp_profile_us_duke_university",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_us_duke_university"
+      ],
+      "programs": [
+        {
+          "name": "Computer Science",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_duke_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Economics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_duke_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Biomedical Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "biomedical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_duke_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Biology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_duke_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Public Policy",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_duke_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "us_exp_cornell_university",
+      "country_code": "US",
+      "name": "Cornell University",
+      "kind": "university",
+      "profile_id": "exp_profile_us_cornell_university",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_us_cornell_university"
+      ],
+      "programs": [
+        {
+          "name": "Computer Science",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_cornell_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Hotel Administration",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "tourism"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_cornell_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "mechanical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_cornell_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Biological Sciences",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_cornell_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Architecture",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_cornell_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "us_exp_new_york_university",
+      "country_code": "US",
+      "name": "New York University",
+      "kind": "university",
+      "profile_id": "exp_profile_us_new_york_university",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_us_new_york_university"
+      ],
+      "programs": [
+        {
+          "name": "Economics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_new_york_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Computer Science",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_new_york_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Media Studies",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "media"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_new_york_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Psychology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_new_york_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Business",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_us_new_york_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    }
+  ]
+}

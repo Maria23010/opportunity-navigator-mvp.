@@ -1,0 +1,2688 @@
+{
+  "schema_version": "1.0",
+  "country": {
+    "code": "AU",
+    "name": "Австралия",
+    "coverage": "partial",
+    "entry_ids": [
+      "au_unsw",
+      "au_monash",
+      "au_sydney",
+      "au_deakin",
+      "au_melbourne",
+      "au_anu",
+      "au_uq",
+      "au_uwa",
+      "au_adelaide",
+      "au_uts",
+      "au_rmit"
+    ]
+  },
+  "checked_at": "2026-10-13",
+  "admissions_overview": {
+    "degree_level": "Первая степень после школы (бакалавриат; отдельные клинические степени прямого поступления помечены)",
+    "admissions_cycle": "Планирование 2027: сверять с официальным набором",
+    "domestic_and_international_routes": "ATAR, IB, A Levels, признанный аттестат либо foundation, если вуз допускает",
+    "typical_documents_not_universal": "Аттестат, переводы, английский, паспорт, документы о профильных предметах",
+    "exam_and_language_guidance": "IELTS/TOEFL/PTE как разрешённые альтернативы; ATAR — рейтинг, не отдельный экзамен",
+    "scholarships_caution": "Стипендия на tuition не обязательно покрывает проживание или OSHC.",
+    "status": "Обзор, а не гарантированный список порогов для всех абитуриентов."
+  },
+  "sources": {
+    "source_au_monash_new_degrees": {
+      "url": "https://www.monash.edu/study/why-choose-monash/information-for-schools-and-teachers/course-guides",
+      "title": "Monash University — официальный каталог; выборка из справочника 2027",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Названия выборки степеней из приложенного справочника; не все majors включены."
+    },
+    "melbourne_design": {
+      "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/entry-requirements",
+      "title": "Design — Bachelor — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "source_au_anu_new_degrees": {
+      "url": "https://programsandcourses.anu.edu.au/2027",
+      "title": "Australian National University — официальный каталог; выборка из справочника 2027",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Названия выборки степеней из приложенного справочника; не все majors включены."
+    },
+    "au_unsw_aid": {
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/1988/7272",
+      "title": "UNSW Sydney — undergraduate funding",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "source_au_sydney_new_degrees": {
+      "url": "https://www.sydney.edu.au/study/study-options/undergraduate-courses.html",
+      "title": "University of Sydney — официальный каталог; выборка из справочника 2027",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Названия выборки степеней из приложенного справочника; не все majors включены."
+    },
+    "sydney_design": {
+      "url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-design-interaction-design.html",
+      "title": "Design (Interaction Design) — Bachelor — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "au_sydney_aid": {
+      "url": "https://www.sydney.edu.au/scholarships/e/sydney-international-undergraduate-academic-excellence-scholarship.html",
+      "title": "The University of Sydney — undergraduate funding",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "au_deakin_aid": {
+      "url": "https://www.deakin.edu.au/__data/assets/pdf_file/0010/422677/Application-Form-Deakin-International-Scholarship-Program.pdf",
+      "title": "Deakin University — undergraduate funding",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "source_au_melbourne_new_degrees": {
+      "url": "https://study.unimelb.edu.au/study-with-us/the-melbourne-curriculum",
+      "title": "University of Melbourne — официальный каталог; выборка из справочника 2027",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Названия выборки степеней из приложенного справочника; не все majors включены."
+    },
+    "source_au_uwa_new_degrees": {
+      "url": "https://www.uwa.edu.au/study/courses",
+      "title": "University of Western Australia — официальный каталог; выборка из справочника 2027",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Названия выборки степеней из приложенного справочника; не все majors включены."
+    },
+    "source_au_rmit_new_degrees": {
+      "url": "https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees",
+      "title": "RMIT University — официальный каталог; выборка из справочника 2027",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Названия выборки степеней из приложенного справочника; не все majors включены."
+    },
+    "source_au_uq_new_degrees": {
+      "url": "https://study.uq.edu.au/study-options",
+      "title": "University of Queensland — официальный каталог; выборка из справочника 2027",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Названия выборки степеней из приложенного справочника; не все majors включены."
+    },
+    "unsw_me": {
+      "url": "https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-mechanical?studentType=International",
+      "title": "Mechanical Engineering — Bachelor of Engineering (Honours) — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "au_melbourne_aid": {
+      "url": "https://scholarships.unimelb.edu.au/awards/melbourne-humanitarian-access-scholarship",
+      "title": "The University of Melbourne — undergraduate funding",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "source_au_uts_new_degrees": {
+      "url": "https://www.uts.edu.au/for-students/undergraduate/undergraduate-course-guide",
+      "title": "University of Technology Sydney — официальный каталог; выборка из справочника 2027",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Названия выборки степеней из приложенного справочника; не все majors включены."
+    },
+    "source_au_adelaide_new_degrees": {
+      "url": "https://adelaide.edu.au/study/degrees/2027/",
+      "title": "Adelaide University — официальный каталог; выборка из справочника 2027",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Названия выборки степеней из приложенного справочника; не все majors включены."
+    },
+    "au_monash_aid": {
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-international-leadership-scholarship-5571Z",
+      "title": "Monash University — undergraduate funding",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "source_au_unsw_new_degrees": {
+      "url": "https://www.unsw.edu.au/study/undergraduate",
+      "title": "UNSW Sydney — официальный каталог; выборка из справочника 2027",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Названия выборки степеней из приложенного справочника; не все majors включены."
+    },
+    "deakin_me": {
+      "url": "https://www.deakin.edu.au/course/bachelor-engineering-honours",
+      "title": "Engineering (Honours) — Mechanical Engineering — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    },
+    "monash_art": {
+      "url": "https://www.monash.edu/study/courses/find-a-course/fine-art-f2003?international=true",
+      "title": "Fine Art — Bachelor — официальная программа бакалавриата",
+      "checked_at": "2026-10-06",
+      "publisher_type": "official"
+    }
+  },
+  "profiles": {
+    "profile_au_rmit_new": {
+      "grades": {
+        "text": "Оценка аттестата по признанной школьной квалификации (ATAR/IB/A Levels или иной эквивалент). Минимумы зависят от конкретного degree и категории. Нет единого порога для всех программ.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_au_rmit_new_degrees"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ATAR / IB / A Levels",
+          "status": "alternative",
+          "score": null,
+          "scale": null,
+          "text": "Альтернативные школьные квалификации, не три обязательных экзамена; предметные prerequisites согласно degree.",
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ]
+        },
+        {
+          "test": "IELTS / TOEFL / PTE",
+          "status": "alternative",
+          "score": null,
+          "scale": null,
+          "text": "Один из допустимых способов подтвердить английский с индивидуальным минимумом программы.",
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "profile_au_uq_new": {
+      "grades": {
+        "text": "Оценка аттестата по признанной школьной квалификации (ATAR/IB/A Levels или иной эквивалент). Минимумы зависят от конкретного degree и категории. Нет единого порога для всех программ.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_au_uq_new_degrees"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ATAR / IB / A Levels",
+          "status": "alternative",
+          "score": null,
+          "scale": null,
+          "text": "Альтернативные школьные квалификации, не три обязательных экзамена; предметные prerequisites согласно degree.",
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ]
+        },
+        {
+          "test": "IELTS / TOEFL / PTE",
+          "status": "alternative",
+          "score": null,
+          "scale": null,
+          "text": "Один из допустимых способов подтвердить английский с индивидуальным минимумом программы.",
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "profile_au_uwa_new": {
+      "grades": {
+        "text": "Оценка аттестата по признанной школьной квалификации (ATAR/IB/A Levels или иной эквивалент). Минимумы зависят от конкретного degree и категории. Нет единого порога для всех программ.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_au_uwa_new_degrees"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ATAR / IB / A Levels",
+          "status": "alternative",
+          "score": null,
+          "scale": null,
+          "text": "Альтернативные школьные квалификации, не три обязательных экзамена; предметные prerequisites согласно degree.",
+          "source_ids": [
+            "source_au_uwa_new_degrees"
+          ]
+        },
+        {
+          "test": "IELTS / TOEFL / PTE",
+          "status": "alternative",
+          "score": null,
+          "scale": null,
+          "text": "Один из допустимых способов подтвердить английский с индивидуальным минимумом программы.",
+          "source_ids": [
+            "source_au_uwa_new_degrees"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_au_uwa_new_degrees"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_au_uwa_new_degrees"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "au_sydney": {
+      "grades": {
+        "minimum": null,
+        "scale": null,
+        "status": "qualification_specific",
+        "text": "Нужен подходящий документ о среднем образовании. Требования зависят от системы аттестата и программы; численный общий школьный GPA здесь не подтверждён.",
+        "source_ids": [
+          "sydney_design"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "International Undergraduate Academic Excellence",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Стипендия покрывает 100% tuition и SSAF на стандартную длительность одной бакалаврской степени.",
+          "source_ids": [
+            "au_sydney_aid"
+          ]
+        },
+        "remaining_costs": "Проживание, питание и поездка не включены в эту сумму.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Конкурс для исключительных международных кандидатов; учитываются приоритетные рынки. Допустимость программы и гражданства проверяется по условиям конкурса.",
+          "source_ids": [
+            "au_sydney_aid"
+          ]
+        }
+      ],
+      "renewal": [],
+      "missing_details": [
+        "Проверьте предметные требования и признание аттестата; общий языковой минимум может быть ниже требования программы. Сроки следующего набора не переносятся автоматически."
+      ]
+    },
+    "au_unsw": {
+      "grades": {
+        "minimum": null,
+        "scale": null,
+        "status": "qualification_specific",
+        "text": "Нужен подходящий документ о среднем образовании. Требования зависят от системы аттестата и программы; численный общий школьный GPA здесь не подтверждён.",
+        "source_ids": [
+          "unsw_me"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "International Scientia Coursework Scholarship",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Для Term 1 2027 есть вариант полной оплаты обучения на стандартную длительность программы; другой вариант — частичная сумма.",
+          "source_ids": [
+            "au_unsw_aid"
+          ]
+        },
+        "remaining_costs": "Проживание, страховка, перелёт и прочие расходы не входят в подтверждённое полное покрытие обучения.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранные студенты очных кампусных программ; UNSW online и UNSW Canberra исключены. Нужны достижения и отдельный конкурс.",
+          "source_ids": [
+            "au_unsw_aid"
+          ]
+        }
+      ],
+      "renewal": [],
+      "missing_details": [
+        "Проверьте предметные требования и признание аттестата; общий языковой минимум может быть ниже требования программы. Сроки следующего набора не переносятся автоматически."
+      ]
+    },
+    "au_monash": {
+      "grades": {
+        "minimum": null,
+        "scale": null,
+        "status": "qualification_specific",
+        "text": "Нужен подходящий документ о среднем образовании. Требования зависят от системы аттестата и программы; численный общий школьный GPA здесь не подтверждён.",
+        "source_ids": [
+          "monash_art"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Портфолио / folio presentation",
+          "status": "required",
+          "score": null,
+          "scale": null,
+          "text": "Для траектории Fine Art нужна презентация портфолио. Дополнительно проверяются академические и языковые требования.",
+          "source_ids": [
+            "monash_art"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "International Leadership Scholarship",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Для отобранных иностранных абитуриентов предусмотрена 100% оплата обучения на период степени.",
+          "source_ids": [
+            "au_monash_aid"
+          ]
+        },
+        "remaining_costs": "Расходы на жизнь и страховку необходимо рассчитывать отдельно.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Международные кандидаты с предложением на бакалавриат. Получение предложения не гарантирует стипендию.",
+          "source_ids": [
+            "au_monash_aid"
+          ]
+        }
+      ],
+      "renewal": [],
+      "missing_details": [
+        "Проверьте предметные требования и признание аттестата; общий языковой минимум может быть ниже требования программы. Сроки следующего набора не переносятся автоматически."
+      ]
+    },
+    "au_deakin": {
+      "grades": {
+        "minimum": null,
+        "scale": null,
+        "status": "qualification_specific",
+        "text": "Нужен подходящий документ о среднем образовании. Требования зависят от системы аттестата и программы; численный общий школьный GPA здесь не подтверждён.",
+        "source_ids": [
+          "deakin_me"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "Vice-Chancellor’s International Scholarship",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Возможен вариант оплаты 100% обучения; также присуждается вариант 50%.",
+          "source_ids": [
+            "au_deakin_aid"
+          ]
+        },
+        "remaining_costs": "Общежитие предоставляется за собственный счёт при наличии места. Остальные расходы отдельно.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "В опубликованной форме минимум для конкурса — средний балл 85% или эквивалент за предыдущее обучение. Это порог гранта, не универсальный порог приёма. Нельзя одновременно получать другую стипендию Deakin.",
+          "source_ids": [
+            "au_deakin_aid"
+          ]
+        }
+      ],
+      "renewal": [],
+      "missing_details": [
+        "Проверьте предметные требования и признание аттестата; общий языковой минимум может быть ниже требования программы. Сроки следующего набора не переносятся автоматически."
+      ],
+      "scholarship_grades": {
+        "minimum": 85,
+        "scale": "100%",
+        "text": "Минимум для участия в конкурсе стипендии, не проходной балл вуза.",
+        "source_ids": [
+          "au_deakin_aid"
+        ]
+      }
+    },
+    "au_melbourne": {
+      "grades": {
+        "minimum": null,
+        "scale": null,
+        "status": "qualification_specific",
+        "text": "Нужен подходящий документ о среднем образовании. Требования зависят от системы аттестата и программы; численный общий школьный GPA здесь не подтверждён.",
+        "source_ids": [
+          "melbourne_design"
+        ]
+      },
+      "exams": [],
+      "funding": {
+        "name": "Melbourne Humanitarian Access Scholarship",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Возможна 100% отмена платы и поддержка до AUD 20 000.",
+          "source_ids": [
+            "au_melbourne_aid"
+          ]
+        },
+        "remaining_costs": "Поддержка не означает автоматического покрытия всех жизненных расходов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Только для подходящих кандидатов, подавших заявление об убежище в Австралии. Это не общая стипендия для всех иностранных абитуриентов.",
+          "source_ids": [
+            "au_melbourne_aid"
+          ]
+        }
+      ],
+      "renewal": [],
+      "missing_details": [
+        "Проверьте предметные требования и признание аттестата; общий языковой минимум может быть ниже требования программы. Сроки следующего набора не переносятся автоматически."
+      ]
+    },
+    "profile_au_anu_new": {
+      "grades": {
+        "text": "Оценка аттестата по признанной школьной квалификации (ATAR/IB/A Levels или иной эквивалент). Минимумы зависят от конкретного degree и категории. Нет единого порога для всех программ.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_au_anu_new_degrees"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ATAR / IB / A Levels",
+          "status": "alternative",
+          "score": null,
+          "scale": null,
+          "text": "Альтернативные школьные квалификации, не три обязательных экзамена; предметные prerequisites согласно degree.",
+          "source_ids": [
+            "source_au_anu_new_degrees"
+          ]
+        },
+        {
+          "test": "IELTS / TOEFL / PTE",
+          "status": "alternative",
+          "score": null,
+          "scale": null,
+          "text": "Один из допустимых способов подтвердить английский с индивидуальным минимумом программы.",
+          "source_ids": [
+            "source_au_anu_new_degrees"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_au_anu_new_degrees"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_au_anu_new_degrees"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "profile_au_uts_new": {
+      "grades": {
+        "text": "Оценка аттестата по признанной школьной квалификации (ATAR/IB/A Levels или иной эквивалент). Минимумы зависят от конкретного degree и категории. Нет единого порога для всех программ.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_au_uts_new_degrees"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ATAR / IB / A Levels",
+          "status": "alternative",
+          "score": null,
+          "scale": null,
+          "text": "Альтернативные школьные квалификации, не три обязательных экзамена; предметные prerequisites согласно degree.",
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ]
+        },
+        {
+          "test": "IELTS / TOEFL / PTE",
+          "status": "alternative",
+          "score": null,
+          "scale": null,
+          "text": "Один из допустимых способов подтвердить английский с индивидуальным минимумом программы.",
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    },
+    "profile_au_adelaide_new": {
+      "grades": {
+        "text": "Оценка аттестата по признанной школьной квалификации (ATAR/IB/A Levels или иной эквивалент). Минимумы зависят от конкретного degree и категории. Нет единого порога для всех программ.",
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "source_au_adelaide_new_degrees"
+        ]
+      },
+      "exams": [
+        {
+          "test": "ATAR / IB / A Levels",
+          "status": "alternative",
+          "score": null,
+          "scale": null,
+          "text": "Альтернативные школьные квалификации, не три обязательных экзамена; предметные prerequisites согласно degree.",
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ]
+        },
+        {
+          "test": "IELTS / TOEFL / PTE",
+          "status": "alternative",
+          "score": null,
+          "scale": null,
+          "text": "Один из допустимых способов подтвердить английский с индивидуальным минимумом программы.",
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Стипендия / покрытие не подтверждены для выбранного направления",
+        "category": "unverified",
+        "coverage": {
+          "text": "Здесь не подтверждён индивидуальный грант или бесплатное обучение для этого ребёнка.",
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ]
+        },
+        "remaining_costs": "Стоимость обучения и проживания уточните на официальном сайте.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Право поступления зависит от гражданства, вида аттестата, языка и программы.",
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Наличие мест в 2027 году и точные требования к вашему школьному диплому требуют проверки."
+      ],
+      "renewal": []
+    }
+  },
+  "entries": [
+    {
+      "id": "au_unsw",
+      "country_code": "AU",
+      "name": "UNSW Sydney",
+      "kind": "university",
+      "profile_id": "au_unsw",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Опубликованные страницы проверены 2026-10-06; нужный набор уточнить",
+      "source_ids": [
+        "au_unsw_aid",
+        "unsw_me",
+        "source_au_unsw_new_degrees"
+      ],
+      "programs": [
+        {
+          "name": "Mechanical Engineering — Bachelor of Engineering (Honours)",
+          "field_ids": [
+            "mechanical"
+          ],
+          "language": "Английский",
+          "search_tags": [],
+          "source_ids": [
+            "unsw_me"
+          ],
+          "requirements_note": ""
+        },
+        {
+          "name": "Bachelor of Economics",
+          "language": "English",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_unsw_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science (Computer Science)",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_unsw_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Engineering (Honours)",
+          "language": "English",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_unsw_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Design",
+          "language": "English",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_unsw_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Fine Arts",
+          "language": "English",
+          "field_ids": [
+            "art"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_unsw_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Media",
+          "language": "English",
+          "field_ids": [
+            "media"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_unsw_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Psychological Science",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_unsw_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Psychology (Honours)",
+          "language": "English",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_unsw_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Aviation (Flying)",
+          "language": "English",
+          "field_ids": [
+            "aerospace"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_unsw_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Vision Science",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_unsw_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Social Work (Honours)",
+          "language": "English",
+          "field_ids": [
+            "social_work"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_unsw_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science / Science (Computer Science)",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_unsw_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Engineering (Honours) / Computer Science",
+          "language": "English",
+          "field_ids": [
+            "computer",
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_unsw_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Грант конкурсный. В карточке разделены подтверждённые факты и ещё не внесённые условия.",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "id": "au_monash",
+      "country_code": "AU",
+      "name": "Monash University",
+      "kind": "university",
+      "profile_id": "au_monash",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Опубликованные страницы проверены 2026-10-06; нужный набор уточнить",
+      "source_ids": [
+        "au_monash_aid",
+        "monash_art",
+        "source_au_monash_new_degrees"
+      ],
+      "programs": [
+        {
+          "name": "Fine Art — Bachelor",
+          "field_ids": [
+            "art"
+          ],
+          "language": "Английский",
+          "search_tags": [],
+          "source_ids": [
+            "monash_art"
+          ],
+          "requirements_note": "Предусмотрена презентация портфолио; смотреть условия конкретной траектории Fine Art."
+        },
+        {
+          "name": "Bachelor of Applied Data Science",
+          "language": "English",
+          "field_ids": [
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Applied Data Science Advanced (Honours)",
+          "language": "English",
+          "field_ids": [
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Business",
+          "language": "English",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Economics",
+          "language": "English",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Computer Science",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Information Technology",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Engineering (Honours)",
+          "language": "English",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Biomedical Science",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Nursing",
+          "language": "English",
+          "field_ids": [
+            "nursing"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Psychological Science",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Education (Honours)",
+          "language": "English",
+          "field_ids": [
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Design",
+          "language": "English",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Architectural Design",
+          "language": "English",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Laws (Honours)",
+          "language": "English",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Pharmacy (Honours)",
+          "language": "English",
+          "field_ids": [
+            "pharmacy"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Music",
+          "language": "English",
+          "field_ids": [
+            "music"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_monash_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Грант конкурсный. В карточке разделены подтверждённые факты и ещё не внесённые условия.",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "id": "au_sydney",
+      "country_code": "AU",
+      "name": "The University of Sydney",
+      "kind": "university",
+      "profile_id": "au_sydney",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Опубликованные страницы проверены 2026-10-06; нужный набор уточнить",
+      "source_ids": [
+        "au_sydney_aid",
+        "sydney_design",
+        "source_au_sydney_new_degrees"
+      ],
+      "programs": [
+        {
+          "name": "Design (Interaction Design) — Bachelor",
+          "field_ids": [
+            "design"
+          ],
+          "language": "Английский",
+          "search_tags": [],
+          "source_ids": [
+            "sydney_design"
+          ],
+          "requirements_note": ""
+        },
+        {
+          "name": "Bachelor of Economics",
+          "language": "English",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_sydney_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Engineering Honours",
+          "language": "English",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_sydney_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Advanced Computing",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_sydney_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Design",
+          "language": "English",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_sydney_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Architecture and Environments",
+          "language": "English",
+          "field_ids": [
+            "architecture",
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_sydney_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Liberal Arts and Science",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_sydney_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science (Health)",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_sydney_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Applied Science (Physiotherapy)",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_sydney_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Nursing (Advanced Studies)",
+          "language": "English",
+          "field_ids": [
+            "nursing"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_sydney_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Education (Primary)",
+          "language": "English",
+          "field_ids": [
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_sydney_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Social Work",
+          "language": "English",
+          "field_ids": [
+            "social_work"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_sydney_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Psychology",
+          "language": "English",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_sydney_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Music",
+          "language": "English",
+          "field_ids": [
+            "music"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_sydney_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Arts / Bachelor of Laws",
+          "language": "English",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_sydney_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Грант конкурсный. В карточке разделены подтверждённые факты и ещё не внесённые условия.",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "id": "au_deakin",
+      "country_code": "AU",
+      "name": "Deakin University",
+      "kind": "university",
+      "profile_id": "au_deakin",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Опубликованные страницы проверены 2026-10-06; нужный набор уточнить",
+      "source_ids": [
+        "au_deakin_aid",
+        "deakin_me"
+      ],
+      "programs": [
+        {
+          "name": "Engineering (Honours) — Mechanical Engineering",
+          "field_ids": [
+            "mechanical"
+          ],
+          "language": "Английский",
+          "search_tags": [],
+          "source_ids": [
+            "deakin_me"
+          ],
+          "requirements_note": ""
+        }
+      ],
+      "deadlines": [],
+      "note": "Грант конкурсный. В карточке разделены подтверждённые факты и ещё не внесённые условия.",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "id": "au_melbourne",
+      "country_code": "AU",
+      "name": "The University of Melbourne",
+      "kind": "university",
+      "profile_id": "au_melbourne",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Опубликованные страницы проверены 2026-10-06; нужный набор уточнить",
+      "source_ids": [
+        "au_melbourne_aid",
+        "melbourne_design",
+        "source_au_melbourne_new_degrees"
+      ],
+      "programs": [
+        {
+          "name": "Design — Bachelor",
+          "field_ids": [
+            "design"
+          ],
+          "language": "Английский",
+          "search_tags": [],
+          "source_ids": [
+            "melbourne_design"
+          ],
+          "requirements_note": ""
+        },
+        {
+          "name": "Bachelor of Biomedicine",
+          "language": "English",
+          "field_ids": [
+            "medicine"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_melbourne_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Design",
+          "language": "English",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_melbourne_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Fine Arts",
+          "language": "English",
+          "field_ids": [
+            "art"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_melbourne_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Music",
+          "language": "English",
+          "field_ids": [
+            "music"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_melbourne_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Agriculture",
+          "language": "English",
+          "field_ids": [
+            "agriculture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_melbourne_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Грант конкурсный. В карточке разделены подтверждённые факты и ещё не внесённые условия.",
+      "checked_at": "2026-10-06",
+      "eligibility_summary": "Только для кандидатов, ищущих убежище в Австралии."
+    },
+    {
+      "id": "au_anu",
+      "country_code": "AU",
+      "name": "Australian National University",
+      "kind": "university",
+      "profile_id": "profile_au_anu_new",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Справочник 2027; сверять год курса в каталоге",
+      "source_ids": [
+        "source_au_anu_new_degrees"
+      ],
+      "programs": [
+        {
+          "name": "Bachelor of Business Administration",
+          "language": "English",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_anu_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Economics",
+          "language": "English",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_anu_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Computing",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_anu_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Advanced Computing (Honours)",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_anu_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Engineering (Honours)",
+          "language": "English",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_anu_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of International Relations",
+          "language": "English",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_anu_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Political Science",
+          "language": "English",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_anu_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Environmental and Sustainability Studies",
+          "language": "English",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_anu_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Visual Arts",
+          "language": "English",
+          "field_ids": [
+            "art"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_anu_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science / Bachelor of Visual Arts",
+          "language": "English",
+          "field_ids": [
+            "art"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_anu_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of International Relations / Bachelor of Science",
+          "language": "English",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_anu_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "au_uq",
+      "country_code": "AU",
+      "name": "University of Queensland",
+      "kind": "university",
+      "profile_id": "profile_au_uq_new",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Справочник 2027; сверять год курса в каталоге",
+      "source_ids": [
+        "source_au_uq_new_degrees"
+      ],
+      "programs": [
+        {
+          "name": "Bachelor of Biomedical Science",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Computer Science",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Information Technology",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Business Management",
+          "language": "English",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Advanced Business (Honours)",
+          "language": "English",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Economics",
+          "language": "English",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of International Studies",
+          "language": "English",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Laws (Honours)",
+          "language": "English",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Education (Primary)",
+          "language": "English",
+          "field_ids": [
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Engineering (Honours)",
+          "language": "English",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Nursing",
+          "language": "English",
+          "field_ids": [
+            "nursing"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Psychological Science (Honours)",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Environmental Science",
+          "language": "English",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Journalism",
+          "language": "English",
+          "field_ids": [
+            "journalism"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Social Science",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Veterinary Science (Honours)",
+          "language": "English",
+          "field_ids": [
+            "veterinary"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Agricultural Science",
+          "language": "English",
+          "field_ids": [
+            "agriculture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uq_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "au_uwa",
+      "country_code": "AU",
+      "name": "University of Western Australia",
+      "kind": "university",
+      "profile_id": "profile_au_uwa_new",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Справочник 2027; сверять год курса в каталоге",
+      "source_ids": [
+        "source_au_uwa_new_degrees"
+      ],
+      "programs": [
+        {
+          "name": "Bachelor of Biomedicine",
+          "language": "English",
+          "field_ids": [
+            "medicine"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uwa_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Agricultural Science",
+          "language": "English",
+          "field_ids": [
+            "agriculture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uwa_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Environmental Design",
+          "language": "English",
+          "field_ids": [
+            "design",
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uwa_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Engineering (Honours)",
+          "language": "English",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uwa_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Psychology",
+          "language": "English",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uwa_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Marine Science",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uwa_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Molecular Sciences",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uwa_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Sport and Exercise Sciences",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uwa_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of International Relations",
+          "language": "English",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uwa_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "au_adelaide",
+      "country_code": "AU",
+      "name": "Adelaide University",
+      "kind": "university",
+      "profile_id": "profile_au_adelaide_new",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Справочник 2027; сверять год курса в каталоге",
+      "source_ids": [
+        "source_au_adelaide_new_degrees"
+      ],
+      "programs": [
+        {
+          "name": "Bachelor of Business",
+          "language": "English",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Economics",
+          "language": "English",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Computer Science",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Information Technology",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Engineering (Honours)",
+          "language": "English",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Nursing",
+          "language": "English",
+          "field_ids": [
+            "nursing"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Social Work",
+          "language": "English",
+          "field_ids": [
+            "social_work"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Psychological Science",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Architectural Design",
+          "language": "English",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Construction Management",
+          "language": "English",
+          "field_ids": [
+            "business",
+            "civil"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Health Sciences",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Environmental Science",
+          "language": "English",
+          "field_ids": [
+            "environment"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Design",
+          "language": "English",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Laws",
+          "language": "English",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Science (Veterinary Bioscience)",
+          "language": "English",
+          "field_ids": [
+            "veterinary"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_adelaide_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "au_uts",
+      "country_code": "AU",
+      "name": "University of Technology Sydney",
+      "kind": "university",
+      "profile_id": "profile_au_uts_new",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Справочник 2027; сверять год курса в каталоге",
+      "source_ids": [
+        "source_au_uts_new_degrees"
+      ],
+      "programs": [
+        {
+          "name": "Bachelor of Business",
+          "language": "English",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Economics",
+          "language": "English",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Management",
+          "language": "English",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Computing Science",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Information Technology",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Computing Science (Honours)",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Engineering (Honours)",
+          "language": "English",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Design in Architecture",
+          "language": "English",
+          "field_ids": [
+            "architecture",
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Design in Fashion and Textiles",
+          "language": "English",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Design in Visual Communication",
+          "language": "English",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Nursing",
+          "language": "English",
+          "field_ids": [
+            "nursing"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Education (Primary)",
+          "language": "English",
+          "field_ids": [
+            "education"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Forensic Science",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Construction Project Management",
+          "language": "English",
+          "field_ids": [
+            "business",
+            "civil"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of International Studies",
+          "language": "English",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Sport and Exercise Science",
+          "language": "English",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_uts_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    },
+    {
+      "id": "au_rmit",
+      "country_code": "AU",
+      "name": "RMIT University",
+      "kind": "university",
+      "profile_id": "profile_au_rmit_new",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Справочник 2027; сверять год курса в каталоге",
+      "source_ids": [
+        "source_au_rmit_new_degrees"
+      ],
+      "programs": [
+        {
+          "name": "Bachelor of Engineering (Honours)",
+          "language": "English",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Information Technology",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Computer Science",
+          "language": "English",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Business",
+          "language": "English",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Accounting",
+          "language": "English",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Design (Communication Design)",
+          "language": "English",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Industrial Design (Honours)",
+          "language": "English",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Architectural Design",
+          "language": "English",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Interior Design (Honours)",
+          "language": "English",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Fashion (Design)",
+          "language": "English",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of International Studies",
+          "language": "English",
+          "field_ids": [
+            "politics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Social Work (Honours)",
+          "language": "English",
+          "field_ids": [
+            "social_work"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Nursing",
+          "language": "English",
+          "field_ids": [
+            "nursing"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Applied Science (Psychology)",
+          "language": "English",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Animation & Interactive Media",
+          "language": "English",
+          "field_ids": [
+            "media"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        },
+        {
+          "name": "Bachelor of Construction Management (Honours)",
+          "language": "English",
+          "field_ids": [
+            "business",
+            "civil"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "source_au_rmit_new_degrees"
+          ],
+          "listing_status": "official_catalogue_subject_list",
+          "requirements_note": "Программа найдена в официальном каталоге. Приём 2027 и условия для вашего аттестата проверяются отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Бакалаврские направления по официальному каталогу; точные требования отличаются по программе и категории поступающего.",
+      "checked_at": "2026-10-13"
+    }
+  ]
+}

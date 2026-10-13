@@ -1,0 +1,913 @@
+{
+  "schema_version": "1.0",
+  "country": {
+    "code": "SG",
+    "name": "Сингапур",
+    "coverage": "partial_programme_level_validation_required",
+    "entry_ids": [
+      "sg_ntu",
+      "sg_exp_national_university_of_singapore",
+      "sg_exp_singapore_management_university",
+      "sg_exp_singapore_university_of_technology_and_design",
+      "sg_exp_singapore_institute_of_technology",
+      "sg_exp_singapore_university_of_social_sciences"
+    ]
+  },
+  "checked_at": "2026-10-13",
+  "admissions_overview": {
+    "degree_level": "Бакалавриат / первая степень после школы",
+    "admissions_cycle": "2027 (планирование; требования отдельных курсов подлежат проверке)",
+    "domestic_and_international_routes": "Квалификация IB, A Levels, polytechnic или признанный иностранный аттестат; конкурс по программе",
+    "typical_documents_not_universal": "Аттестат и оценки, паспорт, языковые результаты и/или портфолио/интервью по специальности",
+    "exam_and_language_guidance": "A Levels/IB/признанный аттестат; английский по правилам вуза; специальные тесты при необходимости",
+    "scholarships_caution": "Tuition Grant Scheme может создавать service obligation; университетские scholarships — отдельный конкурс",
+    "status": "Обобщённая справка, не нормативное руководство; требования могут зависеть от гражданства, предмета и даты."
+  },
+  "sources": {
+    "exp_src_sg_national_university_of_singapore": {
+      "url": "https://www.nus.edu.sg/oam/undergraduate-programmes",
+      "title": "National University of Singapore: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_sg_singapore_institute_of_technology": {
+      "url": "https://www.singaporetech.edu.sg/undergraduate-programmes",
+      "title": "Singapore Institute of Technology: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_sg_singapore_management_university": {
+      "url": "https://admissions.smu.edu.sg/",
+      "title": "Singapore Management University: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_sg_singapore_university_of_social_sciences": {
+      "url": "https://www.suss.edu.sg/academics/programmes/full-time-undergraduate",
+      "title": "Singapore University of Social Sciences: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_sg_singapore_university_of_technology_and_design": {
+      "url": "https://www.sutd.edu.sg/education/undergraduate/majors/",
+      "title": "Singapore University of Technology and Design: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "ntu_aid": {
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships-and-awards/scholarship-opportunities/detail/nanyang-scholarship",
+      "title": "NTU: Nanyang Global Scholarship",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "ntu_entry": {
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions/general-admission-requirements/international-qualifications/other-international-qualifications",
+      "title": "NTU: Other International Qualifications",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "ntu_programs": {
+      "url": "https://www.ntu.edu.sg/education/degree-programmes",
+      "title": "NTU: undergraduate degree programmes AY2026",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "confirm_sg_sg_exp_national_university_of_singap": {
+      "url": "https://www.nus.edu.sg/oam/undergraduate-programmes",
+      "title": "National University of Singapore — официальный каталог бакалавриата / специализаций",
+      "publisher_type": "official",
+      "checked_at": "2026-10-13"
+    },
+    "confirm_sg_sg_exp_singapore_university_of_techn": {
+      "url": "https://www.sutd.edu.sg/education/undergraduate/majors/",
+      "title": "Singapore University of Technology and Design — официальный каталог бакалавриата / специализаций",
+      "publisher_type": "official",
+      "checked_at": "2026-10-13"
+    }
+  },
+  "profiles": {
+    "exp_profile_sg_national_university_of_singapore": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_sg_national_university_of_singapore"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_sg_national_university_of_singapore"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_sg_national_university_of_singapore"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_sg_national_university_of_singapore"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_sg_singapore_institute_of_technology": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_sg_singapore_institute_of_technology"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_sg_singapore_institute_of_technology"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_sg_singapore_institute_of_technology"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_sg_singapore_institute_of_technology"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_sg_singapore_management_university": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_sg_singapore_management_university"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_sg_singapore_management_university"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_sg_singapore_management_university"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_sg_singapore_management_university"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_sg_singapore_university_of_social_sciences": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_sg_singapore_university_of_social_sciences"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_sg_singapore_university_of_social_sciences"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_sg_singapore_university_of_social_sciences"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_sg_singapore_university_of_social_sciences"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_sg_singapore_university_of_technology_and_design": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_sg_singapore_university_of_technology_and_design"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_sg_singapore_university_of_technology_and_design"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_sg_singapore_university_of_technology_and_design"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_sg_singapore_university_of_technology_and_design"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "ntu": {
+      "grades": {
+        "text": "Выдающиеся школьные результаты и лидерство; единого числового GPA для гранта не опубликовано.",
+        "source_ids": [
+          "ntu_aid"
+        ],
+        "status": "qualitative",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [
+        {
+          "test": "IELTS",
+          "status": "conditional_alternative",
+          "score": 6,
+          "scale": "9",
+          "text": "Только путь Other International Qualifications при отсутствии обучения на английском/английском как втором языке: overall 6, Writing/Speaking 6. Другие аттестаты имеют свои правила.",
+          "source_ids": [
+            "ntu_entry"
+          ]
+        },
+        {
+          "test": "TOEFL iBT",
+          "status": "conditional_alternative",
+          "score": 5,
+          "scale": "1–6",
+          "text": "Для того же пути: overall и speaking ≥5 с января 2026; ранее 90/120, verbal 25. Среди альтернатив также SAT 1250; это условие данного пути, не универсальный минимум всех специальностей.",
+          "source_ids": [
+            "ntu_entry"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Nanyang Global Scholarship",
+        "category": "tuition_stipend",
+        "coverage": {
+          "text": "Полная субсидированная плата после MOE Tuition Grant, SGD 6500/год на жизнь и до 2000/год на общежитие.",
+          "source_ids": [
+            "ntu_aid"
+          ]
+        },
+        "remaining_costs": "Международные получатели Tuition Grant обязаны отработать 3 года по его условиям. Выплаты ограничены; всех расходов могут не покрыть.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Все гражданства; высокие результаты, внеучебные достижения и лидерство. Требуется отдельная заявка на грант.",
+          "source_ids": [
+            "ntu_aid"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Требования выбранной специальности и эквивалентность аттестата вашей страны необходимо проверить отдельно."
+      ],
+      "renewal": [
+        {
+          "text": "После поступления CGPA ≥3.5/5.0 и другие обязанности получателя; при досрочном прекращении возможен возврат средств.",
+          "source_ids": [
+            "ntu_aid"
+          ]
+        }
+      ]
+    }
+  },
+  "entries": [
+    {
+      "id": "sg_ntu",
+      "country_code": "SG",
+      "name": "Nanyang Technological University",
+      "kind": "university",
+      "profile_id": "ntu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущие страницы; цикл уточнить",
+      "source_ids": [
+        "ntu_aid",
+        "ntu_entry",
+        "ntu_programs"
+      ],
+      "programs": [
+        {
+          "name": "Mechanical Engineering BEng",
+          "language": "Английский",
+          "field_ids": [
+            "mechanical"
+          ],
+          "search_tags": [
+            "Машиностроение"
+          ],
+          "source_ids": [
+            "ntu_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Art, Design and Media",
+          "language": "Английский",
+          "field_ids": [
+            "art",
+            "design",
+            "media"
+          ],
+          "search_tags": [
+            "Изобразительное искусство",
+            "Дизайн",
+            "Кино и медиа"
+          ],
+          "source_ids": [
+            "ntu_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        }
+      ],
+      "deadlines": [],
+      "note": "",
+      "checked_at": "2026-10-04"
+    },
+    {
+      "id": "sg_exp_national_university_of_singapore",
+      "country_code": "SG",
+      "name": "National University of Singapore",
+      "kind": "university",
+      "profile_id": "exp_profile_sg_national_university_of_singapore",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_sg_national_university_of_singapore",
+        "confirm_sg_sg_exp_national_university_of_singap"
+      ],
+      "programs": [
+        {
+          "name": "Computer Science",
+          "language": "Английский",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_national_university_of_singapore",
+            "confirm_sg_sg_exp_national_university_of_singap"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Business Administration",
+          "language": "Английский",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_national_university_of_singapore",
+            "confirm_sg_sg_exp_national_university_of_singap"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Electrical Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "electrical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_national_university_of_singapore"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Data Science and Economics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_national_university_of_singapore"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Architecture",
+          "language": "Английский",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_national_university_of_singapore",
+            "confirm_sg_sg_exp_national_university_of_singap"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Law",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_national_university_of_singapore"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Dentistry",
+          "language": "Английский",
+          "field_ids": [
+            "dentistry"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_national_university_of_singapore",
+            "confirm_sg_sg_exp_national_university_of_singap"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Data Science & Economics",
+          "language": "Английский",
+          "field_ids": [
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "confirm_sg_sg_exp_national_university_of_singap"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "sg_exp_singapore_management_university",
+      "country_code": "SG",
+      "name": "Singapore Management University",
+      "kind": "university",
+      "profile_id": "exp_profile_sg_singapore_management_university",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_sg_singapore_management_university"
+      ],
+      "programs": [
+        {
+          "name": "Business Management",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_management_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Accountancy",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "finance"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_management_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Economics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_management_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Information Systems",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_management_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Social Sciences",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "sociology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_management_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Law",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_management_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "sg_exp_singapore_university_of_technology_and_design",
+      "country_code": "SG",
+      "name": "Singapore University of Technology and Design",
+      "kind": "university",
+      "profile_id": "exp_profile_sg_singapore_university_of_technology_and_design",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_sg_singapore_university_of_technology_and_design",
+        "confirm_sg_sg_exp_singapore_university_of_techn"
+      ],
+      "programs": [
+        {
+          "name": "Computer Science and Design",
+          "language": "Английский",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_university_of_technology_and_design",
+            "confirm_sg_sg_exp_singapore_university_of_techn"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Engineering Product Development",
+          "language": "Английский",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_university_of_technology_and_design",
+            "confirm_sg_sg_exp_singapore_university_of_techn"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Architecture and Sustainable Design",
+          "language": "Английский",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_university_of_technology_and_design",
+            "confirm_sg_sg_exp_singapore_university_of_techn"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Engineering Systems and Design",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "industrial"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_university_of_technology_and_design"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Design and Artificial Intelligence",
+          "language": "Английский",
+          "field_ids": [
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_university_of_technology_and_design",
+            "confirm_sg_sg_exp_singapore_university_of_techn"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "sg_exp_singapore_institute_of_technology",
+      "country_code": "SG",
+      "name": "Singapore Institute of Technology",
+      "kind": "university",
+      "profile_id": "exp_profile_sg_singapore_institute_of_technology",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_sg_singapore_institute_of_technology"
+      ],
+      "programs": [
+        {
+          "name": "Applied Computing",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_institute_of_technology"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_institute_of_technology"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Health Sciences",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_institute_of_technology"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Hospitality Business",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "tourism"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_institute_of_technology"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "sg_exp_singapore_university_of_social_sciences",
+      "country_code": "SG",
+      "name": "Singapore University of Social Sciences",
+      "kind": "university",
+      "profile_id": "exp_profile_sg_singapore_university_of_social_sciences",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_sg_singapore_university_of_social_sciences"
+      ],
+      "programs": [
+        {
+          "name": "Business Analytics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "data"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_university_of_social_sciences"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Marketing",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_university_of_social_sciences"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Social Work",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "social_work"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_university_of_social_sciences"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Finance",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "finance"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_sg_singapore_university_of_social_sciences"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    }
+  ]
+}

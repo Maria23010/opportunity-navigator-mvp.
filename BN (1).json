@@ -1,0 +1,492 @@
+{
+  "schema_version": "1.0",
+  "country": {
+    "code": "BN",
+    "name": "Бруней",
+    "coverage": "partial_programme_level_validation_required",
+    "entry_ids": [
+      "bn_ubd",
+      "bn_utb",
+      "bn_unissa",
+      "bn_kupu",
+      "bn_exp_laksamana_college_of_business"
+    ]
+  },
+  "checked_at": "2026-10-13",
+  "admissions_overview": {
+    "degree_level": "Бакалавриат / первая степень после школы",
+    "admissions_cycle": "2027 (планирование; требования отдельных курсов подлежат проверке)",
+    "domestic_and_international_routes": "Brunei-Cambridge GCE A Levels, IB либо признанный школьный эквивалент; требования зависят от вуза и гражданства",
+    "typical_documents_not_universal": "Паспорт/удостоверение, аттестат и оценки, заявление, подтверждение языка и переводы при необходимости",
+    "exam_and_language_guidance": "GCE A Levels / IB и языковая проверка; для религиозных программ могут потребоваться арабский и профильные квалификации",
+    "scholarships_caution": "Государственные стипендии Brunei Darussalam и вузовская поддержка имеют отдельные условия и ограничения по гражданству",
+    "status": "Обобщённая справка, не нормативное руководство; требования могут зависеть от гражданства, предмета и даты."
+  },
+  "sources": {
+    "bdgs": {
+      "url": "https://www.mfa.gov.bn/Pages/online-bdgs.aspx",
+      "title": "Brunei MFA: BDGS 2026/27",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "exp_src_bn_laksamana_college_of_business": {
+      "url": "https://www.lcb.edu.bn/",
+      "title": "Laksamana College of Business: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "confirm_bn_bn_ubd": {
+      "url": "https://ubd.edu.bn/admission/undergraduate/",
+      "title": "Universiti Brunei Darussalam — официальный каталог бакалавриата / специализаций",
+      "publisher_type": "official",
+      "checked_at": "2026-10-13"
+    },
+    "confirm_bn_bn_exp_laksamana_college_of_business": {
+      "url": "https://www.lcb.edu.bn/courses/",
+      "title": "Laksamana College of Business — официальный каталог бакалавриата / специализаций",
+      "publisher_type": "official",
+      "checked_at": "2026-10-13"
+    }
+  },
+  "profiles": {
+    "bdgs": {
+      "grades": {
+        "text": "Единого GPA в объявлении BDGS нет. Нужно отдельно выполнить академические требования выбранной программы.",
+        "source_ids": [
+          "bdgs"
+        ],
+        "status": "not_stated_in_source",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [
+        {
+          "test": "IELTS",
+          "status": "alternative",
+          "score": 6.0,
+          "scale": "9",
+          "text": "Один из языковых вариантов BDGS. Университет может требовать больше.",
+          "source_ids": [
+            "bdgs"
+          ]
+        },
+        {
+          "test": "TOEFL",
+          "status": "alternative",
+          "score": 550,
+          "scale": "format_not_specified",
+          "text": "МИД указывает 550 без названия формата. Это НЕ 550 iBT; формат уточнить. Также есть школьные варианты GCE/IGCSE English.",
+          "source_ids": [
+            "bdgs"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Brunei Darussalam Government Scholarship",
+        "category": "comprehensive",
+        "coverage": {
+          "text": "Обучение и сборы, общежитие, перелёты, страховка; BND 500/месяц на личные нужды, 150 на питание, 600/год на книги.",
+          "source_ids": [
+            "bdgs"
+          ]
+        },
+        "remaining_costs": "Дополнительная страховка рекомендована за свой счёт; семьи не финансируются.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "До 25 лет включительно на 1 июля начала курса. Исключены граждане/постоянные жители Брунея и иностранцы, уже учившиеся в его вузах.",
+          "source_ids": [
+            "bdgs"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Подтверждены общие правила BDGS, не все требования вузов. Правила 2027/28 не проверены."
+      ],
+      "renewal": []
+    },
+    "exp_profile_bn_laksamana_college_of_business": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_bn_laksamana_college_of_business"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_bn_laksamana_college_of_business"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_bn_laksamana_college_of_business"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_bn_laksamana_college_of_business"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    }
+  },
+  "entries": [
+    {
+      "id": "bn_ubd",
+      "country_code": "BN",
+      "name": "Universiti Brunei Darussalam",
+      "kind": "university",
+      "profile_id": "bdgs",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2026/27",
+      "source_ids": [
+        "bdgs",
+        "confirm_bn_bn_ubd"
+      ],
+      "programs": [
+        {
+          "name": "Bachelor of Computer Science",
+          "language": "Уточнить по каталогу",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "confirm_bn_bn_ubd"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Bachelor of Engineering",
+          "language": "Уточнить по каталогу",
+          "field_ids": [
+            "engineering"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "confirm_bn_bn_ubd"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Bachelor of Science",
+          "language": "Уточнить специализацию",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "confirm_bn_bn_ubd"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Bachelor of Arts",
+          "language": "Уточнить специализацию",
+          "field_ids": [
+            "languages"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "confirm_bn_bn_ubd"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Bachelor of Business Administration",
+          "language": "Уточнить по каталогу",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "confirm_bn_bn_ubd"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Bachelor of Accounting",
+          "language": "Уточнить по каталогу",
+          "field_ids": [
+            "finance"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "confirm_bn_bn_ubd"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Economics",
+          "language": "Уточнить по каталогу",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "confirm_bn_bn_ubd"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Bachelor of Science in Finance (Data Analytics)",
+          "language": "Уточнить по каталогу",
+          "field_ids": [
+            "finance"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "confirm_bn_bn_ubd"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        }
+      ],
+      "deadlines": [
+        {
+          "label": "BDGS",
+          "date": "2026-02-15",
+          "cycle": "2026/27",
+          "source_ids": [
+            "bdgs"
+          ]
+        }
+      ],
+      "note": "Вуз указан участником BDGS. Точный список бакалаврских программ и их экзамены смотрите по ссылкам МИД. Нужна также отдельная заявка в университет.",
+      "checked_at": "2026-10-04"
+    },
+    {
+      "id": "bn_utb",
+      "country_code": "BN",
+      "name": "Universiti Teknologi Brunei",
+      "kind": "university",
+      "profile_id": "bdgs",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2026/27",
+      "source_ids": [
+        "bdgs"
+      ],
+      "programs": [],
+      "deadlines": [
+        {
+          "label": "BDGS",
+          "date": "2026-02-15",
+          "cycle": "2026/27",
+          "source_ids": [
+            "bdgs"
+          ]
+        }
+      ],
+      "note": "Вуз указан участником BDGS. Точный список бакалаврских программ и их экзамены смотрите по ссылкам МИД. Нужна также отдельная заявка в университет.",
+      "checked_at": "2026-10-04"
+    },
+    {
+      "id": "bn_unissa",
+      "country_code": "BN",
+      "name": "Universiti Islam Sultan Sharif Ali",
+      "kind": "university",
+      "profile_id": "bdgs",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2026/27",
+      "source_ids": [
+        "bdgs"
+      ],
+      "programs": [],
+      "deadlines": [
+        {
+          "label": "BDGS",
+          "date": "2026-02-15",
+          "cycle": "2026/27",
+          "source_ids": [
+            "bdgs"
+          ]
+        }
+      ],
+      "note": "Вуз указан участником BDGS. Точный список бакалаврских программ и их экзамены смотрите по ссылкам МИД.",
+      "checked_at": "2026-10-04"
+    },
+    {
+      "id": "bn_kupu",
+      "country_code": "BN",
+      "name": "Kolej Universiti Perguruan Ugama Seri Begawan",
+      "kind": "university",
+      "profile_id": "bdgs",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2026/27",
+      "source_ids": [
+        "bdgs"
+      ],
+      "programs": [],
+      "deadlines": [
+        {
+          "label": "BDGS",
+          "date": "2026-02-15",
+          "cycle": "2026/27",
+          "source_ids": [
+            "bdgs"
+          ]
+        }
+      ],
+      "note": "Вуз указан участником BDGS. Точный список бакалаврских программ и их экзамены смотрите по ссылкам МИД.",
+      "checked_at": "2026-10-04"
+    },
+    {
+      "id": "bn_exp_laksamana_college_of_business",
+      "country_code": "BN",
+      "name": "Laksamana College of Business",
+      "kind": "degree_provider",
+      "profile_id": "exp_profile_bn_laksamana_college_of_business",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_bn_laksamana_college_of_business",
+        "confirm_bn_bn_exp_laksamana_college_of_business"
+      ],
+      "programs": [
+        {
+          "name": "Business and Management",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_bn_laksamana_college_of_business"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Computing and Information Technology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_bn_laksamana_college_of_business"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Accounting and Finance",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "finance"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_bn_laksamana_college_of_business"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "BA (Hons) Business Management",
+          "language": "Уточнить",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "confirm_bn_bn_exp_laksamana_college_of_business"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "BA (Hons) Accounting & Finance",
+          "language": "Уточнить",
+          "field_ids": [
+            "finance"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "confirm_bn_bn_exp_laksamana_college_of_business"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "BA (Hons) International Tourism Management",
+          "language": "Уточнить",
+          "field_ids": [
+            "tourism"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "confirm_bn_bn_exp_laksamana_college_of_business"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "BSc (Hons) Computer Science",
+          "language": "Уточнить",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "confirm_bn_bn_exp_laksamana_college_of_business"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "LLB Law",
+          "language": "Уточнить",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "confirm_bn_bn_exp_laksamana_college_of_business"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении. Важно: Laksamana College of Business — колледж-провайдер британских квалификаций, а не самостоятельный университет; уточните траекторию и присуждающий вуз (University of Essex).",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    }
+  ]
+}

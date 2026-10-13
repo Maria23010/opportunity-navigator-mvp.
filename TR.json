@@ -1,0 +1,1829 @@
+{
+  "schema_version": "1.0",
+  "country": {
+    "code": "TR",
+    "name": "Турция",
+    "coverage": "partial_programme_level_validation_required",
+    "entry_ids": [
+      "tr_bilkent",
+      "tr_turkiye",
+      "tr_bogazici",
+      "tr_agu",
+      "tr_sakarya",
+      "tr_dumlupinar",
+      "tr_medeniyet",
+      "tr_koc",
+      "tr_exp_middle_east_technical_university",
+      "tr_exp_sabanc_university",
+      "tr_exp_istanbul_technical_university",
+      "tr_exp_hacettepe_university",
+      "tr_exp_istanbul_university"
+    ]
+  },
+  "checked_at": "2026-10-13",
+  "admissions_overview": {
+    "degree_level": "Бакалавриат / первая степень после школы",
+    "admissions_cycle": "2027 (планирование; требования отдельных курсов подлежат проверке)",
+    "domestic_and_international_routes": "Для международного приема используют TR-YÖS/SAT/IB/национальные квалификации по правилам вуза",
+    "typical_documents_not_universal": "Паспорт, аттестат/оценки, эквивалентность при необходимости, языковой результат или подготовительный курс",
+    "exam_and_language_guidance": "TR-YÖS / SAT / IB / национальный экзамен — альтернативы только если вуз их принимает, а не общая обязательная комбинация",
+    "scholarships_caution": "Türkiye Scholarships имеет отдельное заявление, возрастные и академические условия; скидка частного вуза — другое финансирование",
+    "status": "Обобщённая справка, не нормативное руководство; требования могут зависеть от гражданства, предмета и даты."
+  },
+  "sources": {
+    "bil_aid": {
+      "url": "https://w3.bilkent.edu.tr/international/scholarships-for-international-students/",
+      "title": "Bilkent: international scholarships",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "bil_apply": {
+      "url": "https://w3.bilkent.edu.tr/international/how-to-apply/",
+      "title": "Bilkent: undergraduate applications 2026/27",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "bil_art": {
+      "url": "https://catalog.bilkent.edu.tr/dep/d74.html",
+      "title": "Bilkent: Fine Arts undergraduate",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "bil_en": {
+      "url": "https://w3.bilkent.edu.tr/international/english-language-proficiency/",
+      "title": "Bilkent: English language proficiency",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "bil_ie": {
+      "url": "https://w3.ie.bilkent.edu.tr/en/",
+      "title": "Bilkent: Industrial Engineering BS",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "exp_src_tr_hacettepe_university": {
+      "url": "https://www.hacettepe.edu.tr/english/",
+      "title": "Hacettepe University: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_tr_istanbul_technical_university": {
+      "url": "https://www.itu.edu.tr/en",
+      "title": "Istanbul Technical University: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_tr_istanbul_university": {
+      "url": "https://www.istanbul.edu.tr/en/",
+      "title": "Istanbul University: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_tr_middle_east_technical_university": {
+      "url": "https://www.metu.edu.tr/undergraduate-programs-and-degrees",
+      "title": "Middle East Technical University: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "exp_src_tr_sabanc_university": {
+      "url": "https://www.sabanciuniv.edu/en",
+      "title": "Sabancı University: официальная информация и каталог (сверить актуальный курс)",
+      "checked_at": "2026-10-13",
+      "publisher_type": "official",
+      "verification_method": "Ссылка на официальный ресурс учреждения; условия конкретного бакалавриата, язык и цикл требуют проверки."
+    },
+    "koc_current": {
+      "url": "https://apply.ku.edu.tr/",
+      "title": "Koç: application platform",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "koc_programs": {
+      "url": "https://international.ku.edu.tr/wp-content/uploads/2024/08/KU-UGRD-INT-Fall-2024-Leaflet-A4-ENG-merged_compressed.pdf",
+      "title": "Koç: undergraduate programmes and merit scholarships, brochure 2024",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "tr_agu_programs": {
+      "url": "https://www.turkiyeburslari.gov.tr/ScholarshipSearch?page=1",
+      "title": "Abdullah Gül University: бакалавриат в Türkiye Scholarships",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "tr_apply": {
+      "url": "https://www.turkiyeburslari.gov.tr/applysteps",
+      "title": "Türkiye Scholarships: application documents",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "tr_bogazici_programs": {
+      "url": "https://www.turkiyeburslari.gov.tr/ScholarshipSearch?UniversityCityFilter=%C4%B0stanbul",
+      "title": "Boğaziçi University: бакалавриат в Türkiye Scholarships",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "tr_cover": {
+      "url": "https://www.turkiyeburslari.gov.tr/whyturkiyescholarships",
+      "title": "Türkiye Scholarships: coverage",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "tr_criteria": {
+      "url": "https://www.turkiyeburslari.gov.tr/scholarshipsprograms",
+      "title": "Türkiye Scholarships: criteria",
+      "checked_at": "2026-10-04",
+      "publisher_type": "official"
+    },
+    "tr_dumlupinar_programs": {
+      "url": "https://www.turkiyeburslari.gov.tr/ScholarshipSearch?page=216",
+      "title": "Kütahya Dumlupınar University: бакалавриат в Türkiye Scholarships",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "tr_medeniyet_programs": {
+      "url": "https://www.turkiyeburslari.gov.tr/ScholarshipSearch?page=146",
+      "title": "Istanbul Medeniyet University: бакалавриат в Türkiye Scholarships",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "tr_sakarya_programs": {
+      "url": "https://cdnweb.turkiyeburslari.gov.tr/ScholarshipSearch?page=272",
+      "title": "Sakarya University: бакалавриат в Türkiye Scholarships",
+      "checked_at": "2026-10-05",
+      "publisher_type": "official"
+    },
+    "confirm_tr_tr_exp_middle_east_technical_univers": {
+      "url": "https://www.metu.edu.tr/undergraduate-programs-and-degrees",
+      "title": "Middle East Technical University — официальный каталог бакалавриата / специализаций",
+      "publisher_type": "official",
+      "checked_at": "2026-10-13"
+    }
+  },
+  "profiles": {
+    "agu": {
+      "grades": {
+        "text": "Для бакалавриата минимум 70%; медицина, стоматология и фармация — 90%. Это критерий стипендии, не общий проходной балл каждого вуза.",
+        "source_ids": [
+          "tr_criteria"
+        ],
+        "status": "published",
+        "minimum": 70,
+        "scale": "100 percent"
+      },
+      "exams": [
+        {
+          "test": "SAT",
+          "status": "required",
+          "score": 1100,
+          "scale": "1600",
+          "text": "Порог по каталогу Türkiye Scholarships для этих программ.",
+          "source_ids": [
+            "tr_agu_programs"
+          ]
+        },
+        {
+          "test": "TOEFL iBT",
+          "status": "conditional",
+          "score": 75,
+          "scale": "120",
+          "text": "В каталоге ≥75/120 и Writing ≥17; допускается эквивалент. Новую шкалу 1–6 не пересчитываем автоматически.",
+          "source_ids": [
+            "tr_agu_programs"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Türkiye Scholarships",
+        "category": "comprehensive",
+        "coverage": {
+          "text": "Обучение, размещение в вузе, общежитие, медицинское страхование, языковой год, перелёт по условиям программы и ежемесячная выплата.",
+          "source_ids": [
+            "tr_cover"
+          ]
+        },
+        "remaining_costs": "Документы, экзамены и личные расходы сверх выплат нужно учитывать отдельно.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Возраст до 21 года; граждане Турции и бывшие граждане исключены. Есть ограничения для уже обучающихся в Турции на том же уровне.",
+          "source_ids": [
+            "tr_criteria"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Сроки нового набора, доступность гранта для вашего гражданства и дополнительные требования проверяются по официальным ссылкам."
+      ],
+      "renewal": []
+    },
+    "bilkent": {
+      "grades": {
+        "text": "Общий школьный GPA не указан. Среди альтернатив: SAT 1000/1600 или IB 28/45 с профильным HL; есть национальные квалификации. Это минимумы подачи, не гарантии приёма.",
+        "source_ids": [
+          "bil_apply"
+        ],
+        "status": "qualification_specific",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [
+        {
+          "test": "SAT",
+          "status": "alternative",
+          "score": 1000,
+          "scale": "1600",
+          "text": "Один из путей подачи; не обязателен одновременно с IB или подходящей национальной квалификацией.",
+          "source_ids": [
+            "bil_apply"
+          ]
+        },
+        {
+          "test": "IELTS Academic",
+          "status": "alternative",
+          "score": 6.5,
+          "scale": "9",
+          "text": "Не ниже 5.5 в каждом разделе; альтернатива TOEFL или внутреннему PAE.",
+          "source_ids": [
+            "bil_en"
+          ]
+        },
+        {
+          "test": "TOEFL iBT",
+          "status": "alternative",
+          "score": 87,
+          "scale": "120",
+          "text": "На странице указана старая шкала. Новый порог для шкалы 1–6 здесь не подтверждён; пересчёт не выполнен.",
+          "source_ids": [
+            "bil_en"
+          ]
+        },
+        {
+          "test": "PAE",
+          "status": "alternative",
+          "score": null,
+          "scale": null,
+          "text": "Внутренний экзамен после регистрации; при недостаточном английском предусмотрена подготовка.",
+          "source_ids": [
+            "bil_en"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "International tuition waiver",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "Скидки 20–100%; в каталог включён возможный вариант 100%. Общежитие предоставляют ограниченному числу лучших получателей полной скидки.",
+          "source_ids": [
+            "bil_aid"
+          ]
+        },
+        "remaining_costs": "Питание, поездка, личные расходы; общежитие не гарантировано.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранные абитуриенты; нынешние и бывшие граждане Турции не допускаются к этой международной стипендии.",
+          "source_ids": [
+            "bil_aid"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Требования выбранной специальности и эквивалентность аттестата вашей страны необходимо проверить отдельно.",
+        "Объявление 2027/28 ещё не проверено; не переносить сроки 2026 автоматически."
+      ],
+      "renewal": [
+        {
+          "text": "После поступления: Annual GPA ≥2.00/4.00 для скидки; ≥2.50/4.00 для общежития. Это условия сохранения помощи, а не школьный GPA.",
+          "source_ids": [
+            "bil_aid"
+          ]
+        }
+      ]
+    },
+    "bogazici": {
+      "grades": {
+        "text": "Для бакалавриата минимум 70%; медицина, стоматология и фармация — 90%. Это критерий стипендии, не общий проходной балл каждого вуза.",
+        "source_ids": [
+          "tr_criteria"
+        ],
+        "status": "published",
+        "minimum": 70,
+        "scale": "100 percent"
+      },
+      "exams": [
+        {
+          "test": "SAT",
+          "status": "required",
+          "score": 1350,
+          "scale": "1600",
+          "text": "Для перечисленных инженерных программ: общий балл ≥1350 и Math ≥700/800.",
+          "source_ids": [
+            "tr_bogazici_programs"
+          ]
+        },
+        {
+          "test": "TOEFL iBT или IELTS Academic",
+          "status": "required_choice",
+          "score": null,
+          "scale": null,
+          "text": "В каталоге: TOEFL ≥79/120, Writing ≥22; либо IELTS ≥6.5/9, Writing ≥6.5. TOEFL указан по прежней шкале; порог для тестов по новой шкале уточнить.",
+          "source_ids": [
+            "tr_bogazici_programs"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Türkiye Scholarships",
+        "category": "comprehensive",
+        "coverage": {
+          "text": "Обучение, размещение в вузе, общежитие, медицинское страхование, языковой год, перелёт по условиям программы и ежемесячная выплата.",
+          "source_ids": [
+            "tr_cover"
+          ]
+        },
+        "remaining_costs": "Документы, экзамены и личные расходы сверх выплат нужно учитывать отдельно.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Возраст до 21 года; граждане Турции и бывшие граждане исключены. Есть ограничения для уже обучающихся в Турции на том же уровне.",
+          "source_ids": [
+            "tr_criteria"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Сроки нового набора, доступность гранта для вашего гражданства и дополнительные требования проверяются по официальным ссылкам."
+      ],
+      "renewal": []
+    },
+    "dumlupinar": {
+      "grades": {
+        "text": "Для бакалавриата минимум 70%; медицина, стоматология и фармация — 90%. Это критерий стипендии, не общий проходной балл каждого вуза.",
+        "source_ids": [
+          "tr_criteria"
+        ],
+        "status": "published",
+        "minimum": 70,
+        "scale": "100 percent"
+      },
+      "exams": [
+        {
+          "test": "Турецкий язык C1",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Без сертификата C1 предусмотрен языковой год по правилам Türkiye Scholarships.",
+          "source_ids": [
+            "tr_apply"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Türkiye Scholarships",
+        "category": "comprehensive",
+        "coverage": {
+          "text": "Обучение, размещение в вузе, общежитие, медицинское страхование, языковой год, перелёт по условиям программы и ежемесячная выплата.",
+          "source_ids": [
+            "tr_cover"
+          ]
+        },
+        "remaining_costs": "Документы, экзамены и личные расходы сверх выплат нужно учитывать отдельно.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Возраст до 21 года; граждане Турции и бывшие граждане исключены. Есть ограничения для уже обучающихся в Турции на том же уровне.",
+          "source_ids": [
+            "tr_criteria"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Сроки нового набора, доступность гранта для вашего гражданства и дополнительные требования проверяются по официальным ссылкам.",
+        "В карточке программы указано окончание школы; отсутствие численного порога SAT/TOEFL здесь не подтверждает освобождение от всех этапов отбора."
+      ],
+      "renewal": []
+    },
+    "exp_profile_tr_hacettepe_university": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_tr_hacettepe_university"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_tr_hacettepe_university"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_tr_hacettepe_university"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_tr_hacettepe_university"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_tr_istanbul_technical_university": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_tr_istanbul_technical_university"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_tr_istanbul_technical_university"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_tr_istanbul_technical_university"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_tr_istanbul_technical_university"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_tr_istanbul_university": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_tr_istanbul_university"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_tr_istanbul_university"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_tr_istanbul_university"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_tr_istanbul_university"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_tr_middle_east_technical_university": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_tr_middle_east_technical_university"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_tr_middle_east_technical_university"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_tr_middle_east_technical_university"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_tr_middle_east_technical_university"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "exp_profile_tr_sabanc_university": {
+      "grades": {
+        "text": "Точный минимальный школьный балл и соответствие аттестата не подтверждены для конкретной программы. Проверьте официальные правила выбранного года и страны выдачи аттестата.",
+        "status": "needs_verification",
+        "minimum": null,
+        "scale": null,
+        "source_ids": [
+          "exp_src_tr_sabanc_university"
+        ]
+      },
+      "exams": [
+        {
+          "test": "Экзамены / подтверждение языка по правилам программы",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Единого подтверждённого порога для всех направлений этого вуза в базе нет. Сверьте конкурс, требования к языку и предметные тесты в официальной карточке курса.",
+          "source_ids": [
+            "exp_src_tr_sabanc_university"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Финансирование не проверено для выбранной программы",
+        "category": "unverified",
+        "coverage": {
+          "text": "Полная стипендия/скидка на обучение для этого направления не подтверждена. Ищите действующие условия грантов на официальном сайте.",
+          "source_ids": [
+            "exp_src_tr_sabanc_university"
+          ]
+        },
+        "remaining_costs": "До письменного подтверждения предполагаются расходы на обучение, проживание, дорогу и оформление документов.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранным абитуриентам нужно отдельно подтвердить право подавать заявку, признание аттестата и доступность обучения на требуемом языке.",
+          "source_ids": [
+            "exp_src_tr_sabanc_university"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Точный код и название степени / открытый набор на 2027 год.",
+        "Минимальные баллы, экзамены и языковые требования по выбранному курсу.",
+        "Стоимость обучения, гранты и условия для гражданства абитуриента.",
+        "Сроки, перечень документов и особенности поступления несовершеннолетних."
+      ],
+      "renewal": []
+    },
+    "koc": {
+      "grades": {
+        "text": "Аттестат и оценки рассматриваются при отборе. Минимумы Bilkent к Koç не применяются.",
+        "source_ids": [
+          "koc_programs"
+        ],
+        "status": "not_stated_in_source",
+        "minimum": null,
+        "scale": null
+      },
+      "exams": [],
+      "funding": {
+        "name": "Koç merit tuition scholarship",
+        "category": "tuition_only",
+        "coverage": {
+          "text": "В официальной брошюре 2024 указан вариант освобождения от 100% платы за обучение (кроме Medicine). Текущий размер нужно подтвердить в предложении университета.",
+          "source_ids": [
+            "koc_programs"
+          ]
+        },
+        "remaining_costs": "Жильё, питание и остальные расходы отдельно. Брошюра историческая: условия набора 2027 не подтверждены.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Иностранные абитуриенты бакалавриата; критерии текущего набора проверять на платформе подачи.",
+          "source_ids": [
+            "koc_current"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Сроки нового набора, доступность гранта для вашего гражданства и дополнительные требования проверяются по официальным ссылкам."
+      ],
+      "renewal": []
+    },
+    "medeniyet": {
+      "grades": {
+        "text": "Для бакалавриата минимум 70%; медицина, стоматология и фармация — 90%. Это критерий стипендии, не общий проходной балл каждого вуза.",
+        "source_ids": [
+          "tr_criteria"
+        ],
+        "status": "published",
+        "minimum": 70,
+        "scale": "100 percent"
+      },
+      "exams": [
+        {
+          "test": "Турецкий язык C1",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Без сертификата C1 предусмотрен языковой год по правилам Türkiye Scholarships.",
+          "source_ids": [
+            "tr_apply"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Türkiye Scholarships",
+        "category": "comprehensive",
+        "coverage": {
+          "text": "Обучение, размещение в вузе, общежитие, медицинское страхование, языковой год, перелёт по условиям программы и ежемесячная выплата.",
+          "source_ids": [
+            "tr_cover"
+          ]
+        },
+        "remaining_costs": "Документы, экзамены и личные расходы сверх выплат нужно учитывать отдельно.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Возраст до 21 года; граждане Турции и бывшие граждане исключены. Есть ограничения для уже обучающихся в Турции на том же уровне.",
+          "source_ids": [
+            "tr_criteria"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Сроки нового набора, доступность гранта для вашего гражданства и дополнительные требования проверяются по официальным ссылкам.",
+        "В карточке программы указано окончание школы; отсутствие численного порога SAT/TOEFL здесь не подтверждает освобождение от всех этапов отбора."
+      ],
+      "renewal": []
+    },
+    "sakarya": {
+      "grades": {
+        "text": "Для бакалавриата минимум 70%; медицина, стоматология и фармация — 90%. Это критерий стипендии, не общий проходной балл каждого вуза.",
+        "source_ids": [
+          "tr_criteria"
+        ],
+        "status": "published",
+        "minimum": 70,
+        "scale": "100 percent"
+      },
+      "exams": [
+        {
+          "test": "Турецкий язык C1",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Без сертификата C1 предусмотрен языковой год по правилам Türkiye Scholarships.",
+          "source_ids": [
+            "tr_apply"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Türkiye Scholarships",
+        "category": "comprehensive",
+        "coverage": {
+          "text": "Обучение, размещение в вузе, общежитие, медицинское страхование, языковой год, перелёт по условиям программы и ежемесячная выплата.",
+          "source_ids": [
+            "tr_cover"
+          ]
+        },
+        "remaining_costs": "Документы, экзамены и личные расходы сверх выплат нужно учитывать отдельно.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Возраст до 21 года; граждане Турции и бывшие граждане исключены. Есть ограничения для уже обучающихся в Турции на том же уровне.",
+          "source_ids": [
+            "tr_criteria"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Сроки нового набора, доступность гранта для вашего гражданства и дополнительные требования проверяются по официальным ссылкам.",
+        "В карточке программы указано окончание школы; отсутствие численного порога SAT/TOEFL здесь не подтверждает освобождение от всех этапов отбора."
+      ],
+      "renewal": []
+    },
+    "turkiye": {
+      "grades": {
+        "text": "Для бакалавриата минимум 70%; медицина, стоматология и фармация — 90%. Это критерий стипендии, не общий проходной балл каждого вуза.",
+        "source_ids": [
+          "tr_criteria"
+        ],
+        "status": "published",
+        "minimum": 70,
+        "scale": "100 percent"
+      },
+      "exams": [
+        {
+          "test": "SAT / языковой экзамен",
+          "status": "conditional",
+          "score": null,
+          "scale": null,
+          "text": "Если требует выбранный университет или программа; общего порога SAT/TOEFL для всех вузов нет.",
+          "source_ids": [
+            "tr_apply"
+          ]
+        },
+        {
+          "test": "Турецкий C1",
+          "status": "conditional",
+          "score": null,
+          "scale": "CEFR",
+          "text": "Без сертификата C1 предусмотрен год турецкого, в том числе для англоязычной программы.",
+          "source_ids": [
+            "tr_apply"
+          ]
+        }
+      ],
+      "funding": {
+        "name": "Türkiye Scholarships",
+        "category": "comprehensive",
+        "coverage": {
+          "text": "Обучение, размещение в вузе, общежитие, медицинское страхование, языковой год, перелёт по условиям программы и ежемесячная выплата.",
+          "source_ids": [
+            "tr_cover"
+          ]
+        },
+        "remaining_costs": "Документы, экзамены и личные расходы сверх выплат нужно учитывать отдельно.",
+        "guaranteed": false
+      },
+      "eligibility": [
+        {
+          "text": "Возраст до 21 года; граждане Турции и бывшие граждане исключены. Есть ограничения для уже обучающихся в Турции на том же уровне.",
+          "source_ids": [
+            "tr_criteria"
+          ]
+        }
+      ],
+      "missing_details": [
+        "Список доступных вузов и специальностей определяется в TBBS для конкретного абитуриента. Университет и сроки 2027 здесь не подтверждены."
+      ],
+      "renewal": []
+    }
+  },
+  "entries": [
+    {
+      "id": "tr_bilkent",
+      "country_code": "TR",
+      "name": "Bilkent University",
+      "kind": "university",
+      "profile_id": "bilkent",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2026/27",
+      "source_ids": [
+        "bil_apply",
+        "bil_aid",
+        "bil_en",
+        "bil_ie",
+        "bil_art"
+      ],
+      "programs": [
+        {
+          "name": "Industrial Engineering BS",
+          "language": "Английский",
+          "field_ids": [
+            "industrial"
+          ],
+          "search_tags": [
+            "Промышленная инженерия"
+          ],
+          "source_ids": [
+            "bil_ie"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Fine Arts",
+          "language": "Уточнить по учебному плану",
+          "field_ids": [
+            "art"
+          ],
+          "search_tags": [
+            "Изобразительное искусство"
+          ],
+          "source_ids": [
+            "bil_art"
+          ],
+          "requirements_note": "Для творческого направления дополнительно проверить портфолио и творческий отбор."
+        }
+      ],
+      "deadlines": [
+        {
+          "label": "Подача в университет",
+          "date": "2026-07-12",
+          "cycle": "2026/27",
+          "source_ids": [
+            "bil_apply"
+          ]
+        }
+      ],
+      "note": "Указаны общие требования международного приёма. Условия творческого отбора проверяются отдельно для Fine Arts.",
+      "checked_at": "2026-10-04"
+    },
+    {
+      "id": "tr_turkiye",
+      "country_code": "TR",
+      "name": "Türkiye Scholarships — государственная программа",
+      "kind": "national_route",
+      "profile_id": "turkiye",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Правила на дату проверки; набор 2027 не подтверждён",
+      "source_ids": [
+        "tr_criteria",
+        "tr_cover",
+        "tr_apply"
+      ],
+      "programs": [],
+      "deadlines": [],
+      "note": "Это маршрут финансирования, а не отдельный университет. Состав вузов нельзя подменять произвольным списком.",
+      "checked_at": "2026-10-04"
+    },
+    {
+      "id": "tr_bogazici",
+      "country_code": "TR",
+      "name": "Boğaziçi University",
+      "kind": "university",
+      "profile_id": "bogazici",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущая страница; сроки нового набора уточнить",
+      "source_ids": [
+        "tr_bogazici_programs",
+        "tr_cover",
+        "tr_criteria"
+      ],
+      "programs": [
+        {
+          "name": "Industrial Engineering",
+          "language": "Английский",
+          "field_ids": [
+            "industrial"
+          ],
+          "search_tags": [
+            "Промышленная инженерия"
+          ],
+          "source_ids": [
+            "tr_bogazici_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Computer Engineering",
+          "language": "Английский",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [
+            "Информатика и программирование"
+          ],
+          "source_ids": [
+            "tr_bogazici_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Electrical and Electronic Engineering",
+          "language": "Английский",
+          "field_ids": [
+            "electrical"
+          ],
+          "search_tags": [
+            "Электротехника и электроника"
+          ],
+          "source_ids": [
+            "tr_bogazici_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        }
+      ],
+      "deadlines": [],
+      "note": "Маршрут: Türkiye Scholarships. Программа указана в каталоге гранта; личная доступность и места определяются в TBBS.",
+      "checked_at": "2026-10-05"
+    },
+    {
+      "id": "tr_agu",
+      "country_code": "TR",
+      "name": "Abdullah Gül University",
+      "kind": "university",
+      "profile_id": "agu",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущая страница; сроки нового набора уточнить",
+      "source_ids": [
+        "tr_agu_programs",
+        "tr_cover",
+        "tr_criteria"
+      ],
+      "programs": [
+        {
+          "name": "Industrial Engineering",
+          "language": "Английский",
+          "field_ids": [
+            "industrial"
+          ],
+          "search_tags": [
+            "Промышленная инженерия"
+          ],
+          "source_ids": [
+            "tr_agu_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Civil Engineering",
+          "language": "Английский",
+          "field_ids": [
+            "civil"
+          ],
+          "search_tags": [
+            "Строительство"
+          ],
+          "source_ids": [
+            "tr_agu_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Architecture",
+          "language": "Английский",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [
+            "Архитектура"
+          ],
+          "source_ids": [
+            "tr_agu_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        }
+      ],
+      "deadlines": [],
+      "note": "Маршрут: Türkiye Scholarships. Программа указана в каталоге гранта; личная доступность и места определяются в TBBS.",
+      "checked_at": "2026-10-05"
+    },
+    {
+      "id": "tr_sakarya",
+      "country_code": "TR",
+      "name": "Sakarya University",
+      "kind": "university",
+      "profile_id": "sakarya",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущая страница; сроки нового набора уточнить",
+      "source_ids": [
+        "tr_sakarya_programs",
+        "tr_cover",
+        "tr_criteria"
+      ],
+      "programs": [
+        {
+          "name": "Industrial Engineering",
+          "language": "Турецкий",
+          "field_ids": [
+            "industrial"
+          ],
+          "search_tags": [
+            "Промышленная инженерия"
+          ],
+          "source_ids": [
+            "tr_sakarya_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Electrical and Electronic Engineering",
+          "language": "Турецкий",
+          "field_ids": [
+            "electrical"
+          ],
+          "search_tags": [
+            "Электротехника и электроника"
+          ],
+          "source_ids": [
+            "tr_sakarya_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Civil Engineering",
+          "language": "Турецкий",
+          "field_ids": [
+            "civil"
+          ],
+          "search_tags": [
+            "Строительство"
+          ],
+          "source_ids": [
+            "tr_sakarya_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        }
+      ],
+      "deadlines": [],
+      "note": "Маршрут: Türkiye Scholarships. Программа указана в каталоге гранта; личная доступность и места определяются в TBBS.",
+      "checked_at": "2026-10-05"
+    },
+    {
+      "id": "tr_dumlupinar",
+      "country_code": "TR",
+      "name": "Kütahya Dumlupınar University",
+      "kind": "university",
+      "profile_id": "dumlupinar",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущая страница; сроки нового набора уточнить",
+      "source_ids": [
+        "tr_dumlupinar_programs",
+        "tr_cover",
+        "tr_criteria"
+      ],
+      "programs": [
+        {
+          "name": "Industrial Engineering",
+          "language": "Турецкий",
+          "field_ids": [
+            "industrial"
+          ],
+          "search_tags": [
+            "Промышленная инженерия"
+          ],
+          "source_ids": [
+            "tr_dumlupinar_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Civil Engineering",
+          "language": "Турецкий",
+          "field_ids": [
+            "civil"
+          ],
+          "search_tags": [
+            "Строительство"
+          ],
+          "source_ids": [
+            "tr_dumlupinar_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Computer Engineering",
+          "language": "Турецкий",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [
+            "Информатика и программирование"
+          ],
+          "source_ids": [
+            "tr_dumlupinar_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Economics",
+          "language": "Турецкий",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [
+            "Экономика"
+          ],
+          "source_ids": [
+            "tr_dumlupinar_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        }
+      ],
+      "deadlines": [],
+      "note": "Маршрут: Türkiye Scholarships. Программа указана в каталоге гранта; личная доступность и места определяются в TBBS.",
+      "checked_at": "2026-10-05"
+    },
+    {
+      "id": "tr_medeniyet",
+      "country_code": "TR",
+      "name": "Istanbul Medeniyet University",
+      "kind": "university",
+      "profile_id": "medeniyet",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Текущая страница; сроки нового набора уточнить",
+      "source_ids": [
+        "tr_medeniyet_programs",
+        "tr_cover",
+        "tr_criteria"
+      ],
+      "programs": [
+        {
+          "name": "Industrial Engineering",
+          "language": "Турецкий",
+          "field_ids": [
+            "industrial"
+          ],
+          "search_tags": [
+            "Промышленная инженерия"
+          ],
+          "source_ids": [
+            "tr_medeniyet_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Civil Engineering",
+          "language": "Турецкий",
+          "field_ids": [
+            "civil"
+          ],
+          "search_tags": [
+            "Строительство"
+          ],
+          "source_ids": [
+            "tr_medeniyet_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        }
+      ],
+      "deadlines": [],
+      "note": "Маршрут: Türkiye Scholarships. Программа указана в каталоге гранта; личная доступность и места определяются в TBBS.",
+      "checked_at": "2026-10-05"
+    },
+    {
+      "id": "tr_koc",
+      "country_code": "TR",
+      "name": "Koç University",
+      "kind": "university",
+      "profile_id": "koc",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "Программы/гранты: брошюра 2024; текущая платформа проверена",
+      "source_ids": [
+        "koc_programs",
+        "koc_current"
+      ],
+      "programs": [
+        {
+          "name": "Industrial Engineering",
+          "language": "Английский",
+          "field_ids": [
+            "industrial"
+          ],
+          "search_tags": [
+            "Промышленная инженерия"
+          ],
+          "source_ids": [
+            "koc_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "Английский",
+          "field_ids": [
+            "mechanical"
+          ],
+          "search_tags": [
+            "Машиностроение"
+          ],
+          "source_ids": [
+            "koc_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Computer Engineering",
+          "language": "Английский",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [
+            "Информатика и программирование"
+          ],
+          "source_ids": [
+            "koc_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Media and Visual Arts",
+          "language": "Английский",
+          "field_ids": [
+            "media",
+            "art"
+          ],
+          "search_tags": [
+            "Кино и медиа",
+            "Изобразительное искусство"
+          ],
+          "source_ids": [
+            "koc_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Economics",
+          "language": "Английский",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [
+            "Экономика"
+          ],
+          "source_ids": [
+            "koc_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Psychology",
+          "language": "Английский",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [
+            "Психология"
+          ],
+          "source_ids": [
+            "koc_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Mathematics",
+          "language": "Английский",
+          "field_ids": [
+            "math"
+          ],
+          "search_tags": [
+            "Математика"
+          ],
+          "source_ids": [
+            "koc_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Chemistry",
+          "language": "Английский",
+          "field_ids": [
+            "chemistry"
+          ],
+          "search_tags": [
+            "Химия"
+          ],
+          "source_ids": [
+            "koc_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Physics",
+          "language": "Английский",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [
+            "Физика"
+          ],
+          "source_ids": [
+            "koc_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        },
+        {
+          "name": "Business Administration",
+          "language": "Английский",
+          "field_ids": [
+            "business"
+          ],
+          "search_tags": [
+            "Бизнес и менеджмент"
+          ],
+          "source_ids": [
+            "koc_programs"
+          ],
+          "requirements_note": "Общие требования карточки дополняются правилами конкретной программы; смотрите её официальный источник."
+        }
+      ],
+      "deadlines": [],
+      "note": "Пороговые баллы нового набора ещё не внесены. Исторический источник о гранте отмечен в карточке.",
+      "checked_at": "2026-10-05"
+    },
+    {
+      "id": "tr_exp_middle_east_technical_university",
+      "country_code": "TR",
+      "name": "Middle East Technical University",
+      "kind": "university",
+      "profile_id": "exp_profile_tr_middle_east_technical_university",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_tr_middle_east_technical_university",
+        "confirm_tr_tr_exp_middle_east_technical_univers"
+      ],
+      "programs": [
+        {
+          "name": "Computer Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_middle_east_technical_university",
+            "confirm_tr_tr_exp_middle_east_technical_univers"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "mechanical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_middle_east_technical_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Architecture",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_middle_east_technical_university",
+            "confirm_tr_tr_exp_middle_east_technical_univers"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Physics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "physics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_middle_east_technical_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Psychology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_middle_east_technical_university",
+            "confirm_tr_tr_exp_middle_east_technical_univers"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        },
+        {
+          "name": "Biology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_middle_east_technical_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Molecular Biology and Genetics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "confirm_tr_tr_exp_middle_east_technical_univers"
+          ],
+          "listing_status": "official_catalog_degree_or_major",
+          "requirements_note": "Направление найдено в официальном каталоге университета. Условия подачи для вашей квалификации, язык выбранной траектории, наличие мест и сроки 2027 года проверяйте отдельно."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "tr_exp_sabanc_university",
+      "country_code": "TR",
+      "name": "Sabancı University",
+      "kind": "university",
+      "profile_id": "exp_profile_tr_sabanc_university",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_tr_sabanc_university"
+      ],
+      "programs": [
+        {
+          "name": "Computer Science and Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_sabanc_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Industrial Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "industrial"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_sabanc_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Economics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_sabanc_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Psychology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_sabanc_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Visual Arts and Visual Communication Design",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "design"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_sabanc_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "tr_exp_istanbul_technical_university",
+      "country_code": "TR",
+      "name": "Istanbul Technical University",
+      "kind": "university",
+      "profile_id": "exp_profile_tr_istanbul_technical_university",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_tr_istanbul_technical_university"
+      ],
+      "programs": [
+        {
+          "name": "Computer Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_istanbul_technical_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Architecture",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "architecture"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_istanbul_technical_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Mechanical Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "mechanical"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_istanbul_technical_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Aeronautical Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "aerospace"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_istanbul_technical_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Industrial Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "industrial"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_istanbul_technical_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "tr_exp_hacettepe_university",
+      "country_code": "TR",
+      "name": "Hacettepe University",
+      "kind": "university",
+      "profile_id": "exp_profile_tr_hacettepe_university",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_tr_hacettepe_university"
+      ],
+      "programs": [
+        {
+          "name": "Computer Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_hacettepe_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Biology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_hacettepe_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Psychology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_hacettepe_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Nursing",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "nursing"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_hacettepe_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    },
+    {
+      "id": "tr_exp_istanbul_university",
+      "country_code": "TR",
+      "name": "Istanbul University",
+      "kind": "university",
+      "profile_id": "exp_profile_tr_istanbul_university",
+      "admission_stage": "first_degree_after_school",
+      "cycle": "2027 (требует проверки)",
+      "source_ids": [
+        "exp_src_tr_istanbul_university"
+      ],
+      "programs": [
+        {
+          "name": "Law",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "law"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_istanbul_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Economics",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "economics"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_istanbul_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Psychology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "psychology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_istanbul_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Biology",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "biology"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_istanbul_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        },
+        {
+          "name": "Computer Engineering",
+          "language": "Уточнить по программе",
+          "field_ids": [
+            "computer"
+          ],
+          "search_tags": [],
+          "source_ids": [
+            "exp_src_tr_istanbul_university"
+          ],
+          "listing_status": "subject_area_needs_confirmation",
+          "requirements_note": "Это направление для первичного поиска, а не подтверждение открытого набора именно на эту программу в 2027 году. Сверьте действующее название курса, уровень, язык и требования в каталоге университета."
+        }
+      ],
+      "deadlines": [],
+      "note": "Предварительная навигационная запись; названия направлений и доступность их международному абитуриенту должны быть проверены на официальном сайте. Не интерпретировать как индивидуальное предложение о поступлении.",
+      "checked_at": "2026-10-13",
+      "record_status": "discovery_only"
+    }
+  ]
+}
