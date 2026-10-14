@@ -40,3 +40,19 @@ def apply_design():
 @media(max-width:800px) { [data-testid="stAppViewContainer"] .block-container {padding:1.15rem .9rem 3rem;} [data-testid="stAppViewContainer"] .hero {padding:1.5rem!important;border-radius:19px;} [data-testid="stAppViewContainer"] .hero h1 {font-size:2rem!important;} }
 @media(prefers-reduced-motion:reduce) {*,*:before,*:after {transition:none!important;animation:none!important;scroll-behavior:auto!important;} }
 </style>''', unsafe_allow_html=True)
+
+
+def apply_home_refresh():
+    """Readable editorial home screen; no changes to app logic."""
+    st.markdown('''<style>
+    [data-testid="stAppViewContainer"] .hero {background:#eef3ff!important;border:1px solid #dbe5fb!important;box-shadow:none!important;padding:32px 36px!important;border-radius:20px!important;margin-bottom:20px!important;}
+    [data-testid="stAppViewContainer"] .hero .eyebrow {color:#4664a4!important;opacity:1!important;letter-spacing:.07em!important;font-size:.70rem!important;margin-bottom:10px!important;}
+    [data-testid="stAppViewContainer"] .hero h1 {color:#182b4a!important;font-size:clamp(1.8rem,2.7vw,2.6rem)!important;line-height:1.2!important;letter-spacing:-.035em!important;max-width:850px!important;margin-bottom:14px!important;}
+    [data-testid="stAppViewContainer"] .hero p {color:#415572!important;font-size:1rem!important;line-height:1.65!important;opacity:1!important;max-width:760px!important;margin:0!important;}
+    [data-testid="stAppViewContainer"] .feature-card {background:#fff!important;border:1px solid #e0e6f0!important;border-radius:18px!important;padding:23px!important;min-height:220px!important;box-shadow:0 6px 18px rgba(21,45,88,.035)!important;}
+    [data-testid="stAppViewContainer"] .feature-card .label {color:#5374aa!important;letter-spacing:.055em!important;font-size:.69rem!important;}
+    [data-testid="stAppViewContainer"] .feature-card h3 {color:#1d3151!important;font-size:1.26rem!important;line-height:1.32!important;margin:12px 0!important;}
+    [data-testid="stAppViewContainer"] .feature-card p {color:#50627c!important;font-size:.94rem!important;line-height:1.55!important;}
+    [data-testid="stSidebar"] .stButton button {font-size:.91rem!important;min-height:40px!important;}
+    @media(max-width:850px){[data-testid="stAppViewContainer"] .hero{padding:22px!important;}[data-testid="stAppViewContainer"] .feature-card{min-height:unset!important;}}
+    </style>''',unsafe_allow_html=True)
