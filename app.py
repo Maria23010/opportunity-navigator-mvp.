@@ -1789,8 +1789,9 @@ st.markdown("""<style>
 @media(max-width:700px){[data-testid="stAppViewContainer"] .block-container {padding:1rem .8rem 3rem;}}
 </style>""", unsafe_allow_html=True)
 
-from design_system import apply_design
+from design_system import apply_design, apply_home_refresh
 apply_design()
+apply_home_refresh()
 
 if interface_lang() in {"ar", "fa", "ur", "he"}:
     st.markdown("""<style>
