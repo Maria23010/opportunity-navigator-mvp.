@@ -1,0 +1,2962 @@
+{
+  "version": "1.0",
+  "note": "Broad cross-country topic index, not a guarantee of equivalent national course sequences or lesson completeness. Topic titles without a curated explanation require a connected AI or external reference.",
+  "sources": [
+    "https://fgosreestr.edsoo.ru/educational-programs",
+    "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-lower-secondary/curriculum",
+    "https://www.khanacademy.org/"
+  ],
+  "topics": [
+    {
+      "subject": "Math",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Счёт и сравнение чисел"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Сложение и вычитание"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Умножение и деление"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Таблица умножения"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Порядок действий"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Числовые выражения"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Решение текстовых задач"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Измерение длины массы времени"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Периметр и площадь"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Геометрические фигуры"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Доли и дроби"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Числовая прямая"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Округление"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Единицы измерения"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Натуральные числа"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Делимость чисел"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Простые и составные числа"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Обыкновенные дроби"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Десятичные дроби"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Проценты"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Отношения и пропорции"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Отрицательные числа"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Координатная плоскость"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Геометрические построения"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Площадь и объём"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Уравнения с одной переменной"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Статистика и диаграммы"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Вероятность простых событий"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Алгебраические выражения"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Линейные уравнения"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Системы линейных уравнений"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Линейные функции и графики"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Квадратные корни"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Квадратные уравнения"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Квадратичная функция"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Неравенства"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Системы неравенств"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Степени и свойства степеней"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Многочлены"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Формулы сокращённого умножения"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Последовательности и прогрессии"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Теорема Пифагора"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Подобие треугольников"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Окружность и круг"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Векторы"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Тригонометрия прямоугольного треугольника"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Комбинаторика и вероятность"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Тригонометрические функции"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Тригонометрические уравнения"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Показательная функция"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Логарифмы"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Логарифмические уравнения"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Производная функции"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Применение производной"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Первообразная и интеграл"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Предел и непрерывность"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Сложные вероятности"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Нормальное распределение"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Стереометрия"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Векторы в пространстве"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Объём и площадь поверхности тел"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Параметрические уравнения"
+    },
+    {
+      "subject": "Math",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Финансовая математика"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Звуки и буквы"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Орфограммы"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Корень и окончание"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Части речи"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Имя существительное"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Имя прилагательное"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Глагол"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Однокоренные слова"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Главные члены предложения"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Текст и его тема"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Правописание жи-ши ча-ща"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Безударные гласные"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Лексическое значение слова"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Морфемный разбор"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Словообразование"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Правописание приставок"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Имя числительное"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Местоимение"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Времена глагола"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Не с глаголами"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Правописание -тся и -ться"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Однородные члены предложения"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Прямая речь"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Типы и стили речи"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Причастие"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Деепричастие"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Наречие"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Служебные части речи"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Причастный оборот"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Деепричастный оборот"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Односоставные предложения"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Сложносочинённое предложение"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Сложноподчинённое предложение"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Бессоюзное сложное предложение"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Пунктуация"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Сочинение-рассуждение"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Изложение"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Функциональные стили"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Нормы русского литературного языка"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Синтаксические нормы"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Сложные случаи орфографии"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Обособленные члены предложения"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Средства выразительности"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Анализ текста"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Аргументация"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Логика сочинения"
+    },
+    {
+      "subject": "Russian language",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Редактирование текста"
+    },
+    {
+      "subject": "English",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Alphabet and sounds"
+    },
+    {
+      "subject": "English",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Basic greetings"
+    },
+    {
+      "subject": "English",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Numbers and colours"
+    },
+    {
+      "subject": "English",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Family and friends"
+    },
+    {
+      "subject": "English",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "School vocabulary"
+    },
+    {
+      "subject": "English",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Present Simple"
+    },
+    {
+      "subject": "English",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "There is and there are"
+    },
+    {
+      "subject": "English",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Can and cannot"
+    },
+    {
+      "subject": "English",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Pronouns"
+    },
+    {
+      "subject": "English",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Articles a and an"
+    },
+    {
+      "subject": "English",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Simple questions"
+    },
+    {
+      "subject": "English",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Present Continuous"
+    },
+    {
+      "subject": "English",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Past Simple"
+    },
+    {
+      "subject": "English",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Future with will"
+    },
+    {
+      "subject": "English",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Going to"
+    },
+    {
+      "subject": "English",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Countable and uncountable nouns"
+    },
+    {
+      "subject": "English",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Much and many"
+    },
+    {
+      "subject": "English",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Comparatives and superlatives"
+    },
+    {
+      "subject": "English",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Prepositions"
+    },
+    {
+      "subject": "English",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Present Perfect"
+    },
+    {
+      "subject": "English",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Everyday dialogues"
+    },
+    {
+      "subject": "English",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Present Perfect versus Past Simple"
+    },
+    {
+      "subject": "English",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Past Continuous"
+    },
+    {
+      "subject": "English",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Present Perfect Continuous"
+    },
+    {
+      "subject": "English",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Passive Voice"
+    },
+    {
+      "subject": "English",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Reported Speech"
+    },
+    {
+      "subject": "English",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Conditional sentences"
+    },
+    {
+      "subject": "English",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Modal verbs"
+    },
+    {
+      "subject": "English",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Relative clauses"
+    },
+    {
+      "subject": "English",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Gerund and infinitive"
+    },
+    {
+      "subject": "English",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Reading strategies"
+    },
+    {
+      "subject": "English",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Opinion essay"
+    },
+    {
+      "subject": "English",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Academic writing"
+    },
+    {
+      "subject": "English",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Essay structure"
+    },
+    {
+      "subject": "English",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Advanced tenses"
+    },
+    {
+      "subject": "English",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Mixed conditionals"
+    },
+    {
+      "subject": "English",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Complex sentences"
+    },
+    {
+      "subject": "English",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Argumentation"
+    },
+    {
+      "subject": "English",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "IELTS Writing"
+    },
+    {
+      "subject": "English",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "IELTS Reading"
+    },
+    {
+      "subject": "English",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "IELTS Speaking"
+    },
+    {
+      "subject": "English",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "TOEFL academic tasks"
+    },
+    {
+      "subject": "English",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Presentation skills"
+    },
+    {
+      "subject": "English",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Critical reading"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Материки и океаны"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Стороны горизонта"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Погода"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Времена года"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Природные зоны"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Человек и природа"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Географические карты"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Градусная сеть"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Широта и долгота"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Земная кора"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Литосфера"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Гидросфера"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Атмосфера"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Климатические пояса"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Биосфера"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Экватор и полюса"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Материки и регионы мира"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Климатообразующие факторы"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Рельеф и полезные ископаемые"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "География населения"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Миграция"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Урбанизация"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Экономическая география"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Мировое хозяйство"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Природные ресурсы"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "География России и соседних стран"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Политическая карта мира"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Глобализация"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Демографический переход"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Устойчивое развитие"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Международная торговля"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Геополитика и география"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Изменение климата"
+    },
+    {
+      "subject": "Geography",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Географический анализ данных"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Живые и неживые объекты"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Растения и животные"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Органы чувств"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Питание и здоровье"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Цепи питания"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Строение клетки"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Бактерии"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Грибы"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Растительные ткани"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Фотосинтез"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Корни и листья"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Систематика организмов"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Экосистемы"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Строение организма человека"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Дыхание"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Кровообращение"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Нервная система"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Пищеварение"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Иммунитет"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Размножение организмов"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Генетика и наследование"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Естественный отбор"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Эволюция"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Экологические связи"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "ДНК и РНК"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Биосинтез белка"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Клеточный цикл"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Митоз и мейоз"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Законы Менделя"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Мутации"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Молекулярная биология"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Генетическая инженерия"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Популяционная генетика"
+    },
+    {
+      "subject": "Biology",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Экология популяций"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Вещества и смеси"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Чистые вещества"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Атомы и молекулы"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Периодическая таблица"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Химические элементы"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Валентность"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Химическая формула"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Относительная атомная масса"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Химические реакции"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Уравнения реакций"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Закон сохранения массы"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Оксиды"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Кислоты и основания"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Кислотность и pH"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Степени окисления"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Электролиты и неэлектролиты"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Растворы и растворимость"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Массовая доля вещества"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Окисление и восстановление"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Соли"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Степени окисления в сложных веществах"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Окислительно-восстановительные реакции"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Ионные уравнения"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Химическое равновесие"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Скорость реакции"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Энергетика реакций"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Органическая химия"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Алканы и алкены"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Спирты"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Карбоновые кислоты"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Эфиры"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Углеводы и белки"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Полимеры"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Электрохимия"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Химический анализ"
+    },
+    {
+      "subject": "Chemistry",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Стехиометрия"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Механическое движение"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Простые механизмы"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Измерение силы"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Плотность"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Тепло и температура"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Скорость путь время"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Равномерное движение"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Ускорение"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Законы Ньютона"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Сила тяжести"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Трение"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Давление"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Архимедова сила"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Работа и мощность"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Энергия и её сохранение"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Электрический ток"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Закон Ома"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Последовательное соединение"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Параллельное соединение"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Свет и отражение"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Звук и волны"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Магнитное поле"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Кинематика"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Динамика"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Импульс"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Колебания и волны"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Молекулярная физика"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Термодинамика"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Электростатика"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Электромагнитная индукция"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Геометрическая оптика"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Интерференция и дифракция"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Фотоэффект"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Атомная физика"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Ядерная физика"
+    },
+    {
+      "subject": "Physics",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Основы относительности"
+    },
+    {
+      "subject": "History",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Лента времени"
+    },
+    {
+      "subject": "History",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Прошлое семьи и общества"
+    },
+    {
+      "subject": "History",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Исторические памятники"
+    },
+    {
+      "subject": "History",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Исторические источники"
+    },
+    {
+      "subject": "History",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Древние цивилизации"
+    },
+    {
+      "subject": "History",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Древний Египет"
+    },
+    {
+      "subject": "History",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Древняя Греция"
+    },
+    {
+      "subject": "History",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Древний Рим"
+    },
+    {
+      "subject": "History",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Средние века"
+    },
+    {
+      "subject": "History",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Первые государства"
+    },
+    {
+      "subject": "History",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Эпоха Возрождения"
+    },
+    {
+      "subject": "History",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Реформация"
+    },
+    {
+      "subject": "History",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Великие географические открытия"
+    },
+    {
+      "subject": "History",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Промышленная революция"
+    },
+    {
+      "subject": "History",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "История России"
+    },
+    {
+      "subject": "History",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Колониализм"
+    },
+    {
+      "subject": "History",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Мировые войны"
+    },
+    {
+      "subject": "History",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Революции"
+    },
+    {
+      "subject": "History",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Холодная война"
+    },
+    {
+      "subject": "History",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Причины исторических событий"
+    },
+    {
+      "subject": "History",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Сопоставление источников"
+    },
+    {
+      "subject": "History",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Историография"
+    },
+    {
+      "subject": "History",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Мировая история XX века"
+    },
+    {
+      "subject": "History",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Международные отношения"
+    },
+    {
+      "subject": "History",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Память и интерпретация истории"
+    },
+    {
+      "subject": "History",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Историческое эссе"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Права и обязанности"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Семья и общество"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Школа и сообщество"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Гражданственность"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Государство и власть"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Разделение властей"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Конституция"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Право и ответственность"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Экономика домашнего хозяйства"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Рынок и конкуренция"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Социальные отношения"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Права ребёнка"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Медиа-грамотность"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Политические институты"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Социальная стратификация"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Гражданское общество"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Правовое государство"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Международное право"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Мировая экономика"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Социальные исследования"
+    },
+    {
+      "subject": "Social studies",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Информационная безопасность"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Сказка и рассказ"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Герой произведения"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Главная мысль"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Стихотворение"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Сравнение"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Эпитет"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Басня"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Миф и легенда"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Сюжет и композиция"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Образ героя"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Метафора"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Олицетворение"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Рифма и ритм"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Конфликт произведения"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Точка зрения рассказчика"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Символ и аллегория"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Лирический герой"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Пьеса"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Роман"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Жанры литературы"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Анализ отрывка"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Литературное сочинение"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Литературные направления"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Реализм"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Романтизм"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Модернизм"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Подтекст"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Сравнительный анализ"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Аргументированное эссе"
+    },
+    {
+      "subject": "Literature",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Контекст эпохи"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Потребности и ресурсы"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Деньги и бюджет"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Товары и услуги"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Спрос и предложение"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Равновесная цена"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Производитель и потребитель"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Себестоимость и прибыль"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Предпринимательство"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Конкуренция"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Семейный бюджет"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Инфляция"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Налоги"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Микроэкономика"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Макроэкономика"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Эластичность спроса"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Альтернативные издержки"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "ВВП"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Безработица"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Финансовые рынки"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Кредиты и проценты"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Бизнес-план"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Маркетинг"
+    },
+    {
+      "subject": "Economics & Business",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Бухгалтерский баланс"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Алгоритмы"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Условные операторы"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Циклы"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Компьютерная безопасность"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Табличные данные"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Python: переменные"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Python: типы данных"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Python: списки"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Python: функции"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Циклы for и while"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Условные выражения"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Отладка программ"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Простейшие сайты"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Булева логика"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Обработка данных"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Алгоритмическая сложность"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Сортировки"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Поиск"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Структуры данных"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Рекурсия"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Объектно-ориентированное программирование"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Базы данных SQL"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "HTML и CSS"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "API и HTTP"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Основы машинного обучения"
+    },
+    {
+      "subject": "Coding",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Этика искусственного интеллекта"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Организация рабочего места"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Как делать домашнее задание"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 1,
+      "grade_max": 4,
+      "title": "Как задавать вопросы"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Планирование недели"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Короткие учебные сессии"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Конспектирование"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 5,
+      "grade_max": 6,
+      "title": "Повторение"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Активное воспроизведение"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Интервальное повторение"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Как подготовиться к контрольной"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Как справиться с прокрастинацией"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Групповое обучение"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Подготовка к экзаменам"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Учебные цели"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Управление стрессом"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Разбор ошибок"
+    },
+    {
+      "subject": "Study skills",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Составление портфолио"
+    },
+    {
+      "subject": "University applications",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Выбор профессии"
+    },
+    {
+      "subject": "University applications",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Интересы и навыки"
+    },
+    {
+      "subject": "University applications",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Страны обучения"
+    },
+    {
+      "subject": "University applications",
+      "grade_min": 7,
+      "grade_max": 9,
+      "title": "Школьное портфолио"
+    },
+    {
+      "subject": "University applications",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Выбор программы бакалавриата"
+    },
+    {
+      "subject": "University applications",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Требования поступления"
+    },
+    {
+      "subject": "University applications",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Языковые экзамены"
+    },
+    {
+      "subject": "University applications",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Мотивационное письмо"
+    },
+    {
+      "subject": "University applications",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Рекомендации"
+    },
+    {
+      "subject": "University applications",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Гранты и стипендии"
+    },
+    {
+      "subject": "University applications",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Финансовый план"
+    },
+    {
+      "subject": "University applications",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Дедлайны подачи"
+    },
+    {
+      "subject": "University applications",
+      "grade_min": 10,
+      "grade_max": 11,
+      "title": "Сравнение университетов"
+    }
+  ],
+  "offline_explanations": {
+    "Степени окисления": {
+      "aliases": [
+        "степень окисления",
+        "степени окисления",
+        "oxidation state",
+        "oxidation number",
+        "oxidation numbers"
+      ],
+      "intro": "**Степень окисления** — условный заряд, который приписывают атому в соединении, если считать, что электроны в связях полностью перешли к более электроотрицательному атому. Это инструмент учёта электронов, а не всегда реальный заряд атома.\n\n**Как определить:** 1) В простом веществе степень окисления 0: O₂, Fe. 2) У одноатомного иона равна его заряду. 3) Фтор в соединениях обычно −1; кислород обычно −2 (есть исключения, например пероксиды); водород обычно +1 с неметаллами и −1 в гидридах металлов. 4) Сумма степеней окисления равна общему заряду частицы.\n\n**Пример:** в H₂SO₄ две частицы H дают +2, четыре O дают −8. Для суммарного нуля у S должно быть +6: +2 + x − 8 = 0, значит x = +6.\n\nНе путайте степень окисления с **валентностью**: это разные понятия.",
+      "simple": "Представь, что каждый атом получил условный «счёт» по электронам. Это не настоящие деньги и не обязательно настоящий заряд. Для воды H₂O два H дают +1 каждый, O даёт −2. Сумма +1 +1 −2 = 0. Поэтому вода электрически нейтральна.",
+      "example": "Найдём степень окисления Mn в KMnO₄: K = +1, каждый O = −2, все 4 O вместе −8. Значит +1 + Mn −8 = 0, поэтому Mn = +7.",
+      "quiz": "Какая степень окисления серы в H₂SO₄? Ответ: +6. Распишите сумму зарядов."
+    },
+    "Кислотность и pH": {
+      "aliases": [
+        "степень кислотности",
+        "кислотность",
+        "кислота ph",
+        "ph",
+        "кислотность раствора",
+        "acidity"
+      ],
+      "intro": "**Кислотность** показывает, насколько раствор проявляет кислотные свойства. Для разбавленных водных растворов используют **pH** — показатель, связанный с концентрацией (строже: активностью) ионов H₃O⁺.\n\nПриближённо pH = −log₁₀[H₃O⁺]. При 25 °C у нейтральной воды pH около 7; ниже 7 — кислый раствор, выше 7 — щелочной. pH может лежать и за пределами 0–14 в особых условиях.\n\n**Главное:** уменьшение pH на 1 примерно означает увеличение концентрации H₃O⁺ в 10 раз. Поэтому pH 3 — приблизительно в 10 раз кислее по этой концентрации, чем pH 4.\n\n**Как измеряют:** индикаторами, универсальной индикаторной бумагой или pH-метром. Не пробуйте вещества на вкус.",
+      "simple": "pH — как шкала «кислый — нейтральный — щелочной». Например, лимонный сок кислый, чистая вода близка к нейтральной, мыльный раствор обычно щелочной. Разница между соседними значениями pH — не просто единица: это примерно десятикратное изменение концентрации кислотных частиц.",
+      "example": "Пусть [H₃O⁺] = 0,001 моль/л = 10⁻³. Тогда pH = −log₁₀(10⁻³) = 3. Если концентрация станет 10⁻⁴, pH будет около 4.",
+      "quiz": "Что более кислое при 25 °C: pH 4 или pH 6? Ответ: pH 4, приблизительно в 100 раз по концентрации H₃O⁺."
+    },
+    "Вещества и смеси": {
+      "aliases": [
+        "смеси и соединения",
+        "mixtures and compounds",
+        "смесь и соединение"
+      ],
+      "intro": "**Смесь** содержит два или больше веществ, которые не обязательно соединены химическими связями и могут находиться в переменных пропорциях. **Химическое соединение** — чистое вещество из элементов в определённом соотношении, связанных химически.\n\n**Примеры:** воздух — смесь газов; солёная вода — смесь воды и растворённой соли. Вода H₂O — химическое соединение; поваренная соль NaCl — соединение.\n\n**Как отличать:** компоненты смеси часто разделяют физически (фильтрацией, выпариванием, перегонкой). Для разложения соединения на другие вещества нужна химическая реакция. Не всякая смесь неоднородна: раствор — однородная смесь.",
+      "simple": "Если смешать песок с солью, получится смесь: можно растворить соль в воде, отделить песок и затем выпарить воду. Но молекула воды H₂O — не смесь водорода и кислорода: атомы в ней связаны химически.",
+      "example": "Воздух содержит азот, кислород и другие газы — состав может немного меняться. Чистая вода H₂O всегда имеет атомное соотношение H:O = 2:1.",
+      "quiz": "Чай с сахаром — смесь или соединение? Ответ: смесь."
+    },
+    "Спрос и предложение": {
+      "aliases": [
+        "supply and demand",
+        "как устроено спрос предложение",
+        "спрос-предложение"
+      ],
+      "intro": "**Спрос** — количество товара, которое покупатели готовы и способны приобрести по разным ценам за определённый период. **Предложение** — сколько товара продавцы готовы и способны продать.\n\nПри прочих равных более высокая цена обычно уменьшает величину спроса и увеличивает величину предложения. **Рыночное равновесие** — цена и количество, при которых планы покупателей и продавцов совпадают.\n\n**Важно различать:** изменение цены товара вызывает движение вдоль кривой, а изменения доходов, технологий или ожиданий могут сдвигать целую кривую. Это модель, а не точный прогноз для каждого реального рынка.",
+      "simple": "Представь школьную ярмарку. По низкой цене кекс хотят купить многие, но продавцам невыгодно печь слишком много. По высокой цене печь выгоднее, но покупателей меньше. Цена часто устанавливается близко к точке, где желающие купить и продать совпадают.",
+      "example": "При цене 50 условных единиц покупатели хотят 30 кексов, а продавцы готовы дать 10 — дефицит. При цене 100 обе стороны согласны на 20 — пример равновесия.",
+      "quiz": "Если доходы покупателей выросли, а товар обычный, что вероятнее происходит со спросом? Он растёт (при прочих равных)."
+    },
+    "Линейные уравнения": {
+      "aliases": [
+        "линейные уравнения",
+        "linear equations"
+      ],
+      "intro": "**Линейное уравнение** — равенство, в котором неизвестная входит в первой степени, например 3x + 5 = 20. Решить его — найти такое x, которое делает левую и правую части равными.\n\n**Пошагово:** 1) Убери прибавленное число одинаковой операцией с обеих сторон. 2) Раздели обе стороны на коэффициент при x, если он не равен нулю. 3) Проверь ответ подстановкой.\n\nИз 3x + 5 = 20 следует 3x = 15, затем x = 5, проверка: 3·5 + 5 = 20.",
+      "simple": "Уравнение — это две одинаково тяжёлые чаши весов. Если с левой чаши убрать 5, с правой тоже нужно убрать 5. Иначе равновесие нарушится.",
+      "example": "4x − 7 = 9 → прибавляем 7 к обеим частям → 4x = 16 → x = 4.",
+      "quiz": "2x + 3 = 11. Найдите x. Ответ: 4."
+    },
+    "Проценты": {
+      "aliases": [
+        "проценты",
+        "percentages",
+        "процент"
+      ],
+      "intro": "**Процент** — одна сотая часть величины: 1% = 1/100. Чтобы найти p% от числа N, вычисли (p/100) × N. Чтобы определить, сколько процентов составляет часть A от целого N, вычисли (A/N) × 100%.\n\nДля скидки 20% от 1000 сначала находят 200, затем 1000 − 200 = 800. Для повышения на 20% находят 1000 + 200 = 1200. Последовательные увеличения и уменьшения на одинаковый процент обычно **не** компенсируют друг друга.",
+      "simple": "100% — это весь пирог. 25% — четверть пирога, 50% — половина. Чтобы найти 25% от 80, можно просто разделить 80 на 4 и получить 20.",
+      "example": "15% от 240 = 0,15 × 240 = 36.",
+      "quiz": "10% от 350? Ответ: 35."
+    },
+    "Закон Ома": {
+      "aliases": [
+        "ohms law",
+        "электрическое сопротивление",
+        "закон ома"
+      ],
+      "intro": "**Закон Ома** для участка цепи: I = U/R, где I — сила тока в амперах, U — напряжение в вольтах, R — сопротивление в омах. При постоянном сопротивлении увеличение напряжения увеличивает силу тока.\n\nУдобно запомнить три формы одной зависимости: I = U/R, U = IR, R = U/I. Проверь единицы перед вычислением. В реальных устройствах сопротивление не всегда постоянно, так что закон в этой форме применим к омическим участкам цепи.",
+      "simple": "Напряжение похоже на «толчок», а сопротивление — на препятствие. Чем сильнее толчок при том же сопротивлении, тем больше ток. Чем больше сопротивление при том же напряжении, тем меньше ток.",
+      "example": "Если U=12 В и R=6 Ом, I=12/6=2 А.",
+      "quiz": "При U=9 В, R=3 Ом какой ток? Ответ: 3 А."
+    },
+    "Фотосинтез": {
+      "aliases": [
+        "photosynthesis",
+        "фотосинтез"
+      ],
+      "intro": "**Фотосинтез** — процесс, при котором растения, водоросли и некоторые бактерии используют энергию света для образования органических веществ. У растений ключевую роль играют хлоропласты и пигмент хлорофилл.\n\nУпрощённая суммарная запись: 6CO₂ + 6H₂O + свет → C₆H₁₂O₆ + 6O₂. Это модель: реальные стадии намного сложнее и включают световые реакции и фиксацию углекислого газа.\n\nСвет, вода, углекислый газ, температура и доступность минеральных веществ влияют на интенсивность процесса.",
+      "simple": "Растение использует солнечный свет как источник энергии, чтобы из воды и углекислого газа построить сахар. При этом выделяется кислород.",
+      "example": "Если поставить одинаковые растения при разном освещении, можно сравнить скорость фотосинтеза по косвенным признакам, учитывая другие факторы.",
+      "quiz": "Какой газ поглощается в процессе фотосинтеза? CO₂."
+    },
+    "Циклы": {
+      "aliases": [
+        "циклы в программировании",
+        "loops",
+        "loops as repetition",
+        "циклы for",
+        "loop"
+      ],
+      "intro": "**Цикл** позволяет повторять действия без переписывания одной и той же команды. В Python `for` чаще используют для перебора элементов, `while` — для повторения, пока выполняется условие.\n\n`for i in range(3):` перебирает 0, 1, 2 — всего три значения. Тело цикла определяется отступом. Следите, чтобы условие `while` могло стать ложным, иначе возникнет бесконечный цикл.",
+      "simple": "Цикл — как инструкция «повтори три раза». Вместо трёх одинаковых строк можно написать одну команду внутри цикла.",
+      "example": "```python\nfor i in range(3):\n    print(i)\n```\nВывод: 0, затем 1, затем 2.",
+      "quiz": "Сколько раз выполняется `for i in range(5)`? Ответ: пять раз."
+    },
+    "Теорема Пифагора": {
+      "aliases": [
+        "pythagorean theorem",
+        "пифагор",
+        "теорема пифагора"
+      ],
+      "intro": "В прямоугольном треугольнике сумма квадратов длин катетов равна квадрату гипотенузы: **a² + b² = c²**. Гипотенуза c лежит напротив прямого угла и длиннее каждого катета.\n\nТеорема работает **только для прямоугольного треугольника**. Если нужно найти гипотенузу, извлеки корень из a²+b². Если нужно найти катет, вычти квадрат другого катета из квадрата гипотенузы, затем извлеки корень.",
+      "simple": "Представь прямоугольный треугольник как угол комнаты и лестницу, прислонённую к стене. Теорема связывает длину лестницы с высотой и расстоянием от стены.",
+      "example": "Катеты 3 и 4: c²=9+16=25, поэтому c=5.",
+      "quiz": "Катеты 5 и 12. Гипотенуза? 13."
+    },
+    "Present Simple": {
+      "aliases": [
+        "present simple",
+        "настоящее простое время"
+      ],
+      "intro": "**Present Simple** используют для привычек, регулярных действий и общих фактов: *I study every day*. С he/she/it в утвердительном предложении глагол обычно получает окончание **-s/-es**: *She studies*.\n\nДля вопросов используют do/does: *Do you study? Does she study?* Для отрицаний — do not/does not + основная форма: *She does not study*. Не ставьте -s одновременно с does.",
+      "simple": "Present Simple — время для того, что бывает обычно. «Я каждый день читаю» = I read every day. «Она читает» = She reads.",
+      "example": "He plays football on Sundays. Does he play football? No, he does not play football every Sunday.",
+      "quiz": "She ___ English every day. Ответ: studies."
+    },
+    "Квадратные уравнения": {
+      "aliases": [
+        "квадратное уравнение",
+        "quadratic equations",
+        "quadratic formula"
+      ],
+      "intro": "**Квадратное уравнение** имеет вид ax² + bx + c = 0, где a ≠ 0. Его решения — значения x, при которых выражение равно нулю.\n\nОдин из методов — **дискриминант**: D = b² − 4ac. Если D > 0, два разных действительных корня; если D = 0 — один двойной; если D < 0, действительных корней нет.\n\nФормула: x = (−b ± √D)/(2a). После вычисления полезно проверить корни подстановкой. Иногда уравнение проще решить разложением на множители.",
+      "simple": "Это уравнение с x². Мы ищем числа x, которые превращают выражение в ноль. Например, x² = 9 означает, что x может быть 3 или −3.",
+      "example": "x² − 5x + 6 = 0. D = 25 − 24 = 1; x = (5 ± 1)/2, значит x = 3 или 2. Проверка: 9−15+6=0.",
+      "quiz": "Сколько действительных корней у x²+1=0? Ответ: 0."
+    },
+    "Линейные функции и графики": {
+      "aliases": [
+        "график функции",
+        "функция y=kx+b",
+        "функции и графики",
+        "linear functions"
+      ],
+      "intro": "**Функция** задаёт правило, по которому каждому допустимому x соответствует значение y. График показывает эти пары точек на координатной плоскости.\n\nДля линейной функции y = kx + b число **k** определяет наклон прямой, а **b** — точку пересечения с осью y (при x=0). Чтобы построить прямую, достаточно найти две разные точки.\n\nПроверяй каждую координату подстановкой в уравнение.",
+      "simple": "Представь автомат: кладёшь число x, он умножает его на 2 и добавляет 1. Получается y. Для x=0, 1, 2 выйдут y=1, 3, 5. Отметь точки на бумаге и соедини прямой.",
+      "example": "Функция y=−x+3: при x=0, y=3; при x=3, y=0. Проводим прямую через (0,3) и (3,0).",
+      "quiz": "Найди y при x=4 для y=2x+1. Ответ: 9."
+    },
+    "ДНК и РНК": {
+      "aliases": [
+        "dna and rna",
+        "днк и рнк",
+        "нуклеиновые кислоты"
+      ],
+      "intro": "**ДНК** хранит наследственную информацию в последовательности нуклеотидов. У большинства организмов она образует двойную спираль из двух комплементарных цепей: A с T, G с C.\n\n**РНК** обычно одноцепочечна, содержит урацил U вместо тимина T и участвует в передаче и реализации генетической информации. Разные РНК выполняют разные функции: информационная (мРНК), транспортная (тРНК), рибосомная (рРНК) и другие.\n\nУпрощённо: в транскрипции информация с ДНК переносится на РНК, в трансляции по мРНК собирается белок.",
+      "simple": "ДНК — как долговременная библиотека инструкций клетки. РНК — как рабочая копия нужного рецепта, которую можно доставить к месту сборки белка.",
+      "example": "Если участок одной цепи ДНК A-T-G-C, комплементарная цепь T-A-C-G.",
+      "quiz": "Какая буква есть в РНК вместо T? U — урацил."
+    },
+    "Кровообращение": {
+      "aliases": [
+        "circulatory system",
+        "кровеносная система",
+        "сердце и сосуды"
+      ],
+      "intro": "**Кровеносная система** человека переносит кислород, питательные вещества, гормоны и продукты обмена. Сердце действует как насос, артерии несут кровь **от сердца**, вены — **к сердцу**, а капилляры обеспечивают обмен веществ с тканями.\n\nВ малом круге кровь проходит через лёгкие и обогащается кислородом. В большом круге она идёт к органам и тканям. Артерия не всегда несёт богатую кислородом кровь: лёгочная артерия — исключение.",
+      "simple": "Представь два маршрута: первый везёт кровь в лёгкие за кислородом, второй доставляет кислород клеткам и возвращает кровь обратно к сердцу.",
+      "example": "Правый желудочек → лёгочная артерия → лёгкие → лёгочные вены → левое предсердие. Это часть малого круга.",
+      "quiz": "Куда вены несут кровь: к сердцу или от него? К сердцу."
+    },
+    "Закон сохранения массы": {
+      "aliases": [
+        "law of conservation of mass",
+        "сохранение массы",
+        "закон ломоносова"
+      ],
+      "intro": "**Закон сохранения массы** говорит: в закрытой системе при обычной химической реакции суммарная масса реагентов равна суммарной массе продуктов. Атомы не исчезают и не появляются из ничего — они перестраиваются в новые вещества.\n\nПри записи реакции важно уравнять число атомов каждого элемента слева и справа. В открытом сосуде масса содержимого может измениться из-за выхода газа или поступления кислорода, но общая масса системы с окружающей средой сохраняется.",
+      "simple": "Сложим кубики конструктора в другой предмет: форма поменялась, но количество кубиков осталось прежним. С атомами в химической реакции примерно так же.",
+      "example": "2H₂ + O₂ → 2H₂O. Слева 4 атома H и 2 атома O, справа столько же.",
+      "quiz": "Можно ли уравнять H₂ + O₂ → H₂O коэффициентами 2,1,2? Да."
+    },
+    "Вероятность простых событий": {
+      "aliases": [
+        "probability",
+        "вероятность события",
+        "вероятность простых событий"
+      ],
+      "intro": "**Вероятность** показывает, насколько вероятно наступление события в определённой модели. Если все N исходов равновозможны и M из них благоприятны, то P = M/N. Вероятность лежит между 0 и 1.\n\nУ честной монеты вероятность орла 1/2; у честного шестигранного кубика вероятность 6 равна 1/6. В реальности исходы не всегда равновозможны, поэтому формула требует проверки предположений.",
+      "simple": "Если в мешке 3 красных и 1 синий одинаковых шарика, шанс случайно вытянуть красный — 3 из 4, то есть 75%.",
+      "example": "На честном кубике числа больше 4 — это 5 и 6: 2 исхода из 6 → 2/6 = 1/3.",
+      "quiz": "Шанс вытащить красный из 2 красных и 2 синих? 1/2."
+    },
+    "Скорость путь время": {
+      "aliases": [
+        "speed distance time",
+        "скорость время расстояние",
+        "скорость путь время",
+        "скорость движения"
+      ],
+      "intro": "**Средняя скорость** при равномерном движении — отношение пройденного пути к затраченному времени: v = s/t. Отсюда путь s = vt, время t = s/v.\n\nПеред вычислением согласуй единицы: 1 час = 3600 секунд, 1 километр = 1000 метров. Средняя путевая скорость и средняя векторная скорость могут различаться, когда траектория меняется.",
+      "simple": "Скорость отвечает на вопрос «сколько метров или километров проходим за одну секунду или час?». Если за два часа проехали 100 км, средняя скорость 50 км/ч.",
+      "example": "Велосипедист проехал 30 км за 1,5 часа. v = 30/1,5 = 20 км/ч.",
+      "quiz": "100 метров за 20 секунд. Скорость? 5 м/с."
+    },
+    "Митоз и мейоз": {
+      "aliases": [
+        "mitosis and meiosis",
+        "митоз и мейоз",
+        "деление клетки"
+      ],
+      "intro": "**Митоз** — деление клетки, при котором из одной исходной клетки обычно получаются две дочерние с тем же набором хромосом (если нет ошибок). Он важен для роста и восстановления тканей.\n\n**Мейоз** включает два последовательных деления после одного удвоения ДНК; в типичном случае формируются клетки с половинным набором хромосом. Рекомбинация и независимое распределение хромосом увеличивают генетическое разнообразие.",
+      "simple": "Митоз похож на изготовление двух одинаковых копий. Мейоз — особый процесс подготовки половых клеток с половинным набором хромосом, чтобы после оплодотворения число хромосом восстановилось.",
+      "example": "У человека клетки тела обычно имеют 46 хромосом, гаметы после мейоза — 23.",
+      "quiz": "Для роста кожи важнее митоз или мейоз? Митоз."
+    },
+    "Периодическая таблица": {
+      "aliases": [
+        "periodic table",
+        "таблица менделеева",
+        "периодический закон"
+      ],
+      "intro": "**Периодическая таблица** организует химические элементы по возрастанию атомного номера — числа протонов в ядре. Элементы одной группы часто имеют похожие свойства из-за строения внешней электронной оболочки.\n\nНомер периода связан с числом заселённых электронных оболочек в основном состоянии у типичных элементов. Металлические и неметаллические свойства меняются по периодам и группам закономерно, но не сводятся к одному правилу для всех случаев.",
+      "simple": "Каждый элемент — как карточка с номером. Номер показывает, сколько протонов в его ядре. Соседние по столбцу элементы часто «похожи по поведению».",
+      "example": "У кислорода атомный номер 8, значит в ядре каждого атома кислорода 8 протонов.",
+      "quiz": "Какой атомный номер у элемента с 11 протонами? 11."
+    },
+    "Генетика и наследование": {
+      "aliases": [
+        "генетика",
+        "наследование признаков",
+        "heredity",
+        "genetics"
+      ],
+      "intro": "**Ген** — участок ДНК, участвующий в формировании функционального продукта (РНК или белка). **Аллели** — варианты одного гена. В простой менделевской модели доминантный аллель может определять проявление признака при наличии одной копии, а рецессивный проявляется при двух соответствующих копиях.\n\nОднако большинство реальных человеческих признаков зависят от многих генов и среды: простые схемы с A/a не описывают всё наследование.\n\nПри генотипах Aa и Aa возможны комбинации AA, Aa, aA, aa — в учебной модели их соотношение 1:2:1.",
+      "simple": "От каждого родителя приходит одна копия варианта гена. Для простых учебных примеров можно представить по одной карточке от мамы и папы, которые случайно объединяются.",
+      "example": "Скрещивание Aa×Aa: 25% AA, 50% Aa, 25% aa (при стандартных допущениях).",
+      "quiz": "Сколько аллелей по одному гену обычно есть у диплоидного организма? Два."
+    },
+    "Present Continuous": {
+      "aliases": [
+        "present continuous",
+        "настоящее длительное время",
+        "i am doing"
+      ],
+      "intro": "**Present Continuous**: am/is/are + основная форма глагола с -ing. В основном описывает действие, происходящее сейчас, и временные ситуации.\n\nНапример: *I am reading now*. Вопрос: *Are you reading?* Отрицание: *I am not reading*. Состояния вроде *know* или *believe* обычно не употребляются в продолженной форме в своём основном значении.\n\nСравнение: *She walks to school* — привычка; *She is walking now* — действие в данный момент.",
+      "simple": "Если мы говорим, что человек делает прямо сейчас, используем am/is/are и -ing: I am studying = я сейчас занимаюсь.",
+      "example": "Look! It is raining. (Смотри, идёт дождь прямо сейчас.)",
+      "quiz": "They ___ playing now. Ответ: are."
+    }
+  }
+}
