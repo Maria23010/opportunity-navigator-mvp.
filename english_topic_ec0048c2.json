@@ -1,0 +1,42 @@
+{
+  "id": "English::Future with will",
+  "subject": "English",
+  "title": "Future with will",
+  "grade_min": 5,
+  "grade_max": 6,
+  "levels": {
+    "full": "# Future with will\n\n## Core concept\nUse will + base verb for spontaneous decisions, promises, and predictions: I will call you.\n\n## How it works\nIn negatives use will not or won’t; in questions place will before the subject.\n\n## What to watch out for\nDo not add -s or to after will: She will arrive, not She will arrives.\n\n## Worked example\nIt is cloudy. I think it will rain. I will take an umbrella.\n\n## Try it yourself\nWrite a new example using the rule and explain why it works.",
+    "easy": "## In simple words\nUse will + base verb for spontaneous decisions, promises, and predictions: I will call you.\n\nLook at this example: It is cloudy. I think it will rain. I will take an umbrella.\n\nRemember: Do not add -s or to after will: She will arrive, not She will arrives.",
+    "short": "**Key point:** Use will + base verb for spontaneous decisions, promises, and predictions: I will call you.\n\n**Example:** It is cloudy. I think it will rain. I will take an umbrella.\n\n**Check:** Do not add -s or to after will: She will arrive, not She will arrives."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Understanding",
+      "prompt": "Explain the main idea of Future with will in your own words.",
+      "answer": "Use will + base verb for spontaneous decisions, promises, and predictions: I will call you.",
+      "self_check": "Use will + base verb for spontaneous decisions, promises, and predictions: I will call you."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Apply the rule",
+      "prompt": "Analyze this example and explain the rule: It is cloudy. I think it will rain. I will take an umbrella.",
+      "answer": "In negatives use will not or won’t; in questions place will before the subject.",
+      "self_check": "In negatives use will not or won’t; in questions place will before the subject. It is cloudy. I think it will rain. I will take an umbrella."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Avoid mistakes",
+      "prompt": "What common misunderstanding should you avoid when studying Future with will?",
+      "answer": "Do not add -s or to after will: She will arrive, not She will arrives.",
+      "self_check": "Do not add -s or to after will: She will arrive, not She will arrives."
+    }
+  ],
+  "source": "authored_batch_15",
+  "quality": "subject_specific_compact_draft",
+  "illustration": null,
+  "lesson_status": "authored_batch_15"
+}

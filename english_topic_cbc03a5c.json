@@ -1,0 +1,42 @@
+{
+  "id": "English::Everyday dialogues",
+  "subject": "English",
+  "title": "Everyday dialogues",
+  "grade_min": 5,
+  "grade_max": 6,
+  "levels": {
+    "full": "# Everyday dialogues\n\n## Core concept\nShort conversations often follow greeting, question, response, and closing.\n\n## How it works\nChoose polite expressions appropriate to the relationship: Could you help me? is more polite than Help me.\n\n## What to watch out for\nListen for meaning and ask for clarification: Sorry, could you repeat that?\n\n## Worked example\nA: Excuse me, where is the station? B: Go straight and turn left. A: Thank you!\n\n## Try it yourself\nWrite a new example using the rule and explain why it works.",
+    "easy": "## In simple words\nShort conversations often follow greeting, question, response, and closing.\n\nLook at this example: A: Excuse me, where is the station? B: Go straight and turn left. A: Thank you!\n\nRemember: Listen for meaning and ask for clarification: Sorry, could you repeat that?",
+    "short": "**Key point:** Short conversations often follow greeting, question, response, and closing.\n\n**Example:** A: Excuse me, where is the station? B: Go straight and turn left. A: Thank you!\n\n**Check:** Listen for meaning and ask for clarification: Sorry, could you repeat that?"
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Understanding",
+      "prompt": "Explain the main idea of Everyday dialogues in your own words.",
+      "answer": "Short conversations often follow greeting, question, response, and closing.",
+      "self_check": "Short conversations often follow greeting, question, response, and closing."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Apply the rule",
+      "prompt": "Analyze this example and explain the rule: A: Excuse me, where is the station? B: Go straight and turn left. A: Thank you!",
+      "answer": "Choose polite expressions appropriate to the relationship: Could you help me? is more polite than Help me.",
+      "self_check": "Choose polite expressions appropriate to the relationship: Could you help me? is more polite than Help me. A: Excuse me, where is the station? B: Go straight and turn left. A: Thank you!"
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Avoid mistakes",
+      "prompt": "What common misunderstanding should you avoid when studying Everyday dialogues?",
+      "answer": "Listen for meaning and ask for clarification: Sorry, could you repeat that?",
+      "self_check": "Listen for meaning and ask for clarification: Sorry, could you repeat that?"
+    }
+  ],
+  "source": "authored_batch_15",
+  "quality": "subject_specific_compact_draft",
+  "illustration": null,
+  "lesson_status": "authored_batch_15"
+}

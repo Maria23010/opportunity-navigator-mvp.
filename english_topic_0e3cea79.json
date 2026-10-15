@@ -1,0 +1,42 @@
+{
+  "id": "English::IELTS Reading",
+  "subject": "English",
+  "title": "IELTS Reading",
+  "grade_min": 10,
+  "grade_max": 11,
+  "levels": {
+    "full": "# IELTS Reading\n\n## Core concept\nIELTS Reading tests comprehension of passages and locating information under time pressure.\n\n## How it works\nSkim for overall purpose, scan for key words, then read the relevant lines carefully.\n\n## What to watch out for\nAnswers may paraphrase the question; do not rely only on identical words.\n\n## Worked example\nIf the text says sales fell by 20%, the statement sales increased is FALSE.\n\n## Try it yourself\nWrite a new example using the rule and explain why it works.",
+    "easy": "## In simple words\nIELTS Reading tests comprehension of passages and locating information under time pressure.\n\nLook at this example: If the text says sales fell by 20%, the statement sales increased is FALSE.\n\nRemember: Answers may paraphrase the question; do not rely only on identical words.",
+    "short": "**Key point:** IELTS Reading tests comprehension of passages and locating information under time pressure.\n\n**Example:** If the text says sales fell by 20%, the statement sales increased is FALSE.\n\n**Check:** Answers may paraphrase the question; do not rely only on identical words."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Understanding",
+      "prompt": "Explain the main idea of IELTS Reading in your own words.",
+      "answer": "IELTS Reading tests comprehension of passages and locating information under time pressure.",
+      "self_check": "IELTS Reading tests comprehension of passages and locating information under time pressure."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Apply the rule",
+      "prompt": "Analyze this example and explain the rule: If the text says sales fell by 20%, the statement sales increased is FALSE.",
+      "answer": "Skim for overall purpose, scan for key words, then read the relevant lines carefully.",
+      "self_check": "Skim for overall purpose, scan for key words, then read the relevant lines carefully. If the text says sales fell by 20%, the statement sales increased is FALSE."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Avoid mistakes",
+      "prompt": "What common misunderstanding should you avoid when studying IELTS Reading?",
+      "answer": "Answers may paraphrase the question; do not rely only on identical words.",
+      "self_check": "Answers may paraphrase the question; do not rely only on identical words."
+    }
+  ],
+  "source": "authored_batch_15",
+  "quality": "subject_specific_compact_draft",
+  "illustration": null,
+  "lesson_status": "authored_batch_15"
+}

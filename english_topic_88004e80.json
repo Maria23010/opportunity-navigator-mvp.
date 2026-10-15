@@ -1,0 +1,42 @@
+{
+  "id": "English::Gerund and infinitive",
+  "subject": "English",
+  "title": "Gerund and infinitive",
+  "grade_min": 7,
+  "grade_max": 9,
+  "levels": {
+    "full": "# Gerund and infinitive\n\n## Core concept\nA gerund is verb + -ing functioning as a noun: Swimming is fun. An infinitive often uses to + verb: to swim.\n\n## How it works\nSome verbs take gerunds (enjoy reading), others take infinitives (decide to read).\n\n## What to watch out for\nWith some verbs both forms occur but meaning changes: stop smoking versus stop to smoke.\n\n## Worked example\nI enjoy learning English, but I want to improve my pronunciation.\n\n## Try it yourself\nWrite a new example using the rule and explain why it works.",
+    "easy": "## In simple words\nA gerund is verb + -ing functioning as a noun: Swimming is fun. An infinitive often uses to + verb: to swim.\n\nLook at this example: I enjoy learning English, but I want to improve my pronunciation.\n\nRemember: With some verbs both forms occur but meaning changes: stop smoking versus stop to smoke.",
+    "short": "**Key point:** A gerund is verb + -ing functioning as a noun: Swimming is fun. An infinitive often uses to + verb: to swim.\n\n**Example:** I enjoy learning English, but I want to improve my pronunciation.\n\n**Check:** With some verbs both forms occur but meaning changes: stop smoking versus stop to smoke."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Understanding",
+      "prompt": "Explain the main idea of Gerund and infinitive in your own words.",
+      "answer": "A gerund is verb + -ing functioning as a noun: Swimming is fun. An infinitive often uses to + verb: to swim.",
+      "self_check": "A gerund is verb + -ing functioning as a noun: Swimming is fun. An infinitive often uses to + verb: to swim."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Apply the rule",
+      "prompt": "Analyze this example and explain the rule: I enjoy learning English, but I want to improve my pronunciation.",
+      "answer": "Some verbs take gerunds (enjoy reading), others take infinitives (decide to read).",
+      "self_check": "Some verbs take gerunds (enjoy reading), others take infinitives (decide to read). I enjoy learning English, but I want to improve my pronunciation."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Avoid mistakes",
+      "prompt": "What common misunderstanding should you avoid when studying Gerund and infinitive?",
+      "answer": "With some verbs both forms occur but meaning changes: stop smoking versus stop to smoke.",
+      "self_check": "With some verbs both forms occur but meaning changes: stop smoking versus stop to smoke."
+    }
+  ],
+  "source": "authored_batch_15",
+  "quality": "subject_specific_compact_draft",
+  "illustration": null,
+  "lesson_status": "authored_batch_15"
+}

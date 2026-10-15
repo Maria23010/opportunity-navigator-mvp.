@@ -1,0 +1,42 @@
+{
+  "id": "English::Essay structure",
+  "subject": "English",
+  "title": "Essay structure",
+  "grade_min": 10,
+  "grade_max": 11,
+  "levels": {
+    "full": "# Essay structure\n\n## Core concept\nAn essay usually has an introduction, body paragraphs, and a conclusion. The introduction states the topic and thesis.\n\n## How it works\nEach body paragraph develops one claim with evidence and an explanation of how the evidence supports it.\n\n## What to watch out for\nThe conclusion returns to the thesis without introducing a new major argument.\n\n## Worked example\nThesis: School libraries should stay open later. Body: longer hours give students a quiet place to study.\n\n## Try it yourself\nWrite a new example using the rule and explain why it works.",
+    "easy": "## In simple words\nAn essay usually has an introduction, body paragraphs, and a conclusion. The introduction states the topic and thesis.\n\nLook at this example: Thesis: School libraries should stay open later. Body: longer hours give students a quiet place to study.\n\nRemember: The conclusion returns to the thesis without introducing a new major argument.",
+    "short": "**Key point:** An essay usually has an introduction, body paragraphs, and a conclusion. The introduction states the topic and thesis.\n\n**Example:** Thesis: School libraries should stay open later. Body: longer hours give students a quiet place to study.\n\n**Check:** The conclusion returns to the thesis without introducing a new major argument."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Understanding",
+      "prompt": "Explain the main idea of Essay structure in your own words.",
+      "answer": "An essay usually has an introduction, body paragraphs, and a conclusion. The introduction states the topic and thesis.",
+      "self_check": "An essay usually has an introduction, body paragraphs, and a conclusion. The introduction states the topic and thesis."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Apply the rule",
+      "prompt": "Analyze this example and explain the rule: Thesis: School libraries should stay open later. Body: longer hours give students a quiet place to study.",
+      "answer": "Each body paragraph develops one claim with evidence and an explanation of how the evidence supports it.",
+      "self_check": "Each body paragraph develops one claim with evidence and an explanation of how the evidence supports it. Thesis: School libraries should stay open later. Body: longer hours give students a quiet place to study."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Avoid mistakes",
+      "prompt": "What common misunderstanding should you avoid when studying Essay structure?",
+      "answer": "The conclusion returns to the thesis without introducing a new major argument.",
+      "self_check": "The conclusion returns to the thesis without introducing a new major argument."
+    }
+  ],
+  "source": "authored_batch_15",
+  "quality": "subject_specific_compact_draft",
+  "illustration": null,
+  "lesson_status": "authored_batch_15"
+}

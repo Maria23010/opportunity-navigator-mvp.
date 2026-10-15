@@ -1,0 +1,42 @@
+{
+  "id": "English::Going to",
+  "subject": "English",
+  "title": "Going to",
+  "grade_min": 5,
+  "grade_max": 6,
+  "levels": {
+    "full": "# Going to\n\n## Core concept\nBe going to + base verb expresses plans and predictions based on present evidence.\n\n## How it works\nChoose am/is/are to match the subject: I am going to study; they are going to travel.\n\n## What to watch out for\nFor negatives put not after be; for questions invert be and the subject.\n\n## Worked example\nLook at those dark clouds! It is going to rain.\n\n## Try it yourself\nWrite a new example using the rule and explain why it works.",
+    "easy": "## In simple words\nBe going to + base verb expresses plans and predictions based on present evidence.\n\nLook at this example: Look at those dark clouds! It is going to rain.\n\nRemember: For negatives put not after be; for questions invert be and the subject.",
+    "short": "**Key point:** Be going to + base verb expresses plans and predictions based on present evidence.\n\n**Example:** Look at those dark clouds! It is going to rain.\n\n**Check:** For negatives put not after be; for questions invert be and the subject."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Understanding",
+      "prompt": "Explain the main idea of Going to in your own words.",
+      "answer": "Be going to + base verb expresses plans and predictions based on present evidence.",
+      "self_check": "Be going to + base verb expresses plans and predictions based on present evidence."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Apply the rule",
+      "prompt": "Analyze this example and explain the rule: Look at those dark clouds! It is going to rain.",
+      "answer": "Choose am/is/are to match the subject: I am going to study; they are going to travel.",
+      "self_check": "Choose am/is/are to match the subject: I am going to study; they are going to travel. Look at those dark clouds! It is going to rain."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Avoid mistakes",
+      "prompt": "What common misunderstanding should you avoid when studying Going to?",
+      "answer": "For negatives put not after be; for questions invert be and the subject.",
+      "self_check": "For negatives put not after be; for questions invert be and the subject."
+    }
+  ],
+  "source": "authored_batch_15",
+  "quality": "subject_specific_compact_draft",
+  "illustration": null,
+  "lesson_status": "authored_batch_15"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "English::IELTS Speaking",
+  "subject": "English",
+  "title": "IELTS Speaking",
+  "grade_min": 10,
+  "grade_max": 11,
+  "levels": {
+    "full": "# IELTS Speaking\n\n## Core concept\nIELTS Speaking assesses fluency, vocabulary, grammar, and pronunciation in a live interview.\n\n## How it works\nAnswer directly, then extend with a reason and an example rather than memorizing long scripts.\n\n## What to watch out for\nAsk for a question to be repeated if needed; avoid one-word answers.\n\n## Worked example\nQuestion: What do you enjoy reading? Answer: I like mysteries because they keep me curious.\n\n## Try it yourself\nWrite a new example using the rule and explain why it works.",
+    "easy": "## In simple words\nIELTS Speaking assesses fluency, vocabulary, grammar, and pronunciation in a live interview.\n\nLook at this example: Question: What do you enjoy reading? Answer: I like mysteries because they keep me curious.\n\nRemember: Ask for a question to be repeated if needed; avoid one-word answers.",
+    "short": "**Key point:** IELTS Speaking assesses fluency, vocabulary, grammar, and pronunciation in a live interview.\n\n**Example:** Question: What do you enjoy reading? Answer: I like mysteries because they keep me curious.\n\n**Check:** Ask for a question to be repeated if needed; avoid one-word answers."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Understanding",
+      "prompt": "Explain the main idea of IELTS Speaking in your own words.",
+      "answer": "IELTS Speaking assesses fluency, vocabulary, grammar, and pronunciation in a live interview.",
+      "self_check": "IELTS Speaking assesses fluency, vocabulary, grammar, and pronunciation in a live interview."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Apply the rule",
+      "prompt": "Analyze this example and explain the rule: Question: What do you enjoy reading? Answer: I like mysteries because they keep me curious.",
+      "answer": "Answer directly, then extend with a reason and an example rather than memorizing long scripts.",
+      "self_check": "Answer directly, then extend with a reason and an example rather than memorizing long scripts. Question: What do you enjoy reading? Answer: I like mysteries because they keep me curious."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Avoid mistakes",
+      "prompt": "What common misunderstanding should you avoid when studying IELTS Speaking?",
+      "answer": "Ask for a question to be repeated if needed; avoid one-word answers.",
+      "self_check": "Ask for a question to be repeated if needed; avoid one-word answers."
+    }
+  ],
+  "source": "authored_batch_15",
+  "quality": "subject_specific_compact_draft",
+  "illustration": null,
+  "lesson_status": "authored_batch_15"
+}

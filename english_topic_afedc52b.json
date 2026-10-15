@@ -1,0 +1,42 @@
+{
+  "id": "English::IELTS Writing",
+  "subject": "English",
+  "title": "IELTS Writing",
+  "grade_min": 10,
+  "grade_max": 11,
+  "levels": {
+    "full": "# IELTS Writing\n\n## Core concept\nIELTS Writing includes two tasks with different purposes and assessment criteria.\n\n## How it works\nPlan a clear position, organize paragraphs logically, and support claims with examples.\n\n## What to watch out for\nLeave time to check verb agreement, spelling, and whether every part of the task is answered.\n\n## Worked example\nFor an opinion essay: state your view, explain two reasons, then summarize the position.\n\n## Try it yourself\nWrite a new example using the rule and explain why it works.",
+    "easy": "## In simple words\nIELTS Writing includes two tasks with different purposes and assessment criteria.\n\nLook at this example: For an opinion essay: state your view, explain two reasons, then summarize the position.\n\nRemember: Leave time to check verb agreement, spelling, and whether every part of the task is answered.",
+    "short": "**Key point:** IELTS Writing includes two tasks with different purposes and assessment criteria.\n\n**Example:** For an opinion essay: state your view, explain two reasons, then summarize the position.\n\n**Check:** Leave time to check verb agreement, spelling, and whether every part of the task is answered."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Understanding",
+      "prompt": "Explain the main idea of IELTS Writing in your own words.",
+      "answer": "IELTS Writing includes two tasks with different purposes and assessment criteria.",
+      "self_check": "IELTS Writing includes two tasks with different purposes and assessment criteria."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Apply the rule",
+      "prompt": "Analyze this example and explain the rule: For an opinion essay: state your view, explain two reasons, then summarize the position.",
+      "answer": "Plan a clear position, organize paragraphs logically, and support claims with examples.",
+      "self_check": "Plan a clear position, organize paragraphs logically, and support claims with examples. For an opinion essay: state your view, explain two reasons, then summarize the position."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Avoid mistakes",
+      "prompt": "What common misunderstanding should you avoid when studying IELTS Writing?",
+      "answer": "Leave time to check verb agreement, spelling, and whether every part of the task is answered.",
+      "self_check": "Leave time to check verb agreement, spelling, and whether every part of the task is answered."
+    }
+  ],
+  "source": "authored_batch_15",
+  "quality": "subject_specific_compact_draft",
+  "illustration": null,
+  "lesson_status": "authored_batch_15"
+}
