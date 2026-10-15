@@ -1,0 +1,45 @@
+{
+  "id": "English::Academic writing",
+  "subject": "English",
+  "title": "Academic writing",
+  "grade_min": 10,
+  "grade_max": 11,
+  "levels": {
+    "full": "# Academic writing\n\n## Основная идея\nAcademic writing uses a clear claim, evidence and logical connections. A paragraph often begins with a topic sentence, follows with a specific example or source, and ends by explaining why that evidence matters. Formal writing avoids unsupported sweeping claims.\n\n## Разбор на примере\nClaim: Reading daily can improve vocabulary. Evidence: A learner records ten new words from a story. Explanation: Repeated encounters help those words become familiar.\n\n## Как применять знания\n1. Определи ключевое понятие или правило из темы.\n2. Найди в примере конкретные факты, которые подтверждают правило.\n3. Сформулируй вывод и проверь его на другом случае.\n\n## Типичная ошибка\nA paragraph is not stronger merely because it uses longer words. Precision and evidence matter more.\n\n## Проверь понимание\nWhat are the three essential moves in an evidence-based paragraph?",
+    "easy": "## Объяснение простыми словами\nAcademic writing uses a clear claim, evidence and logical connections.\n\n**Пример:** Claim: Reading daily can improve vocabulary. Evidence: A learner records ten new words from a story. Explanation: Repeated encounters help those words become familiar.\n\n**На что обратить внимание:** A paragraph is not stronger merely because it uses longer words. Precision and evidence matter more.",
+    "short": "## Самое главное\nAcademic writing uses a clear claim, evidence and logical connections.\n\n**Запомни пример:** Claim: Reading daily can improve vocabulary. Evidence: A learner records ten new words from a story. Explanation: Repeated encounters help those words become familiar.\n\n**Не ошибись:** A paragraph is not stronger merely because it uses longer words. Precision and evidence matter more."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "What are the three essential moves in an evidence-based paragraph?",
+      "answer": "State a claim, give relevant evidence, and explain how the evidence supports the claim.",
+      "self_check": "State a claim, give relevant evidence, and explain how the evidence supports the claim.",
+      "explanation": "State a claim, give relevant evidence, and explain how the evidence supports the claim."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Объясни своими словами пример из урока «Academic writing» и назови ключевое правило.",
+      "answer": "Academic writing uses a clear claim, evidence and logical connections. A paragraph often begins with a topic sentence, follows with a specific example or source, and ends by explaining why that evidence matters. Formal writing avoids unsupported sweeping claims.",
+      "self_check": "Пример: Claim: Reading daily can improve vocabulary. Evidence: A learner records ten new words from a story. Explanation: Repeated encounters help those words become familiar. Главное правило: Academic writing uses a clear claim, evidence and logical connections. A paragraph often begins with a topic sentence, follows with a specific example or source, and ends by explaining why that evidence matters. Formal writing avoids unsupported sweeping claims.",
+      "explanation": "Academic writing uses a clear claim, evidence and logical connections. A paragraph often begins with a topic sentence, follows with a specific example or source, and ends by explaining why that evidence matters. Formal writing avoids unsupported sweeping claims."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Найди ошибку",
+      "prompt": "Какой ошибки следует избегать при изучении темы «Academic writing»?",
+      "answer": "A paragraph is not stronger merely because it uses longer words. Precision and evidence matter more.",
+      "self_check": "A paragraph is not stronger merely because it uses longer words. Precision and evidence matter more.",
+      "explanation": "A paragraph is not stronger merely because it uses longer words. Precision and evidence matter more."
+    }
+  ],
+  "source": "authored_topic_notes",
+  "quality": "curated_subject_specific",
+  "illustration": null,
+  "lesson_status": "authored_batch_14"
+}

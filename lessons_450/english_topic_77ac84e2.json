@@ -1,0 +1,45 @@
+{
+  "id": "English::Argumentation",
+  "subject": "English",
+  "title": "Argumentation",
+  "grade_min": 10,
+  "grade_max": 11,
+  "levels": {
+    "full": "# Argumentation\n\n## Основная идея\nA convincing argument has a position, reasons, evidence, and a response to possible objections. The position answers what you believe; reasons explain why; evidence provides facts or examples. A counterargument shows you understand an alternative view.\n\n## Разбор на примере\nPosition: Schools should offer reading time. Reason: It creates a regular habit. Evidence: A class reading log can show participation. Counterargument: Time is limited; response: a short daily period may be practical.\n\n## Как применять знания\n1. Определи ключевое понятие или правило из темы.\n2. Найди в примере конкретные факты, которые подтверждают правило.\n3. Сформулируй вывод и проверь его на другом случае.\n\n## Типичная ошибка\nA personal opinion is not itself evidence; explain the reasoning and identify reliable support.\n\n## Проверь понимание\nWhat is a counterargument?",
+    "easy": "## Объяснение простыми словами\nA convincing argument has a position, reasons, evidence, and a response to possible objections.\n\n**Пример:** Position: Schools should offer reading time. Reason: It creates a regular habit. Evidence: A class reading log can show participation. Counterargument: Time is limited; response: a short daily period may be practical.\n\n**На что обратить внимание:** A personal opinion is not itself evidence; explain the reasoning and identify reliable support.",
+    "short": "## Самое главное\nA convincing argument has a position, reasons, evidence, and a response to possible objections.\n\n**Запомни пример:** Position: Schools should offer reading time. Reason: It creates a regular habit. Evidence: A class reading log can show participation. Counterargument: Time is limited; response: a short daily period may be practical.\n\n**Не ошибись:** A personal opinion is not itself evidence; explain the reasoning and identify reliable support."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "What is a counterargument?",
+      "answer": "A plausible opposing point of view that you acknowledge and address.",
+      "self_check": "A plausible opposing point of view that you acknowledge and address.",
+      "explanation": "A plausible opposing point of view that you acknowledge and address."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Объясни своими словами пример из урока «Argumentation» и назови ключевое правило.",
+      "answer": "A convincing argument has a position, reasons, evidence, and a response to possible objections. The position answers what you believe; reasons explain why; evidence provides facts or examples. A counterargument shows you understand an alternative view.",
+      "self_check": "Пример: Position: Schools should offer reading time. Reason: It creates a regular habit. Evidence: A class reading log can show participation. Counterargument: Time is limited; response: a short daily period may be practical. Главное правило: A convincing argument has a position, reasons, evidence, and a response to possible objections. The position answers what you believe; reasons explain why; evidence provides facts or examples. A counterargument shows you understand an alternative view.",
+      "explanation": "A convincing argument has a position, reasons, evidence, and a response to possible objections. The position answers what you believe; reasons explain why; evidence provides facts or examples. A counterargument shows you understand an alternative view."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Найди ошибку",
+      "prompt": "Какой ошибки следует избегать при изучении темы «Argumentation»?",
+      "answer": "A personal opinion is not itself evidence; explain the reasoning and identify reliable support.",
+      "self_check": "A personal opinion is not itself evidence; explain the reasoning and identify reliable support.",
+      "explanation": "A personal opinion is not itself evidence; explain the reasoning and identify reliable support."
+    }
+  ],
+  "source": "authored_topic_notes",
+  "quality": "curated_subject_specific",
+  "illustration": null,
+  "lesson_status": "authored_batch_14"
+}

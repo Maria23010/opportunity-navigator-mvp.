@@ -1,0 +1,45 @@
+{
+  "id": "English::Complex sentences",
+  "subject": "English",
+  "title": "Complex sentences",
+  "grade_min": 10,
+  "grade_max": 11,
+  "levels": {
+    "full": "# Complex sentences\n\n## Основная идея\nA complex sentence combines an independent clause with at least one dependent clause. Subordinators such as because, although, if, and when show cause, contrast, condition or time. A dependent clause cannot normally stand alone as a complete sentence.\n\n## Разбор на примере\nAlthough it was raining, we went outside. The first clause signals contrast; the second is the main statement.\n\n## Как применять знания\n1. Определи ключевое понятие или правило из темы.\n2. Найди в примере конкретные факты, которые подтверждают правило.\n3. Сформулируй вывод и проверь его на другом случае.\n\n## Типичная ошибка\n“Because I was tired.” is usually a fragment unless connected to a main clause.\n\n## Проверь понимание\nIdentify the dependent clause in “I stayed home because I was ill.”",
+    "easy": "## Объяснение простыми словами\nA complex sentence combines an independent clause with at least one dependent clause.\n\n**Пример:** Although it was raining, we went outside. The first clause signals contrast; the second is the main statement.\n\n**На что обратить внимание:** “Because I was tired.” is usually a fragment unless connected to a main clause.",
+    "short": "## Самое главное\nA complex sentence combines an independent clause with at least one dependent clause.\n\n**Запомни пример:** Although it was raining, we went outside. The first clause signals contrast; the second is the main statement.\n\n**Не ошибись:** “Because I was tired.” is usually a fragment unless connected to a main clause."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Identify the dependent clause in “I stayed home because I was ill.”",
+      "answer": "because I was ill",
+      "self_check": "because I was ill",
+      "explanation": "because I was ill"
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Объясни своими словами пример из урока «Complex sentences» и назови ключевое правило.",
+      "answer": "A complex sentence combines an independent clause with at least one dependent clause. Subordinators such as because, although, if, and when show cause, contrast, condition or time. A dependent clause cannot normally stand alone as a complete sentence.",
+      "self_check": "Пример: Although it was raining, we went outside. The first clause signals contrast; the second is the main statement. Главное правило: A complex sentence combines an independent clause with at least one dependent clause. Subordinators such as because, although, if, and when show cause, contrast, condition or time. A dependent clause cannot normally stand alone as a complete sentence.",
+      "explanation": "A complex sentence combines an independent clause with at least one dependent clause. Subordinators such as because, although, if, and when show cause, contrast, condition or time. A dependent clause cannot normally stand alone as a complete sentence."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Найди ошибку",
+      "prompt": "Какой ошибки следует избегать при изучении темы «Complex sentences»?",
+      "answer": "“Because I was tired.” is usually a fragment unless connected to a main clause.",
+      "self_check": "“Because I was tired.” is usually a fragment unless connected to a main clause.",
+      "explanation": "“Because I was tired.” is usually a fragment unless connected to a main clause."
+    }
+  ],
+  "source": "authored_topic_notes",
+  "quality": "curated_subject_specific",
+  "illustration": null,
+  "lesson_status": "authored_batch_14"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "English::Comparatives and superlatives",
+  "subject": "English",
+  "title": "Comparatives and superlatives",
+  "grade_min": 5,
+  "grade_max": 6,
+  "levels": {
+    "full": "# Comparatives and superlatives\n\n## Основная идея\nUse comparative adjectives to compare two things and superlatives to identify an extreme within a group. Short adjectives often take -er/-est: taller, tallest. Longer adjectives usually take more/most: more useful, most useful. Some are irregular: good, better, best.\n\n## Разбор на примере\nThis route is shorter than that one. Of the three routes, this is the shortest.\n\n## Как применять знания\n1. Определи ключевое понятие или правило из темы.\n2. Найди в примере конкретные факты, которые подтверждают правило.\n3. Сформулируй вывод и проверь его на другом случае.\n\n## Типичная ошибка\nDo not combine two comparison markers: more easier is incorrect; use easier.\n\n## Проверь понимание\nComplete: “This problem is ___ (difficult) than the last one.”",
+    "easy": "## Объяснение простыми словами\nUse comparative adjectives to compare two things and superlatives to identify an extreme within a group.\n\n**Пример:** This route is shorter than that one. Of the three routes, this is the shortest.\n\n**На что обратить внимание:** Do not combine two comparison markers: more easier is incorrect; use easier.",
+    "short": "## Самое главное\nUse comparative adjectives to compare two things and superlatives to identify an extreme within a group.\n\n**Запомни пример:** This route is shorter than that one. Of the three routes, this is the shortest.\n\n**Не ошибись:** Do not combine two comparison markers: more easier is incorrect; use easier."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Complete: “This problem is ___ (difficult) than the last one.”",
+      "answer": "more difficult",
+      "self_check": "more difficult",
+      "explanation": "more difficult"
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Объясни своими словами пример из урока «Comparatives and superlatives» и назови ключевое правило.",
+      "answer": "Use comparative adjectives to compare two things and superlatives to identify an extreme within a group. Short adjectives often take -er/-est: taller, tallest. Longer adjectives usually take more/most: more useful, most useful. Some are irregular: good, better, best.",
+      "self_check": "Пример: This route is shorter than that one. Of the three routes, this is the shortest. Главное правило: Use comparative adjectives to compare two things and superlatives to identify an extreme within a group. Short adjectives often take -er/-est: taller, tallest. Longer adjectives usually take more/most: more useful, most useful. Some are irregular: good, better, best.",
+      "explanation": "Use comparative adjectives to compare two things and superlatives to identify an extreme within a group. Short adjectives often take -er/-est: taller, tallest. Longer adjectives usually take more/most: more useful, most useful. Some are irregular: good, better, best."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Найди ошибку",
+      "prompt": "Какой ошибки следует избегать при изучении темы «Comparatives and superlatives»?",
+      "answer": "Do not combine two comparison markers: more easier is incorrect; use easier.",
+      "self_check": "Do not combine two comparison markers: more easier is incorrect; use easier.",
+      "explanation": "Do not combine two comparison markers: more easier is incorrect; use easier."
+    }
+  ],
+  "source": "authored_topic_notes",
+  "quality": "curated_subject_specific",
+  "illustration": null,
+  "lesson_status": "authored_batch_14"
+}

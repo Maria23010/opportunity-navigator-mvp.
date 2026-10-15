@@ -1,0 +1,45 @@
+{
+  "id": "English::Countable and uncountable nouns",
+  "subject": "English",
+  "title": "Countable and uncountable nouns",
+  "grade_min": 5,
+  "grade_max": 6,
+  "levels": {
+    "full": "# Countable and uncountable nouns\n\n## Основная идея\nCountable nouns can be numbered: one apple, two apples. Uncountable nouns normally refer to substances, categories or abstract quantities: water, information, advice. Use many/few with countable plurals and much/little with uncountable nouns. Units allow measurement: a glass of water, a piece of advice.\n\n## Разбор на примере\nThere are many books but not much time. She gave me two pieces of advice.\n\n## Как применять знания\n1. Определи ключевое понятие или правило из темы.\n2. Найди в примере конкретные факты, которые подтверждают правило.\n3. Сформулируй вывод и проверь его на другом случае.\n\n## Типичная ошибка\nInformation and advice are normally uncountable in standard English; avoid informations and advices.\n\n## Проверь понимание\nChoose: “How ___ information do we need?”",
+    "easy": "## Объяснение простыми словами\nCountable nouns can be numbered: one apple, two apples.\n\n**Пример:** There are many books but not much time. She gave me two pieces of advice.\n\n**На что обратить внимание:** Information and advice are normally uncountable in standard English; avoid informations and advices.",
+    "short": "## Самое главное\nCountable nouns can be numbered: one apple, two apples.\n\n**Запомни пример:** There are many books but not much time. She gave me two pieces of advice.\n\n**Не ошибись:** Information and advice are normally uncountable in standard English; avoid informations and advices."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Choose: “How ___ information do we need?”",
+      "answer": "much",
+      "self_check": "much",
+      "explanation": "much"
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Объясни своими словами пример из урока «Countable and uncountable nouns» и назови ключевое правило.",
+      "answer": "Countable nouns can be numbered: one apple, two apples. Uncountable nouns normally refer to substances, categories or abstract quantities: water, information, advice. Use many/few with countable plurals and much/little with uncountable nouns. Units allow measurement: a glass of water, a piece of advice.",
+      "self_check": "Пример: There are many books but not much time. She gave me two pieces of advice. Главное правило: Countable nouns can be numbered: one apple, two apples. Uncountable nouns normally refer to substances, categories or abstract quantities: water, information, advice. Use many/few with countable plurals and much/little with uncountable nouns. Units allow measurement: a glass of water, a piece of advice.",
+      "explanation": "Countable nouns can be numbered: one apple, two apples. Uncountable nouns normally refer to substances, categories or abstract quantities: water, information, advice. Use many/few with countable plurals and much/little with uncountable nouns. Units allow measurement: a glass of water, a piece of advice."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Найди ошибку",
+      "prompt": "Какой ошибки следует избегать при изучении темы «Countable and uncountable nouns»?",
+      "answer": "Information and advice are normally uncountable in standard English; avoid informations and advices.",
+      "self_check": "Information and advice are normally uncountable in standard English; avoid informations and advices.",
+      "explanation": "Information and advice are normally uncountable in standard English; avoid informations and advices."
+    }
+  ],
+  "source": "authored_topic_notes",
+  "quality": "curated_subject_specific",
+  "illustration": null,
+  "lesson_status": "authored_batch_14"
+}

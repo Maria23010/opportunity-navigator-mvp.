@@ -1,0 +1,45 @@
+{
+  "id": "English::Advanced tenses",
+  "subject": "English",
+  "title": "Advanced tenses",
+  "grade_min": 10,
+  "grade_max": 11,
+  "levels": {
+    "full": "# Advanced tenses\n\n## Основная идея\nEnglish perfect and continuous forms express the relationship between an event and a reference time. Present perfect links past experience or results to now: I have finished. Past perfect marks an event earlier than another past event: I had finished before she arrived. Continuous forms highlight duration or ongoing activity.\n\n## Разбор на примере\nBy 8 p.m., she had been studying for two hours: the studying continued up to a past reference point.\n\n## Как применять знания\n1. Определи ключевое понятие или правило из темы.\n2. Найди в примере конкретные факты, которые подтверждают правило.\n3. Сформулируй вывод и проверь его на другом случае.\n\n## Типичная ошибка\nDo not use present perfect with a finished past time such as yesterday: say I saw him yesterday, not I have seen him yesterday.\n\n## Проверь понимание\nWhich tense is used in “She had left before I arrived,” and why?",
+    "easy": "## Объяснение простыми словами\nEnglish perfect and continuous forms express the relationship between an event and a reference time.\n\n**Пример:** By 8 p.m., she had been studying for two hours: the studying continued up to a past reference point.\n\n**На что обратить внимание:** Do not use present perfect with a finished past time such as yesterday: say I saw him yesterday, not I have seen him yesterday.",
+    "short": "## Самое главное\nEnglish perfect and continuous forms express the relationship between an event and a reference time.\n\n**Запомни пример:** By 8 p.m., she had been studying for two hours: the studying continued up to a past reference point.\n\n**Не ошибись:** Do not use present perfect with a finished past time such as yesterday: say I saw him yesterday, not I have seen him yesterday."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Which tense is used in “She had left before I arrived,” and why?",
+      "answer": "Past perfect; her departure happened before the second past event.",
+      "self_check": "Past perfect; her departure happened before the second past event.",
+      "explanation": "Past perfect; her departure happened before the second past event."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Объясни своими словами пример из урока «Advanced tenses» и назови ключевое правило.",
+      "answer": "English perfect and continuous forms express the relationship between an event and a reference time. Present perfect links past experience or results to now: I have finished. Past perfect marks an event earlier than another past event: I had finished before she arrived. Continuous forms highlight duration or ongoing activity.",
+      "self_check": "Пример: By 8 p.m., she had been studying for two hours: the studying continued up to a past reference point. Главное правило: English perfect and continuous forms express the relationship between an event and a reference time. Present perfect links past experience or results to now: I have finished. Past perfect marks an event earlier than another past event: I had finished before she arrived. Continuous forms highlight duration or ongoing activity.",
+      "explanation": "English perfect and continuous forms express the relationship between an event and a reference time. Present perfect links past experience or results to now: I have finished. Past perfect marks an event earlier than another past event: I had finished before she arrived. Continuous forms highlight duration or ongoing activity."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Найди ошибку",
+      "prompt": "Какой ошибки следует избегать при изучении темы «Advanced tenses»?",
+      "answer": "Do not use present perfect with a finished past time such as yesterday: say I saw him yesterday, not I have seen him yesterday.",
+      "self_check": "Do not use present perfect with a finished past time such as yesterday: say I saw him yesterday, not I have seen him yesterday.",
+      "explanation": "Do not use present perfect with a finished past time such as yesterday: say I saw him yesterday, not I have seen him yesterday."
+    }
+  ],
+  "source": "authored_topic_notes",
+  "quality": "curated_subject_specific",
+  "illustration": null,
+  "lesson_status": "authored_batch_14"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "English::Critical reading",
+  "subject": "English",
+  "title": "Critical reading",
+  "grade_min": 10,
+  "grade_max": 11,
+  "levels": {
+    "full": "# Critical reading\n\n## Основная идея\nCritical reading asks what an author claims, how they support it, and what assumptions may be missing. Distinguish facts from interpretations, check the origin of statistics, and look for alternative explanations. Tone and emotionally loaded words can reveal persuasion.\n\n## Разбор на примере\nA post says “Everyone prefers online learning” but cites only five friends. The sample is too small to justify a claim about everyone.\n\n## Как применять знания\n1. Определи ключевое понятие или правило из темы.\n2. Найди в примере конкретные факты, которые подтверждают правило.\n3. Сформулируй вывод и проверь его на другом случае.\n\n## Типичная ошибка\nA confident tone does not prove a claim; evidence must be relevant and representative.\n\n## Проверь понимание\nWhy is a survey of five friends weak support for a claim about all students?",
+    "easy": "## Объяснение простыми словами\nCritical reading asks what an author claims, how they support it, and what assumptions may be missing.\n\n**Пример:** A post says “Everyone prefers online learning” but cites only five friends. The sample is too small to justify a claim about everyone.\n\n**На что обратить внимание:** A confident tone does not prove a claim; evidence must be relevant and representative.",
+    "short": "## Самое главное\nCritical reading asks what an author claims, how they support it, and what assumptions may be missing.\n\n**Запомни пример:** A post says “Everyone prefers online learning” but cites only five friends. The sample is too small to justify a claim about everyone.\n\n**Не ошибись:** A confident tone does not prove a claim; evidence must be relevant and representative."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Why is a survey of five friends weak support for a claim about all students?",
+      "answer": "It is a tiny, nonrepresentative sample and cannot reliably describe all students.",
+      "self_check": "It is a tiny, nonrepresentative sample and cannot reliably describe all students.",
+      "explanation": "It is a tiny, nonrepresentative sample and cannot reliably describe all students."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Объясни своими словами пример из урока «Critical reading» и назови ключевое правило.",
+      "answer": "Critical reading asks what an author claims, how they support it, and what assumptions may be missing. Distinguish facts from interpretations, check the origin of statistics, and look for alternative explanations. Tone and emotionally loaded words can reveal persuasion.",
+      "self_check": "Пример: A post says “Everyone prefers online learning” but cites only five friends. The sample is too small to justify a claim about everyone. Главное правило: Critical reading asks what an author claims, how they support it, and what assumptions may be missing. Distinguish facts from interpretations, check the origin of statistics, and look for alternative explanations. Tone and emotionally loaded words can reveal persuasion.",
+      "explanation": "Critical reading asks what an author claims, how they support it, and what assumptions may be missing. Distinguish facts from interpretations, check the origin of statistics, and look for alternative explanations. Tone and emotionally loaded words can reveal persuasion."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Найди ошибку",
+      "prompt": "Какой ошибки следует избегать при изучении темы «Critical reading»?",
+      "answer": "A confident tone does not prove a claim; evidence must be relevant and representative.",
+      "self_check": "A confident tone does not prove a claim; evidence must be relevant and representative.",
+      "explanation": "A confident tone does not prove a claim; evidence must be relevant and representative."
+    }
+  ],
+  "source": "authored_topic_notes",
+  "quality": "curated_subject_specific",
+  "illustration": null,
+  "lesson_status": "authored_batch_14"
+}
