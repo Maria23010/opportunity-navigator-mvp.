@@ -1,0 +1,39 @@
+{
+  "id": "English::Modal verbs",
+  "subject": "English",
+  "title": "Modal verbs",
+  "grade_min": 7,
+  "grade_max": 9,
+  "levels": {
+    "full": "# Modal verbs\n\n## Что изучаем\nModals such as must, should, might and can express obligation, advice, possibility or ability.\n\n## Разбор темы\n1. Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n2. Сопоставь структуру образца с правилом и составь своё предложение.\n3. Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n## Конкретный пример\n“You should rest” gives advice; “You must stop” is stronger.\n\n## Как применить знание\nСначала объясни, какое правило или явление показано в примере. Затем назови признаки, по которым это можно проверить. Наконец, попробуй привести другой случай и сравнить его с исходным.\n\n## Самопроверка\nСформулируй главную мысль без подсказки. Объясни пример и укажи, какие детали важны для правильного вывода.",
+    "easy": "## Modal verbs: простыми словами\n\nНачни с одного знакомого случая. “You should rest” gives advice; “You must stop” is stronger. Это помогает увидеть суть темы без лишних определений.\n\n**Как действовать:** 1) Определи, какое значение нужно выразить: время, действие, отношение или намерение. 2) Сопоставь структуру образца с правилом и составь своё предложение. 3) Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n**Пример для понимания:** “You should rest” gives advice; “You must stop” is stronger.\n\nПопробуй объяснить этот пример другу своими словами.",
+    "short": "## Modal verbs: повторение\n\n**Главная мысль.** Modals such as must, should, might and can express obligation, advice, possibility or ability.\n\n**Запомни:** Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n\n**Пример:** “You should rest” gives advice; “You must stop” is stronger."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Понимание",
+      "prompt": "Объясни своими словами основную идею темы «Modal verbs» и приведи один факт из урока.",
+      "self_check": "Modals such as must, should, might and can express obligation, advice, possibility or ability."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Работа с примером",
+      "prompt": "Как пример из урока связан с темой «Modal verbs»? Объясни причинно-следственную связь или правило.",
+      "self_check": "“You should rest” gives advice; “You must stop” is stronger."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Разбери пример по теме «Modal verbs»: “You should rest” gives advice; “You must stop” is stronger. Какие признаки или правила здесь важны?",
+      "self_check": "Основная идея: Modals such as must, should, might and can express obligation, advice, possibility or ability.\n\nПример: “You should rest” gives advice; “You must stop” is stronger."
+    }
+  ],
+  "source": "curriculum_lessons",
+  "quality": "expanded_from_source_notes_needs_editorial_review",
+  "illustration": null,
+  "lesson_status": "authored_batch_16"
+}

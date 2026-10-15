@@ -1,0 +1,39 @@
+{
+  "id": "English::Past Simple",
+  "subject": "English",
+  "title": "Past Simple",
+  "grade_min": 5,
+  "grade_max": 6,
+  "levels": {
+    "full": "# Past Simple\n\n## Что изучаем\nPast Simple describes completed past events; regular verbs take -ed, many common verbs are irregular.\n\n## Разбор темы\n1. Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n2. Сопоставь структуру образца с правилом и составь своё предложение.\n3. Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n## Конкретный пример\n“We visited London last year”; “I went home.”\n\n## Как применить знание\nСначала объясни, какое правило или явление показано в примере. Затем назови признаки, по которым это можно проверить. Наконец, попробуй привести другой случай и сравнить его с исходным.\n\n## Самопроверка\nСформулируй главную мысль без подсказки. Объясни пример и укажи, какие детали важны для правильного вывода.",
+    "easy": "## Past Simple: простыми словами\n\nНачни с одного знакомого случая. “We visited London last year”; “I went home.” Это помогает увидеть суть темы без лишних определений.\n\n**Как действовать:** 1) Определи, какое значение нужно выразить: время, действие, отношение или намерение. 2) Сопоставь структуру образца с правилом и составь своё предложение. 3) Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n**Пример для понимания:** “We visited London last year”; “I went home.”\n\nПопробуй объяснить этот пример другу своими словами.",
+    "short": "## Past Simple: повторение\n\n**Главная мысль.** Past Simple describes completed past events; regular verbs take -ed, many common verbs are irregular.\n\n**Запомни:** Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n\n**Пример:** “We visited London last year”; “I went home.”"
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Понимание",
+      "prompt": "Объясни своими словами основную идею темы «Past Simple» и приведи один факт из урока.",
+      "self_check": "Past Simple describes completed past events; regular verbs take -ed, many common verbs are irregular."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Работа с примером",
+      "prompt": "Как пример из урока связан с темой «Past Simple»? Объясни причинно-следственную связь или правило.",
+      "self_check": "“We visited London last year”; “I went home.”"
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Разбери пример по теме «Past Simple»: “We visited London last year”; “I went home.” Какие признаки или правила здесь важны?",
+      "self_check": "Основная идея: Past Simple describes completed past events; regular verbs take -ed, many common verbs are irregular.\n\nПример: “We visited London last year”; “I went home.”"
+    }
+  ],
+  "source": "curriculum_lessons",
+  "quality": "expanded_from_source_notes_needs_editorial_review",
+  "illustration": null,
+  "lesson_status": "authored_batch_16"
+}

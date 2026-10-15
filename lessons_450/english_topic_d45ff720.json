@@ -1,0 +1,39 @@
+{
+  "id": "English::Mixed conditionals",
+  "subject": "English",
+  "title": "Mixed conditionals",
+  "grade_min": 10,
+  "grade_max": 11,
+  "levels": {
+    "full": "# Mixed conditionals\n\n## Что изучаем\nMixed conditionals link an unreal condition in one time period with a consequence in another.\n\n## Разбор темы\n1. Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n2. Сопоставь структуру образца с правилом и составь своё предложение.\n3. Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n## Конкретный пример\n“If I had studied, I would be confident now.”\n\n## Как применить знание\nСначала объясни, какое правило или явление показано в примере. Затем назови признаки, по которым это можно проверить. Наконец, попробуй привести другой случай и сравнить его с исходным.\n\n## Самопроверка\nСформулируй главную мысль без подсказки. Объясни пример и укажи, какие детали важны для правильного вывода.",
+    "easy": "## Mixed conditionals: простыми словами\n\nНачни с одного знакомого случая. “If I had studied, I would be confident now.” Это помогает увидеть суть темы без лишних определений.\n\n**Как действовать:** 1) Определи, какое значение нужно выразить: время, действие, отношение или намерение. 2) Сопоставь структуру образца с правилом и составь своё предложение. 3) Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n**Пример для понимания:** “If I had studied, I would be confident now.”\n\nПопробуй объяснить этот пример другу своими словами.",
+    "short": "## Mixed conditionals: повторение\n\n**Главная мысль.** Mixed conditionals link an unreal condition in one time period with a consequence in another.\n\n**Запомни:** Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n\n**Пример:** “If I had studied, I would be confident now.”"
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Понимание",
+      "prompt": "Объясни своими словами основную идею темы «Mixed conditionals» и приведи один факт из урока.",
+      "self_check": "Mixed conditionals link an unreal condition in one time period with a consequence in another."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Работа с примером",
+      "prompt": "Как пример из урока связан с темой «Mixed conditionals»? Объясни причинно-следственную связь или правило.",
+      "self_check": "“If I had studied, I would be confident now.”"
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Разбери пример по теме «Mixed conditionals»: “If I had studied, I would be confident now.” Какие признаки или правила здесь важны?",
+      "self_check": "Основная идея: Mixed conditionals link an unreal condition in one time period with a consequence in another.\n\nПример: “If I had studied, I would be confident now.”"
+    }
+  ],
+  "source": "curriculum_lessons",
+  "quality": "expanded_from_source_notes_needs_editorial_review",
+  "illustration": null,
+  "lesson_status": "authored_batch_16"
+}

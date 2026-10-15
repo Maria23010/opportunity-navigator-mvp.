@@ -1,0 +1,39 @@
+{
+  "id": "English::Prepositions",
+  "subject": "English",
+  "title": "Prepositions",
+  "grade_min": 5,
+  "grade_max": 6,
+  "levels": {
+    "full": "# Prepositions\n\n## Что изучаем\nPrepositions show relationships of place, time, movement and more; common combinations are often learned as phrases.\n\n## Разбор темы\n1. Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n2. Сопоставь структуру образца с правилом и составь своё предложение.\n3. Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n## Конкретный пример\n“At 5 pm”, “on Monday”, “in June”.\n\n## Как применить знание\nСначала объясни, какое правило или явление показано в примере. Затем назови признаки, по которым это можно проверить. Наконец, попробуй привести другой случай и сравнить его с исходным.\n\n## Самопроверка\nСформулируй главную мысль без подсказки. Объясни пример и укажи, какие детали важны для правильного вывода.",
+    "easy": "## Prepositions: простыми словами\n\nНачни с одного знакомого случая. “At 5 pm”, “on Monday”, “in June”. Это помогает увидеть суть темы без лишних определений.\n\n**Как действовать:** 1) Определи, какое значение нужно выразить: время, действие, отношение или намерение. 2) Сопоставь структуру образца с правилом и составь своё предложение. 3) Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n**Пример для понимания:** “At 5 pm”, “on Monday”, “in June”.\n\nПопробуй объяснить этот пример другу своими словами.",
+    "short": "## Prepositions: повторение\n\n**Главная мысль.** Prepositions show relationships of place, time, movement and more; common combinations are often learned as phrases.\n\n**Запомни:** Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n\n**Пример:** “At 5 pm”, “on Monday”, “in June”."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Понимание",
+      "prompt": "Объясни своими словами основную идею темы «Prepositions» и приведи один факт из урока.",
+      "self_check": "Prepositions show relationships of place, time, movement and more; common combinations are often learned as phrases."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Работа с примером",
+      "prompt": "Как пример из урока связан с темой «Prepositions»? Объясни причинно-следственную связь или правило.",
+      "self_check": "“At 5 pm”, “on Monday”, “in June”."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Разбери пример по теме «Prepositions»: “At 5 pm”, “on Monday”, “in June”. Какие признаки или правила здесь важны?",
+      "self_check": "Основная идея: Prepositions show relationships of place, time, movement and more; common combinations are often learned as phrases.\n\nПример: “At 5 pm”, “on Monday”, “in June”."
+    }
+  ],
+  "source": "curriculum_lessons",
+  "quality": "expanded_from_source_notes_needs_editorial_review",
+  "illustration": null,
+  "lesson_status": "authored_batch_16"
+}

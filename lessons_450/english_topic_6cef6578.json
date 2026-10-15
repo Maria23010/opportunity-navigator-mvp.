@@ -1,0 +1,39 @@
+{
+  "id": "English::Much and many",
+  "subject": "English",
+  "title": "Much and many",
+  "grade_min": 5,
+  "grade_max": 6,
+  "levels": {
+    "full": "# Much and many\n\n## Что изучаем\nMany accompanies countable plurals, while much accompanies uncountable nouns; both are common in negatives and questions.\n\n## Разбор темы\n1. Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n2. Сопоставь структуру образца с правилом и составь своё предложение.\n3. Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n## Конкретный пример\n“How many books?” “How much milk?”\n\n## Как применить знание\nСначала объясни, какое правило или явление показано в примере. Затем назови признаки, по которым это можно проверить. Наконец, попробуй привести другой случай и сравнить его с исходным.\n\n## Самопроверка\nСформулируй главную мысль без подсказки. Объясни пример и укажи, какие детали важны для правильного вывода.",
+    "easy": "## Much and many: простыми словами\n\nНачни с одного знакомого случая. “How many books?” “How much milk?” Это помогает увидеть суть темы без лишних определений.\n\n**Как действовать:** 1) Определи, какое значение нужно выразить: время, действие, отношение или намерение. 2) Сопоставь структуру образца с правилом и составь своё предложение. 3) Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n**Пример для понимания:** “How many books?” “How much milk?”\n\nПопробуй объяснить этот пример другу своими словами.",
+    "short": "## Much and many: повторение\n\n**Главная мысль.** Many accompanies countable plurals, while much accompanies uncountable nouns; both are common in negatives and questions.\n\n**Запомни:** Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n\n**Пример:** “How many books?” “How much milk?”"
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Понимание",
+      "prompt": "Объясни своими словами основную идею темы «Much and many» и приведи один факт из урока.",
+      "self_check": "Many accompanies countable plurals, while much accompanies uncountable nouns; both are common in negatives and questions."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Работа с примером",
+      "prompt": "Как пример из урока связан с темой «Much and many»? Объясни причинно-следственную связь или правило.",
+      "self_check": "“How many books?” “How much milk?”"
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Разбери пример по теме «Much and many»: “How many books?” “How much milk?” Какие признаки или правила здесь важны?",
+      "self_check": "Основная идея: Many accompanies countable plurals, while much accompanies uncountable nouns; both are common in negatives and questions.\n\nПример: “How many books?” “How much milk?”"
+    }
+  ],
+  "source": "curriculum_lessons",
+  "quality": "expanded_from_source_notes_needs_editorial_review",
+  "illustration": null,
+  "lesson_status": "authored_batch_16"
+}
