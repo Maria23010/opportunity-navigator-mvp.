@@ -1,0 +1,39 @@
+{
+  "id": "English::TOEFL academic tasks",
+  "subject": "English",
+  "title": "TOEFL academic tasks",
+  "grade_min": 10,
+  "grade_max": 11,
+  "levels": {
+    "full": "# TOEFL academic tasks\n\n## Основное понятие\nTOEFL tasks assess academic English comprehension and production; use the official format for the test date.\n\n## Как применить знание\n1. Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n2. Сопоставь структуру образца с правилом и составь своё предложение.\n3. Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n## Пример для разбора\nFor an integrated task, take notes on a source before explaining its main points.\n\n## Объясни причинную связь\nРазбери приведённый пример применительно к теме «TOEFL academic tasks»: укажи, какие детали подтверждают основное правило, а какие обстоятельства нужно дополнительно проверить.\n\n## Проверка понимания\nСформулируй вывод по примеру и объясни, где нельзя делать слишком широкое обобщение.\n",
+    "easy": "# TOEFL academic tasks — понятнее\n\nTOEFL tasks assess academic English comprehension and production; use the official format for the test date.\n\n**Пример:** For an integrated task, take notes on a source before explaining its main points.\n\nПопробуй объяснить пример своими словами, используя ключевое понятие темы.",
+    "short": "# TOEFL academic tasks: повторение\n\n**Главное:** TOEFL tasks assess academic English comprehension and production; use the official format for the test date.\n\n**Опорный пример:** For an integrated task, take notes on a source before explaining its main points."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Основное понятие",
+      "prompt": "Что означает главное понятие темы «TOEFL academic tasks»? Назови его существенные признаки.",
+      "self_check": "TOEFL tasks assess academic English comprehension and production; use the official format for the test date."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Работа с примером",
+      "prompt": "Разбери ситуацию из урока: «For an integrated task, take notes on a source before explaining its main points.» Как она иллюстрирует изучаемое понятие?",
+      "self_check": "For an integrated task, take notes on a source before explaining its main points. Свяжи признаки этого случая с правилом: TOEFL tasks assess academic English comprehension and production; use the official format for the test date."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Придумай собственный случай для темы «TOEFL academic tasks» и объясни, почему он подходит.",
+      "self_check": "Проверь, что твой случай соответствует определению: TOEFL tasks assess academic English comprehension and production; use the official format for the test date."
+    }
+  ],
+  "source": "curriculum_lessons",
+  "quality": "source_note_expanded_compact",
+  "illustration": null,
+  "lesson_status": "authored_batch_18"
+}
