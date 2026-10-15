@@ -1,0 +1,39 @@
+{
+  "id": "English::Reported Speech",
+  "subject": "English",
+  "title": "Reported Speech",
+  "grade_min": 7,
+  "grade_max": 9,
+  "levels": {
+    "full": "# Reported Speech\n\n## Что нужно понять\nReported speech retells a statement; pronouns, time phrases and some verb tenses can change.\n\n## Как разбирать задания\n1. Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n2. Сопоставь структуру образца с правилом и составь своё предложение.\n3. Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n## Разобранный пример\nHe said, “I am tired” → He said he was tired.\n\n## На что обратить внимание\nСначала установи значение грамматической конструкции, затем сравни утвердительную, отрицательную и вопросительную формы. Сверяй время, вспомогательный глагол и смысл фразы.\n\n## Проверь понимание\nОбъясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий.\n\n## Итог\nПерескажи правило своими словами, объясни пример и примени тот же способ к новому случаю.",
+    "easy": "# Reported Speech — простыми словами\n\nReported speech retells a statement; pronouns, time phrases and some verb tenses can change.\n\n**Посмотри на пример:** He said, “I am tired” → He said he was tired.\n\n**Попробуй сам:** Объясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий.\n\nЕсли трудно, вернись к примеру и выдели, что именно в нём показывает правило.",
+    "short": "# Reported Speech: главное\n\nReported speech retells a statement; pronouns, time phrases and some verb tenses can change.\n\n**Пример:** He said, “I am tired” → He said he was tired.\n\n**Самопроверка:** Объясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Понимание",
+      "prompt": "Объясни главное правило или понятие темы «Reported Speech» своими словами.",
+      "self_check": "Reported speech retells a statement; pronouns, time phrases and some verb tenses can change."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Разбор примера",
+      "prompt": "Разбери пример из урока «Reported Speech»: какое правило или явление он показывает?",
+      "self_check": "He said, “I am tired” → He said he was tired.\n\nReported speech retells a statement; pronouns, time phrases and some verb tenses can change."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Придумай собственный пример по теме «Reported Speech» и объясни, как проверить его правильность.",
+      "self_check": "Ориентир: Reported speech retells a statement; pronouns, time phrases and some verb tenses can change.\n\nОбразец: He said, “I am tired” → He said he was tired."
+    }
+  ],
+  "source": "curriculum_lessons",
+  "quality": "source_based_compact_draft",
+  "lesson_status": "authored_batch_17",
+  "illustration": null
+}

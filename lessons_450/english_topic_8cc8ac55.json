@@ -1,0 +1,39 @@
+{
+  "id": "English::Present Perfect Continuous",
+  "subject": "English",
+  "title": "Present Perfect Continuous",
+  "grade_min": 7,
+  "grade_max": 9,
+  "levels": {
+    "full": "# Present Perfect Continuous\n\n## Что нужно понять\nHave/has been + verb-ing emphasizes duration of an activity extending toward the present.\n\n## Как разбирать задания\n1. Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n2. Сопоставь структуру образца с правилом и составь своё предложение.\n3. Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n## Разобранный пример\n“She has been studying for two hours.”\n\n## На что обратить внимание\nСначала установи значение грамматической конструкции, затем сравни утвердительную, отрицательную и вопросительную формы. Сверяй время, вспомогательный глагол и смысл фразы.\n\n## Проверь понимание\nОбъясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий.\n\n## Итог\nПерескажи правило своими словами, объясни пример и примени тот же способ к новому случаю.",
+    "easy": "# Present Perfect Continuous — простыми словами\n\nHave/has been + verb-ing emphasizes duration of an activity extending toward the present.\n\n**Посмотри на пример:** “She has been studying for two hours.”\n\n**Попробуй сам:** Объясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий.\n\nЕсли трудно, вернись к примеру и выдели, что именно в нём показывает правило.",
+    "short": "# Present Perfect Continuous: главное\n\nHave/has been + verb-ing emphasizes duration of an activity extending toward the present.\n\n**Пример:** “She has been studying for two hours.”\n\n**Самопроверка:** Объясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Понимание",
+      "prompt": "Объясни главное правило или понятие темы «Present Perfect Continuous» своими словами.",
+      "self_check": "Have/has been + verb-ing emphasizes duration of an activity extending toward the present."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Разбор примера",
+      "prompt": "Разбери пример из урока «Present Perfect Continuous»: какое правило или явление он показывает?",
+      "self_check": "“She has been studying for two hours.”\n\nHave/has been + verb-ing emphasizes duration of an activity extending toward the present."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Придумай собственный пример по теме «Present Perfect Continuous» и объясни, как проверить его правильность.",
+      "self_check": "Ориентир: Have/has been + verb-ing emphasizes duration of an activity extending toward the present.\n\nОбразец: “She has been studying for two hours.”"
+    }
+  ],
+  "source": "curriculum_lessons",
+  "quality": "source_based_compact_draft",
+  "lesson_status": "authored_batch_17",
+  "illustration": null
+}

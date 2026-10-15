@@ -1,0 +1,39 @@
+{
+  "id": "English::Present Perfect versus Past Simple",
+  "subject": "English",
+  "title": "Present Perfect versus Past Simple",
+  "grade_min": 7,
+  "grade_max": 9,
+  "levels": {
+    "full": "# Present Perfect versus Past Simple\n\n## Что нужно понять\nPresent Perfect focuses on present relevance or unspecified experience, Past Simple on a finished time.\n\n## Как разбирать задания\n1. Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n2. Сопоставь структуру образца с правилом и составь своё предложение.\n3. Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n## Разобранный пример\n“I have visited Rome” versus “I visited Rome in 2023”.\n\n## На что обратить внимание\nСначала установи значение грамматической конструкции, затем сравни утвердительную, отрицательную и вопросительную формы. Сверяй время, вспомогательный глагол и смысл фразы.\n\n## Проверь понимание\nОбъясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий.\n\n## Итог\nПерескажи правило своими словами, объясни пример и примени тот же способ к новому случаю.",
+    "easy": "# Present Perfect versus Past Simple — простыми словами\n\nPresent Perfect focuses on present relevance or unspecified experience, Past Simple on a finished time.\n\n**Посмотри на пример:** “I have visited Rome” versus “I visited Rome in 2023”.\n\n**Попробуй сам:** Объясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий.\n\nЕсли трудно, вернись к примеру и выдели, что именно в нём показывает правило.",
+    "short": "# Present Perfect versus Past Simple: главное\n\nPresent Perfect focuses on present relevance or unspecified experience, Past Simple on a finished time.\n\n**Пример:** “I have visited Rome” versus “I visited Rome in 2023”.\n\n**Самопроверка:** Объясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Понимание",
+      "prompt": "Объясни главное правило или понятие темы «Present Perfect versus Past Simple» своими словами.",
+      "self_check": "Present Perfect focuses on present relevance or unspecified experience, Past Simple on a finished time."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Разбор примера",
+      "prompt": "Разбери пример из урока «Present Perfect versus Past Simple»: какое правило или явление он показывает?",
+      "self_check": "“I have visited Rome” versus “I visited Rome in 2023”.\n\nPresent Perfect focuses on present relevance or unspecified experience, Past Simple on a finished time."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Придумай собственный пример по теме «Present Perfect versus Past Simple» и объясни, как проверить его правильность.",
+      "self_check": "Ориентир: Present Perfect focuses on present relevance or unspecified experience, Past Simple on a finished time.\n\nОбразец: “I have visited Rome” versus “I visited Rome in 2023”."
+    }
+  ],
+  "source": "curriculum_lessons",
+  "quality": "source_based_compact_draft",
+  "lesson_status": "authored_batch_17",
+  "illustration": null
+}

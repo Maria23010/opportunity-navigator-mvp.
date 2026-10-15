@@ -1,0 +1,39 @@
+{
+  "id": "English::Present Perfect",
+  "subject": "English",
+  "title": "Present Perfect",
+  "grade_min": 5,
+  "grade_max": 6,
+  "levels": {
+    "full": "# Present Perfect\n\n## Что нужно понять\nHave/has + past participle connects a past action or experience to the present.\n\n## Как разбирать задания\n1. Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n2. Сопоставь структуру образца с правилом и составь своё предложение.\n3. Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n## Разобранный пример\n“I have lost my key” means I do not have it now.\n\n## На что обратить внимание\nСначала установи значение грамматической конструкции, затем сравни утвердительную, отрицательную и вопросительную формы. Сверяй время, вспомогательный глагол и смысл фразы.\n\n## Проверь понимание\nОбъясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий.\n\n## Итог\nПерескажи правило своими словами, объясни пример и примени тот же способ к новому случаю.",
+    "easy": "# Present Perfect — простыми словами\n\nHave/has + past participle connects a past action or experience to the present.\n\n**Посмотри на пример:** “I have lost my key” means I do not have it now.\n\n**Попробуй сам:** Объясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий.\n\nЕсли трудно, вернись к примеру и выдели, что именно в нём показывает правило.",
+    "short": "# Present Perfect: главное\n\nHave/has + past participle connects a past action or experience to the present.\n\n**Пример:** “I have lost my key” means I do not have it now.\n\n**Самопроверка:** Объясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Понимание",
+      "prompt": "Объясни главное правило или понятие темы «Present Perfect» своими словами.",
+      "self_check": "Have/has + past participle connects a past action or experience to the present."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Разбор примера",
+      "prompt": "Разбери пример из урока «Present Perfect»: какое правило или явление он показывает?",
+      "self_check": "“I have lost my key” means I do not have it now.\n\nHave/has + past participle connects a past action or experience to the present."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Придумай собственный пример по теме «Present Perfect» и объясни, как проверить его правильность.",
+      "self_check": "Ориентир: Have/has + past participle connects a past action or experience to the present.\n\nОбразец: “I have lost my key” means I do not have it now."
+    }
+  ],
+  "source": "curriculum_lessons",
+  "quality": "source_based_compact_draft",
+  "lesson_status": "authored_batch_17",
+  "illustration": null
+}

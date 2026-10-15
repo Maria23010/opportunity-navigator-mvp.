@@ -1,0 +1,39 @@
+{
+  "id": "English::Presentation skills",
+  "subject": "English",
+  "title": "Presentation skills",
+  "grade_min": 10,
+  "grade_max": 11,
+  "levels": {
+    "full": "# Presentation skills\n\n## Что нужно понять\nA clear presentation has a message, logical sequence, examples and delivery suited to the audience.\n\n## Как разбирать задания\n1. Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n2. Сопоставь структуру образца с правилом и составь своё предложение.\n3. Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n## Разобранный пример\nStart with one key question and end with a concise takeaway.\n\n## На что обратить внимание\nСначала установи значение грамматической конструкции, затем сравни утвердительную, отрицательную и вопросительную формы. Сверяй время, вспомогательный глагол и смысл фразы.\n\n## Проверь понимание\nОбъясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий.\n\n## Итог\nПерескажи правило своими словами, объясни пример и примени тот же способ к новому случаю.",
+    "easy": "# Presentation skills — простыми словами\n\nA clear presentation has a message, logical sequence, examples and delivery suited to the audience.\n\n**Посмотри на пример:** Start with one key question and end with a concise takeaway.\n\n**Попробуй сам:** Объясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий.\n\nЕсли трудно, вернись к примеру и выдели, что именно в нём показывает правило.",
+    "short": "# Presentation skills: главное\n\nA clear presentation has a message, logical sequence, examples and delivery suited to the audience.\n\n**Пример:** Start with one key question and end with a concise takeaway.\n\n**Самопроверка:** Объясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Понимание",
+      "prompt": "Объясни главное правило или понятие темы «Presentation skills» своими словами.",
+      "self_check": "A clear presentation has a message, logical sequence, examples and delivery suited to the audience."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Разбор примера",
+      "prompt": "Разбери пример из урока «Presentation skills»: какое правило или явление он показывает?",
+      "self_check": "Start with one key question and end with a concise takeaway.\n\nA clear presentation has a message, logical sequence, examples and delivery suited to the audience."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Придумай собственный пример по теме «Presentation skills» и объясни, как проверить его правильность.",
+      "self_check": "Ориентир: A clear presentation has a message, logical sequence, examples and delivery suited to the audience.\n\nОбразец: Start with one key question and end with a concise takeaway."
+    }
+  ],
+  "source": "curriculum_lessons",
+  "quality": "source_based_compact_draft",
+  "lesson_status": "authored_batch_17",
+  "illustration": null
+}

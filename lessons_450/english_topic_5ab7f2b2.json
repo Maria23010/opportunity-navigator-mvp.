@@ -1,0 +1,39 @@
+{
+  "id": "English::Relative clauses",
+  "subject": "English",
+  "title": "Relative clauses",
+  "grade_min": 7,
+  "grade_max": 9,
+  "levels": {
+    "full": "# Relative clauses\n\n## Что нужно понять\nWho, which and that can introduce information identifying or describing a noun.\n\n## Как разбирать задания\n1. Определи, какое значение нужно выразить: время, действие, отношение или намерение.\n2. Сопоставь структуру образца с правилом и составь своё предложение.\n3. Прочитай вслух и проверь вспомогательный глагол, порядок слов и окончания.\n\n## Разобранный пример\n“The girl who won is my friend.”\n\n## На что обратить внимание\nСначала установи значение грамматической конструкции, затем сравни утвердительную, отрицательную и вопросительную формы. Сверяй время, вспомогательный глагол и смысл фразы.\n\n## Проверь понимание\nОбъясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий.\n\n## Итог\nПерескажи правило своими словами, объясни пример и примени тот же способ к новому случаю.",
+    "easy": "# Relative clauses — простыми словами\n\nWho, which and that can introduce information identifying or describing a noun.\n\n**Посмотри на пример:** “The girl who won is my friend.”\n\n**Попробуй сам:** Объясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий.\n\nЕсли трудно, вернись к примеру и выдели, что именно в нём показывает правило.",
+    "short": "# Relative clauses: главное\n\nWho, which and that can introduce information identifying or describing a noun.\n\n**Пример:** “The girl who won is my friend.”\n\n**Самопроверка:** Объясни своими словами, почему приведённый пример относится к этой теме, и попробуй придумать похожий."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Понимание",
+      "prompt": "Объясни главное правило или понятие темы «Relative clauses» своими словами.",
+      "self_check": "Who, which and that can introduce information identifying or describing a noun."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Разбор примера",
+      "prompt": "Разбери пример из урока «Relative clauses»: какое правило или явление он показывает?",
+      "self_check": "“The girl who won is my friend.”\n\nWho, which and that can introduce information identifying or describing a noun."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Придумай собственный пример по теме «Relative clauses» и объясни, как проверить его правильность.",
+      "self_check": "Ориентир: Who, which and that can introduce information identifying or describing a noun.\n\nОбразец: “The girl who won is my friend.”"
+    }
+  ],
+  "source": "curriculum_lessons",
+  "quality": "source_based_compact_draft",
+  "lesson_status": "authored_batch_17",
+  "illustration": null
+}
