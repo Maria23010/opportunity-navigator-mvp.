@@ -1,0 +1,45 @@
+{
+  "id": "English::There is and there are",
+  "subject": "English",
+  "title": "There is and there are",
+  "grade_min": 1,
+  "grade_max": 4,
+  "levels": {
+    "full": "# There is and there are\n\n## What you will learn\nThere is introduces one thing or an uncountable amount; there are introduces several things. Use is there/are there for questions.\n\n## Example in context\nThere is a cat under the table. There are two cats outside.\n\n## How to use it\nRead the example aloud. Identify the rule, then make a new sentence with your own words. Check word order and spelling.\n\n## Common mistake\nDo not use there is with a plural count noun in standard school English.\n\n## Practice and reflection\nComplete: There ___ five books on the shelf.\n**Model answer:** are\n\nTry changing one word in the example without breaking the rule.",
+    "easy": "## In simple words\nThere is introduces one thing or an uncountable amount; there are introduces several things. Use is there/are there for questions.\n\n**Remember this example:** There is a cat under the table. There are two cats outside.\n\n**Be careful:** Do not use there is with a plural count noun in standard school English.",
+    "short": "## Quick review\nThere is introduces one thing or an uncountable amount; there are introduces several things. Use is there/are there for questions.\n\n**Example:** There is a cat under the table. There are two cats outside.\n\n**Check:** Complete: There ___ five books on the shelf. — are"
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Complete: There ___ five books on the shelf.",
+      "answer": "are",
+      "explanation": "are",
+      "self_check": "are"
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Explain the key rule of “There is and there are” in your own words.",
+      "answer": "There is introduces one thing or an uncountable amount; there are introduces several things. Use is there/are there for questions.",
+      "explanation": "There is introduces one thing or an uncountable amount; there are introduces several things. Use is there/are there for questions.",
+      "self_check": "There is introduces one thing or an uncountable amount; there are introduces several things. Use is there/are there for questions."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Find and explain a common mistake when studying “There is and there are”.",
+      "answer": "Do not use there is with a plural count noun in standard school English.",
+      "explanation": "Do not use there is with a plural count noun in standard school English.",
+      "self_check": "Do not use there is with a plural count noun in standard school English."
+    }
+  ],
+  "illustration": null,
+  "source": "authored_curriculum_batch12",
+  "quality": "compact_subject_specific_draft",
+  "lesson_status": "authored_batch_12"
+}

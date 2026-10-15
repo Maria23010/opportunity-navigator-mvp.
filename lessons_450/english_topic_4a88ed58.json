@@ -1,0 +1,45 @@
+{
+  "id": "English::Numbers and colours",
+  "subject": "English",
+  "title": "Numbers and colours",
+  "grade_min": 1,
+  "grade_max": 4,
+  "levels": {
+    "full": "# Numbers and colours\n\n## What you will learn\nNumbers name quantities; colour adjectives describe objects. In English, a colour usually comes before a noun.\n\n## Example in context\nI have three blue pencils. Three is the number; blue is the colour.\n\n## How to use it\nRead the example aloud. Identify the rule, then make a new sentence with your own words. Check word order and spelling.\n\n## Common mistake\nDo not add plural -s to the adjective: blue pencils, not blues pencils.\n\n## Practice and reflection\nTranslate: «У меня две красные книги».\n**Model answer:** I have two red books.\n\nTry changing one word in the example without breaking the rule.",
+    "easy": "## In simple words\nNumbers name quantities; colour adjectives describe objects. In English, a colour usually comes before a noun.\n\n**Remember this example:** I have three blue pencils. Three is the number; blue is the colour.\n\n**Be careful:** Do not add plural -s to the adjective: blue pencils, not blues pencils.",
+    "short": "## Quick review\nNumbers name quantities; colour adjectives describe objects. In English, a colour usually comes before a noun.\n\n**Example:** I have three blue pencils. Three is the number; blue is the colour.\n\n**Check:** Translate: «У меня две красные книги». — I have two red books."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Translate: «У меня две красные книги».",
+      "answer": "I have two red books.",
+      "explanation": "I have two red books.",
+      "self_check": "I have two red books."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Explain the key rule of “Numbers and colours” in your own words.",
+      "answer": "Numbers name quantities; colour adjectives describe objects. In English, a colour usually comes before a noun.",
+      "explanation": "Numbers name quantities; colour adjectives describe objects. In English, a colour usually comes before a noun.",
+      "self_check": "Numbers name quantities; colour adjectives describe objects. In English, a colour usually comes before a noun."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Find and explain a common mistake when studying “Numbers and colours”.",
+      "answer": "Do not add plural -s to the adjective: blue pencils, not blues pencils.",
+      "explanation": "Do not add plural -s to the adjective: blue pencils, not blues pencils.",
+      "self_check": "Do not add plural -s to the adjective: blue pencils, not blues pencils."
+    }
+  ],
+  "illustration": null,
+  "source": "authored_curriculum_batch12",
+  "quality": "compact_subject_specific_draft",
+  "lesson_status": "authored_batch_12"
+}

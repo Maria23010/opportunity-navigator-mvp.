@@ -1,0 +1,45 @@
+{
+  "id": "English::Articles a and an",
+  "subject": "English",
+  "title": "Articles a and an",
+  "grade_min": 1,
+  "grade_max": 4,
+  "levels": {
+    "full": "# Articles a and an\n\n## What you will learn\nA and an introduce one nonspecific countable thing. Choose an before a vowel sound and a before a consonant sound.\n\n## Example in context\nan apple, an hour, a book, a university.\n\n## How to use it\nRead the example aloud. Identify the rule, then make a new sentence with your own words. Check word order and spelling.\n\n## Common mistake\nChoose by sound, not just spelling: a university begins with a /y/ sound.\n\n## Practice and reflection\nFill in: ___ orange and ___ banana.\n**Model answer:** an orange and a banana.\n\nTry changing one word in the example without breaking the rule.",
+    "easy": "## In simple words\nA and an introduce one nonspecific countable thing. Choose an before a vowel sound and a before a consonant sound.\n\n**Remember this example:** an apple, an hour, a book, a university.\n\n**Be careful:** Choose by sound, not just spelling: a university begins with a /y/ sound.",
+    "short": "## Quick review\nA and an introduce one nonspecific countable thing. Choose an before a vowel sound and a before a consonant sound.\n\n**Example:** an apple, an hour, a book, a university.\n\n**Check:** Fill in: ___ orange and ___ banana. — an orange and a banana."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Fill in: ___ orange and ___ banana.",
+      "answer": "an orange and a banana.",
+      "explanation": "an orange and a banana.",
+      "self_check": "an orange and a banana."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Explain the key rule of “Articles a and an” in your own words.",
+      "answer": "A and an introduce one nonspecific countable thing. Choose an before a vowel sound and a before a consonant sound.",
+      "explanation": "A and an introduce one nonspecific countable thing. Choose an before a vowel sound and a before a consonant sound.",
+      "self_check": "A and an introduce one nonspecific countable thing. Choose an before a vowel sound and a before a consonant sound."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Find and explain a common mistake when studying “Articles a and an”.",
+      "answer": "Choose by sound, not just spelling: a university begins with a /y/ sound.",
+      "explanation": "Choose by sound, not just spelling: a university begins with a /y/ sound.",
+      "self_check": "Choose by sound, not just spelling: a university begins with a /y/ sound."
+    }
+  ],
+  "illustration": null,
+  "source": "authored_curriculum_batch12",
+  "quality": "compact_subject_specific_draft",
+  "lesson_status": "authored_batch_12"
+}

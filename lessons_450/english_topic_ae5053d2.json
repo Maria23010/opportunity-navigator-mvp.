@@ -1,0 +1,45 @@
+{
+  "id": "English::School vocabulary",
+  "subject": "English",
+  "title": "School vocabulary",
+  "grade_min": 1,
+  "grade_max": 4,
+  "levels": {
+    "full": "# School vocabulary\n\n## What you will learn\nClassroom words include teacher, student, desk, board, notebook and lesson. Use a/an for one countable object.\n\n## Example in context\nThere is a notebook on my desk. Our teacher writes on the board.\n\n## How to use it\nRead the example aloud. Identify the rule, then make a new sentence with your own words. Check word order and spelling.\n\n## Common mistake\nA notebook is singular; notebooks is plural.\n\n## Practice and reflection\nComplete: There is ___ desk in the classroom.\n**Model answer:** a\n\nTry changing one word in the example without breaking the rule.",
+    "easy": "## In simple words\nClassroom words include teacher, student, desk, board, notebook and lesson. Use a/an for one countable object.\n\n**Remember this example:** There is a notebook on my desk. Our teacher writes on the board.\n\n**Be careful:** A notebook is singular; notebooks is plural.",
+    "short": "## Quick review\nClassroom words include teacher, student, desk, board, notebook and lesson. Use a/an for one countable object.\n\n**Example:** There is a notebook on my desk. Our teacher writes on the board.\n\n**Check:** Complete: There is ___ desk in the classroom. — a"
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Complete: There is ___ desk in the classroom.",
+      "answer": "a",
+      "explanation": "a",
+      "self_check": "a"
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Explain the key rule of “School vocabulary” in your own words.",
+      "answer": "Classroom words include teacher, student, desk, board, notebook and lesson. Use a/an for one countable object.",
+      "explanation": "Classroom words include teacher, student, desk, board, notebook and lesson. Use a/an for one countable object.",
+      "self_check": "Classroom words include teacher, student, desk, board, notebook and lesson. Use a/an for one countable object."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Find and explain a common mistake when studying “School vocabulary”.",
+      "answer": "A notebook is singular; notebooks is plural.",
+      "explanation": "A notebook is singular; notebooks is plural.",
+      "self_check": "A notebook is singular; notebooks is plural."
+    }
+  ],
+  "illustration": null,
+  "source": "authored_curriculum_batch12",
+  "quality": "compact_subject_specific_draft",
+  "lesson_status": "authored_batch_12"
+}

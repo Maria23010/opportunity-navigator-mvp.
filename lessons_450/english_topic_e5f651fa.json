@@ -1,0 +1,45 @@
+{
+  "id": "English::Pronouns",
+  "subject": "English",
+  "title": "Pronouns",
+  "grade_min": 1,
+  "grade_max": 4,
+  "levels": {
+    "full": "# Pronouns\n\n## What you will learn\nSubject pronouns replace the subject: I, you, he, she, it, we, they. Object pronouns receive an action: me, you, him, her, it, us, them.\n\n## Example in context\nMaria knows Tom. She knows him.\n\n## How to use it\nRead the example aloud. Identify the rule, then make a new sentence with your own words. Check word order and spelling.\n\n## Common mistake\nUse he as a subject and him as an object.\n\n## Practice and reflection\nReplace names: Anna sees Mark → ___ sees ___.\n**Model answer:** She sees him.\n\nTry changing one word in the example without breaking the rule.",
+    "easy": "## In simple words\nSubject pronouns replace the subject: I, you, he, she, it, we, they. Object pronouns receive an action: me, you, him, her, it, us, them.\n\n**Remember this example:** Maria knows Tom. She knows him.\n\n**Be careful:** Use he as a subject and him as an object.",
+    "short": "## Quick review\nSubject pronouns replace the subject: I, you, he, she, it, we, they. Object pronouns receive an action: me, you, him, her, it, us, them.\n\n**Example:** Maria knows Tom. She knows him.\n\n**Check:** Replace names: Anna sees Mark → ___ sees ___. — She sees him."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Replace names: Anna sees Mark → ___ sees ___.",
+      "answer": "She sees him.",
+      "explanation": "She sees him.",
+      "self_check": "She sees him."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Explain the key rule of “Pronouns” in your own words.",
+      "answer": "Subject pronouns replace the subject: I, you, he, she, it, we, they. Object pronouns receive an action: me, you, him, her, it, us, them.",
+      "explanation": "Subject pronouns replace the subject: I, you, he, she, it, we, they. Object pronouns receive an action: me, you, him, her, it, us, them.",
+      "self_check": "Subject pronouns replace the subject: I, you, he, she, it, we, they. Object pronouns receive an action: me, you, him, her, it, us, them."
+    },
+    {
+      "id": "03",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "Find and explain a common mistake when studying “Pronouns”.",
+      "answer": "Use he as a subject and him as an object.",
+      "explanation": "Use he as a subject and him as an object.",
+      "self_check": "Use he as a subject and him as an object."
+    }
+  ],
+  "illustration": null,
+  "source": "authored_curriculum_batch12",
+  "quality": "compact_subject_specific_draft",
+  "lesson_status": "authored_batch_12"
+}
