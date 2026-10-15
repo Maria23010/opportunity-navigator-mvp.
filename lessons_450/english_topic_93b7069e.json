@@ -1,0 +1,36 @@
+{
+  "id": "English::Alphabet and sounds",
+  "subject": "English",
+  "title": "Alphabet and sounds",
+  "grade_min": 1,
+  "grade_max": 4,
+  "levels": {
+    "full": "# Alphabet and sounds\n\n## Главная идея\nThe English alphabet has 26 letters, but English spelling uses more than 26 speech sounds. A letter name is not always the sound it represents. Vowels include A, E, I, O, U; Y can also represent a vowel sound.\n\n## Как применять\nСначала определи, какие величины, участники или правила упоминаются в задаче. Затем запиши исходные данные, выбери подходящий способ решения и проверь, соответствует ли ответ условию.\n\n## Разобранный пример\nThe letter A is pronounced differently in cat /kæt/ and name /neɪm/. Spell CAT as C-A-T; say each letter name separately.\n\n## На что обратить внимание\nDo not assume one letter always corresponds to one sound; sh in ship represents one consonant sound.\n\n## Самостоятельная проверка\nHow many letters are in the English alphabet?\n\n**Ответ и объяснение:** 26.\n\n## Задание для закрепления\nSpell your first name aloud using English letter names.\n",
+    "easy": "# Alphabet and sounds: простыми словами\n\nThe English alphabet has 26 letters, but English spelling uses more than 26 speech sounds. A letter name is not always the sound it represents. Vowels include A, E, I, O, U; Y can also represent a vowel sound.\n\nПосмотри на пример: The letter A is pronounced differently in cat /kæt/ and name /neɪm/. Spell CAT as C-A-T; say each letter name separately.\n\nВажно помнить: Do not assume one letter always corresponds to one sound; sh in ship represents one consonant sound.",
+    "short": "# Alphabet and sounds: кратко\n\n- The English alphabet has 26 letters, but English spelling uses more than 26 speech sounds. A letter name is not always the sound it represents. Vowels include A, E, I, O, U; Y can also represent a vowel sound.\n- Пример: The letter A is pronounced differently in cat /kæt/ and name /neɪm/. Spell CAT as C-A-T; say each letter name separately.\n- Частая ошибка: Do not assume one letter always corresponds to one sound; sh in ship represents one consonant sound."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "How many letters are in the English alphabet?",
+      "answer": "26.",
+      "explanation": "26.",
+      "self_check": "26."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Spell your first name aloud using English letter names.",
+      "answer": "Проверь рассуждение по правилу из урока. The English alphabet has 26 letters, but English spelling uses more than 26 speech sounds. A letter name is not always the sound it represents. Vowels include A, E, I, O, U; Y can also represent a vowel sound.",
+      "explanation": "Сверь шаги с разобранным примером: The letter A is pronounced differently in cat /kæt/ and name /neɪm/. Spell CAT as C-A-T; say each letter name separately.",
+      "self_check": "Сверь шаги с разобранным примером: The letter A is pronounced differently in cat /kæt/ and name /neɪm/. Spell CAT as C-A-T; say each letter name separately."
+    }
+  ],
+  "illustration": null,
+  "source": "authored_batch_11",
+  "quality": "subject_specific_draft",
+  "lesson_status": "authored_batch_11"
+}

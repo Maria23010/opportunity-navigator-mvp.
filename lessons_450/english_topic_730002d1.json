@@ -1,0 +1,36 @@
+{
+  "id": "English::Basic greetings",
+  "subject": "English",
+  "title": "Basic greetings",
+  "grade_min": 1,
+  "grade_max": 4,
+  "levels": {
+    "full": "# Basic greetings\n\n## Главная идея\nGreetings change with the situation. Hello and Hi are common; Good morning is used earlier in the day, Good evening later. To introduce yourself, say My name is ... or I am ... .\n\n## Как применять\nСначала определи, какие величины, участники или правила упоминаются в задаче. Затем запиши исходные данные, выбери подходящий способ решения и проверь, соответствует ли ответ условию.\n\n## Разобранный пример\nA: Hello! My name is Sam. What is your name? B: Hi, I’m Alex. Nice to meet you! A: Nice to meet you too.\n\n## На что обратить внимание\nGood night is usually said when leaving or going to sleep, not as a standard greeting on arrival.\n\n## Самостоятельная проверка\nWhat can you say when meeting someone for the first time?\n\n**Ответ и объяснение:** Hello! My name is ... Nice to meet you.\n\n## Задание для закрепления\nWrite a four-line dialogue with a greeting, names and a polite goodbye.\n",
+    "easy": "# Basic greetings: простыми словами\n\nGreetings change with the situation. Hello and Hi are common; Good morning is used earlier in the day, Good evening later. To introduce yourself, say My name is ... or I am ... .\n\nПосмотри на пример: A: Hello! My name is Sam. What is your name? B: Hi, I’m Alex. Nice to meet you! A: Nice to meet you too.\n\nВажно помнить: Good night is usually said when leaving or going to sleep, not as a standard greeting on arrival.",
+    "short": "# Basic greetings: кратко\n\n- Greetings change with the situation. Hello and Hi are common; Good morning is used earlier in the day, Good evening later. To introduce yourself, say My name is ... or I am ... .\n- Пример: A: Hello! My name is Sam. What is your name? B: Hi, I’m Alex. Nice to meet you! A: Nice to meet you too.\n- Частая ошибка: Good night is usually said when leaving or going to sleep, not as a standard greeting on arrival."
+  },
+  "tasks": [
+    {
+      "id": "01",
+      "type": "open",
+      "category": "Проверка понимания",
+      "prompt": "What can you say when meeting someone for the first time?",
+      "answer": "Hello! My name is ... Nice to meet you.",
+      "explanation": "Hello! My name is ... Nice to meet you.",
+      "self_check": "Hello! My name is ... Nice to meet you."
+    },
+    {
+      "id": "02",
+      "type": "open",
+      "category": "Применение",
+      "prompt": "Write a four-line dialogue with a greeting, names and a polite goodbye.",
+      "answer": "Проверь рассуждение по правилу из урока. Greetings change with the situation. Hello and Hi are common; Good morning is used earlier in the day, Good evening later. To introduce yourself, say My name is ... or I am ... .",
+      "explanation": "Сверь шаги с разобранным примером: A: Hello! My name is Sam. What is your name? B: Hi, I’m Alex. Nice to meet you! A: Nice to meet you too.",
+      "self_check": "Сверь шаги с разобранным примером: A: Hello! My name is Sam. What is your name? B: Hi, I’m Alex. Nice to meet you! A: Nice to meet you too."
+    }
+  ],
+  "illustration": null,
+  "source": "authored_batch_11",
+  "quality": "subject_specific_draft",
+  "lesson_status": "authored_batch_11"
+}
